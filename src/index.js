@@ -8,7 +8,7 @@ import {
     map_async,
 } from './fetch/index.js';
 import { parse_report_basic, parse_summary_basic } from './parse/index.js';
-import { write_log } from './write/index.js';
+import { write_log, write_full_log } from './write/index.js';
 
 const fetchAll = process.argv.slice(2).includes('fetch-all');
 
@@ -73,12 +73,22 @@ export async function write_reports(
 
     if (fetchAll) {
         urls = all_urls;
+        await write_full_log(
+            log_path,
+            page_urls.length,
+            all_urls.length,
+            urls.length
+        );
     } else {
         const seen_urls = new Set(reports.map((report) => report.report_url));
         urls = all_urls.filter((url) => !seen_urls.has(url));
+        await write_log(
+            log_path,
+            page_urls.length,
+            all_urls.length,
+            urls.length
+        );
     }
-
-    await write_log(log_path, page_urls.length, all_urls.length, urls.length);
 
     if (urls.length === 0) return console.log('Reports up to date!');
     let new_reports = await map_async(
@@ -86,10 +96,7 @@ export async function write_reports(
         (url) =>
             fetch_report(url, parse_report, parse_summary)
                 .then((report) => [report, correct_report(report)])
-                .catch((_) => {
-                    // ignore any errors from this, we'll either get it next time
-                    // or this report can't be effectively read at all
-                }),
+                .catch((_) => {}),
         'Reading reports |:bar| :current/:total urls'
     );
     new_reports = new_reports.filter((report) => report !== undefined);
@@ -138,7 +145,7 @@ write_reports(
     'https://www.judiciary.uk/prevention-of-future-death-reports/',
     'src/data/reports.csv',
     'src/data/reports-corrected.csv',
-    'src/data/latest.log',
+    fetchAll ? 'src/data/full_fetch.log' : 'src/data/latest.log',
     headers,
     parse_report_basic,
     parse_summary_basic
