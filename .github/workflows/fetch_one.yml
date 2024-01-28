@@ -65,4 +65,4 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: "chore: fetch latest reports"
-        file_pattern: '**/*.csv **/latest.log **/full_fetch.log **/*.toml'
+        file_pattern: '**/*.csv **/latest.log **/*.toml'
