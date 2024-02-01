@@ -47,8 +47,6 @@ jobs:
       run: pip install -r src/analyse/counts/requirements.txt
 
     - name: Run Analyses
-      run: npm run analyse:counts
-    - name: Run Analyses
       run: npm run analyse:areas
     - name: Run Analyses
       run: npm run analyse:names

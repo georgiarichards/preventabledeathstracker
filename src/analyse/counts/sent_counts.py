@@ -126,9 +126,12 @@ print(reports["response status"].value_counts())
 # ### Calculating response status over time
 
 status_years = reports.assign(year=report_date.dt.year).value_counts(["year", "response status"]).unstack(fill_value=0)
+
+failed_index = True
 try:
     status_years = status_years[["no requests", "failed", "pending", "overdue", "partial", "completed"]]
 except KeyError:
+    failed_index = False
     status_years = status_years[["no requests", "pending", "overdue", "partial", "completed"]]
 
 # %% [markdown]
@@ -156,7 +159,7 @@ area_statuses = reports.value_counts(["coroner_area", "response status"]).unstac
 area_statuses.loc[:, ["no. recipients", "no. replies"]] = reports.groupby("coroner_area")[
     ["no. recipients", "no. replies"]
 ].sum()
-try:
+if failed_index:
     area_statuses = area_statuses.rename(
         {
             "completed": "no. complete responses",
@@ -167,7 +170,7 @@ try:
         },
         axis=1,
     )
-except KeyError:
+else:
     area_statuses = area_statuses.rename(
         {
             "completed": "no. complete responses",
@@ -179,7 +182,7 @@ except KeyError:
     )
 area_statuses["no. PFDs"] = reports["coroner_area"].value_counts()
 area_statuses = area_statuses.sort_values("no. PFDs", ascending=False)
-try:
+if failed_index:
     area_statuses = area_statuses[
         [
             "no. PFDs",
@@ -192,7 +195,7 @@ try:
             "no. failed parses",
         ]
     ]
-except KeyError:
+else:
     area_statuses = area_statuses[
         [
             "no. PFDs",
@@ -212,7 +215,8 @@ name_statuses = reports.value_counts(["coroner_name", "response status"]).unstac
 name_statuses.loc[:, ["no. recipients", "no. replies"]] = reports.groupby("coroner_name")[
     ["no. recipients", "no. replies"]
 ].sum()
-try:
+
+if failed_index:
     name_statuses = name_statuses.rename(
         {
             "completed": "no. complete responses",
@@ -223,7 +227,7 @@ try:
         },
         axis=1,
     )
-except KeyError:
+else:
     name_statuses = name_statuses.rename(
         {
             "completed": "no. complete responses",
@@ -236,7 +240,7 @@ except KeyError:
 
 name_statuses["no. PFDs"] = reports["coroner_name"].value_counts()
 name_statuses = name_statuses.sort_values("no. PFDs", ascending=False)
-try:
+if failed_index:
     name_statuses = name_statuses[
         [
             "no. PFDs",
@@ -249,7 +253,7 @@ try:
             "no. failed parses",
         ]
     ]
-except KeyError:
+else:
     name_statuses = name_statuses[
         [
             "no. PFDs",
@@ -265,9 +269,19 @@ except KeyError:
 # %% [markdown]
 # ### Calculating statistics over recipients
 
-exploded = reports.assign(sent_to=reports["this_report_is_being_sent_to"].str.split(vbar)).explode(
+# exploded = reports.assign(sent_to=reports["this_report_is_being_sent_to"].str.split(vbar)).explode(
+#     "sent_to", ignore_index=True
+# )
+
+columns_to_check_duplicates = ['report_url']
+
+exploded = exploded.drop_duplicates(subset=columns_to_check_duplicates, keep='first')
+
+
+exploded = exploded.assign(sent_to=exploded["this_report_is_being_sent_to"].str.split(vbar)).explode(
     "sent_to", ignore_index=True
 )
+
 rcpt_statuses = exploded.value_counts(["sent_to", "response status"]).unstack(fill_value=0)
 rcpt_statuses.loc[:, ["no. recipients", "no. replies"]] = exploded.groupby("sent_to")[
     ["no. recipients", "no. replies"]
@@ -332,6 +346,8 @@ print(f"Sorted counts: {sent_counts}")
 top_counts = sent_counts.head(TOP_N)
 top_types = sent_types.loc[top_counts.index]
 
+# %% [markdown]
+# ### Create statistics with statuses
 statuses = exploded.copy()
 
 statuses.rename(columns={'response status': 'Status',
@@ -340,17 +356,23 @@ statuses.rename(columns={'response status': 'Status',
                          'coroner_name': 'Coroner name',
                          'category': 'Category',
                          'coroner_area': 'Coroner area',
-                         'this_report_is_being_sent_to': 'This report is being sent to',
                          'report_url': 'Report URL',
-                         'no. replies': 'Replies count'},
+                         'no. replies': 'Replies count',
+                         'sent_to': 'Send to'},
                 inplace=True)
 
 columns_to_drop = ['coroner_title', 'no. recipients', 'pdf_url', 'reply_urls',
-                   'circumstances', 'concerns', 'inquest', 'action', 'response', 'legal', 'sent_to']
+                   'circumstances', 'concerns', 'inquest', 'action', 'response',
+                   'legal', 'this_report_is_being_sent_to', 'escaped_urls', 'replies',
+                   'status', 'year']
+
 statuses.drop(columns=columns_to_drop, inplace=True)
 
 statuses['Status'] = statuses['Status'].replace({'no requests': 'no data', 'failed': 'error'})
+
 statuses['Status'] = statuses['Status'].apply(create_badge)
+
+
 
 # %% [markdown]
 # ### Saving the results
