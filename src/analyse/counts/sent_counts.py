@@ -12,6 +12,7 @@ import re
 import pandas as pd
 from helpers import percent, toml_stats
 from create_badge import create_badge
+from create_button import create_button
 
 TOP_N = 30
 
@@ -371,6 +372,10 @@ statuses.drop(columns=columns_to_drop, inplace=True)
 statuses['Status'] = statuses['Status'].replace({'no requests': 'no data', 'failed': 'error'})
 
 statuses['Status'] = statuses['Status'].apply(create_badge)
+statuses['Report URL'] = statuses['Report URL'].apply(create_button)
+new_order = ['Status', 'Date of report', 'Deceased name', 'Coroner name', 'Coroner area', 'Category',
+'Send to', 'Replies count', 'Report URL']
+statuses = statuses[new_order]
 
 
 
