@@ -102,7 +102,7 @@ all_responses = with_responses.str.len() >= non_na["sent_to"].str.len()
 non_na.loc[all_responses, "response status"] = "completed"
 
 # if a report is pending or overdue and less than 56 days old, mark pending
-non_na.loc[~report_due & (non_na["response status"] == "overdue"), "response status"] = "pending"
+non_na.loc[~report_due & (non_na["response status"] == "overdue"), "response status"] = "overdue"
 non_na.loc[~report_due & (non_na["response status"] == "partial"), "response status"] = "pending"
 
 # %% [markdown]
@@ -126,7 +126,10 @@ print(reports["response status"].value_counts())
 # ### Calculating response status over time
 
 status_years = reports.assign(year=report_date.dt.year).value_counts(["year", "response status"]).unstack(fill_value=0)
-status_years = status_years[["no requests", "failed", "pending", "overdue", "partial", "completed"]]
+try:
+    status_years = status_years[["no requests", "failed", "pending", "overdue", "partial", "completed"]]
+except KeyError:
+    status_years = status_years[["no requests", "pending", "overdue", "partial", "completed"]]
 
 # %% [markdown]
 # ### Writing back the reports with the status
@@ -153,30 +156,54 @@ area_statuses = reports.value_counts(["coroner_area", "response status"]).unstac
 area_statuses.loc[:, ["no. recipients", "no. replies"]] = reports.groupby("coroner_area")[
     ["no. recipients", "no. replies"]
 ].sum()
-area_statuses = area_statuses.rename(
-    {
-        "completed": "no. complete responses",
-        "partial": "no. partial responses",
-        "overdue": "no. overdue responses",
-        "failed": "no. failed parses",
-        "pending": "no. pending responses",
-    },
-    axis=1,
-)
+try:
+    area_statuses = area_statuses.rename(
+        {
+            "completed": "no. complete responses",
+            "partial": "no. partial responses",
+            "overdue": "no. overdue responses",
+            "failed": "no. failed parses",
+            "pending": "no. pending responses",
+        },
+        axis=1,
+    )
+except KeyError:
+    area_statuses = area_statuses.rename(
+        {
+            "completed": "no. complete responses",
+            "partial": "no. partial responses",
+            "overdue": "no. overdue responses",
+            "pending": "no. pending responses",
+        },
+        axis=1,
+    )
 area_statuses["no. PFDs"] = reports["coroner_area"].value_counts()
 area_statuses = area_statuses.sort_values("no. PFDs", ascending=False)
-area_statuses = area_statuses[
-    [
-        "no. PFDs",
-        "no. recipients",
-        "no. replies",
-        "no. complete responses",
-        "no. partial responses",
-        "no. overdue responses",
-        "no. pending responses",
-        "no. failed parses",
+try:
+    area_statuses = area_statuses[
+        [
+            "no. PFDs",
+            "no. recipients",
+            "no. replies",
+            "no. complete responses",
+            "no. partial responses",
+            "no. overdue responses",
+            "no. pending responses",
+            "no. failed parses",
+        ]
     ]
-]
+except KeyError:
+    area_statuses = area_statuses[
+        [
+            "no. PFDs",
+            "no. recipients",
+            "no. replies",
+            "no. complete responses",
+            "no. partial responses",
+            "no. overdue responses",
+            "no. pending responses",
+        ]
+    ]
 
 # %% [markdown]
 # ### Calculating statistics over coroner names
@@ -185,30 +212,55 @@ name_statuses = reports.value_counts(["coroner_name", "response status"]).unstac
 name_statuses.loc[:, ["no. recipients", "no. replies"]] = reports.groupby("coroner_name")[
     ["no. recipients", "no. replies"]
 ].sum()
-name_statuses = name_statuses.rename(
-    {
-        "completed": "no. complete responses",
-        "partial": "no. partial responses",
-        "overdue": "no. overdue responses",
-        "failed": "no. failed parses",
-        "pending": "no. pending responses",
-    },
-    axis=1,
-)
+try:
+    name_statuses = name_statuses.rename(
+        {
+            "completed": "no. complete responses",
+            "partial": "no. partial responses",
+            "overdue": "no. overdue responses",
+            "failed": "no. failed parses",
+            "pending": "no. pending responses",
+        },
+        axis=1,
+    )
+except KeyError:
+    name_statuses = name_statuses.rename(
+        {
+            "completed": "no. complete responses",
+            "partial": "no. partial responses",
+            "overdue": "no. overdue responses",
+            "pending": "no. pending responses",
+        },
+        axis=1,
+    )
+
 name_statuses["no. PFDs"] = reports["coroner_name"].value_counts()
 name_statuses = name_statuses.sort_values("no. PFDs", ascending=False)
-name_statuses = name_statuses[
-    [
-        "no. PFDs",
-        "no. recipients",
-        "no. replies",
-        "no. complete responses",
-        "no. partial responses",
-        "no. overdue responses",
-        "no. pending responses",
-        "no. failed parses",
+try:
+    name_statuses = name_statuses[
+        [
+            "no. PFDs",
+            "no. recipients",
+            "no. replies",
+            "no. complete responses",
+            "no. partial responses",
+            "no. overdue responses",
+            "no. pending responses",
+            "no. failed parses",
+        ]
     ]
-]
+except KeyError:
+    name_statuses = name_statuses[
+        [
+            "no. PFDs",
+            "no. recipients",
+            "no. replies",
+            "no. complete responses",
+            "no. partial responses",
+            "no. overdue responses",
+            "no. pending responses",
+        ]
+    ]
 
 # %% [markdown]
 # ### Calculating statistics over recipients
@@ -289,10 +341,11 @@ statuses.rename(columns={'response status': 'Status',
                          'category': 'Category',
                          'coroner_area': 'Coroner area',
                          'this_report_is_being_sent_to': 'This report is being sent to',
-                         'report_url': 'Report URL'},
+                         'report_url': 'Report URL',
+                         'no. replies': 'Replies count'},
                 inplace=True)
 
-columns_to_drop = ['coroner_title', 'no. recipients', 'no. replies', 'pdf_url', 'reply_urls',
+columns_to_drop = ['coroner_title', 'no. recipients', 'pdf_url', 'reply_urls',
                    'circumstances', 'concerns', 'inquest', 'action', 'response', 'legal', 'sent_to']
 statuses.drop(columns=columns_to_drop, inplace=True)
 

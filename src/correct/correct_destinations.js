@@ -143,7 +143,6 @@ export default async function Corrector(keep_failed = true) {
     // if there's no connectives or punctuation, we can just return the text
     if (!text.match(/[,]/) && !text.match(connective_words)) {
       const known_match = try_known_match(text)
-      if (text === "HMPS") console.log(known_match)
       if (known_match) return known_match
       add_to_known(text)
       return text
