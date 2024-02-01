@@ -11,6 +11,7 @@ import re
 
 import pandas as pd
 from helpers import percent, toml_stats
+from create_badge import create_badge
 
 TOP_N = 30
 
@@ -279,6 +280,25 @@ print(f"Sorted counts: {sent_counts}")
 top_counts = sent_counts.head(TOP_N)
 top_types = sent_types.loc[top_counts.index]
 
+statuses = exploded.copy()
+
+statuses.rename(columns={'response status': 'Status',
+                         'date_of_report': 'Date of report',
+                         'deceased_name': 'Deceased name',
+                         'coroner_name': 'Coroner name',
+                         'category': 'Category',
+                         'coroner_area': 'Coroner area',
+                         'this_report_is_being_sent_to': 'This report is being sent to',
+                         'report_url': 'Report URL'},
+                inplace=True)
+
+columns_to_drop = ['coroner_title', 'no. recipients', 'no. replies', 'pdf_url', 'reply_urls',
+                   'circumstances', 'concerns', 'inquest', 'action', 'response', 'legal', 'sent_to']
+statuses.drop(columns=columns_to_drop, inplace=True)
+
+statuses['Status'] = statuses['Status'].replace({'no requests': 'no data', 'failed': 'error'})
+statuses['Status'] = statuses['Status'].apply(create_badge)
+
 # %% [markdown]
 # ### Saving the results
 
@@ -289,6 +309,7 @@ top_types.to_csv(f"{DATA_PATH}/sent/top-sent-types.csv")
 sent_years.to_csv(f"{DATA_PATH}/sent/sent-types-years.csv")
 status_years.to_csv(f"{DATA_PATH}/sent/status-years.csv")
 exploded.to_csv(f"{DATA_PATH}/sent/statuses.csv", index=False)
+statuses.to_csv(f"{DATA_PATH}/sent/db_with_statuses.csv", index=False)
 
 area_statuses.to_csv(f"{DATA_PATH}/sent/area-statuses.csv")
 name_statuses.to_csv(f"{DATA_PATH}/sent/name-statuses.csv")

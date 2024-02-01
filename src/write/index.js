@@ -29,6 +29,6 @@ export async function write_full_log(
         `Latest full fetch on ${date.toLocaleDateString()} at ${date.toLocaleTimeString()}, for which:\n` +
             ` - ${num_pages} pages of reports were found\n` +
             ` - ${num_reports} total reports were found\n` +
-            ` - ${num_new} reports updated`
+            ` - ${num_new} reports refetched.`
     );
 }

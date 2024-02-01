@@ -1,5 +1,6 @@
 import fs from 'fs/promises';
 import Papa from 'papaparse';
+
 import ReportCorrector from './correct/index.js';
 import {
     fetch_all_urls,
@@ -91,14 +92,17 @@ export async function write_reports(
     }
 
     if (urls.length === 0) return console.log('Reports up to date!');
+
     let new_reports = await map_async(
-        urls,
-        (url) =>
-            fetch_report(url, parse_report, parse_summary)
-                .then((report) => [report, correct_report(report)])
-                .catch((_) => {}),
-        'Reading reports |:bar| :current/:total urls'
-    );
+    urls,
+    (url) =>
+        fetch_report(url, parse_report, parse_summary)
+            .then((report) => [report, correct_report(report)])
+            .catch((_) => {}),
+    5,
+    'Reading reports |:bar| :current/:total urls'
+);
+
     new_reports = new_reports.filter((report) => report !== undefined);
 
     for (const [report, corrected] of new_reports.reverse()) {
