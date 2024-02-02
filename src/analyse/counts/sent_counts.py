@@ -278,7 +278,7 @@ exploded = exploded.drop_duplicates(subset=columns_to_check_duplicates, keep='fi
 exploded = exploded.assign(sent_to=exploded["this_report_is_being_sent_to"].str.split(vbar)).explode(
     "sent_to", ignore_index=True
 )
-statuses = exploded.copy()
+statuses = reports.copy()
 
 rcpt_statuses = exploded.value_counts(["sent_to", "response status"]).unstack(fill_value=0)
 rcpt_statuses.loc[:, ["no. recipients", "no. replies"]] = exploded.groupby("sent_to")[
@@ -346,18 +346,6 @@ top_types = sent_types.loc[top_counts.index]
 
 # %% [markdown]
 # ### Create statistics with statuses
-agg_dict = {'sent_to': lambda x: ' | '.join(x),
-            'response status': 'first',
-            'ref': 'first',
-            'date_of_report': 'first',
-            'deceased_name': 'first',
-            'coroner_name': 'first',
-            'category': 'first',
-            'coroner_area': 'first',
-            'no. replies': 'first',
-            }
-
-statuses = statuses.groupby('report_url').agg(agg_dict).reset_index()
 
 statuses.rename(columns={'response status': 'Status',
                          'ref': 'Ref',
@@ -367,15 +355,8 @@ statuses.rename(columns={'response status': 'Status',
                          'category': 'Category',
                          'coroner_area': 'Coroner area',
                          'no. replies': 'Replies count',
-                         'sent_to': 'This report is being sent to'},
+                         'this_report_is_being_sent_to': 'This report is being sent to'},
                 inplace=True)
-
-# columns_to_drop = ['coroner_title', 'no. recipients', 'pdf_url', 'reply_urls',
-#                    'circumstances', 'concerns', 'inquest', 'action', 'response',
-#                    'legal', 'escaped_urls', 'replies',
-#                    'status', 'year']
-#
-# statuses.drop(columns=columns_to_drop, inplace=True)
 
 statuses['Status'] = statuses['Status'].replace({'no requests': 'no data', 'failed': 'error'})
 
