@@ -22,7 +22,7 @@ NOMS,28,18,0,10,35.7
 Cwm Taf Morgannwg University Health Board,27,13,0,14,51.9
 Leeds Teaching Hospitals NHS Trust,27,11,0,16,59.3
 Manchester University NHS Foundation Trust,27,16,0,11,40.7
-University Hospitals Plymouth NHS Trust,27,9,1,17,63.0
+University Hospitals Plymouth NHS Trust,27,10,0,17,63.0
 Ministry of Justice,25,19,0,6,24.0
 Stockport NHS Foundation Trust,25,11,0,14,56.0
 Department for Education,24,10,0,14,58.3
@@ -32,7 +32,7 @@ Norfolk and Suffolk NHS Foundation Trust,23,5,0,18,78.3
 Department for Health,23,14,0,9,39.1
 East London NHS Foundation Trust,23,10,0,13,56.5
 Birmingham and Solihull Mental Health NHS Foundation Trust,21,10,0,11,52.4
-Essex Partnership University NHS Foundation Trust,21,12,4,5,23.8
+Essex Partnership University NHS Foundation Trust,21,13,3,5,23.8
 Care UK,20,11,0,9,45.0
 Central and North West London NHS Foundation Trust,20,13,0,7,35.0
 Greater Manchester Police,19,4,1,14,73.7
@@ -348,7 +348,7 @@ Harbour Healthcare Limited,3,3,0,0,0.0
 Norfolk County Council,3,0,0,3,100.0
 Change Grow Live,3,3,0,0,0.0
 United Lincolnshire Hospital Trust,3,1,0,2,66.7
-University College London Hospitals NHS Trust,3,1,1,1,33.3
+University College London Hospitals NHS Trust,3,2,0,1,33.3
 Havering and Redbridge University Hospitals NHS Trust,3,3,0,0,0.0
 South East Coast Ambulance Service and Department of Health and Social Care,3,0,0,3,100.0
 Cambian Group,3,0,0,3,100.0
