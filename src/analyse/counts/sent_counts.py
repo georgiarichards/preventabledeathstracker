@@ -124,6 +124,7 @@ print(reports["response status"].value_counts())
 
 # %% [markdown]
 # ### Calculating response status over time
+statuses = reports.copy()
 
 status_years = reports.assign(year=report_date.dt.year).value_counts(["year", "response status"]).unstack(fill_value=0)
 
@@ -273,7 +274,6 @@ exploded = exploded.drop_duplicates(subset=['report_url'], keep='first')
 exploded = exploded.assign(sent_to=exploded["this_report_is_being_sent_to"].str.split(vbar)).explode(
     "sent_to", ignore_index=True
 )
-statuses = reports.copy()
 
 rcpt_statuses = exploded.value_counts(["sent_to", "response status"]).unstack(fill_value=0)
 rcpt_statuses.loc[:, ["no. recipients", "no. replies"]] = exploded.groupby("sent_to")[
@@ -348,6 +348,7 @@ statuses.rename(columns={'response status': 'Status',
                          'category': 'Category',
                          'coroner_area': 'Coroner area',
                          'no. replies': 'Replies count',
+                         'no. recipients': 'Recipients count',
                          'this_report_is_being_sent_to': 'This report is being sent to'},
                 inplace=True)
 
@@ -356,7 +357,7 @@ statuses['Status'] = statuses['Status'].replace({'no requests': 'no data', 'fail
 statuses['Status'] = statuses['Status'].apply(create_badge)
 statuses['Ref'] = statuses.apply(lambda row: create_button(row['Ref'], row['report_url']), axis=1)
 new_order = ['Status', 'Date of report', 'Ref', 'Deceased name', 'Coroner name', 'Coroner area', 'Category',
-             'This report is being sent to', 'Replies count']
+             'This report is being sent to', 'Replies count', 'Recipients count']
 statuses = statuses[new_order]
 
 # %% [markdown]
