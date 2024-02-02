@@ -103,7 +103,7 @@ all_responses = with_responses.str.len() >= non_na["sent_to"].str.len()
 non_na.loc[all_responses, "response status"] = "completed"
 
 # if a report is pending or overdue and less than 56 days old, mark pending
-non_na.loc[~report_due & (non_na["response status"] == "overdue"), "response status"] = "overdue"
+non_na.loc[~report_due & (non_na["response status"] == "overdue"), "response status"] = "pending"
 non_na.loc[~report_due & (non_na["response status"] == "partial"), "response status"] = "pending"
 
 # %% [markdown]

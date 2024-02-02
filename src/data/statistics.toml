@@ -42,9 +42,9 @@
 ["this report is sent to"]
 "reports parsed" = [ 4204.0, 87.4,]
 "reports without recipients" = [ 609.0, 12.7,]
-"reports failed" = [ -1.0, -0.0,]
-"reports pending" = [ 1.0, 0.0,]
-"reports overdue" = [ 1993.0, 41.4,]
+"reports failed" = [ -1.0, 0.0,]
+"reports pending" = [ 70.0, 1.5,]
+"reports overdue" = [ 1924.0, 40.0,]
 "reports partial" = [ 300.0, 6.2,]
 "reports completed" = [ 1909.0, 39.7,]
 
