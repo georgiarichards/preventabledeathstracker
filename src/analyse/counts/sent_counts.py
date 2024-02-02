@@ -382,7 +382,7 @@ statuses['Status'] = statuses['Status'].replace({'no requests': 'no data', 'fail
 statuses['Status'] = statuses['Status'].apply(create_badge)
 statuses['Ref'] = statuses.apply(lambda row: create_button(row['Ref'], row['report_url']), axis=1)
 new_order = ['Status', 'Date of report', 'Ref', 'Deceased name', 'Coroner name', 'Coroner area', 'Category',
-             'Replies count']
+             'This report is being sent to', 'Replies count']
 statuses = statuses[new_order]
 
 # %% [markdown]
