@@ -47,17 +47,7 @@ jobs:
       run: pip install -r src/analyse/counts/requirements.txt
 
     - name: Run Analyses
-      run: npm run analyse:areas
-    - name: Run Analyses
-      run: npm run analyse:names
-    - name: Run Analyses
-      run: npm run analyse:years
-    - name: Run Analyses
-      run: npm run analyse:genders
-    - name: Run Analyses
-      run: npm run analyse:sent_to
-    - name: Run Analyses
-      run: npm run analyse:categories
+      run: npm run analyse:counts
 
     - name: Update GitHub with latest reports and analysis
       uses: stefanzweifel/git-auto-commit-action@v4

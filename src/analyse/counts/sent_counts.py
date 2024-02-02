@@ -2,7 +2,6 @@
 # ## Process
 # We count the number of reports in each death category, ignoring reports that
 # don't match any known category. We then save the results to a .csv file.
-
 # %% [markdown]
 # ### Importing libraries
 
@@ -269,11 +268,7 @@ else:
 
 # %% [markdown]
 # ### Calculating statistics over recipients
-
-
-columns_to_check_duplicates = ['report_url']
-
-exploded = exploded.drop_duplicates(subset=columns_to_check_duplicates, keep='first')
+exploded = exploded.drop_duplicates(subset=['report_url'], keep='first')
 
 exploded = exploded.assign(sent_to=exploded["this_report_is_being_sent_to"].str.split(vbar)).explode(
     "sent_to", ignore_index=True
@@ -335,8 +330,6 @@ toml_stats["requests for response"] = {
     "IQR of requests per recipients": list(sent_counts.quantile([0.25, 0.75])),
 }
 
-print(f"Name count statistics: {statistics}")
-print(f"Sorted counts: {sent_counts}")
 
 # %% [markdown]
 # ### Calculating the top coroners

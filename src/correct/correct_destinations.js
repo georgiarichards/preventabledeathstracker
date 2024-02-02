@@ -112,8 +112,8 @@ export default async function Corrector(keep_failed = true) {
 
   function add_to_known(text) {
     text = text.replace(non_words, ' ').trim()
-    delete known_replacements[0][to_acronym(text)]
-    known_replacements[0][text] = text
+    // delete known_replacements[0][to_acronym(text)]
+    // known_replacements[0][text] = text
     if (to_acronym(text) !== text)
       known_replacements[1][to_acronym(text)] = text
   }
@@ -135,7 +135,7 @@ export default async function Corrector(keep_failed = true) {
           if (known_match) {
             return known_match}
           add_to_known(dest)
-          return dest
+          // return dest
         })
         .join(' | ')
     }
@@ -145,7 +145,7 @@ export default async function Corrector(keep_failed = true) {
       const known_match = try_known_match(text)
       if (known_match) return known_match
       add_to_known(text)
-      return text
+      // return text
     }
 
     // if the text can be built from known matches and connectives, with only a
@@ -158,7 +158,7 @@ export default async function Corrector(keep_failed = true) {
       return matches.map(match => replacements[match.phrase]).join(' | ')
 
     failed.push(text)
-    return text
+    // return text
   }
 
   correct_name.close = async () => {
