@@ -119,7 +119,6 @@ export async function fetch_report(report_url, parse_report, parse_summary) {
         throw_network
     );
     let report = await try_fetch_table($, parse_report).catch(throw_network);
-    report ??= await try_fetch_pdf($, parse_report).catch(throw_network);
 
     // the most reliable parses are from
     // 1. the tags

@@ -11,9 +11,6 @@ PATH = os.path.dirname(__file__)
 C_REPORTS_PATH = os.path.abspath(f"{PATH}/../../data/reports-corrected.csv")
 A_REPORTS_PATH = os.path.abspath(f"{PATH}/../../data/reports-analysed.csv")
 
-
-import fix_dest as _
-
 shutil.copyfile(C_REPORTS_PATH, A_REPORTS_PATH)
 
 # %% [markdown]
