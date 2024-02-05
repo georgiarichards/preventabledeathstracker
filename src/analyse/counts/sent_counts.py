@@ -370,6 +370,8 @@ top_types.to_csv(f"{DATA_PATH}/sent/top-sent-types.csv")
 sent_years.to_csv(f"{DATA_PATH}/sent/sent-types-years.csv")
 status_years.to_csv(f"{DATA_PATH}/sent/status-years.csv")
 exploded.to_csv(f"{DATA_PATH}/sent/statuses.csv", index=False)
+statuses["Date of report"] = pd.to_datetime(statuses["Date of report"], dayfirst=True)
+statuses = statuses.sort_values(by="Date of report", ascending=False)
 statuses.to_csv(f"{DATA_PATH}/sent/db_with_statuses.csv", index=False)
 
 area_statuses.to_csv(f"{DATA_PATH}/sent/area-statuses.csv")
