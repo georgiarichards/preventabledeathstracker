@@ -90,11 +90,12 @@ responses_from = lambda row: [sent for sent in row["sent_to"] if sent in row["es
 with_responses = non_na.apply(responses_from, axis=1)
 
 # if there's none, mark overdue
-no_responses = with_responses.str.len() == 0
+no_responses = (with_responses.str.len() == 0) & (non_na["replies"].str.len() == 0)
+# no_responses = (non_na["no. recipients"] != non_na["no. replies"]) & (non_na["no. recipients"] > 0)
 non_na.loc[no_responses, "response status"] = "overdue"
 
 # if there's an equal number of recipients and replies, mark completed
-equal_len = (non_na["sent_to"].str.len() == non_na["replies"].str.len()) & (non_na["sent_to"].str.len() > 0)
+equal_len = (non_na["sent_to"].str.len() <= non_na["replies"].str.len()) & (non_na["sent_to"].str.len() > 0)
 non_na.loc[equal_len, "response status"] = "completed"
 
 # if all are responded to, mark completed
@@ -348,20 +349,22 @@ statuses.rename(columns={'response status': 'Status',
                          'category': 'Category',
                          'coroner_area': 'Coroner area',
                          'no. replies': 'Replies count',
-                         'no. recipients': 'Recipients count',
-                         'this_report_is_being_sent_to': 'This report is being sent to'},
+                         'no. recipients': 'Sent to count',
+                         'this_report_is_being_sent_to': 'Sent to'},
                 inplace=True)
 
 statuses['Status'] = statuses['Status'].replace({'no requests': 'no data', 'failed': 'error'})
 
 statuses['Status'] = statuses['Status'].apply(create_badge)
-statuses['Ref'] = statuses.apply(lambda row: create_button(row['Ref'], row['report_url']), axis=1)
+statuses['Deceased name'] = statuses.apply(lambda row: create_button(row['Deceased name'], row['report_url']), axis=1)
 new_order = ['Status', 'Date of report', 'Ref', 'Deceased name', 'Coroner name', 'Coroner area', 'Category',
-             'This report is being sent to', 'Replies count', 'Recipients count']
+             'Sent to', 'Sent to count', 'Replies count']
 statuses = statuses[new_order]
 
 # %% [markdown]
 # ### Saving the results
+exploded = exploded[exploded['response status'] != 'failed']
+statuses = statuses[statuses['Status'] != 'error']
 
 sent_counts.to_csv(f"{DATA_PATH}/sent/sent-counts.csv")
 top_counts.to_csv(f"{DATA_PATH}/sent/top-sent-counts.csv")
@@ -370,8 +373,12 @@ top_types.to_csv(f"{DATA_PATH}/sent/top-sent-types.csv")
 sent_years.to_csv(f"{DATA_PATH}/sent/sent-types-years.csv")
 status_years.to_csv(f"{DATA_PATH}/sent/status-years.csv")
 exploded.to_csv(f"{DATA_PATH}/sent/statuses.csv", index=False)
-statuses["Date of report"] = pd.to_datetime(statuses["Date of report"], dayfirst=True)
-statuses = statuses.sort_values(by="Date of report", ascending=False)
+
+
+statuses["Date of report"] = pd.to_datetime(statuses["Date of report"], format='%d/%m/%Y')
+statuses.sort_values(by="Date of report", inplace=True, ascending=False)
+statuses["Date of report"] = statuses["Date of report"].dt.strftime('%d/%m/%Y')
+
 statuses.to_csv(f"{DATA_PATH}/sent/db_with_statuses.csv", index=False)
 
 area_statuses.to_csv(f"{DATA_PATH}/sent/area-statuses.csv")

@@ -34,7 +34,7 @@ const summary_headers = {
   // &#x2019; is an apostrophe `’`
   "Deceased(?:&#x2019;|’|')?s? names?:?|Name of deceased:?": 'deceased_name',
   "Coroner(?:&#x2019;|’|')?s? names?:?|Name of coroner:?": 'coroner_name',
-  "Coroner(?:&#x2019;|’|')?s? Area:?": 'coroner_area',
+  "Coroner(?:&#x2019;|’|')?s?:? Area:?": 'coroner_area',
   'Category:?': 'category',
   'This report is being sent to:?|These reports are being sent to:?|This is being sent to:?|This has been sent to:?': 'this_report_is_being_sent_to'
 }

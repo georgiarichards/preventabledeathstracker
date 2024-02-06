@@ -84,11 +84,12 @@ responses_from = lambda row: [sent for sent in row["sent_to"] if sent in row["es
 with_responses = non_na.apply(responses_from, axis=1)
 
 # if there's none, mark overdue
-no_responses = with_responses.str.len() == 0
+# no_responses = with_responses.str.len() == 0
+no_responses = (with_responses.str.len() == 0) & (non_na["replies"].str.len() == 0)
 non_na.loc[no_responses, "response status"] = "overdue"
 
 # if there's an equal number of recipients and replies, mark completed
-equal_len = (non_na["sent_to"].str.len() == non_na["replies"].str.len()) & (non_na["sent_to"].str.len() > 0)
+equal_len = (non_na["sent_to"].str.len() <= non_na["replies"].str.len()) & (non_na["sent_to"].str.len() > 0)
 non_na.loc[equal_len, "response status"] = "completed"
 
 # if all are responded to, mark completed
