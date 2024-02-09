@@ -44,9 +44,9 @@
 "reports without recipients" = [ 856.0, 17.8,]
 "reports failed" = [ -1.0, -0.0,]
 "reports pending" = [ 58.0, 1.2,]
-"reports overdue" = [ 1219.0, 25.3,]
-"reports partial" = [ 479.0, 10.0,]
-"reports completed" = [ 2067.0, 43.0,]
+"reports overdue" = [ 1221.0, 25.4,]
+"reports partial" = [ 478.0, 9.9,]
+"reports completed" = [ 2066.0, 42.9,]
 
 ["requests for response"]
 "no. recipients with requests" = 2291
