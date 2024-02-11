@@ -1,11 +1,11 @@
 coroner_area,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
 Greater Manchester South,399,487,346,213,27,98,2
-London Inner North,247,317,208,120,22,58,5
+London Inner North,248,319,210,121,22,58,5
 Birmingham and Solihull,148,267,203,84,30,20,3
 "West Sussex, Brighton and Hove",147,175,122,65,20,29,2
 Surrey,143,207,128,54,24,33,0
 London East,137,190,115,56,14,57,1
-London Inner South,127,219,138,43,32,23,0
+London Inner South,129,225,142,43,34,23,0
 South Wales Central,117,146,94,50,14,27,0
 Greater Manchester North,110,142,88,46,13,28,0
 Greater Manchester West,109,122,73,43,11,26,0
@@ -21,10 +21,10 @@ The Black Country Jurisdiction,80,97,63,35,11,17,1
 Yorkshire South West,78,91,53,36,2,28,2
 County Durham and Darlington,77,96,62,34,8,17,1
 Yorkshire West Western,75,99,52,29,8,29,0
-Essex,69,87,34,19,7,31,3
+London Inner West,70,112,49,17,14,27,2
 Bedfordshire and Luton,69,82,48,31,5,16,1
+Essex,69,87,34,19,7,31,3
 Leicester City and South Leicestershire,69,77,70,35,7,5,0
-London Inner West,69,111,49,17,14,26,2
 Milton Keynes,67,80,47,28,5,25,1
 Cumbria,64,67,47,26,8,13,2
 Manchester City,61,104,48,22,10,22,0
