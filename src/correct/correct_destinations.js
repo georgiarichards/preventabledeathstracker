@@ -74,7 +74,7 @@ export default async function Corrector(keep_failed = true) {
   if (corrections.length < 2) corrections.unshift({}, {})
   let known_replacements = [{}, {}]
   await map_series(
-    Object.keys(corrections[0]),
+    Object.keys({ ...corrections[0], ...corrections[1] }),
     key => {
       const match = try_known_match(key)
       if (match) add_to_known(match)
