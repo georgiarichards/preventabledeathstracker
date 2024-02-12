@@ -2,14 +2,8 @@ import fs from 'fs/promises'
 import Papa from 'papaparse'
 import {fetch_html, map_series} from '../fetch/helpers.js'
 import {priority_match} from './approx_match.js'
-import {
-    get_initials,
-    remove_email_block,
-    first_last_name,
-    split_caps,
-    shorten_whitespace
-} from './simplify_name.js'
-import {merge_failed, load_correction_data} from './helpers.js'
+import {first_last_name, get_initials, remove_email_block, shorten_whitespace, split_caps} from './simplify_name.js'
+import {load_correction_data, merge_failed} from './helpers.js'
 
 /**
  * Fetches the list of page urls from the coroner society website
@@ -69,6 +63,54 @@ async function fetch_name_list(url) {
     return pages.flat()
 }
 
+async function removeDuplicatesFromCsv(filePath) {
+    try {
+        const fileContent = await fs.readFile(filePath, 'utf8');
+
+        const parsedContent = Papa.parse(fileContent, {header: true});
+        const rows = parsedContent.data;
+
+        let counter = 0
+        const uniqueRows = new Map();
+        rows.forEach(row => {
+            const uniqueKey = row['name'];
+            if (!uniqueRows.has(uniqueKey)) {
+                uniqueRows.set(uniqueKey, row);
+                counter += 1;
+            }
+        });
+
+        const uniqueRowsArray = Array.from(uniqueRows.values());
+        const updatedCsv = Papa.unparse(uniqueRowsArray);
+
+        await fs.writeFile(filePath, updatedCsv);
+        console.log(`${counter} duplicates deleted`);
+    } catch (error) {
+        console.error('Error while deleting duplicates in CSV:', error);
+    }
+}
+
+async function appendNewRowsToCsv(filePath, newData) {
+    try {
+        const existingContent = await fs.readFile(filePath, 'utf8');
+
+        const parsedExistingContent = Papa.parse(existingContent, {header: true});
+        const existingRows = parsedExistingContent.data;
+
+        const existingNames = new Set(existingRows.map(row => row[Object.keys(row)[0]]));
+        const newRows = newData.filter(row => !existingNames.has(row[Object.keys(row)[0]]));
+
+        if (newRows.length > 0) {
+            const newRowsCsv = Papa.unparse(newRows, {header: false});
+
+            await fs.appendFile(filePath, "\n" + newRowsCsv);
+        }
+        console.log(`Appended ${newRows.length} new rows to ${filePath}`);
+    } catch (error) {
+        console.error('Error appending new rows to CSV:', error);
+    }
+}
+
 /**
  * Calculates a list of possible replacements for a name map, with different
  * levels of simplification and priorities
@@ -103,35 +145,39 @@ function replacements_from(full_name_map) {
  * @returns {Promise<import('.').CorrectFn<string>>}
  */
 export default async function Corrector(keep_failed = true) {
-    // const fetched = await fetch_name_list(
-    //     'https://www.coronersociety.org.uk/coroners/'
-    // )
-
     const fetched = await fetch_name_list(
         'https://www.coronersociety.org.uk/coroners/'
     )
+
+    // const fetched1 = await fetch_name_list(
+    //     'https://www.coronersociety.org.uk/coroners/'
+    // )
     // const fetched2 = await fetch_name_list(
     //     'https://www.coronersociety.org.uk/coroners/'
     // )
     // const fetched3 = await fetch_name_list(
     //     'https://www.coronersociety.org.uk/coroners/'
     // )
-
-    // let fetched = [...fetched1, ...fetched2];
-
-    const fetched_simple = fetched.map(({name, ...rest}) => ({
+    //
+    // let fetched = [...fetched1, ...fetched2, ...fetched3];
+    console.log(fetched.length)
+    let fetched_simple = fetched.map(({name, ...rest}) => ({
         name: shorten_whitespace(remove_email_block(name)),
         ...rest
     }))
 
+    console.log(fetched_simple.length)
 
-    await fs.writeFile(
-        './src/data/coroners-society.csv',
-        Papa.unparse(fetched_simple)
-    )
+
+    // await fs.writeFile(
+    //     './src/data/coroners-society.csv',
+    //     Papa.unparse(fetched_simple)
+    // )
     const fetched_replace = Object.fromEntries(
         fetched_simple.map(({name}) => [name, name])
     )
+    console.log(Object.keys(fetched_replace).length)
+
     await fs.writeFile(
         './src/correct/data/fetched_names.json',
         JSON.stringify(fetched_replace, null, 2)
@@ -157,6 +203,14 @@ export default async function Corrector(keep_failed = true) {
         }
         return match
     }
+
+    fetched_simple = fetched_simple.map(item => ({
+        ...item,
+        name: correct_name(item.name) || item.name
+    }));
+    await appendNewRowsToCsv('./src/data/coroners-society.csv', fetched_simple)
+    await removeDuplicatesFromCsv('./src/data/coroners-society.csv')
+
 
     correct_name.close = () =>
         fs.writeFile(
