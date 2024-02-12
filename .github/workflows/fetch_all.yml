@@ -37,6 +37,11 @@ jobs:
       if: github.event.schedule == '0 1 1 * *' || github.event_name == 'workflow_dispatch'
       run: npm run fetch:all
 
+    - name: Correct Fetch data
+      if: github.event.schedule == '0 1 1 * *' || github.event_name == 'workflow_dispatch'
+      run: npm run correct
+
+
     - name: Setup Python
       uses: actions/setup-python@v4.7.0
       with:

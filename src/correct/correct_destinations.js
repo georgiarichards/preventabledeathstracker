@@ -113,7 +113,9 @@ export default async function Corrector(keep_failed = true) {
   function add_to_known(text) {
     text = text.replace(non_words, ' ').trim()
     // delete known_replacements[0][to_acronym(text)]
+    if (!(text in corrections[0])) {
     known_replacements[0][text] = text
+    }
     if (to_acronym(text) !== text)
       known_replacements[1][to_acronym(text)] = text
   }
