@@ -43,7 +43,10 @@ export default async function Corrector(keep_failed = true) {
     if (incorrect.has(text)) return undefined
 
     const match = priority_match(text, [areas, ...corrections])
-    if (match === undefined) failed.push(text)
+    if (match === undefined) {
+      failed.push(text)
+      return text
+    }
     return match
   }
 

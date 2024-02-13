@@ -7,6 +7,7 @@
 
 import os
 import re
+from datetime import datetime
 
 import pandas as pd
 
@@ -383,17 +384,81 @@ statuses.sort_values(by="Date of report", inplace=True, ascending=False)
 statuses["Date of report"] = statuses["Date of report"].dt.strftime('%d/%m/%Y')
 
 
-def write_sum_of_replies_to_log():
-    sum_of_replies = statuses['Replies count'].sum()
-    sum_of_response = statuses['Sent to count'].sum()
+# def write_sum_of_replies_to_log(path):
+#     sum_of_replies, sum_of_response = get_replies_and_responses(last_month=False)
+#
+#     replies_pattern = re.compile(r" - All replies count: \d+")
+#     response_pattern = re.compile(r" - All responses count: \d+")
+#
+#     new_replies_text = f" - All replies count: {sum_of_replies}"
+#     new_response_text = f" - All responses count: {sum_of_response}"
+#
+#     try:
+#         with open(f'{REPORTS_PATH}/latest.log', 'r') as file:
+#             content = file.read()
+#
+#         new_content = replies_pattern.sub(new_replies_text, content)
+#         new_content = response_pattern.sub(new_response_text, new_content)
+#
+#     except FileNotFoundError:
+#         new_content = f"\n\n{new_response_text}\n{new_replies_text}"
+#
+#     with open(f'{path}', 'w') as file:
+#         file.write(new_content)
+#
+#     print("Log updated.")
 
-    with open(f'{REPORTS_PATH}/latest.log', 'a') as file:
-        file.write(f"\n\n - All responses count: {sum_of_response}\n")
-        file.write(f" - All replies count: {sum_of_replies}\n")
+
+# def get_replies_and_responses(last_month: bool = False):
+#     if last_month:
+#         current_month = datetime.now().month
+#         current_year = datetime.now().year
+#
+#         if current_month == 1:
+#             last_month = 12
+#             year_of_last_month = current_year - 1
+#         else:
+#             last_month = current_month - 1
+#             year_of_last_month = current_year
+#
+#         first_day_of_last_month = datetime(year_of_last_month, last_month, 1)
+#         if last_month == 12:
+#             first_day_of_next_month = datetime(year_of_last_month + 1, 1, 1)
+#         else:
+#             first_day_of_next_month = datetime(year_of_last_month, last_month + 1, 1)
+#
+#         filtered_statuses = statuses[
+#             (statuses['date_added'] >= first_day_of_last_month) & (statuses['date_added'] < first_day_of_next_month)]
+#     else:
+#         filtered_statuses = statuses
+#     sum_of_replies = filtered_statuses['Replies count'].sum()
+#     sum_of_response = filtered_statuses['Sent to count'].sum()
+#     return sum_of_replies, sum_of_response
 
 
-write_sum_of_replies_to_log()
+# write_sum_of_replies_to_log(f'{REPORTS_PATH}/latest.log')
+
 statuses.to_csv(f"{DATA_PATH}/sent/db_with_statuses.csv", index=False)
+
+name_statuses.rename(columns={'no. recipients': 'sent to count',
+                              'no. replies': 'replies count',
+                              'no. complete responses': 'received',
+                              'no. partial responses': 'partial',
+                              'no. overdue responses': 'overdue',
+                              'no. pending responses': 'pending',
+                              },
+                     inplace=True)
+name_statuses['% received'] = (name_statuses['received'] / name_statuses['sent to count'] * 100).round(2)
+
+area_statuses.rename(columns={'no. recipients': 'sent to count',
+                              'no. replies': 'replies count',
+                              'no. complete responses': 'received',
+                              'no. partial responses': 'partial',
+                              'no. overdue responses': 'overdue',
+                              'no. pending responses': 'pending',
+                              },
+                     inplace=True)
+area_statuses['% received'] = (area_statuses['received'] / area_statuses['sent to count'] * 100).round(2)
 
 area_statuses.to_csv(f"{DATA_PATH}/sent/area-statuses.csv")
 name_statuses.to_csv(f"{DATA_PATH}/sent/name-statuses.csv")
