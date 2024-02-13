@@ -458,7 +458,9 @@ name_statuses.rename(columns={'no. recipients': 'sent to count',
                               'no. pending responses': 'pending',
                               },
                      inplace=True)
-name_statuses['% received'] = (name_statuses['received'] / name_statuses['sent to count'] * 100).round(2)
+name_statuses['% received'] = name_statuses.apply(
+    lambda row: ','.join(str((row['received'] / row['sent to count'] * 100).round(2)).split('.'))
+    if row['sent to count'] != 0 else 0, axis=1)
 
 area_statuses.rename(columns={'no. recipients': 'sent to count',
                               'no. replies': 'replies count',
@@ -468,7 +470,10 @@ area_statuses.rename(columns={'no. recipients': 'sent to count',
                               'no. pending responses': 'pending',
                               },
                      inplace=True)
-area_statuses['% received'] = (area_statuses['received'] / area_statuses['sent to count'] * 100).round(2)
+
+area_statuses['% received'] = area_statuses.apply(
+    lambda row: ','.join(str((row['received'] / row['sent to count'] * 100).round(2)).split('.'))
+    if row['sent to count'] != 0 else 0, axis=1)
 
 area_statuses.to_csv(f"{DATA_PATH}/sent/area-statuses.csv")
 name_statuses.to_csv(f"{DATA_PATH}/sent/name-statuses.csv")

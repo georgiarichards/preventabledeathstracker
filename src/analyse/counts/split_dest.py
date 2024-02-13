@@ -10,15 +10,36 @@ REPORTS_PATH = os.path.abspath(f"{PATH}/../../data")
 CORRECT_PATH = os.path.abspath(f"{PATH}/../../correct")
 
 
+def update_json_with_matches(input_json_file, output_json_file, _pattern):
+    with open(input_json_file, 'r') as f:
+        data = json.load(f)
+
+    for key in list(data.keys()):
+        matches = re.finditer(_pattern, key, re.IGNORECASE)
+        list_of_match = [match.group() for match in matches if match.group()]
+
+        for match in list_of_match:
+            cleaned_match = match.replace(r'\ ', ' ')
+            data[cleaned_match] = cleaned_match
+
+    # with open(output_json_file, 'r') as f:
+    #     out_data = json.load(f)
+    #
+    # out_data[0].update(data)
+    with open(output_json_file, 'w') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+    print("Updated data saved to", output_json_file)
+
+
 def find_matches(_input_string, _pattern):
     if _input_string:
         _input_string = _input_string.strip('| ')
-        matches = re.finditer(_pattern, _input_string)
+        matches = re.finditer(_pattern, _input_string, re.IGNORECASE)
         list_of_match = [match.group() for match in matches if match.group()]
         cleaned_values = [value.replace(r'\ ', ' ') for value in list_of_match]
-        a = ' | '.join(cleaned_values)
-        cleaned_string = a.strip('| ')
-        return cleaned_string
+        matched_string = ' | '.join(cleaned_values).strip('| ')
+        return matched_string
     return None
 
 
@@ -61,13 +82,19 @@ def get_replacements(file):
     return {k: v for d in list_of_dicts for k, v in d.items()}
 
 
-replacements = get_replacements(os.path.abspath(f"{CORRECT_PATH}/manual_replace/destinations.json"))
+pattern = get_pattern(os.path.abspath(f"{CORRECT_PATH}/manual_replace/destinations.json"))
+# input_json_file = os.path.abspath(f"{CORRECT_PATH}/manual_replace/new_unknown_destinations.json")
+# output_json_file = os.path.abspath(f"{CORRECT_PATH}/manual_replace/destinations__.json")
 
+# update_json_with_matches(input_json_file, output_json_file, pattern)
+
+
+# find_matches('GMC and NICE', pattern)
+
+replacements = get_replacements(os.path.abspath(f"{CORRECT_PATH}/manual_replace/destinations.json"))
 # input_csv = os.path.abspath(f"{REPORTS_PATH}/reports-corrected.csv")
 input_csv = os.path.abspath(f"{REPORTS_PATH}/reports.csv")
-
-pattern = get_pattern(os.path.abspath(f"{CORRECT_PATH}/manual_replace/destinations.json"))
-
 process_csv(input_csv, pattern)
+
 
 replace_in_csv(input_csv, replacements)
