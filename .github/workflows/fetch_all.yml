@@ -36,13 +36,6 @@ jobs:
     - name: Fetch up all date reports
       run: npm run fetch:all
 
-    - name: Correct destinations
-      run: npm run correct:destinations
-
-    - name: Correct Fetch data
-      run: npm run correct
-
-
     - name: Setup Python
       uses: actions/setup-python@v4.7.0
       with:
@@ -51,6 +44,13 @@ jobs:
 
     - name: Install Analysis requirements
       run: pip install -r src/analyse/counts/requirements.txt
+
+    - name: Correct destinations
+      run: npm run correct:destinations
+
+    - name: Correct Fetch data
+      run: npm run correct
+
 
     - name: Run Analyses
       run: npm run analyse:counts
