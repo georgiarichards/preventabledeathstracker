@@ -44,3 +44,4 @@ class TOMLCache:
 PATH = os.path.dirname(__file__)
 REPORTS_PATH = os.path.abspath(f"{PATH}/../../data")
 toml_stats = TOMLCache(f"{REPORTS_PATH}/statistics.toml", encoder=toml.TomlNumpyEncoder())
+monthly_toml_stats = TOMLCache(f"{REPORTS_PATH}/monthly_statistics.toml", encoder=toml.TomlNumpyEncoder())

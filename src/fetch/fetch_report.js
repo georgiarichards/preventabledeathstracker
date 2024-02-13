@@ -1,5 +1,5 @@
-import { parse_rows } from '../parse/parse_report.js';
-import { ElementError, fetch_html, fetch_pdf } from './helpers.js';
+import {parse_rows} from '../parse/parse_report.js';
+import {ElementError, fetch_html, fetch_pdf} from './helpers.js';
 
 /** Type imports
  * @typedef {import('cheerio').CheerioAPI} CheerioAPI
@@ -94,6 +94,14 @@ async function try_fetch_pdf($, parse_report) {
     return parse_rows(await fetch_pdf(url), parse_report);
 }
 
+function convertDateFormat(dateStr) {
+    const dateObj = new Date(dateStr);
+    const day = dateObj.getDate().toString().padStart(2, '0');
+    const month = (dateObj.getMonth() + 1).toString().padStart(2, '0');
+    const year = dateObj.getFullYear();
+    return `${day}/${month}/${year}`;
+}
+
 /** Fetches a single report from a url and parses it
  * @template R, S
  * @param {string} report_url the url for the report
@@ -103,6 +111,14 @@ async function try_fetch_pdf($, parse_report) {
  */
 export async function fetch_report(report_url, parse_report, parse_summary) {
     let $ = await fetch_html(report_url);
+
+    const date_added_path = '#main-content > div:nth-child(1) > div > article > header > time'
+const date_added = $(date_added_path)
+    .get()
+    .map(doc => {
+        const fullDate = $(doc).attr('datetime').slice(0, 10);
+        return convertDateFormat(fullDate);
+    });
 
     const doc_path = 'li.related-content__item > a.related-content__link';
     const doc_urls = $(doc_path)
@@ -130,6 +146,7 @@ export async function fetch_report(report_url, parse_report, parse_summary) {
         ...report,
         ...summary,
         ...tags,
+        date_added,
         pdf_url,
         report_url,
         reply_urls,

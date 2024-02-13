@@ -1706,7 +1706,6 @@
     "MRHA": "Medicines and Healthcare Products Regulatory Agency",
     "My Care Ltd": "My Care Ltd",
     "NHS Derby & Derbyshire Clinical Commissioning Group": "NHS Derby & Derbyshire Clinical Commissioning Group",
-
     "My The Orchards Ltd": "My The Orchards Ltd",
     "Mylan Pharmaceuticals": "Mylan Pharmaceuticals",
     "Nant y Gaer Hall Nursing Home": "Nant y Gaer Hall Nursing Home",
@@ -2462,8 +2461,6 @@
     "Sussex Clinical Commissioning Groups": "Sussex Clinical Commissioning Groups",
     "NHS Nottingham and Nottinghamshire Clinical Commissioning Group": "Nottingham and Nottinghamshire Clinical Commissioning Group",
     "Nottingham and Nottinghamshire Clinical Commissioning Group": "Nottingham and Nottinghamshire Clinical Commissioning Group",
-
-
     "Association of Police and Crime Commissioners": "Association of Police and Crime Commissioners",
     "Rail Safety and Standards Board": "Rail Safety and Standards Board",
     "Lincolnshire Integrated Care Board": "Lincolnshire Integrated Care Board",
@@ -3467,6 +3464,15 @@
     "SJsC": "St John’s College",
     "BNES": "Bath and North East Somerset",
     "SWICB": "Swindon and Wiltshire Integrated Care Board",
-    "EIS": "Energy and Industrial Strategy"
+    "EIS": "Energy and Industrial Strategy",
+    "IESCCG": "Ipswich and East Suffolk Clinical Commissioning Group",
+    "SCCG": "Sussex Clinical Commissioning Groups",
+    "NYCCG": "North Yorkshire Clinical Commissioning Group",
+    "SHCCG": "Surrey Heartlands Clinical Commissioning Group",
+    "WCCG": "Wyre Clinical Commissioning Groups",
+    "RCCG": "Redbridge Clinical Commissioning Group",
+    "NUH": "Nottingham University Hospitals",
+    "SFH": "Sherwood Forest Hospitals",
+    "NNCCG": "Nottingham and Nottinghamshire Clinical Commissioning Group"
   }
 ]

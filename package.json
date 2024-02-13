@@ -7,6 +7,7 @@
     "correct": "node --no-warnings src/correct/run_corrections.js",
     "correct:update": "node --no-warnings src/correct/add_corrections.js",
     "correct:destinations": "python src/analyse/counts/split_dest.py",
+    "statistics:month": "python src/analyse/counts/sent_statistics.py",
     "analyse:counts": "python src/analyse/counts/counts.py",
     "analyse:areas": "python src/analyse/counts/area_counts.py",
     "analyse:names": "python src/analyse/counts/name_counts.py",
@@ -14,6 +15,7 @@
     "analyse:genders": "python src/analyse/counts/gender_counts.py",
     "analyse:sent_to": "python src/analyse/counts/sent_counts.py",
     "analyse:categories": "python src/analyse/counts/category_counts.py",
+    "analyse:date-statistics": "python src/analyse/counts/statistics_by_date.py",
     "analyse:label-medical": "python src/analyse/natural-language/label-reports.py --causes medical-causes.txt --output medical-cause-reports.csv"
   },
   "dependencies": {

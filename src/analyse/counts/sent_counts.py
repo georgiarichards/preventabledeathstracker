@@ -7,7 +7,7 @@
 
 import os
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 
 import pandas as pd
 
@@ -27,6 +27,24 @@ CORRECT_PATH = os.path.abspath(f"{PATH}/../../correct")
 
 reports = pd.read_csv(f"{REPORTS_PATH}/reports-analysed.csv")
 fetched = pd.read_csv(f"{REPORTS_PATH}/reports.csv")
+
+
+def filter_last_month_records(df):
+    today_date = datetime.now()
+    first_day_of_current_month = today_date.replace(day=1)
+    first_day_of_last_month = (first_day_of_current_month - timedelta(days=1)).replace(day=1)
+    last_day_of_last_month = first_day_of_current_month - timedelta(days=1)
+    df_copy = df.copy()
+    df_copy['date_added'] = pd.to_datetime(df_copy['date_added'], format='%d/%m/%Y')
+    filtered_df = df_copy[(df_copy['date_added'] >= first_day_of_last_month) & (
+            df_copy['date_added'] <= last_day_of_last_month)]
+    filtered_df['date_added'] = filtered_df['date_added'].dt.strftime('%d/%m/%Y')
+    filtered_df = filtered_df.drop(columns=filtered_df.columns[0])
+    return filtered_df, today_date
+
+
+filtered_reports, today_date = filter_last_month_records(reports)
+filtered_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv")
 
 fetched_non_na = fetched.dropna(subset=["this_report_is_being_sent_to"])
 
@@ -384,59 +402,51 @@ statuses.sort_values(by="Date of report", inplace=True, ascending=False)
 statuses["Date of report"] = statuses["Date of report"].dt.strftime('%d/%m/%Y')
 
 
-# def write_sum_of_replies_to_log(path):
-#     sum_of_replies, sum_of_response = get_replies_and_responses(last_month=False)
-#
-#     replies_pattern = re.compile(r" - All replies count: \d+")
-#     response_pattern = re.compile(r" - All responses count: \d+")
-#
-#     new_replies_text = f" - All replies count: {sum_of_replies}"
-#     new_response_text = f" - All responses count: {sum_of_response}"
-#
-#     try:
-#         with open(f'{REPORTS_PATH}/latest.log', 'r') as file:
-#             content = file.read()
-#
-#         new_content = replies_pattern.sub(new_replies_text, content)
-#         new_content = response_pattern.sub(new_response_text, new_content)
-#
-#     except FileNotFoundError:
-#         new_content = f"\n\n{new_response_text}\n{new_replies_text}"
-#
-#     with open(f'{path}', 'w') as file:
-#         file.write(new_content)
-#
-#     print("Log updated.")
+def write_sum_of_replies_to_log(path):
+    sum_of_replies, sum_of_response = get_replies_and_responses(statuses)
+
+    replies_pattern = re.compile(r" - All replies count: \d+")
+    response_pattern = re.compile(r" - All responses count: \d+")
+
+    new_replies_text = f" - All replies count: {sum_of_replies}"
+    new_response_text = f" - All responses count: {sum_of_response}"
+
+    try:
+        with open(path, 'r') as file:
+            content = file.read()
+
+        new_content = replies_pattern.sub(new_replies_text, content)
+        new_content = response_pattern.sub(new_response_text, new_content)
+
+    except FileNotFoundError:
+        new_content = f"\n\n{new_response_text}\n{new_replies_text}"
+
+    with open(f'{path}', 'w') as file:
+        file.write(new_content)
+
+    print("Log updated.")
 
 
-# def get_replies_and_responses(last_month: bool = False):
-#     if last_month:
-#         current_month = datetime.now().month
-#         current_year = datetime.now().year
-#
-#         if current_month == 1:
-#             last_month = 12
-#             year_of_last_month = current_year - 1
-#         else:
-#             last_month = current_month - 1
-#             year_of_last_month = current_year
-#
-#         first_day_of_last_month = datetime(year_of_last_month, last_month, 1)
-#         if last_month == 12:
-#             first_day_of_next_month = datetime(year_of_last_month + 1, 1, 1)
-#         else:
-#             first_day_of_next_month = datetime(year_of_last_month, last_month + 1, 1)
-#
-#         filtered_statuses = statuses[
-#             (statuses['date_added'] >= first_day_of_last_month) & (statuses['date_added'] < first_day_of_next_month)]
-#     else:
-#         filtered_statuses = statuses
-#     sum_of_replies = filtered_statuses['Replies count'].sum()
-#     sum_of_response = filtered_statuses['Sent to count'].sum()
-#     return sum_of_replies, sum_of_response
+def write_monthly_data_to_log(path, df):
+    today_date = datetime.now()
+    with open(f'{path}', 'w') as file:
+        log_msg = (
+            f"Latest monthly fetch on {today_date.strftime('%m/%d/%Y')} at "
+            f"{today_date.strftime('%H:%M:%S')}, for which:\n"
+            f" - {len(df)} new reports were added last month.")
+
+        file.write(log_msg)
+    print("Monthly log created.")
 
 
-# write_sum_of_replies_to_log(f'{REPORTS_PATH}/latest.log')
+def get_replies_and_responses(df):
+    sum_of_replies = df['Replies count'].sum()
+    sum_of_response = df['Sent to count'].sum()
+    return sum_of_replies, sum_of_response
+
+
+write_sum_of_replies_to_log(f'{REPORTS_PATH}/latest.log')
+write_monthly_data_to_log(f'{REPORTS_PATH}/latest_last_month.log', filtered_reports)
 
 statuses.to_csv(f"{DATA_PATH}/sent/db_with_statuses.csv", index=False)
 
