@@ -7,7 +7,6 @@ import time
 
 sys.path.append(".")
 
-import split_dest as _
 time.sleep(1)
 import sort_by_date as _
 

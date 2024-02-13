@@ -24,13 +24,16 @@ def find_matches(_input_string, _pattern):
 
 def get_pattern(file):
     dictionary = get_replacements(file)
-    return '|'.join(re.escape(key) for key in dictionary.values())
+    items = list(dictionary.values())
+    items.extend(list(dictionary.keys()))
+    return '|'.join(re.escape(el) for el in items)
 
 
 def process_csv(file, _pattern):
     df = pd.read_csv(file)
     df['this_report_is_being_sent_to'] = (df['this_report_is_being_sent_to']
                                           .apply(lambda x: find_matches(str(x), _pattern)))
+    df.fillna('', inplace=True)
     df.to_csv(file, index=False)
     print("Done...")
 
@@ -39,6 +42,7 @@ def replace_in_csv(file, _replacements):
     df = pd.read_csv(file)
     df['this_report_is_being_sent_to'] = (df['this_report_is_being_sent_to']
                                           .apply(lambda x: replace_elements(str(x), _replacements)))
+    df.fillna('', inplace=True)
     df.to_csv(file, index=False)
     print("Replace done...")
 
@@ -59,7 +63,8 @@ def get_replacements(file):
 
 replacements = get_replacements(os.path.abspath(f"{CORRECT_PATH}/manual_replace/destinations.json"))
 
-input_csv = os.path.abspath(f"{REPORTS_PATH}/reports-corrected.csv")
+# input_csv = os.path.abspath(f"{REPORTS_PATH}/reports-corrected.csv")
+input_csv = os.path.abspath(f"{REPORTS_PATH}/reports.csv")
 
 pattern = get_pattern(os.path.abspath(f"{CORRECT_PATH}/manual_replace/destinations.json"))
 

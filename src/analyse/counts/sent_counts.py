@@ -9,9 +9,10 @@ import os
 import re
 
 import pandas as pd
-from helpers import percent, toml_stats
+
 from create_badge import create_badge
 from create_button import create_button
+from helpers import percent, toml_stats
 
 TOP_N = 30
 
@@ -331,7 +332,6 @@ toml_stats["requests for response"] = {
     "IQR of requests per recipients": list(sent_counts.quantile([0.25, 0.75])),
 }
 
-
 # %% [markdown]
 # ### Calculating the top coroners
 
@@ -366,6 +366,10 @@ statuses = statuses[new_order]
 exploded = exploded[exploded['response status'] != 'failed']
 statuses = statuses[statuses['Status'] != 'error']
 
+sent_types.rename(columns={'received': 'completed',
+                           '% received': '% completed'},
+                  inplace=True)
+
 sent_counts.to_csv(f"{DATA_PATH}/sent/sent-counts.csv")
 top_counts.to_csv(f"{DATA_PATH}/sent/top-sent-counts.csv")
 sent_types.to_csv(f"{DATA_PATH}/sent/sent-types.csv")
@@ -374,11 +378,21 @@ sent_years.to_csv(f"{DATA_PATH}/sent/sent-types-years.csv")
 status_years.to_csv(f"{DATA_PATH}/sent/status-years.csv")
 exploded.to_csv(f"{DATA_PATH}/sent/statuses.csv", index=False)
 
-
 statuses["Date of report"] = pd.to_datetime(statuses["Date of report"], format='%d/%m/%Y')
 statuses.sort_values(by="Date of report", inplace=True, ascending=False)
 statuses["Date of report"] = statuses["Date of report"].dt.strftime('%d/%m/%Y')
 
+
+def write_sum_of_replies_to_log():
+    sum_of_replies = statuses['Replies count'].sum()
+    sum_of_response = statuses['Sent to count'].sum()
+
+    with open(f'{REPORTS_PATH}/latest.log', 'a') as file:
+        file.write(f"\n\n - All responses count: {sum_of_response}\n")
+        file.write(f" - All replies count: {sum_of_replies}\n")
+
+
+write_sum_of_replies_to_log()
 statuses.to_csv(f"{DATA_PATH}/sent/db_with_statuses.csv", index=False)
 
 area_statuses.to_csv(f"{DATA_PATH}/sent/area-statuses.csv")

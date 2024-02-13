@@ -34,11 +34,12 @@ jobs:
       run: npm ci
 
     - name: Fetch up all date reports
-      if: github.event.schedule == '0 1 1 * *' || github.event_name == 'workflow_dispatch'
       run: npm run fetch:all
 
+    - name: Correct destinations
+      run: npm run correct:destinations
+
     - name: Correct Fetch data
-      if: github.event.schedule == '0 1 1 * *' || github.event_name == 'workflow_dispatch'
       run: npm run correct
 
 
@@ -61,7 +62,6 @@ jobs:
         file_pattern: '**/*.csv **/latest.log **/full_fetch.log **/*.toml'
 
     - name: Send Mail
-      if: github.event.schedule == '0 1 1 * *' || github.event_name == 'workflow_dispatch'
       uses: dawidd6/action-send-mail@v2
       with:
         server_address: smtp.gmail.com
@@ -72,4 +72,4 @@ jobs:
         to: 'georgiarichardscebm@gmail.com'
         from: ${{ secrets.EMAIL_USERNAME }}
         body: 'Good morning! We wanted to inform you about a recent data update in our system.'
-        attachments: src/data/reports.csv, src/data/full_fetch.log
+        attachments: src/data/reports.csv, src/data/full_fetch.log, src/correct/manual_replace/new_unknown_destinations.json

@@ -61,6 +61,8 @@ export default async function Corrector(keep_failed = true) {
         'destinations'
     )
     if (!keep_failed) failed = []
+    const newDest = {}
+
 
     if (corrections.length < 2) corrections.unshift({}, {})
     let known_replacements = [{}, {}]
@@ -101,12 +103,16 @@ export default async function Corrector(keep_failed = true) {
         return replacements[known_match]
     }
 
+
     function add_to_known(text) {
         text = text.replace(non_words, ' ').trim()
         // delete known_replacements[0][to_acronym(text)]
         if (!(text in corrections[0])) {
-            known_replacements[0][text] = text
+            // known_replacements[0][text] = text
+            newDest[text] = text
         }
+
+
         if (to_acronym(text) !== text)
             known_replacements[1][to_acronym(text)] = text
     }
@@ -156,8 +162,8 @@ export default async function Corrector(keep_failed = true) {
     }
 
     correct_name.close = async () => {
-        corrections[0] = {...corrections[0], ...known_replacements[0]};
-        corrections[1] = {...corrections[1], ...known_replacements[1]};
+        // corrections[0] = {...known_replacements[0]};
+        // corrections[1] = {...corrections[1], ...known_replacements[1]};
 
         await Promise.all([
             fs.writeFile(
@@ -171,6 +177,11 @@ export default async function Corrector(keep_failed = true) {
             fs.writeFile(
                 './src/correct/manual_replace/destinations.json',
                 JSON.stringify(corrections, null, 2)
+            ),
+
+            fs.writeFile(
+                './src/correct/manual_replace/new_unknown_destinations.json',
+                JSON.stringify(newDest, null, 2)
             )
         ])
     }

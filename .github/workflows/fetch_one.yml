@@ -33,12 +33,14 @@ jobs:
     - name: Install Fetch dependencies
       run: npm ci
 
-    - name: Fetch up to date reports
-      if: github.event.schedule == '0 17 * * SUN' || github.event_name == 'workflow_dispatch'
-      run: npm run fetch
+    - name: Correct destinations
+      run: npm run correct:destinations
 
     - name: Correct Fetch data
-      if: github.event.schedule == '0 17 * * SUN' || github.event_name == 'workflow_dispatch'
+      run: npm run correct
+
+
+    - name: Correct Fetch data
       run: npm run correct
 
     - name: Setup Python
