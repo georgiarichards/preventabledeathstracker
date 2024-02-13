@@ -14,46 +14,46 @@
 "IQR of categories" = [ 102.0, 480.0,]
 
 ["coroner areas"]
-"no. parsed reports" = 4831
+"no. parsed reports" = 4832
 "no. areas" = 81
-"mean per area" = 59.6
+"mean per area" = 59.7
 "median per area" = 49.0
 "IQR of areas" = [ 22.0, 78.0,]
 
 ["coroners' society"]
-"no. names in society" = 616
-"names in society with reports" = [ 364.0, 59.1,]
-"names in society without reports" = [ 252.0, 40.9,]
-"coroners in society male" = [ 244.0, 39.6,]
-"coroners in society female" = [ 229.0, 37.2,]
-"coroners in society unknown" = [ 143.0, 23.2,]
+"no. names in society" = 576
+"names in society with reports" = [ 344.0, 59.7,]
+"names in society without reports" = [ 232.0, 40.3,]
+"coroners in society male" = [ 230.0, 39.9,]
+"coroners in society female" = [ 221.0, 38.4,]
+"coroners in society unknown" = [ 125.0, 21.7,]
 
 ["coroners in reports"]
-"reports from male coroners" = [ 2099.0, 43.4,]
-"reports from female coroners" = [ 1855.0, 38.4,]
-"reports from unknown coroners" = [ 877.0, 18.2,]
+"reports from male coroners" = [ 1948.0, 40.3,]
+"reports from female coroners" = [ 1782.0, 36.9,]
+"reports from unknown coroners" = [ 1101.0, 22.8,]
 "no. reports parsed" = 4831
-"no. coroner names in reports" = 467
-"reports from top 30 names" = [ 1830.0, 37.9,]
-"mean per name" = 10.3
+"no. coroner names in reports" = 472
+"reports from top 30 names" = [ 1829.0, 37.9,]
+"mean per name" = 10.2
 "median per name" = 4.0
-"IQR of names" = [ 2.0, 11.5,]
+"IQR of names" = [ 1.0, 11.25,]
 
 ["this report is sent to"]
-"reports parsed" = [ 3827.0, 79.2,]
-"reports without recipients" = [ 1004.0, 20.8,]
+"reports parsed" = [ 3723.0, 77.0,]
+"reports without recipients" = [ 1108.0, 22.9,]
 "reports failed" = [ 1.0, 0.0,]
-"reports pending" = [ 70.0, 1.4,]
-"reports overdue" = [ 1195.0, 24.7,]
-"reports partial" = [ 540.0, 11.2,]
-"reports completed" = [ 2022.0, 41.8,]
+"reports pending" = [ 69.0, 1.4,]
+"reports overdue" = [ 1160.0, 24.0,]
+"reports partial" = [ 483.0, 10.0,]
+"reports completed" = [ 2011.0, 41.6,]
 
 ["requests for response"]
-"no. recipients with requests" = 1430
-"no. requests for response" = 6076
-"requests pending" = [ 124.0, 2.0,]
-"requests received" = [ 2837.0, 46.7,]
-"requests overdue" = [ 3115.0, 51.3,]
-"mean no. requests per recipient" = 4.2
+"no. recipients with requests" = 1450
+"no. requests for response" = 5756
+"requests pending" = [ 121.0, 2.1,]
+"requests received" = [ 2693.0, 46.8,]
+"requests overdue" = [ 2942.0, 51.1,]
+"mean no. requests per recipient" = 4.0
 "median no. requests per recipient" = 1.0
 "IQR of requests per recipients" = [ 1.0, 3.0,]
