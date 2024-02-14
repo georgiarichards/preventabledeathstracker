@@ -107,10 +107,6 @@ export default async function Corrector(keep_failed = true) {
     function add_to_known(text) {
         text = text.replace(non_words, ' ').trim()
         // delete known_replacements[0][to_acronym(text)]
-        if (!(text in corrections[0])) {
-            // known_replacements[0][text] = text
-            newDest[text] = text
-        }
 
 
         if (to_acronym(text) !== text)
@@ -178,11 +174,6 @@ export default async function Corrector(keep_failed = true) {
                 './src/correct/manual_replace/destinations.json',
                 JSON.stringify(corrections, null, 2)
             ),
-
-            fs.writeFile(
-                './src/correct/manual_replace/new_unknown_destinations.json',
-                JSON.stringify(newDest, null, 2)
-            )
         ])
     }
     return correct_name

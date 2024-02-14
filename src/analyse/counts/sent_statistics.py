@@ -1,5 +1,7 @@
 import os
 import re
+import toml
+import logging
 
 import pandas as pd
 
@@ -107,3 +109,30 @@ monthly_toml_stats["requests for response"] = {
     "median no. requests per recipient": sent_counts.median(),
     "IQR of requests per recipients": list(sent_counts.quantile([0.25, 0.75])),
 }
+
+
+def toml_to_log(toml_file, log_file):
+    # logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s - %(message)s')
+
+    try:
+        with open(toml_file, 'r', encoding='utf-8') as file:
+            data = toml.load(file)
+    except FileNotFoundError:
+        logging.error(f'File {toml_file} not found.')
+        return
+    except Exception as e:
+        logging.error(f'Error while reading file - {toml_file}: {e}')
+        return
+
+    try:
+        with open(log_file, 'w') as file:
+            for key, value in data.items():
+                for k, v in value.items():
+                    file.write(f"{key}: {k}: {v}\n")
+                file.write('\n')
+    except Exception as e:
+        logging.error(f'Error while writing file - {log_file}: {e}')
+
+
+toml_to_log('src/data/monthly_statistics.toml', 'src/data/monthly_statistics.log')
+toml_to_log('src/data/statistics.toml', 'src/data/statistics.log')

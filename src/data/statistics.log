@@ -1,0 +1,53 @@
+year: no. reports parsed: 4832
+year: no. years covered: 12
+year: mean per year: 459.5
+year: median per year: 439.5
+year: IQR of years: [392.25, 493.5]
+
+death categories: no. reports parsed: 4832
+death categories: no. categories in reports: 6560
+death categories: no. categories: 17
+death categories: mean per category: 385.9
+death categories: median per category: 312.0
+death categories: IQR of categories: [102.0, 480.0]
+
+coroner areas: no. parsed reports: 4832
+coroner areas: no. areas: 81
+coroner areas: mean per area: 59.7
+coroner areas: median per area: 49.0
+coroner areas: IQR of areas: [22.0, 78.0]
+
+coroners' society: no. names in society: 596
+coroners' society: names in society with reports: [354.0, 59.4]
+coroners' society: names in society without reports: [242.0, 40.6]
+coroners' society: coroners in society male: [237.0, 39.8]
+coroners' society: coroners in society female: [220.0, 36.9]
+coroners' society: coroners in society unknown: [139.0, 23.3]
+
+coroners in reports: reports from male coroners: [1968.0, 40.7]
+coroners in reports: reports from female coroners: [1867.0, 38.6]
+coroners in reports: reports from unknown coroners: [996.0, 20.6]
+coroners in reports: no. reports parsed: 4831
+coroners in reports: no. coroner names in reports: 466
+coroners in reports: reports from top 30 names: [1830.0, 37.9]
+coroners in reports: mean per name: 10.4
+coroners in reports: median per name: 4.0
+coroners in reports: IQR of names: [2.0, 11.75]
+
+this report is sent to: reports parsed: [3880.0, 80.3]
+this report is sent to: reports without recipients: [951.0, 19.7]
+this report is sent to: reports failed: [1.0, 0.0]
+this report is sent to: reports pending: [70.0, 1.4]
+this report is sent to: reports overdue: [1215.0, 25.1]
+this report is sent to: reports partial: [689.0, 14.3]
+this report is sent to: reports completed: [1906.0, 39.4]
+
+requests for response: no. recipients with requests: 1531
+requests for response: no. requests for response: 6603
+requests for response: requests pending: [130.0, 2.0]
+requests for response: requests received: [2837.0, 43.0]
+requests for response: requests overdue: [3636.0, 55.1]
+requests for response: mean no. requests per recipient: 4.3
+requests for response: median no. requests per recipient: 1.0
+requests for response: IQR of requests per recipients: [1.0, 3.0]
+

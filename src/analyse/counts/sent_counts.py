@@ -39,12 +39,14 @@ def filter_last_month_records(df):
     filtered_df = df_copy[(df_copy['date_added'] >= first_day_of_last_month) & (
             df_copy['date_added'] <= last_day_of_last_month)]
     filtered_df['date_added'] = filtered_df['date_added'].dt.strftime('%d/%m/%Y')
-    filtered_df = filtered_df.drop(columns=filtered_df.columns[0])
+    filtered_df.reset_index(drop=True, inplace=True)
+    # a = filtered_df.columns
+    # filtered_df.loc[:, ~filtered_df.columns.str.match('')]
     return filtered_df, today_date
 
 
 filtered_reports, today_date = filter_last_month_records(reports)
-filtered_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv")
+filtered_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv", index=False)
 
 fetched_non_na = fetched.dropna(subset=["this_report_is_being_sent_to"])
 

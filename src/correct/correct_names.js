@@ -148,25 +148,10 @@ export default async function Corrector(keep_failed = true) {
     const fetched = await fetch_name_list(
         'https://www.coronersociety.org.uk/coroners/'
     )
-
-    // const fetched1 = await fetch_name_list(
-    //     'https://www.coronersociety.org.uk/coroners/'
-    // )
-    // const fetched2 = await fetch_name_list(
-    //     'https://www.coronersociety.org.uk/coroners/'
-    // )
-    // const fetched3 = await fetch_name_list(
-    //     'https://www.coronersociety.org.uk/coroners/'
-    // )
-    //
-    // let fetched = [...fetched1, ...fetched2, ...fetched3];
-    console.log(fetched.length)
     let fetched_simple = fetched.map(({name, ...rest}) => ({
         name: shorten_whitespace(remove_email_block(name)),
         ...rest
     }))
-
-    console.log(fetched_simple.length)
 
 
     // await fs.writeFile(
@@ -209,7 +194,7 @@ export default async function Corrector(keep_failed = true) {
         name: correct_name(item.name) || item.name
     }));
     await appendNewRowsToCsv('./src/data/coroners-society.csv', fetched_simple)
-    await removeDuplicatesFromCsv('./src/data/coroners-society.csv')
+    // await removeDuplicatesFromCsv('./src/data/coroners-society.csv')
 
 
     correct_name.close = () =>
