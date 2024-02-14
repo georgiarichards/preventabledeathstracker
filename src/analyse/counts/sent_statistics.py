@@ -127,9 +127,11 @@ def toml_to_log(toml_file, log_file):
     try:
         with open(log_file, 'w') as file:
             for key, value in data.items():
+                file.write(key + '\n')
+                file.write("="*20 + '\n')
                 for k, v in value.items():
-                    file.write(f"{key}: {k}: {v}\n")
-                file.write('\n')
+                    file.write(f"{k}: {v}\n")
+                file.write('\n\n')
     except Exception as e:
         logging.error(f'Error while writing file - {log_file}: {e}')
 

@@ -40,8 +40,6 @@ def filter_last_month_records(df):
             df_copy['date_added'] <= last_day_of_last_month)]
     filtered_df['date_added'] = filtered_df['date_added'].dt.strftime('%d/%m/%Y')
     filtered_df.reset_index(drop=True, inplace=True)
-    # a = filtered_df.columns
-    # filtered_df.loc[:, ~filtered_df.columns.str.match('')]
     return filtered_df, today_date
 
 

@@ -45,12 +45,11 @@ jobs:
     - name: Install Analysis requirements
       run: pip install -r src/analyse/counts/requirements.txt
 
-    - name: Correct destinations
-      run: npm run correct:destinations
-
     - name: Correct Fetch data
       run: npm run correct
 
+    - name: Correct destinations
+      run: npm run correct:destinations
 
     - name: Run Analyses
       run: npm run analyse:counts

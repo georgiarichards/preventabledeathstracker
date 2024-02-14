@@ -17,37 +17,37 @@ coroner areas: mean per area: 59.7
 coroner areas: median per area: 49.0
 coroner areas: IQR of areas: [22.0, 78.0]
 
-coroners' society: no. names in society: 539
-coroners' society: names in society with reports: [324.0, 60.1]
-coroners' society: names in society without reports: [215.0, 39.9]
-coroners' society: coroners in society male: [218.0, 40.4]
-coroners' society: coroners in society female: [199.0, 36.9]
-coroners' society: coroners in society unknown: [122.0, 22.6]
+coroners' society: no. names in society: 596
+coroners' society: names in society with reports: [354.0, 59.4]
+coroners' society: names in society without reports: [242.0, 40.6]
+coroners' society: coroners in society male: [237.0, 39.8]
+coroners' society: coroners in society female: [220.0, 36.9]
+coroners' society: coroners in society unknown: [139.0, 23.3]
 
-coroners in reports: reports from male coroners: [1837.0, 38.0]
-coroners in reports: reports from female coroners: [1654.0, 34.2]
-coroners in reports: reports from unknown coroners: [1340.0, 27.7]
+coroners in reports: reports from male coroners: [1968.0, 40.7]
+coroners in reports: reports from female coroners: [1867.0, 38.6]
+coroners in reports: reports from unknown coroners: [996.0, 20.6]
 coroners in reports: no. reports parsed: 4831
-coroners in reports: no. coroner names in reports: 474
-coroners in reports: reports from top 30 names: [1817.0, 37.6]
-coroners in reports: mean per name: 10.2
+coroners in reports: no. coroner names in reports: 466
+coroners in reports: reports from top 30 names: [1830.0, 37.9]
+coroners in reports: mean per name: 10.4
 coroners in reports: median per name: 4.0
-coroners in reports: IQR of names: [1.0, 11.0]
+coroners in reports: IQR of names: [2.0, 11.75]
 
-this report is sent to: reports parsed: [3977.0, 82.3]
-this report is sent to: reports without recipients: [856.0, 17.7]
-this report is sent to: reports failed: [-1.0, 0.0]
-this report is sent to: reports pending: [65.0, 1.3]
-this report is sent to: reports overdue: [1263.0, 26.1]
-this report is sent to: reports partial: [493.0, 10.2]
-this report is sent to: reports completed: [2156.0, 44.6]
+this report is sent to: reports parsed: [3880.0, 80.3]
+this report is sent to: reports without recipients: [951.0, 19.7]
+this report is sent to: reports failed: [1.0, 0.0]
+this report is sent to: reports pending: [70.0, 1.4]
+this report is sent to: reports overdue: [1215.0, 25.1]
+this report is sent to: reports partial: [689.0, 14.3]
+this report is sent to: reports completed: [1906.0, 39.4]
 
-requests for response: no. recipients with requests: 2292
-requests for response: no. requests for response: 6120
-requests for response: requests pending: [106.0, 1.7]
-requests for response: requests received: [2627.0, 42.9]
-requests for response: requests overdue: [3387.0, 55.3]
-requests for response: mean no. requests per recipient: 2.7
+requests for response: no. recipients with requests: 1531
+requests for response: no. requests for response: 6603
+requests for response: requests pending: [130.0, 2.0]
+requests for response: requests received: [2837.0, 43.0]
+requests for response: requests overdue: [3636.0, 55.1]
+requests for response: mean no. requests per recipient: 4.3
 requests for response: median no. requests per recipient: 1.0
-requests for response: IQR of requests per recipients: [1.0, 1.0]
+requests for response: IQR of requests per recipients: [1.0, 3.0]
 

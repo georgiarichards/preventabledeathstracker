@@ -17,6 +17,8 @@ def find_matches(_input_string, _pattern):
         result = []
         for el in input_list:
             if "and" in el:
+                if el == "NICE and Liverpool Heart and Chest Hospital":
+                    print(1)
                 matches = re.finditer(_pattern, el)
                 list_of_match = [match.group() for match in matches if match.group()]
                 cleaned_values = [value.replace(r'\ ', ' ') for value in list_of_match]
