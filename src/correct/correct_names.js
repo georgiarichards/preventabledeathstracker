@@ -11,6 +11,22 @@ import {load_correction_data, merge_failed} from './helpers.js'
  * @param {string} url the coroner society url
  * @returns {Promise<string[]>} the list of page urls
  */
+async function updateJsonFile(filePath, newData) {
+    try {
+        const data = await fs.readFile(filePath, { encoding: 'utf8' });
+        const existingData = JSON.parse(data);
+
+        const updatedData = { ...existingData, ...newData };
+
+        await fs.writeFile(filePath, JSON.stringify(updatedData, null, 2));
+    } catch (error) {
+        if (error.code === 'ENOENT') {
+            await fs.writeFile(filePath, JSON.stringify(newData, null, 2));
+        } else {
+            console.error('Error while updating JSON file:', error);
+        }
+    }
+}
 async function fetch_page_urls(url) {
     const $ = await fetch_html(url)
 
@@ -161,12 +177,14 @@ export default async function Corrector(keep_failed = true) {
     const fetched_replace = Object.fromEntries(
         fetched_simple.map(({name}) => [name, name])
     )
-    console.log(Object.keys(fetched_replace).length)
 
-    await fs.writeFile(
-        './src/correct/data/fetched_names.json',
-        JSON.stringify(fetched_replace, null, 2)
-    )
+    // await fs.writeFile(
+    //     './src/correct/data/fetched_names.json',
+    //     JSON.stringify(fetched_replace, null, 2)
+    // )
+    updateJsonFile('./src/correct/data/fetched_names.json', fetched_replace)
+    .then(() => console.log('JSON successfully updated.'))
+    .catch(error => console.error('An error occurred during the update:', error));
 
     let {failed, incorrect, corrections} = await load_correction_data('names')
     if (!keep_failed) failed = []
@@ -194,7 +212,7 @@ export default async function Corrector(keep_failed = true) {
         name: correct_name(item.name) || item.name
     }));
     await appendNewRowsToCsv('./src/data/coroners-society.csv', fetched_simple)
-    // await removeDuplicatesFromCsv('./src/data/coroners-society.csv')
+    await removeDuplicatesFromCsv('./src/data/coroners-society.csv')
 
 
     correct_name.close = () =>
