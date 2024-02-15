@@ -17,18 +17,16 @@ from helpers import percent, toml_stats
 
 TOP_N = 30
 
+vbar = re.compile(r"\s*\|\s*")
+
 PATH = os.path.dirname(__file__)
 DATA_PATH = os.path.abspath(f"{PATH}/data")
 REPORTS_PATH = os.path.abspath(f"{PATH}/../../data")
 CORRECT_PATH = os.path.abspath(f"{PATH}/../../correct")
 
+
 # %% [markdown]
 # ### Reading the reports
-
-reports = pd.read_csv(f"{REPORTS_PATH}/reports-analysed.csv")
-fetched = pd.read_csv(f"{REPORTS_PATH}/reports.csv")
-
-
 def filter_last_month_records(df):
     today_date = datetime.now()
     first_day_of_current_month = today_date.replace(day=1)
@@ -42,6 +40,26 @@ def filter_last_month_records(df):
     filtered_df.reset_index(drop=True, inplace=True)
     return filtered_df, today_date
 
+
+reports = pd.read_csv(f"{REPORTS_PATH}/reports-analysed.csv")
+fetched = pd.read_csv(f"{REPORTS_PATH}/reports.csv")
+
+reports["replies"] = (
+    reports["reply_urls"]
+    .fillna("")
+    .str.split(vbar)
+    .apply(lambda replies: [reply for reply in replies if "Response" in reply])
+)
+reports["no. replies"] = 0
+reports["no. replies"] = reports["replies"].str.len()
+
+reports["replies"] = (
+    reports["reply_urls"]
+    .fillna("")
+    .str.split(vbar)
+    .apply(lambda replies: [reply for reply in replies if "Response" in reply])
+)
+reports["no. replies"] = reports["replies"].str.len()
 
 filtered_reports, today_date = filter_last_month_records(reports)
 filtered_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv", index=False)
@@ -58,14 +76,13 @@ report_due = (today - report_date).dt.days > 56
 # %% [markdown]
 # ### Splitting the sent to and reply urls
 
-vbar = re.compile(r"\s*\|\s*")
 non_na = reports.assign(year=report_date.dt.year).dropna(subset=["this_report_is_being_sent_to"]).copy()
 non_na["status"] = "overdue"
 non_na["sent_to"] = non_na["this_report_is_being_sent_to"].str.split(vbar)
 non_na["no. recipients"] = non_na["sent_to"].str.len()
 
 non_na["replies"] = (
-    non_na["reply_urls"]
+    reports["reply_urls"]
     .fillna("")
     .str.split(vbar)
     .apply(lambda replies: [reply for reply in replies if "Response" in reply])
@@ -111,8 +128,10 @@ with_responses = non_na.apply(responses_from, axis=1)
 
 # if there's none, mark overdue
 no_responses = (with_responses.str.len() == 0) & (non_na["replies"].str.len() == 0)
-# no_responses = (non_na["no. recipients"] != non_na["no. replies"]) & (non_na["no. recipients"] > 0)
 non_na.loc[no_responses, "response status"] = "overdue"
+
+equal_len_r = reports["no. recipients"] <= reports["no. replies"]
+reports.loc[equal_len_r, "response status"] = "completed"
 
 # if there's an equal number of recipients and replies, mark completed
 equal_len = (non_na["sent_to"].str.len() <= non_na["replies"].str.len()) & (non_na["sent_to"].str.len() > 0)
@@ -129,16 +148,19 @@ non_na.loc[~report_due & (non_na["response status"] == "partial"), "response sta
 # %% [markdown]
 # ### Adding the non_na rows back to the reports
 
-reports.loc[:, "response status"] = "failed"
-reports.loc[non_na.index, "response status"] = non_na["response status"]
+# mask_abc_zero = reports["no. replies"] == 0
+# mask_update = mask_abc_zero & reports.index.isin(reports.index)
+# reports.loc[mask_update, "response status"] = reports["response status"]
+
 empty_requests = reports["this_report_is_being_sent_to"].isna()
-reports.loc[empty_requests, "response status"] = "no requests"
+condition = (reports["no. replies"] == 0) & empty_requests
+reports.loc[condition, "response status"] = "no requests"
 
-reports.loc[:, "no. recipients"] = 0
-reports.loc[non_na.index, "no. recipients"] = non_na["no. recipients"]
-
-reports.loc[:, "no. replies"] = 0
-reports.loc[non_na.index, "no. replies"] = non_na["no. replies"]
+# reports.loc[:, "no. recipients"] = 0
+# reports.loc[non_na.index, "no. recipients"] = non_na["no. recipients"]
+#
+# reports.loc[:, "no. replies"] = 0
+# reports.loc[non_na.index, "no. replies"] = non_na["no. replies"]
 
 print(reports[["ref", "response status"]].head(10))
 print(reports["response status"].value_counts())
@@ -369,15 +391,16 @@ statuses.rename(columns={'response status': 'Status',
                          'coroner_area': 'Coroner area',
                          'no. replies': 'Replies count',
                          'no. recipients': 'Sent to count',
-                         'this_report_is_being_sent_to': 'Sent to'},
+                         'this_report_is_being_sent_to': 'Sent to',
+                         'report_url': 'Report URL'},
                 inplace=True)
 
 statuses['Status'] = statuses['Status'].replace({'no requests': 'no data', 'failed': 'error'})
 
 statuses['Status'] = statuses['Status'].apply(create_badge)
-statuses['Deceased name'] = statuses.apply(lambda row: create_button(row['Deceased name'], row['report_url']), axis=1)
-new_order = ['Status', 'Date of report', 'Ref', 'Deceased name', 'Coroner name', 'Coroner area', 'Category',
-             'Sent to', 'Sent to count', 'Replies count']
+# statuses['Deceased name'] = statuses.apply(lambda row: create_button(row['Deceased name'], row['report_url']), axis=1)
+new_order = ['Status', 'Date of report', 'Ref', 'Deceased name', 'Coroner name', 'Coroner area',
+             'Sent to', 'Sent to count', 'Replies count', 'Report URL']
 statuses = statuses[new_order]
 
 # %% [markdown]

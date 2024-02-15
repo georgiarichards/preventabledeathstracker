@@ -170,10 +170,10 @@ export default async function Corrector(keep_failed = true) {
                     2
                 )
             ),
-            fs.writeFile(
-                './src/correct/manual_replace/destinations.json',
-                JSON.stringify(corrections, null, 2)
-            ),
+            // fs.writeFile(
+            //     './src/correct/manual_replace/destinations.json',
+            //     JSON.stringify(corrections, null, 2)
+            // ),
         ])
     }
     return correct_name
