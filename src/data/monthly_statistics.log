@@ -3,19 +3,19 @@ this report is sent to
 reports parsed: [41.0, 100.0]
 reports without recipients: [0.0, 0.0]
 reports failed: [0.0, 0.0]
-reports pending: [37.0, 90.2]
-reports overdue: [3.0, 7.3]
+reports pending: [36.0, 87.8]
+reports overdue: [4.0, 9.8]
 reports partial: [0.0, 0.0]
 reports completed: [1.0, 2.4]
 
 
 requests for response
 ====================
-no. recipients with requests: 60
+no. recipients with requests: 59
 no. requests for response: 70
-requests pending: [65.0, 92.9]
+requests pending: [63.0, 90.0]
 requests received: [1.0, 1.4]
-requests overdue: [4.0, 5.7]
+requests overdue: [6.0, 8.6]
 mean no. requests per recipient: 1.2
 median no. requests per recipient: 1.0
 IQR of requests per recipients: [1.0, 1.0]
