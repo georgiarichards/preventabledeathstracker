@@ -52,10 +52,6 @@ reports["replies"] = (
 reports["no. replies"] = 0
 reports["no. replies"] = reports["replies"].str.len()
 
-
-filtered_reports, today_date = filter_last_month_records(reports)
-filtered_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv", index=False)
-
 fetched_non_na = fetched.dropna(subset=["this_report_is_being_sent_to"])
 
 # %% [markdown]
@@ -153,7 +149,6 @@ non_na.loc[~report_due & (non_na["response status"] == "partial"), "response sta
 
 reports.loc[~report_due & (reports["response status"] == "overdue"), "response status"] = "pending"
 reports.loc[~report_due & (reports["response status"] == "partial"), "response status"] = "pending"
-
 
 equal_len_r = ((reports["no. recipients"] <= reports["no. replies"]) &
                (reports["no. recipients"] != 0) &
@@ -465,12 +460,15 @@ def write_sum_of_replies_to_log(path):
 
 
 def write_monthly_data_to_log(path, df):
+    sum_of_replies, sum_of_response = get_replies_and_responses(statuses)
     today_date = datetime.now()
     with open(f'{path}', 'w') as file:
         log_msg = (
             f"Latest monthly fetch on {today_date.strftime('%m/%d/%Y')} at "
             f"{today_date.strftime('%H:%M:%S')}, for which:\n"
-            f" - {len(df)} new reports were added last month.")
+            f" - {len(df)} new reports were added last month.\n\n")
+        log_msg += f"\n - All replies count: {sum_of_replies}"
+        log_msg += f"\n - All responses count: {sum_of_response}"
 
         file.write(log_msg)
     print("Monthly log created.")
@@ -482,10 +480,41 @@ def get_replies_and_responses(df):
     return sum_of_replies, sum_of_response
 
 
+statuses.to_csv(f"{DATA_PATH}/sent/db_with_statuses.csv", index=False)
+filtered_reports, today_date = filter_last_month_records(reports)
+
+selected_columns = [
+    'Status',
+    'Date added',
+    'Date of report',
+    'Ref',
+    'Deceased name',
+    'Coroner name',
+    'Coroner area',
+    'Category',
+    'Sent to',
+    'Sent to count',
+    'Replies count',
+    'URL'
+]
+filtered_reports.rename(columns={'response status': 'Status',
+                                 'date_of_report': 'Date of report',
+                                 'date_added': 'Date added',
+                                 'ref': 'Ref',
+                                 'deceased_name': 'Deceased name',
+                                 'coroner_name': 'Coroner name',
+                                 'coroner_area': 'Coroner area',
+                                 'category': 'Category',
+                                 'no. replies': 'Replies count',
+                                 'no. recipients': 'Sent to count',
+                                 'this_report_is_being_sent_to': 'Sent to',
+                                 'report_url': 'URL'},
+                        inplace=True)
+filtered_reports = filtered_reports[selected_columns]
+filtered_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv", index=False)
+
 write_sum_of_replies_to_log(f'{REPORTS_PATH}/latest.log')
 write_monthly_data_to_log(f'{REPORTS_PATH}/latest_last_month.log', filtered_reports)
-
-statuses.to_csv(f"{DATA_PATH}/sent/db_with_statuses.csv", index=False)
 
 name_statuses.rename(columns={'no. recipients': 'sent to count',
                               'no. replies': 'replies count',
