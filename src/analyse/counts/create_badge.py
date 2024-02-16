@@ -1,6 +1,7 @@
 def create_badge(status: str) -> str:
     colors = {
         'no data': '#a1a1a1',
+        'no sent_to': '#878686',
         'error': '#8c0a8c',
         'pending': '#1e1ef6',
         'overdue': '#ef2626',

@@ -12,7 +12,6 @@ from datetime import datetime, timedelta
 import pandas as pd
 
 from create_badge import create_badge
-from create_button import create_button
 from helpers import percent, toml_stats
 
 TOP_N = 30
@@ -36,7 +35,7 @@ def filter_last_month_records(df):
     df_copy['date_added'] = pd.to_datetime(df_copy['date_added'], format='%d/%m/%Y')
     filtered_df = df_copy[(df_copy['date_added'] >= first_day_of_last_month) & (
             df_copy['date_added'] <= last_day_of_last_month)]
-    filtered_df['date_added'] = filtered_df['date_added'].dt.strftime('%d/%m/%Y')
+    filtered_df.loc[:, 'date_added'] = filtered_df['date_added'].dt.strftime('%d/%m/%Y')
     filtered_df.reset_index(drop=True, inplace=True)
     return filtered_df, today_date
 
@@ -48,18 +47,11 @@ reports["replies"] = (
     reports["reply_urls"]
     .fillna("")
     .str.split(vbar)
-    .apply(lambda replies: [reply for reply in replies if "Response" in reply])
+    .apply(lambda replies: [reply for reply in replies if "https" in reply])
 )
 reports["no. replies"] = 0
 reports["no. replies"] = reports["replies"].str.len()
 
-reports["replies"] = (
-    reports["reply_urls"]
-    .fillna("")
-    .str.split(vbar)
-    .apply(lambda replies: [reply for reply in replies if "Response" in reply])
-)
-reports["no. replies"] = reports["replies"].str.len()
 
 filtered_reports, today_date = filter_last_month_records(reports)
 filtered_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv", index=False)
@@ -121,17 +113,31 @@ type_counts = exploded.value_counts("status")
 # ### Calculating the status of each report
 
 non_na.loc[:, "response status"] = "partial"
+reports.loc[:, "response status"] = "partial"
 
 # for each report, calculate the list of recipients with responses
+
+
+# reports["escaped_urls"] = reports["reply_urls"].str.replace(r"[-_]|%20", " ", regex=True).fillna("")
+# reports["sent_to"] = reports["this_report_is_being_sent_to"].str.split(vbar)
+#
 responses_from = lambda row: [sent for sent in row["sent_to"] if sent in row["escaped_urls"]]
 with_responses = non_na.apply(responses_from, axis=1)
+# with_responses_r = reports.apply(responses_from, axis=1)
 
 # if there's none, mark overdue
 no_responses = (with_responses.str.len() == 0) & (non_na["replies"].str.len() == 0)
 non_na.loc[no_responses, "response status"] = "overdue"
 
-equal_len_r = reports["no. recipients"] <= reports["no. replies"]
-reports.loc[equal_len_r, "response status"] = "completed"
+no_responses_r = (reports["no. recipients"] > 0) & (reports["no. replies"] == 0)
+reports.loc[no_responses_r, "response status"] = "overdue"
+
+# no_responses_r = (with_responses_r.str.len() == 0) & (reports["replies"].str.len() == 0)
+# reports.loc[no_responses_r, "response status"] = "overdue"
+
+
+no_sent_to = (reports["no. recipients"] == 0) & (reports["no. replies"] > 0)
+reports.loc[no_sent_to, "response status"] = "no sent_to"
 
 # if there's an equal number of recipients and replies, mark completed
 equal_len = (non_na["sent_to"].str.len() <= non_na["replies"].str.len()) & (non_na["sent_to"].str.len() > 0)
@@ -145,6 +151,14 @@ non_na.loc[all_responses, "response status"] = "completed"
 non_na.loc[~report_due & (non_na["response status"] == "overdue"), "response status"] = "pending"
 non_na.loc[~report_due & (non_na["response status"] == "partial"), "response status"] = "pending"
 
+reports.loc[~report_due & (reports["response status"] == "overdue"), "response status"] = "pending"
+reports.loc[~report_due & (reports["response status"] == "partial"), "response status"] = "pending"
+
+
+equal_len_r = ((reports["no. recipients"] <= reports["no. replies"]) &
+               (reports["no. recipients"] != 0) &
+               (reports["no. replies"] != 0))
+reports.loc[equal_len_r, "response status"] = "completed"
 # %% [markdown]
 # ### Adding the non_na rows back to the reports
 
@@ -152,8 +166,8 @@ non_na.loc[~report_due & (non_na["response status"] == "partial"), "response sta
 # mask_update = mask_abc_zero & reports.index.isin(reports.index)
 # reports.loc[mask_update, "response status"] = reports["response status"]
 
-empty_requests = reports["this_report_is_being_sent_to"].isna()
-condition = (reports["no. replies"] == 0) & empty_requests
+# empty_requests = reports["this_report_is_being_sent_to"].isna()
+condition = (reports["no. replies"] == 0) & (reports["no. recipients"] == 0)
 reports.loc[condition, "response status"] = "no requests"
 
 # reports.loc[:, "no. recipients"] = 0
@@ -173,10 +187,10 @@ status_years = reports.assign(year=report_date.dt.year).value_counts(["year", "r
 
 failed_index = True
 try:
-    status_years = status_years[["no requests", "failed", "pending", "overdue", "partial", "completed"]]
+    status_years = status_years[["no requests", "no sent_to", "failed", "pending", "overdue", "partial", "completed"]]
 except KeyError:
     failed_index = False
-    status_years = status_years[["no requests", "pending", "overdue", "partial", "completed"]]
+    status_years = status_years[["no requests", "no sent_to", "pending", "overdue", "partial", "completed"]]
 
 # %% [markdown]
 # ### Writing back the reports with the status
