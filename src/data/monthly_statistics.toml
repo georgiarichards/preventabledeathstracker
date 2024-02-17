@@ -8,11 +8,11 @@
 "reports completed" = [ 1.0, 2.4,]
 
 ["requests for response"]
-"no. recipients with requests" = 59
-"no. requests for response" = 70
-"requests pending" = [ 59.0, 84.3,]
-"requests received" = [ 1.0, 1.4,]
-"requests overdue" = [ 10.0, 14.3,]
-"mean no. requests per recipient" = 1.2
+"no. recipients with requests" = 39
+"no. requests for response" = 41
+"requests pending" = [ 34.0, 82.9,]
+"requests received" = [ 1.0, 2.4,]
+"requests overdue" = [ 6.0, 14.6,]
+"mean no. requests per recipient" = 1.1
 "median no. requests per recipient" = 1.0
 "IQR of requests per recipients" = [ 1.0, 1.0,]

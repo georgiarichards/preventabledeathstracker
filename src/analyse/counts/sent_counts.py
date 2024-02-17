@@ -35,7 +35,7 @@ def filter_last_month_records(df):
     df_copy['date_added'] = pd.to_datetime(df_copy['date_added'], format='%d/%m/%Y')
     filtered_df = df_copy[(df_copy['date_added'] >= first_day_of_last_month) & (
             df_copy['date_added'] <= last_day_of_last_month)]
-    filtered_df.loc[:, 'date_added'] = filtered_df['date_added'].dt.strftime('%d/%m/%Y')
+    filtered_df['date_added'] = filtered_df['date_added'].dt.strftime('%d/%m/%Y')
     filtered_df.reset_index(drop=True, inplace=True)
     return filtered_df, today_date
 
@@ -401,14 +401,15 @@ statuses.rename(columns={'response status': 'Status',
                          'no. replies': 'Replies count',
                          'no. recipients': 'Sent to count',
                          'this_report_is_being_sent_to': 'Sent to',
-                         'report_url': 'Report URL'},
+                         'report_url': 'Report URL',
+                         'date_added': 'Date added'},
                 inplace=True)
 
 statuses['Status'] = statuses['Status'].replace({'no requests': 'no data', 'failed': 'error'})
 
 statuses['Status'] = statuses['Status'].apply(create_badge)
 # statuses['Deceased name'] = statuses.apply(lambda row: create_button(row['Deceased name'], row['report_url']), axis=1)
-new_order = ['Status', 'Date of report', 'Ref', 'Deceased name', 'Coroner name', 'Coroner area',
+new_order = ['Status', 'Date added',  'Date of report', 'Ref', 'Deceased name', 'Coroner name', 'Coroner area',
              'Sent to', 'Sent to count', 'Replies count', 'Report URL']
 statuses = statuses[new_order]
 

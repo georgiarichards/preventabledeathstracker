@@ -1,12 +1,12 @@
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 
 from helpers import toml_stats
 
 PATH = os.path.dirname(__file__)
 file_path = os.path.abspath(f"{PATH}/data/sent/received_percents.csv")
-date = datetime.now().strftime("%d/%m/%Y")
+date = (datetime.now()-timedelta(days=1)).strftime("%b %y")
 percent = ','.join(str(toml_stats["requests for response"]["requests received"][1]).split('.'))
 new_data = pd.DataFrame({
     "Date": [date],

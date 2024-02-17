@@ -1,6 +1,7 @@
 [
   {
     "Titan Containers Limited": "Titan Containers Limited",
+    "Decathlon UK": "Decathlon UK",
     "Brighton Sussex University NHS Hospital Trust, West Sussex NHS Hospital Trust and Medico-Legal": "University Hospitals Sussex NHS Foundation Trust",
     "Brighton Sussex University NHS Hospital Trust": "University Hospitals Sussex NHS Foundation Trust",
     "Western Sussex Hospitals": "Western Sussex Hospitals NHS Foundation Trust",
@@ -69,7 +70,7 @@
     "Birmingham and Solihull Mental Health NHS Trust and Birmingham City Council": "Birmingham and Solihull Mental Health NHS Trust | Birmingham City Council",
     "Department of Health and Social Care and Birmingham and Solihull Mental Health Foundation Trust": "Department of Health and Social Care | Birmingham and Solihull Mental Health Foundation Trust",
     "Department for Transport and Road & Rail": "Department for Transport",
-    "Department for the Environment": "Department for Environment, Food & Rural Affairs", 
+    "Department for the Environment": "Department for Environment, Food and Rural Affairs",
     "Betfair": "Betfair",
     "West Midlands Combined Authority": "West Midlands Combined Authority",
     "and Collaborative Mobility UK": "Collaborative Mobility UK",
@@ -162,7 +163,7 @@
     "Rosedale Surgery Lowestoft": "Rosedale Surgery Lowestoft",
     "Planning and Building Safety": "Planning and Building Safety",
     "Department for Culture": "Department for Culture, Media and Sport",
-    "Ambulance Service NHS Trust": "Ambulance Service NHS Trust"
+    "Ambulance Service NHS Trust": "Ambulance Service NHS Trust",
     "ELFT": "ELFT",
     "Westmorland and Furness Council": "Westmorland and Furness Council",
     "Department for Digital": "Department for Culture, Media and Sport",
@@ -1293,7 +1294,6 @@
     "Department for Levelling Up, Housing and Communities": "Department for Levelling Up, Housing and Communities",
     "Department for the Environment Food and Rural Affairs": "Department for Environment, Food and Rural Affairs",
     "Department for Environment, Food and Rural Affairs": "Department for Environment, Food and Rural Affairs",
-    "Department for the Environment": "Department for Environment, Food and Rural Affairs",
     "Department for Health": "Department of Health and Social Care",
     "Department fr Health": "Department of Health and Social Care",
     "Department of Health": "Department of Health and Social Care",
@@ -2039,7 +2039,6 @@
     "St Giles Care Home": "St Giles Care Home",
     "St Giles Nursing Home": "St Giles Nursing Home",
     "St Helens Clinical Commissioning Group": "Cheshire and Merseyside Integrated Care Board",
-    "St John’s College, Oxford University": "St John’s College, Oxford University",
     "St John's Nursing Home": "St John's Nursing Home",
     "St Lukes Primary Care Centre": "St Lukes Primary Care Centre",
     "St Marien Hospital Trust": "Imperial College Healthcare NHS Trust",
@@ -2331,7 +2330,6 @@
     "HM Prison Exeter": "HM Prison Exeter",
     "Gateshead Health NHS Foundation Trust": "Gateshead Health NHS Foundation Trust",
     "NHS Gloucestershire Integrated Care Board": "NHS Gloucestershire Integrated Care Board",
-    "General Medicial Council": "General Medicial Council",
     "HM Prison Hewell": "HM Prison Hewell",
     "Govia Thameslink Railway": "Govia Thameslink Railway",
     "Great Ormond Street Hospital for Children NHS Foundation Trust": "Great Ormond Street Hospital for Children NHS Foundation Trust",
@@ -3459,6 +3457,6 @@
     "WCCG": "Wyre Clinical Commissioning Groups",
     "RCCG": "Redbridge Clinical Commissioning Group",
     "NUH": "Nottingham University Hospitals",
-    "SFH": "Sherwood Forest Hospitals",
+    "SFH": "Sherwood Forest Hospitals"
   }
 ]
