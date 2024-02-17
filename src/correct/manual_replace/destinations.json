@@ -3415,8 +3415,6 @@
     "CDO": "Commonwealth and Development Office",
     "PPS": "Prison and Probation Service",
     "CPMP": "College of Policing and Metropolitan Police",
-    "DHSCGMIC": "Department of Health and Social Care and Greater Manchester Integrated Care",
-    "DHSCBSMHFT": "Department of Health and Social Care and Birmingham and Solihull Mental Health Foundation Trust",
     "DTRR": "Department for Transport and Road & Rail",
     "GCDC": "Gambling Commission and Department for Culture",
     "WMCA": "West Midlands Combined Authority",
@@ -3430,7 +3428,6 @@
     "DLU": "Department for Levelling Up",
     "O2P": "Orchard 2000 Pharmacy",
     "BGP": "Broadgate General Practice",
-    "SJsC": "St John’s College",
     "BNES": "Bath and North East Somerset",
     "SWICB": "Swindon and Wiltshire Integrated Care Board",
     "EIS": "Energy and Industrial Strategy",
@@ -3442,6 +3439,5 @@
     "RCCG": "Redbridge Clinical Commissioning Group",
     "NUH": "Nottingham University Hospitals",
     "SFH": "Sherwood Forest Hospitals",
-    "NNCCG": "Nottingham and Nottinghamshire Clinical Commissioning Group"
   }
 ]
