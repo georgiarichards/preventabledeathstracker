@@ -514,6 +514,23 @@ filtered_reports.rename(columns={'response status': 'Status',
 filtered_reports = filtered_reports[selected_columns]
 filtered_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv", index=False)
 
+database = reports.copy()
+database.rename(columns={'response status': 'Status',
+                                 'date_of_report': 'Date of report',
+                                 'date_added': 'Date added',
+                                 'ref': 'Ref',
+                                 'deceased_name': 'Deceased name',
+                                 'coroner_name': 'Coroner name',
+                                 'coroner_area': 'Coroner area',
+                                 'category': 'Category',
+                                 'no. replies': 'Replies count',
+                                 'no. recipients': 'Sent to count',
+                                 'this_report_is_being_sent_to': 'Sent to',
+                                 'report_url': 'URL'},
+                        inplace=True)
+database = database[selected_columns]
+database.to_csv(f"{DATA_PATH}/sent/database.csv", index=False)
+
 write_sum_of_replies_to_log(f'{REPORTS_PATH}/latest.log')
 write_monthly_data_to_log(f'{REPORTS_PATH}/latest_last_month.log', filtered_reports)
 

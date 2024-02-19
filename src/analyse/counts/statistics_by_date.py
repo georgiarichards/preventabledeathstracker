@@ -7,7 +7,7 @@ from helpers import toml_stats
 PATH = os.path.dirname(__file__)
 file_path = os.path.abspath(f"{PATH}/data/sent/received_percents.csv")
 date = (datetime.now()-timedelta(days=1)).strftime("%b %y")
-percent = ','.join(str(toml_stats["requests for response"]["requests received"][1]).split('.'))
+percent = ','.join(str(toml_stats["this report is sent to"]["reports completed"][1]).split('.'))
 new_data = pd.DataFrame({
     "Date": [date],
     "Requests Received Percent": [percent]
