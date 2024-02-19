@@ -461,7 +461,7 @@ def write_sum_of_replies_to_log(path):
 
 
 def write_monthly_data_to_log(path, df):
-    sum_of_replies, sum_of_response = get_replies_and_responses(statuses)
+    sum_of_replies, sum_of_response = get_replies_and_responses(df)
     today_date = datetime.now()
     with open(f'{path}', 'w') as file:
         log_msg = (
