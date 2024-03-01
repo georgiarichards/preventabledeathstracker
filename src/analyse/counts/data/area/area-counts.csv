@@ -1,48 +1,48 @@
 coroner_area,count
 Greater Manchester South,405
 London Inner North,249
-"West Sussex, Brighton and Hove",153
+"West Sussex, Brighton and Hove",154
 Birmingham and Solihull,149
-Surrey,146
+Surrey,147
 London East,137
 London Inner South,128
-South Wales Central,120
+South Wales Central,121
 Greater Manchester North,111
+Staffordshire and Stoke-on-Trent,109
 Greater Manchester West,109
-Staffordshire and Stoke-on-Trent,108
-Yorkshire West Eastern,103
-Norfolk,102
+Yorkshire West Eastern,104
+Norfolk,103
 Nottinghamshire,102
 Cornwall and the Isles of Scilly,97
-North Wales (East & Central),89
+North Wales (East & Central),90
 Avon,89
-The Black Country Jurisdiction,82
 "Hampshire, Portsmouth and Southampton",82
+The Black Country Jurisdiction,82
 County Durham and Darlington,80
-Yorkshire South West,78
 Yorkshire West Western,78
-Bedfordshire and Luton,71
+Yorkshire South West,78
 Essex,71
+Bedfordshire and Luton,71
 London Inner West,70
 Leicester City and South Leicestershire,69
 Milton Keynes,67
 Cumbria,66
 Manchester City,62
-London North,61
+London North,62
 Lincolnshire,60
-Dorset,58
 Liverpool and the Wirral,58
+Dorset,58
 Kent Mid and Medway,55
 Suffolk,54
 London West,52
 Wiltshire and Swindon,51
 Berkshire,51
 Worcestershire,51
-Lancashire and Blackburn with Darwen,50
 "Plymouth, Torbay and South Devon",50
+Lancashire and Blackburn with Darwen,50
 Exeter and Greater Devon,49
 Derby and Derbyshire,47
-Yorkshire South East,45
+Yorkshire South East,46
 Blackpool and Fylde,45
 Sunderland,41
 Warwickshire,39
@@ -61,13 +61,13 @@ North Yorkshire and York,24
 Swansea and Neath Port Talbot,23
 "Shropshire, Telford and Wrekin",22
 Somerset,22
-Buckinghamshire,21
-Carmarthenshire and Pembrokeshire,21
 Kent North East,21
-Coventry,19
-East Sussex,19
-Isle of Wight,19
+Carmarthenshire and Pembrokeshire,21
+Buckinghamshire,21
 North West Wales,19
+Isle of Wight,19
+East Sussex,19
+Coventry,19
 Northumberland North,17
 London City,15
 Teesside,10
@@ -78,5 +78,5 @@ Gateshead and South Tyneside,8
 Hartlepool,7
 "Sefton, Knowsley and St Helens",6
 North Lincolnshire and Grimsby,6
-Northumberland South,1
 Ceredigion,1
+Northumberland South,1
