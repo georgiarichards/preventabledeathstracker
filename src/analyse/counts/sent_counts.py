@@ -99,7 +99,7 @@ exploded["status"] = exploded["status"].mask(responded, "received")
 sent_types = exploded.value_counts(["sent_to", "status"]).unstack(fill_value=0)
 sent_types["no. PFDs"] = exploded["sent_to"].value_counts()
 sent_types = sent_types[["no. PFDs", "overdue", "pending", "received"]].sort_values("no. PFDs", ascending=False)
-sent_types["% received"] = (sent_types["received"] / sent_types["no. PFDs"] * 100).round(1)
+sent_types["% received"] = (sent_types["received"] / sent_types["no. PFDs"] * 100)
 # sent_types["% received"] = sent_types["% received"].apply(lambda el: f"{','.join(str(el).split('.'))}")
 sent_types["% received"] = sent_types["% received"].apply(lambda el: int(round(el, 0)))
 
