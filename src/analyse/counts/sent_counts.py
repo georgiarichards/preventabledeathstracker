@@ -100,7 +100,6 @@ sent_types = exploded.value_counts(["sent_to", "status"]).unstack(fill_value=0)
 sent_types["no. PFDs"] = exploded["sent_to"].value_counts()
 sent_types = sent_types[["no. PFDs", "overdue", "pending", "received"]].sort_values("no. PFDs", ascending=False)
 sent_types["% received"] = (sent_types["received"] / sent_types["no. PFDs"] * 100)
-# sent_types["% received"] = sent_types["% received"].apply(lambda el: f"{','.join(str(el).split('.'))}")
 sent_types["% received"] = sent_types["% received"].apply(lambda el: int(round(el, 0)))
 
 sent_counts = exploded.value_counts("sent_to")
@@ -463,15 +462,14 @@ def write_sum_of_replies_to_log(path):
 
 
 def write_monthly_data_to_log(path, df):
-    sum_of_replies, sum_of_response = get_replies_and_responses(df)
-    today_date = datetime.now()
+    sum_of_replies, _ = get_replies_and_responses(df)
+    today_date_ = datetime.now()
     with open(f'{path}', 'w') as file:
         log_msg = (
-            f"Latest monthly fetch on {today_date.strftime('%m/%d/%Y')} at "
-            f"{today_date.strftime('%H:%M:%S')}, for which:\n"
+            f"Latest monthly fetch on {today_date_.strftime('%m/%d/%Y')} at "
+            f"{today_date_.strftime('%H:%M:%S')}, for which:\n"
             f" - {len(df)} new reports were added last month.\n\n")
-        log_msg += f"\n - All replies count: {sum_of_replies}"
-        log_msg += f"\n - All responses count: {sum_of_response}"
+        log_msg += f"\n - Replies counts last month: {sum_of_replies}"
 
         file.write(log_msg)
     print("Monthly log created.")
