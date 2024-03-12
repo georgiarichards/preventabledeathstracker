@@ -95,7 +95,8 @@ export default async function Corrector(keep_failed = true) {
 
     if (date === undefined) {
       failed.push(text)
-      return text
+      // return text
+      return undefined
     }
     // special case: someone doesn't include the leading 20 in the year
     if (date.getFullYear() < 2000) {
