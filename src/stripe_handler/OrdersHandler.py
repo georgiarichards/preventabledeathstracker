@@ -18,7 +18,7 @@ class OrdersHandler:
         self.email_cred = UserCred(email=os.getenv("EMAIL"), password=os.getenv("PASSWORD"))
 
     def handle(self) -> None:
-        start_time = int((datetime.now() - timedelta(minutes=120)).timestamp())
+        start_time = int((datetime.now() - timedelta(minutes=60)).timestamp())
         end_time = int(datetime.now().timestamp())
         payment_intents = stripe.PaymentIntent.list(created={"gte": start_time, "lte": end_time})
         _orders = {}
