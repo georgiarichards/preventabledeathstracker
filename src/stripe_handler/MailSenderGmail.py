@@ -28,6 +28,7 @@ class MailSenderGmail:
         self.smtp.login(self.email, self.password)
         self.smtp.sendmail(self.email, self.config.email_to, self.msg.as_string())
         self.smtp.quit()
+        print("Message sended")
 
     def _create_message(self) -> None:
         """
