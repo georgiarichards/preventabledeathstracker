@@ -4,45 +4,45 @@ PRODUCT_DETAILS_MAP = {
         "features": [
             "Track PFDs addressed to specific organisations",
             "Access over a decade of data, since July 2013",
-            "Track if organisations have responded to PFDs",
+            "Explore if organisations have responded to PFDs",
         ],
         "description": "download of the latest version of the Preventable Deaths Tracker's Regulation 29 Addressee Tracker Database. This database tracks who has been addressed PFDs since 2013",
     },
     "Coroner Area Tracker Database": {
         "path": "src/analyse/counts/data/sent/area-statuses.csv",
         "features": [
-            "Track preventable deaths in specific coroners' areas",
-            "Access up-to-date data since July 2013",
-            "Explore trends and insights to aid your research",
+            "Track the number of PFDs published in specific coroners' areas",
+            "Access over a decade of data, since July 2013",
+            "Explore if PFDs have responses published",
         ],
-        "description": "download the latest version of data from the Preventable Deaths Tracker for PFDs by coroners' areas since July 2013",
+        "description": "download of the latest version of data from the Preventable Deaths Tracker by coroners' areas since July 2013",
     },
     "Coroner Tracker Database": {
         "path": "src/analyse/counts/data/sent/name-statuses.csv",
         "features": [
-            "Track preventable deaths by coroner names",
-            "Access up-to-date data since July 2013",
-            "Explore trends and insights to aid your research",
+            "Track the number of PFDs published by individual coroners",
+            "Access over a decade of data, since July 2013",
+            "Explore if PFDs have responses published",
         ],
-        "description": "download the latest version of data from the Preventable Deaths Tracker for PFDs by coroner names since July 2013",
+        "description": "download of the latest version of data from the Preventable Deaths Tracker by coroners' names since July 2013",
     },
     "Data by the Judiciary's PFD report type": {
         "path": "src/analyse/counts/data/category/category-years.csv",
         "features": [
-            "Categorize PFDs by the Judiciary's report type",
-            "Access data over time since July 2013",
-            "Analyze trends in different PFD categories",
+            "Track how PFDs are categorised on the Judiciary's website",
+            "Access over a decade of data, since July 2013",
+            "Analyse categories overtime by year of report",
         ],
-        "description": "download the latest version of data from the Preventable Deaths Tracker for PFDs by death category (i.e. the Judiciary's PFD report type) over time since July 2013",
+        "description": "download of the latest version of data from the Preventable Deaths Tracker for PFDs by category (i.e. the Judiciary's PFD report type) over time since July 2013",
     },
     "Reg 28 Reports Tracker Database": {
         "path": "src/analyse/counts/data/sent/database.csv",
         "features": [
-            "Track PFDs published on the Judiciary website",
-            "Access corrected data since 2013",
-            "Analyze reports ready for detailed analysis",
+            "Track the number of PFDs published on the Judiciary website every week",
+            "Access over a decade of data, since July 2013",
+            "Explore if PFDs have responses published",
         ],
-        "description": "download the latest version of the Preventable Deaths Tracker Regulation 28 Reports Database. This database collects all PFDs published on the Judiciary website since 2013 and corrects the data so it's ready for analysis",
+        "description": "download of the latest version of the Preventable Deaths Tracker Regulation 28 Reports Tracker Database. This database collects all published PFDs from the Judiciary website since 2013 and corrects the data so it's ready for analysis",
     },
 }
 
