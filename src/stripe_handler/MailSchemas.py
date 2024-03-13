@@ -1,4 +1,4 @@
-from typing import Optional, List
+from typing import List, Optional
 
 from pydantic import BaseModel
 
@@ -10,6 +10,7 @@ class UserCred(BaseModel):
         email: Email address of the user.
         password: Password for the email account.
     """
+
     email: str
     password: str
 
@@ -50,6 +51,7 @@ class SenderConfigGmail(BaseEmailCred, BaseSenderConfig):
     """
     Sender configuration for Gmail.
     """
+
     pass
 
 
@@ -59,4 +61,5 @@ class SendEmailGmail(UserCred):
     Attributes:
         config: Configuration parameters for sending email through Gmail.
     """
+
     config: SenderConfigGmail

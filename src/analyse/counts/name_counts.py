@@ -90,7 +90,7 @@ top_name_titles = top_counts.index.map(coroner_titles).fillna("Unknown")
 for title in top_name_titles.unique():
     top_categorised[title] = top_categorised["count"].where(top_name_titles == title, 0)
 
-top_categorised.rename(columns={'Unknown': 'Unknown title'}, inplace=True)
+top_categorised.rename(columns={"Unknown": "Unknown title"}, inplace=True)
 
 # %% [markdown]
 # ### Calculating counts for titles

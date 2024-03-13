@@ -10,7 +10,6 @@ import re
 from datetime import datetime, timedelta
 
 import pandas as pd
-
 from create_badge import create_badge
 from helpers import percent, toml_stats
 
@@ -32,10 +31,11 @@ def filter_last_month_records(df):
     first_day_of_last_month = (first_day_of_current_month - timedelta(days=1)).replace(day=1)
     last_day_of_last_month = first_day_of_current_month - timedelta(days=1)
     df_copy = df.copy()
-    df_copy['date_added'] = pd.to_datetime(df_copy['date_added'], format='%d/%m/%Y')
-    filtered_df = df_copy[(df_copy['date_added'] >= first_day_of_last_month) & (
-            df_copy['date_added'] <= last_day_of_last_month)]
-    filtered_df['date_added'] = filtered_df['date_added'].dt.strftime('%d/%m/%Y')
+    df_copy["date_added"] = pd.to_datetime(df_copy["date_added"], format="%d/%m/%Y")
+    filtered_df = df_copy[
+        (df_copy["date_added"] >= first_day_of_last_month) & (df_copy["date_added"] <= last_day_of_last_month)
+    ]
+    filtered_df["date_added"] = filtered_df["date_added"].dt.strftime("%d/%m/%Y")
     filtered_df.reset_index(drop=True, inplace=True)
     return filtered_df, today_date
 
@@ -99,7 +99,7 @@ exploded["status"] = exploded["status"].mask(responded, "received")
 sent_types = exploded.value_counts(["sent_to", "status"]).unstack(fill_value=0)
 sent_types["no. PFDs"] = exploded["sent_to"].value_counts()
 sent_types = sent_types[["no. PFDs", "overdue", "pending", "received"]].sort_values("no. PFDs", ascending=False)
-sent_types["% received"] = (sent_types["received"] / sent_types["no. PFDs"] * 100)
+sent_types["% received"] = sent_types["received"] / sent_types["no. PFDs"] * 100
 sent_types["% received"] = sent_types["% received"].apply(lambda el: int(round(el, 0)))
 
 sent_counts = exploded.value_counts("sent_to")
@@ -151,9 +151,11 @@ non_na.loc[~report_due & (non_na["response status"] == "partial"), "response sta
 reports.loc[~report_due & (reports["response status"] == "overdue"), "response status"] = "pending"
 reports.loc[~report_due & (reports["response status"] == "partial"), "response status"] = "pending"
 
-equal_len_r = ((reports["no. recipients"] <= reports["no. replies"]) &
-               (reports["no. recipients"] != 0) &
-               (reports["no. replies"] != 0))
+equal_len_r = (
+    (reports["no. recipients"] <= reports["no. replies"])
+    & (reports["no. recipients"] != 0)
+    & (reports["no. replies"] != 0)
+)
 reports.loc[equal_len_r, "response status"] = "completed"
 # %% [markdown]
 # ### Adding the non_na rows back to the reports
@@ -322,7 +324,7 @@ else:
 
 # %% [markdown]
 # ### Calculating statistics over recipients
-exploded = exploded.drop_duplicates(subset=['report_url'], keep='first')
+exploded = exploded.drop_duplicates(subset=["report_url"], keep="first")
 
 exploded = exploded.assign(sent_to=exploded["this_report_is_being_sent_to"].str.split(vbar)).explode(
     "sent_to", ignore_index=True
@@ -392,36 +394,49 @@ top_types = sent_types.loc[top_counts.index]
 # %% [markdown]
 # ### Create statistics with statuses
 
-statuses.rename(columns={'response status': 'Status',
-                         'ref': 'Ref',
-                         'date_of_report': 'Date of report',
-                         'deceased_name': 'Deceased name',
-                         'coroner_name': 'Coroner name',
-                         'category': 'Category',
-                         'coroner_area': 'Coroner area',
-                         'no. replies': 'Replies count',
-                         'no. recipients': 'Sent to count',
-                         'this_report_is_being_sent_to': 'Sent to',
-                         'report_url': 'Report URL',
-                         'date_added': 'Date added'},
-                inplace=True)
+statuses.rename(
+    columns={
+        "response status": "Status",
+        "ref": "Ref",
+        "date_of_report": "Date of report",
+        "deceased_name": "Deceased name",
+        "coroner_name": "Coroner name",
+        "category": "Category",
+        "coroner_area": "Coroner area",
+        "no. replies": "Replies count",
+        "no. recipients": "Sent to count",
+        "this_report_is_being_sent_to": "Sent to",
+        "report_url": "Report URL",
+        "date_added": "Date added",
+    },
+    inplace=True,
+)
 
-statuses['Status'] = statuses['Status'].replace({'no requests': 'no data', 'failed': 'error'})
+statuses["Status"] = statuses["Status"].replace({"no requests": "no data", "failed": "error"})
 
-statuses['Status'] = statuses['Status'].apply(create_badge)
+statuses["Status"] = statuses["Status"].apply(create_badge)
 # statuses['Deceased name'] = statuses.apply(lambda row: create_button(row['Deceased name'], row['report_url']), axis=1)
-new_order = ['Status', 'Date added',  'Date of report', 'Ref', 'Deceased name', 'Coroner name', 'Coroner area',
-             'Sent to', 'Sent to count', 'Replies count', 'Report URL']
+new_order = [
+    "Status",
+    "Date added",
+    "Date of report",
+    "Ref",
+    "Deceased name",
+    "Coroner name",
+    "Coroner area",
+    "Sent to",
+    "Sent to count",
+    "Replies count",
+    "Report URL",
+]
 statuses = statuses[new_order]
 
 # %% [markdown]
 # ### Saving the results
-exploded = exploded[exploded['response status'] != 'failed']
-statuses = statuses[statuses['Status'] != 'error']
+exploded = exploded[exploded["response status"] != "failed"]
+statuses = statuses[statuses["Status"] != "error"]
 
-sent_types.rename(columns={'received': 'completed',
-                           '% received': '% completed'},
-                  inplace=True)
+sent_types.rename(columns={"received": "completed", "% received": "% completed"}, inplace=True)
 
 sent_counts.to_csv(f"{DATA_PATH}/sent/sent-counts.csv")
 top_counts.to_csv(f"{DATA_PATH}/sent/top-sent-counts.csv")
@@ -431,9 +446,9 @@ sent_years.to_csv(f"{DATA_PATH}/sent/sent-types-years.csv")
 status_years.to_csv(f"{DATA_PATH}/sent/status-years.csv")
 exploded.to_csv(f"{DATA_PATH}/sent/statuses.csv", index=False)
 
-statuses["Date of report"] = pd.to_datetime(statuses["Date of report"], format='%d/%m/%Y')
+statuses["Date of report"] = pd.to_datetime(statuses["Date of report"], format="%d/%m/%Y")
 statuses.sort_values(by="Date of report", inplace=True, ascending=False)
-statuses["Date of report"] = statuses["Date of report"].dt.strftime('%d/%m/%Y')
+statuses["Date of report"] = statuses["Date of report"].dt.strftime("%d/%m/%Y")
 
 
 def write_sum_of_replies_to_log(path):
@@ -446,7 +461,7 @@ def write_sum_of_replies_to_log(path):
     new_response_text = f" - All responses count: {sum_of_response}"
 
     try:
-        with open(path, 'r') as file:
+        with open(path, "r") as file:
             content = file.read()
 
         new_content = replies_pattern.sub(new_replies_text, content)
@@ -455,7 +470,7 @@ def write_sum_of_replies_to_log(path):
     except FileNotFoundError:
         new_content = f"\n\n{new_response_text}\n{new_replies_text}"
 
-    with open(f'{path}', 'w') as file:
+    with open(f"{path}", "w") as file:
         file.write(new_content)
 
     print("Log updated.")
@@ -464,11 +479,12 @@ def write_sum_of_replies_to_log(path):
 def write_monthly_data_to_log(path, df):
     sum_of_replies, _ = get_replies_and_responses(df)
     today_date_ = datetime.now()
-    with open(f'{path}', 'w') as file:
+    with open(f"{path}", "w") as file:
         log_msg = (
             f"Latest monthly fetch on {today_date_.strftime('%m/%d/%Y')} at "
             f"{today_date_.strftime('%H:%M:%S')}, for which:\n"
-            f" - {len(df)} new reports were added last month.\n\n")
+            f" - {len(df)} new reports were added last month.\n\n"
+        )
         log_msg += f"\n - Replies counts last month: {sum_of_replies}"
 
         file.write(log_msg)
@@ -476,8 +492,8 @@ def write_monthly_data_to_log(path, df):
 
 
 def get_replies_and_responses(df):
-    sum_of_replies = df['Replies count'].sum()
-    sum_of_response = df['Sent to count'].sum()
+    sum_of_replies = df["Replies count"].sum()
+    sum_of_response = df["Sent to count"].sum()
     return sum_of_replies, sum_of_response
 
 
@@ -485,79 +501,99 @@ statuses.to_csv(f"{DATA_PATH}/sent/db_with_statuses.csv", index=False)
 filtered_reports, today_date = filter_last_month_records(reports)
 
 selected_columns = [
-    'Status',
-    'Date added',
-    'Date of report',
-    'Ref',
-    'Deceased name',
-    'Coroner name',
-    'Coroner area',
-    'Category',
-    'Sent to',
-    'Sent to count',
-    'Replies count',
-    'URL'
+    "Status",
+    "Date added",
+    "Date of report",
+    "Ref",
+    "Deceased name",
+    "Coroner name",
+    "Coroner area",
+    "Category",
+    "Sent to",
+    "Sent to count",
+    "Replies count",
+    "URL",
 ]
-filtered_reports.rename(columns={'response status': 'Status',
-                                 'date_of_report': 'Date of report',
-                                 'date_added': 'Date added',
-                                 'ref': 'Ref',
-                                 'deceased_name': 'Deceased name',
-                                 'coroner_name': 'Coroner name',
-                                 'coroner_area': 'Coroner area',
-                                 'category': 'Category',
-                                 'no. replies': 'Replies count',
-                                 'no. recipients': 'Sent to count',
-                                 'this_report_is_being_sent_to': 'Sent to',
-                                 'report_url': 'URL'},
-                        inplace=True)
+filtered_reports.rename(
+    columns={
+        "response status": "Status",
+        "date_of_report": "Date of report",
+        "date_added": "Date added",
+        "ref": "Ref",
+        "deceased_name": "Deceased name",
+        "coroner_name": "Coroner name",
+        "coroner_area": "Coroner area",
+        "category": "Category",
+        "no. replies": "Replies count",
+        "no. recipients": "Sent to count",
+        "this_report_is_being_sent_to": "Sent to",
+        "report_url": "URL",
+    },
+    inplace=True,
+)
 filtered_reports = filtered_reports[selected_columns]
 filtered_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv", index=False)
 
 database = reports.copy()
-database.rename(columns={'response status': 'Status',
-                                 'date_of_report': 'Date of report',
-                                 'date_added': 'Date added',
-                                 'ref': 'Ref',
-                                 'deceased_name': 'Deceased name',
-                                 'coroner_name': 'Coroner name',
-                                 'coroner_area': 'Coroner area',
-                                 'category': 'Category',
-                                 'no. replies': 'Replies count',
-                                 'no. recipients': 'Sent to count',
-                                 'this_report_is_being_sent_to': 'Sent to',
-                                 'report_url': 'URL'},
-                        inplace=True)
+database.rename(
+    columns={
+        "response status": "Status",
+        "date_of_report": "Date of report",
+        "date_added": "Date added",
+        "ref": "Ref",
+        "deceased_name": "Deceased name",
+        "coroner_name": "Coroner name",
+        "coroner_area": "Coroner area",
+        "category": "Category",
+        "no. replies": "Replies count",
+        "no. recipients": "Sent to count",
+        "this_report_is_being_sent_to": "Sent to",
+        "report_url": "URL",
+    },
+    inplace=True,
+)
 database = database[selected_columns]
 database.to_csv(f"{DATA_PATH}/sent/database.csv", index=False)
 
-write_sum_of_replies_to_log(f'{REPORTS_PATH}/latest.log')
-write_monthly_data_to_log(f'{REPORTS_PATH}/latest_last_month.log', filtered_reports)
+write_sum_of_replies_to_log(f"{REPORTS_PATH}/latest.log")
+write_monthly_data_to_log(f"{REPORTS_PATH}/latest_last_month.log", filtered_reports)
 
-name_statuses.rename(columns={'no. recipients': 'sent to count',
-                              'no. replies': 'replies count',
-                              'no. complete responses': 'received',
-                              'no. partial responses': 'partial',
-                              'no. overdue responses': 'overdue',
-                              'no. pending responses': 'pending',
-                              },
-                     inplace=True)
-name_statuses['% received'] = name_statuses.apply(
-    lambda row: ','.join(str((row['received'] / row['sent to count'] * 100).round(2)).split('.'))
-    if row['sent to count'] != 0 else 0, axis=1)
+name_statuses.rename(
+    columns={
+        "no. recipients": "sent to count",
+        "no. replies": "replies count",
+        "no. complete responses": "received",
+        "no. partial responses": "partial",
+        "no. overdue responses": "overdue",
+        "no. pending responses": "pending",
+    },
+    inplace=True,
+)
+name_statuses["% received"] = name_statuses.apply(
+    lambda row: ",".join(str((row["received"] / row["sent to count"] * 100).round(2)).split("."))
+    if row["sent to count"] != 0
+    else 0,
+    axis=1,
+)
 
-area_statuses.rename(columns={'no. recipients': 'sent to count',
-                              'no. replies': 'replies count',
-                              'no. complete responses': 'received',
-                              'no. partial responses': 'partial',
-                              'no. overdue responses': 'overdue',
-                              'no. pending responses': 'pending',
-                              },
-                     inplace=True)
+area_statuses.rename(
+    columns={
+        "no. recipients": "sent to count",
+        "no. replies": "replies count",
+        "no. complete responses": "received",
+        "no. partial responses": "partial",
+        "no. overdue responses": "overdue",
+        "no. pending responses": "pending",
+    },
+    inplace=True,
+)
 
-area_statuses['% received'] = area_statuses.apply(
-    lambda row: ','.join(str((row['received'] / row['sent to count'] * 100).round(2)).split('.'))
-    if row['sent to count'] != 0 else 0, axis=1)
+area_statuses["% received"] = area_statuses.apply(
+    lambda row: ",".join(str((row["received"] / row["sent to count"] * 100).round(2)).split("."))
+    if row["sent to count"] != 0
+    else 0,
+    axis=1,
+)
 
 area_statuses.to_csv(f"{DATA_PATH}/sent/area-statuses.csv")
 name_statuses.to_csv(f"{DATA_PATH}/sent/name-statuses.csv")

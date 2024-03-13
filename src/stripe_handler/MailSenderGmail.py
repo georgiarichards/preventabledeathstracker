@@ -37,7 +37,7 @@ class MailSenderGmail:
         self.msg["From"] = self.email
         self.msg["To"] = self.config.email_to
         self.msg["Subject"] = self.config.subject
-        text_part = MIMEText(self.config.body, "plain")
+        text_part = MIMEText(self.config.body, "html")
         self.msg.attach(text_part)
         print("Message created")
 
