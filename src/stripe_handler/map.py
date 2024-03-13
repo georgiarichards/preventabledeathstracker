@@ -2,11 +2,11 @@ PRODUCT_DETAILS_MAP = {
     "Reg 29 Addressee Tracker Database": {
         "path": "src/analyse/counts/data/sent/sent-types.csv",
         "features": [
-            "Track PFDs addressed to specific entities",
-            "Access data since 2013",
-            "Analyze trends in addressed PFDs",
+            "Track PFDs addressed to specific organisations",
+            "Access over a decade of data, since July 2013",
+            "Track if organisations have responded to PFDs",
         ],
-        "description": "download the latest version of the Preventable Deaths Tracker Regulation 29 Addressee Tracker Database. This database tracks who has been addressed PFDs since 2013",
+        "description": "download of the latest version of the Preventable Deaths Tracker's Regulation 29 Addressee Tracker Database. This database tracks who has been addressed PFDs since 2013",
     },
     "Coroner Area Tracker Database": {
         "path": "src/analyse/counts/data/sent/area-statuses.csv",
