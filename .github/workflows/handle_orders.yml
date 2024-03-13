@@ -1,0 +1,28 @@
+name: Handle orders
+
+on:
+#  schedule:
+#    - cron: '1 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r src/stripe_handler/requirements.txt
+
+      - name: Run script
+        env:
+          EMAIL: ${{ secrets.EMAIL_USERNAME }}
+          PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
+        run: python src/stripe_handler/OrdersHandler.py

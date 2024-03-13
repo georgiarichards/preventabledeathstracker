@@ -55,7 +55,17 @@
     "West Yorkshire East": "Yorkshire West Eastern",
     "West Yorkshire West": "Yorkshire West Western",
     "Wirral": "Liverpool and the Wirral",
-    "York": "North Yorkshire and York"
+    "York": "North Yorkshire and York",
+    "Exeter & Greater Devon": "County of Devon, Plymouth & Torbay",
+    "Exeter and Greater Devon": "County of Devon, Plymouth & Torbay",
+    "Plymouth and South Devon": "County of Devon, Plymouth & Torbay",
+    "Plymouth Torbay and South Devon": "County of Devon, Plymouth & Torbay",
+    "Plymouth, Torbay & South Devon": "County of Devon, Plymouth & Torbay",
+    "Plymouth, Torbay &  South Devon": "County of Devon, Plymouth & Torbay",
+    "Plymouth, Torbay and South Devom": "County of Devon, Plymouth & Torbay",
+    "Plymouth, Torbay and South Devon": "County of Devon, Plymouth & Torbay",
+    "Northumberland North": "Northumberland",
+    "Northumberland South": "Northumberland"
   },
   {
     "North Wales (East and Central)": "North Wales (East & Central)",
