@@ -1,6 +1,6 @@
 PRODUCT_DETAILS_MAP = {
     "Reg 29 Addressee Tracker Database": {
-        "path": "src/analyse/counts/data/sent/statuses.csv",
+        "path": "src/analyse/counts/data/sent/sent-types.csv",
         "features": [
             "Track PFDs addressed to specific entities",
             "Access data since 2013",
@@ -36,7 +36,7 @@ PRODUCT_DETAILS_MAP = {
         "description": "download the latest version of data from the Preventable Deaths Tracker for PFDs by death category (i.e. the Judiciary's PFD report type) over time since July 2013",
     },
     "Reg 28 Reports Tracker Database": {
-        "path": "src/data/reports-corrected.csv",
+        "path": "src/analyse/counts/data/sent/statuses.csv",
         "features": [
             "Track PFDs published on the Judiciary website",
             "Access corrected data since 2013",
