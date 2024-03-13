@@ -424,6 +424,7 @@ new_order = [
     "Deceased name",
     "Coroner name",
     "Coroner area",
+    "Category",
     "Sent to",
     "Sent to count",
     "Replies count",
