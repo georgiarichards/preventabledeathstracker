@@ -29,6 +29,8 @@ class OrdersHandler:
             customer_email = invoice.customer_email
             customer_name = invoice.customer_name
             product = invoice.lines.data[0].description
+            if product not in PRODUCT_DETAILS_MAP:
+                continue
             product_path = PRODUCT_DETAILS_MAP[product]["path"]
             print(f"{customer_email} - {product} - path: {product_path}")
 
