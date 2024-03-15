@@ -1,7 +1,7 @@
 [year]
 "no. reports parsed" = 4894
-"no. years covered" = 12
-"mean per year" = 433.4
+"no. years covered" = 10.6
+"mean per year" = 461.7
 "median per year" = 441.0
 "IQR of years" = [ 392.25, 493.5,]
 
@@ -44,7 +44,7 @@
 ["this report is sent to"]
 "reports parsed" = [ 4055.0, 82.9,]
 "reports without recipients" = [ 840.0, 17.2,]
-"reports failed" = [ -1.0, -0.0,]
+"reports failed" = [ -1.0, 0.0,]
 "reports pending" = [ 77.0, 1.6,]
 "reports overdue" = [ 1232.0, 25.2,]
 "reports partial" = [ 600.0, 12.3,]
