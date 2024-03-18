@@ -2,7 +2,7 @@
 # ## Process
 # We count the number of reports in each year, ignoring reports that don't
 # parse properly. We then save the results to a .csv file.
-
+import datetime
 # %% [markdown]
 # ### Importing libraries
 
@@ -28,8 +28,8 @@ reports["year"] = reports["date_of_report"].str.extract(r"\d{2}\/\d{2}\/(\d{4})"
 reports["datetime"] = pd.to_datetime(reports["date_of_report"], format="%d/%m/%Y", errors="coerce")
 
 earliest = reports["datetime"].min()
-latest = reports["datetime"].max()
-year_diff = latest.year - earliest.year + (latest.month - earliest.month) / 12 + (latest.day - earliest.day) / 365
+now = datetime.datetime.now()
+year_diff = round((now.year - earliest.year + (now.month - earliest.month) / 12 + (now.day - earliest.day) / 365), 1)
 
 # %% [markdown]
 # ### Counting the number of reports in each year
@@ -39,7 +39,7 @@ year_counts = reports.value_counts("year").sort_index()
 
 toml_stats["year"] = statistics = {
     "no. reports parsed": reports.count()["year"],
-    "no. years covered": len(year_counts),
+    "no. years covered": year_diff,
     "mean per year": round(reports.count()["year"] / year_diff, 1),
     "median per year": year_counts.median(),
     "IQR of years": list(year_counts.quantile([0.25, 0.75])),
