@@ -44,23 +44,23 @@ PRODUCT_DETAILS_MAP = {
         ],
         "description": "download of the latest version of the Preventable Deaths Tracker Regulation 28 Reports Tracker Database. This database collects all published PFDs from the Judiciary website since 2013 and corrects the data so it's ready for analysis",
     },
-    "Reg 28 Reports Tracker Database Monthly": {
+    "One month - Reg 28 Reports Tracker": {
         "path": "src/analyse/counts/data/sent/last_month_reports.csv",
         "features": [
             "Track the number of PFDs published on the Judiciary website every week",
-            "Access over a decade of data, since July 2013",
+            "Access the last month of data",
             "Explore if PFDs have responses published",
         ],
-        "description": "download of the latest version of the Preventable Deaths Tracker Regulation 28 Reports Tracker Database. This database collects all published PFDs from the Judiciary website since 2013 and corrects the data so it's ready for analysis",
+        "description": "download the last month of data from the Preventable Deaths Tracker Regulation 28 Reports Database, which collects coroners' PFDs published on the Judiciary website and corrects the data so it's ready for analysis",
     },
-    "Reg 28 Reports Tracker Database Quarterly": {
+    "3 months of the Reg 28 Reports Tracker Database": {
         "path": "src/analyse/counts/data/sent/last_quarter_reports.csv",
         "features": [
             "Track the number of PFDs published on the Judiciary website every week",
-            "Access over a decade of data, since July 2013",
+            "Access the last quarter of data",
             "Explore if PFDs have responses published",
         ],
-        "description": "download of the latest version of the Preventable Deaths Tracker Regulation 28 Reports Tracker Database. This database collects all published PFDs from the Judiciary website since 2013 and corrects the data so it's ready for analysis",
+        "description": "download the last quarter of data (i.e. 3 months) from the Preventable Deaths Tracker Regulation 28 Reports Database, which collects coroners' PFDs published on the Judiciary website and corrects the data so it's ready for analysis",
     },
 }
 
