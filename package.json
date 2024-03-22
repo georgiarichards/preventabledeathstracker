@@ -8,6 +8,7 @@
     "correct:update": "node --no-warnings src/correct/add_corrections.js",
     "correct:destinations": "python src/analyse/counts/split_dest.py",
     "statistics:month": "python src/analyse/counts/sent_statistics.py",
+    "analyse:quarter": "python src/analyse/counts/collect_quarter_report.py",
     "analyse:counts": "python src/analyse/counts/counts.py",
     "analyse:areas": "python src/analyse/counts/area_counts.py",
     "analyse:names": "python src/analyse/counts/name_counts.py",
