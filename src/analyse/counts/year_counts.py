@@ -3,9 +3,6 @@
 # We count the number of reports in each year, ignoring reports that don't
 # parse properly. We then save the results to a .csv file.
 import datetime
-# %% [markdown]
-# ### Importing libraries
-
 import os
 
 import pandas as pd
