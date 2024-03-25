@@ -1,10 +1,10 @@
 coroner_area,count
-Greater Manchester South,405
-London Inner North,251
-"West Sussex, Brighton and Hove",154
-Birmingham and Solihull,149
-Surrey,148
-London East,138
+Greater Manchester South,411
+London Inner North,252
+"West Sussex, Brighton and Hove",155
+Birmingham and Solihull,150
+Surrey,150
+London East,140
 London Inner South,128
 South Wales Central,121
 Greater Manchester North,111
@@ -16,13 +16,13 @@ Norfolk,103
 Cornwall and the Isles of Scilly,97
 "County of Devon, Plymouth & Torbay",95
 North Wales (East & Central),91
-Avon,90
+Avon,91
 The Black Country Jurisdiction,82
 "Hampshire, Portsmouth and Southampton",82
 County Durham and Darlington,81
-Yorkshire South West,78
+Yorkshire South West,79
 Yorkshire West Western,78
-Essex,72
+Essex,73
 London Inner West,72
 Bedfordshire and Luton,72
 Leicester City and South Leicestershire,69
@@ -34,19 +34,19 @@ Dorset,59
 Liverpool and the Wirral,58
 Kent Mid and Medway,57
 Suffolk,55
+Worcestershire,52
 London West,52
 Berkshire,51
-Worcestershire,51
 Wiltshire and Swindon,51
 Lancashire and Blackburn with Darwen,50
-Derby and Derbyshire,47
+Derby and Derbyshire,48
 Yorkshire South East,46
 Blackpool and Fylde,45
-Sunderland,41
+Sunderland,42
 London South,39
 Warwickshire,39
 Cambridgeshire and Peterborough,38
-Gwent,37
+Gwent,38
 Cheshire,35
 Gloucestershire,35
 Newcastle and North Tyneside,33
@@ -58,15 +58,15 @@ Kent Central and South East,27
 East Riding of Yorkshire and Kingston-upon-Hull,26
 North Yorkshire and York,24
 Swansea and Neath Port Talbot,24
-"Shropshire, Telford and Wrekin",22
 Somerset,22
+"Shropshire, Telford and Wrekin",22
+North West Wales,21
 Kent North East,21
 Buckinghamshire,21
+East Sussex,21
 Carmarthenshire and Pembrokeshire,21
-North West Wales,20
 Coventry,19
 Isle of Wight,19
-East Sussex,19
 Northumberland,18
 London City,15
 South Lincolnshire,15
@@ -75,8 +75,8 @@ Teesside,10
 Lincolnshire (Central),9
 Rutland and North Leicestershire,9
 Kent North West,8
+Hartlepool,8
 Gateshead and South Tyneside,8
-Hartlepool,7
 "Sefton, Knowsley and St Helens",6
 Exeter and Greater Devon,5
 Central Lincolnshire,4
