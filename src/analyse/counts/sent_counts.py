@@ -14,6 +14,7 @@ from create_badge import create_badge
 from helpers import percent, toml_stats
 
 TOP_N = 30
+QUARTER_MONTHS = [1, 4, 7, 10]
 
 vbar = re.compile(r"\s*\|\s*")
 
@@ -35,9 +36,45 @@ def filter_last_month_records(df):
     filtered_df = df_copy[
         (df_copy["date_added"] >= first_day_of_last_month) & (df_copy["date_added"] <= last_day_of_last_month)
     ]
-    filtered_df["date_added"] = filtered_df["date_added"].dt.strftime("%d/%m/%Y")
+    # filtered_df["date_added"] = filtered_df["date_added"].dt.strftime("%d/%m/%Y")
+    filtered_df.loc[:, "date_added"] = filtered_df["date_added"].dt.strftime("%d/%m/%Y")
     filtered_df.reset_index(drop=True, inplace=True)
     return filtered_df, today_date
+
+
+def select_and_rename_columns(df):
+    selected_columns = [
+        "Status",
+        "Date added",
+        "Date of report",
+        "Ref",
+        "Deceased name",
+        "Coroner name",
+        "Coroner area",
+        "Category",
+        "Sent to",
+        "Sent to count",
+        "Replies count",
+        "URL",
+    ]
+    df.rename(
+        columns={
+            "response status": "Status",
+            "date_of_report": "Date of report",
+            "date_added": "Date added",
+            "ref": "Ref",
+            "deceased_name": "Deceased name",
+            "coroner_name": "Coroner name",
+            "coroner_area": "Coroner area",
+            "category": "Category",
+            "no. replies": "Replies count",
+            "no. recipients": "Sent to count",
+            "this_report_is_being_sent_to": "Sent to",
+            "report_url": "URL",
+        },
+        inplace=True,
+    )
+    return df[selected_columns]
 
 
 reports = pd.read_csv(f"{REPORTS_PATH}/reports-analysed.csv")
@@ -499,65 +536,17 @@ def get_replies_and_responses(df):
 
 
 statuses.to_csv(f"{DATA_PATH}/sent/db_with_statuses.csv", index=False)
-filtered_reports, today_date = filter_last_month_records(reports)
+filtered_monthly_reports, today_date = filter_last_month_records(reports)
 
-selected_columns = [
-    "Status",
-    "Date added",
-    "Date of report",
-    "Ref",
-    "Deceased name",
-    "Coroner name",
-    "Coroner area",
-    "Category",
-    "Sent to",
-    "Sent to count",
-    "Replies count",
-    "URL",
-]
-filtered_reports.rename(
-    columns={
-        "response status": "Status",
-        "date_of_report": "Date of report",
-        "date_added": "Date added",
-        "ref": "Ref",
-        "deceased_name": "Deceased name",
-        "coroner_name": "Coroner name",
-        "coroner_area": "Coroner area",
-        "category": "Category",
-        "no. replies": "Replies count",
-        "no. recipients": "Sent to count",
-        "this_report_is_being_sent_to": "Sent to",
-        "report_url": "URL",
-    },
-    inplace=True,
-)
-filtered_reports = filtered_reports[selected_columns]
-filtered_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv", index=False)
+filtered_monthly_reports = select_and_rename_columns(filtered_monthly_reports)
+filtered_monthly_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv", index=False)
 
 database = reports.copy()
-database.rename(
-    columns={
-        "response status": "Status",
-        "date_of_report": "Date of report",
-        "date_added": "Date added",
-        "ref": "Ref",
-        "deceased_name": "Deceased name",
-        "coroner_name": "Coroner name",
-        "coroner_area": "Coroner area",
-        "category": "Category",
-        "no. replies": "Replies count",
-        "no. recipients": "Sent to count",
-        "this_report_is_being_sent_to": "Sent to",
-        "report_url": "URL",
-    },
-    inplace=True,
-)
-database = database[selected_columns]
+database = select_and_rename_columns(database)
 database.to_csv(f"{DATA_PATH}/sent/database.csv", index=False)
 
 write_sum_of_replies_to_log(f"{REPORTS_PATH}/latest.log")
-write_monthly_data_to_log(f"{REPORTS_PATH}/latest_last_month.log", filtered_reports)
+write_monthly_data_to_log(f"{REPORTS_PATH}/latest_last_month.log", filtered_monthly_reports)
 
 name_statuses.rename(
     columns={
