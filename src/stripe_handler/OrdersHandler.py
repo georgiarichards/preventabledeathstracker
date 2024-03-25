@@ -5,7 +5,7 @@ import stripe
 from dotenv import load_dotenv
 from MailSchemas import SendEmailGmail, SenderConfigGmail, UserCred
 from MailSenderGmail import MailSenderGmail
-from map import LOGO_PATH, PATH_KEY, PRODUCT_DETAILS_MAP
+from map import PATH_KEY, PRODUCT_DETAILS_MAP
 from template import fill_email_template
 
 load_dotenv()
@@ -20,11 +20,15 @@ class OrdersHandler:
     def handle(self) -> None:
         start_time = int((datetime.now() - timedelta(minutes=60)).timestamp())
         end_time = int(datetime.now().timestamp())
-        payment_intents = stripe.PaymentIntent.list(created={"gte": start_time, "lte": end_time})
+        payment_intents = stripe.PaymentIntent.list()
+        # Doesn't work for some reason  created={"gte": start_time, "lte": end_time})
         _orders = {}
         for payment in payment_intents:
+            if not (start_time <= payment.created <= end_time):
+                continue
             if payment.status != "succeeded" or not payment.invoice:
                 continue
+            print(payment)
             invoice = stripe.Invoice.retrieve(payment.invoice)
             customer_email = invoice.customer_email
             customer_name = invoice.customer_name
