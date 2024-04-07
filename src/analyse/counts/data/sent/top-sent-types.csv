@@ -1,8 +1,8 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,521,275,13,233,45
-NHS England,390,159,14,217,56
-Care Quality Commission,132,84,5,43,33
-HM Prison and Probation Service,91,49,3,39,43
+Department of Health and Social Care,524,278,13,233,44
+NHS England,391,161,13,217,55
+Care Quality Commission,132,86,3,43,33
+HM Prison and Probation Service,92,51,2,39,42
 Department for Transport,79,28,3,48,61
 Ministry of Justice,74,59,1,14,19
 Home Office,70,31,1,38,54
@@ -10,13 +10,13 @@ National Institute for Health and Care Excellence,66,37,2,27,41
 Greater Manchester Integrated Care Partnership,66,34,3,29,44
 National Highways,58,37,0,21,36
 Barts Health NHS Trust,57,23,0,34,60
-Betsi Cadwaladr University Health Board,55,18,3,34,62
+Betsi Cadwaladr University Health Board,56,18,4,34,61
 Metropolitan Police,46,15,1,30,65
 Pennine Care NHS Foundation Trust,46,27,0,19,41
 Health and Safety Executive,45,26,1,18,40
 Medicines and Healthcare Products Regulatory Agency,43,25,2,16,37
-National Police Chiefs’ Council,38,29,0,9,24
 University Hospitals Sussex NHS Foundation Trust,38,18,1,19,50
+National Police Chiefs’ Council,38,29,0,9,24
 Network Rail,34,6,1,27,79
 Greater Manchester Mental Health NHS Foundation Trust,34,19,0,15,44
 Tameside and Glossop Integrated Care NHS Foundation Trust,33,16,0,17,52
@@ -27,5 +27,5 @@ Practice Plus Group,29,21,0,8,28
 Manchester University NHS Foundation Trust,28,16,0,12,43
 Department for Education,28,11,1,16,57
 Leeds Teaching Hospitals NHS Trust,27,11,0,16,59
-Cwm Taf Morgannwg University Health Board,27,13,0,14,52
 University Hospitals Plymouth NHS Trust,27,9,0,18,67
+Cwm Taf Morgannwg University Health Board,27,13,0,14,52
