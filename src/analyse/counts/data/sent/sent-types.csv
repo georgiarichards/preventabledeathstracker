@@ -1,10 +1,10 @@
 sent_to,no. PFDs,overdue,pending,completed,% completed
-Department of Health and Social Care,507,265,12,230,45
-NHS England,391,161,13,217,55
+Department of Health and Social Care,507,266,11,230,45
+NHS England,391,162,12,217,55
 Care Quality Commission,133,87,2,44,33
 HM Prison and Probation Service,92,51,2,39,42
-Department for Transport,79,28,3,48,61
 Ministry of Justice,74,59,1,14,19
+Department for Transport,70,27,2,41,59
 Home Office,70,31,1,38,54
 Greater Manchester Integrated Care Partnership,66,35,2,29,44
 National Institute for Health and Care Excellence,66,38,1,27,41
@@ -14,9 +14,10 @@ Betsi Cadwaladr University Health Board,56,19,3,34,61
 Pennine Care NHS Foundation Trust,46,27,0,19,41
 Metropolitan Police,46,15,1,30,65
 Health and Safety Executive,45,26,1,18,40
-Medicines and Healthcare Products Regulatory Agency,43,25,2,16,37
+Medicines and Healthcare Products Regulatory Agency,43,26,1,16,37
 University Hospitals Sussex NHS Foundation Trust,38,18,1,19,50
 National Police Chiefs’ Council,38,29,0,9,24
+Department for Education,37,13,1,23,62
 Network Rail,34,6,1,27,79
 Greater Manchester Mental Health NHS Foundation Trust,34,19,0,15,44
 Tameside and Glossop Integrated Care NHS Foundation Trust,33,16,0,17,52
@@ -24,13 +25,12 @@ Welsh Ambulance Services NHS Trust,32,14,1,17,53
 East London NHS Foundation Trust,31,12,1,18,58
 College of Policing,30,10,1,19,63
 Practice Plus Group,29,21,0,8,28
-Department for Education,28,12,0,16,57
 Manchester University NHS Foundation Trust,28,16,0,12,43
 University Hospitals Plymouth NHS Trust,27,9,0,18,67
 Cwm Taf Morgannwg University Health Board,27,13,0,14,52
 Leeds Teaching Hospitals NHS Trust,27,11,0,16,59
 General Medical Council,27,16,0,11,41
-Central and North West London NHS Foundation Trust,27,16,3,8,30
+Central and North West London NHS Foundation Trust,27,17,2,8,30
 Association of Ambulance Chief Executives,27,13,0,14,52
 Essex Partnership University NHS Foundation Trust,26,18,0,8,31
 Norfolk and Suffolk NHS Foundation Trust,25,5,1,19,76
@@ -140,7 +140,7 @@ Food Standards Agency,8,3,0,5,62
 Leicestershire Partnership NHS Trust,8,1,0,7,88
 General Pharmaceutical Council,8,5,1,2,25
 Royal United Hospitals Bath NHS Foundation Trust,8,5,0,3,38
-Black Country Healthcare NHS Foundation Trust,8,3,1,4,50
+Black Country Healthcare NHS Foundation Trust,8,4,0,4,50
 Epsom & St Helier University Hospital NHS Trust,8,6,0,2,25
 Blackpool Teaching Hospitals NHS Foundation Trust,8,5,0,3,38
 North East London NHS Foundation Trust,8,6,0,2,25
@@ -347,7 +347,7 @@ Solent NHS Trust,3,0,0,3,100
 Somerset County Council,3,2,0,1,33
 Sheffield Health and Social Care NHS Foundation Trust,3,1,0,2,67
 NHS Devon Integrated Care Board,3,2,0,1,33
-Derbyshire Constabulary,3,1,1,1,33
+Derbyshire Constabulary,3,2,0,1,33
 BT,3,3,0,0,0
 West Suffolk NHS Foundation Trust,3,1,0,2,67
 Forward Trust,3,2,0,1,33
@@ -512,7 +512,7 @@ Bradford District Care NHS Foundation Trust,2,1,0,1,50
 Amazon,2,1,1,0,0
 Portsmouth City Council,2,0,0,2,100
 Mid Cheshire Hospitals NHS Foundation Trust,2,2,0,0,0
-Metropolis,2,0,1,1,50
+Metropolis,2,1,0,1,50
 Hillingdon Hospitals NHS Foundation Trust,2,2,0,0,0
 Royal Society for the Prevention of Accidents,2,2,0,0,0
 Prisons and Probation Ombudsman,2,2,0,0,0
@@ -523,7 +523,7 @@ Cornwall and Isles of Scilly Safeguarding Adults Board,2,2,0,0,0
 Stoke on Trent City Council,2,0,0,2,100
 Suffolk Safeguarding Partnership,2,1,0,1,50
 Bluebird Care,2,1,0,1,50
-Cygnet Health Care,2,1,1,0,0
+Cygnet Health Care,2,2,0,0,0
 City of London Police,2,0,0,2,100
 SubCPartner,2,2,0,0,0
 Cyngor Gwynedd Council,2,0,0,2,100
@@ -669,7 +669,7 @@ Phuket Highway District,1,1,0,0,0
 Police Chief’s Council,1,1,0,0,0
 The Range UK,1,0,0,1,100
 Persimmon Homes,1,0,0,1,100
-The Ministry of Justice,1,0,1,0,0
+The Ministry of Justice,1,1,0,0,0
 Whitepost healthcare Group,1,1,0,0,0
 One Housing,1,0,0,1,100
 One Housing Group,1,1,0,0,0
@@ -1235,9 +1235,9 @@ Diocese of Westminster,1,1,0,0,0
 Dinnington Group Practice,1,1,0,0,0
 Digsafe Suction Excavations Limited,1,1,0,0,0
 Derwent Students,1,0,0,1,100
-Derbyshire NHS Foundation Trust,1,0,1,0,0
+Derbyshire NHS Foundation Trust,1,1,0,0,0
 Derby and Derbyshire Integrated Care Board,1,1,0,0,0
-Derby City Council,1,0,1,0,0
+Derby City Council,1,1,0,0,0
 Dept. of Health and Greater Manchester Health and Social Care Partnership,1,1,0,0,0
 Dept. of Health,1,0,0,1,100
 Dept. for Business,1,1,0,0,0
@@ -1264,7 +1264,7 @@ Downham Grange Care Home,1,0,0,1,100
 EAM Care Group,1,0,0,1,100
 Durham Constabulary,1,0,0,1,100
 Dulwich Dive Club,1,0,0,1,100
-Dudley Integrated Health and Care NHS Trust,1,0,1,0,0
+Dudley Integrated Health and Care NHS Trust,1,1,0,0,0
 Drug and Alcohol Action Team,1,1,0,0,0
 Drug Misuse and Novel Psychoactive Substance Unit,1,0,0,1,100
 Drug,1,1,0,0,0
@@ -1362,7 +1362,7 @@ Bannatyne Group,1,0,0,1,100
 Bampton Surgery,1,0,0,1,100
 Bailey Trailers Ltd,1,0,0,1,100
 BPS,1,0,0,1,100
-BNF Publications,1,0,1,0,0
+BNF Publications,1,1,0,0,0
 B & D Civil Engineering Limited,1,0,0,1,100
 Ayurvedic Professionals Association,1,0,0,1,100
 Avon Care Home Limited,1,0,0,1,100
