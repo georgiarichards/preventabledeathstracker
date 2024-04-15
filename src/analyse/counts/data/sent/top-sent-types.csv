@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,457,228,11,218,48
-NHS England,386,155,12,219,57
-Care Quality Commission,95,62,2,31,33
-HM Prison and Probation Service,79,44,2,33,42
-National Institute for Health and Care Excellence,60,35,1,24,40
+Department of Health and Social Care,506,262,11,233,46
+NHS England,391,161,12,218,56
+Care Quality Commission,133,88,2,43,32
+HM Prison and Probation Service,93,51,2,40,43
+Home Office,71,32,1,38,54
+Department for Transport,69,25,2,42,61
+Ministry of Justice,68,53,1,14,21
+Greater Manchester Integrated Care Partnership,65,34,2,29,45
+National Institute for Health and Care Excellence,64,38,1,25,39
+Barts Health NHS Trust,57,23,0,34,60
 National Highways,56,35,0,21,38
-Ministry of Justice,56,40,1,15,27
-Home Office,55,21,1,33,60
-Department for Transport,54,18,2,34,63
-Barts Health NHS Trust,51,23,0,28,55
-Greater Manchester Integrated Care Partnership,50,15,2,33,66
-Betsi Cadwaladr University Health Board,49,15,3,31,63
-Metropolitan Police,41,12,1,28,68
-Pennine Care NHS Foundation Trust,36,18,0,18,50
-University Hospitals Sussex NHS Foundation Trust,35,16,1,18,51
-Health and Safety Executive,35,19,1,15,43
-Medicines and Healthcare Products Regulatory Agency,33,19,1,13,39
-Network Rail,30,5,1,24,80
-Tameside and Glossop Integrated Care NHS Foundation Trust,30,14,0,16,53
-Department for Education,29,10,1,18,62
-East London NHS Foundation Trust,28,10,0,18,64
-NHS Foundation Trust,27,16,1,10,37
-Clinical Commissioning Group,27,17,0,10,37
-Greater Manchester Mental Health NHS Foundation Trust,24,13,0,11,46
-Manchester University NHS Foundation Trust,24,13,0,11,46
-Cwm Taf Morgannwg University Health Board,24,11,0,13,54
-Norfolk and Suffolk NHS Foundation Trust,24,5,1,18,75
-Welsh Ambulance Services NHS Trust,24,9,1,14,58
-National Police Chiefs’ Council,24,16,0,8,33
-College of Policing,23,6,1,16,70
+Betsi Cadwaladr University Health Board,56,19,3,34,61
+Metropolitan Police,46,15,1,30,65
+Pennine Care NHS Foundation Trust,46,26,0,20,43
+Medicines and Healthcare Products Regulatory Agency,42,28,1,13,31
+Health and Safety Executive,41,21,1,19,46
+National Police Chiefs’ Council,38,30,0,8,21
+University Hospitals Sussex NHS Foundation Trust,37,16,1,20,54
+Department for Education,35,12,1,22,63
+Network Rail,34,6,1,27,79
+Tameside and Glossop Integrated Care NHS Foundation Trust,33,16,0,17,52
+Greater Manchester Mental Health NHS Foundation Trust,32,18,0,14,44
+East London NHS Foundation Trust,31,12,1,18,58
+Welsh Ambulance Services NHS Trust,31,13,1,17,55
+College of Policing,30,9,1,20,67
+Practice Plus Group,29,21,0,8,28
+Manchester University NHS Foundation Trust,28,16,0,12,43
+Association of Ambulance Chief Executives,28,13,0,15,54
+Central and North West London NHS Foundation Trust,27,17,2,8,30
+General Medical Council,27,15,0,12,44

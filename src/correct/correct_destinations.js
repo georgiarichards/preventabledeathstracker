@@ -119,22 +119,22 @@ export default async function Corrector(keep_failed = true) {
         if (incorrect.has(text)) return undefined
 
         // if we have `;` or `|` in the text we can assume it's a well formed list
-        // if (text.match(/[;|,]/) || text.match(connective_words)) {
-        //     const destinations = text
-        //         .split(/[;|,]/g)
-        //         .map(dest => dest.trim())
-        //         .filter(dest => dest.length > 0)
-        //     return destinations
-        //         .map(dest => {
-        //             const known_match = try_known_match(dest)
-        //             if (known_match) {
-        //                 return known_match
-        //             }
-        //             add_to_known(dest)
-        //             return dest
-        //         })
-        //         .join(' | ')
-        // }
+        if (text.match(/[;|]/) || text.match(connective_words)) {
+            const destinations = text
+                .split(/[;|]/g)
+                .map(dest => dest.trim())
+                .filter(dest => dest.length > 0)
+            return destinations
+                .map(dest => {
+                    const known_match = try_known_match(dest)
+                    if (known_match) {
+                        return known_match
+                    }
+                    add_to_known(dest)
+                    return dest
+                })
+                .join(' | ')
+        }
 
         // if there's no connectives or punctuation, we can just return the text
         if (!text.match(/[,]/) && !text.match(connective_words)) {
