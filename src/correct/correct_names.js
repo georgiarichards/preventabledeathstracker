@@ -79,32 +79,6 @@ async function fetch_name_list(url) {
     return pages.flat()
 }
 
-async function removeDuplicatesFromCsv(filePath) {
-    try {
-        const fileContent = await fs.readFile(filePath, 'utf8');
-
-        const parsedContent = Papa.parse(fileContent, {header: true});
-        const rows = parsedContent.data;
-
-        let counter = 0
-        const uniqueRows = new Map();
-        rows.forEach(row => {
-            const uniqueKey = row['name'];
-            if (!uniqueRows.has(uniqueKey)) {
-                uniqueRows.set(uniqueKey, row);
-                counter += 1;
-            }
-        });
-
-        const uniqueRowsArray = Array.from(uniqueRows.values());
-        const updatedCsv = Papa.unparse(uniqueRowsArray);
-
-        await fs.writeFile(filePath, updatedCsv);
-        console.log(`${counter} duplicates deleted`);
-    } catch (error) {
-        console.error('Error while deleting duplicates in CSV:', error);
-    }
-}
 
 async function appendNewRowsToCsv(filePath, newData) {
     try {
@@ -212,7 +186,6 @@ export default async function Corrector(keep_failed = true) {
         name: correct_name(item.name) || item.name
     }));
     await appendNewRowsToCsv('./src/data/coroners-society.csv', fetched_simple)
-    await removeDuplicatesFromCsv('./src/data/coroners-society.csv')
 
 
     correct_name.close = () =>
