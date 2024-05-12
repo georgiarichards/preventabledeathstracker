@@ -1,24 +1,24 @@
 coroner_area,count
-Greater Manchester South,413
+Greater Manchester South,415
 London Inner North,256
-"West Sussex, Brighton and Hove",158
+"West Sussex, Brighton and Hove",159
 Birmingham and Solihull,153
 Surrey,151
-London East,144
+London East,145
 London Inner South,130
 South Wales Central,122
-Greater Manchester North,114
+Greater Manchester North,115
 Staffordshire and Stoke-on-Trent,110
 Greater Manchester West,109
 Nottinghamshire,107
-Norfolk,105
-Yorkshire West Eastern,105
+Norfolk,106
+Yorkshire West Eastern,106
 Cornwall and the Isles of Scilly,100
 "County of Devon, Plymouth & Torbay",95
 North Wales (East & Central),92
 Avon,91
-Yorkshire South West,84
-The Black Country Jurisdiction,82
+Yorkshire South West,85
+The Black Country Jurisdiction,83
 "Hampshire, Portsmouth and Southampton",82
 County Durham and Darlington,81
 Yorkshire West Western,79
@@ -30,12 +30,12 @@ Milton Keynes,68
 Cumbria,66
 Manchester City,63
 London North,62
+Suffolk,59
 Dorset,59
-Suffolk,58
-Liverpool and the Wirral,58
+Liverpool and the Wirral,59
 Kent Mid and Medway,57
+Berkshire,55
 Wiltshire and Swindon,54
-Berkshire,53
 London West,53
 Worcestershire,52
 Lancashire and Blackburn with Darwen,50
@@ -44,30 +44,30 @@ Yorkshire South East,48
 Blackpool and Fylde,46
 Sunderland,42
 Warwickshire,41
+Cambridgeshire and Peterborough,40
 London South,39
-Cambridgeshire and Peterborough,39
 Gwent,38
 Cheshire,37
 Gloucestershire,35
 Newcastle and North Tyneside,33
-Lincolnshire,31
 Hertfordshire,31
+Lincolnshire,31
 Northamptonshire,29
 Kent Central and South East,27
 Oxfordshire,27
 North Yorkshire and York,26
 East Riding of Yorkshire and Kingston-upon-Hull,26
-Swansea and Neath Port Talbot,24
+Swansea and Neath Port Talbot,25
+East Sussex,23
 "Shropshire, Telford and Wrekin",23
 Somerset,23
-East Sussex,22
 Carmarthenshire and Pembrokeshire,21
 North West Wales,21
 Buckinghamshire,21
 Kent North East,21
-Isle of Wight,19
-Northumberland,19
+Northumberland,20
 Coventry,19
+Isle of Wight,19
 South Lincolnshire,15
 London City,15
 Herefordshire,11
