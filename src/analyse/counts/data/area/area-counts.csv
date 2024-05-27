@@ -1,31 +1,31 @@
 coroner_area,count
 Greater Manchester South,418
-London Inner North,257
-"West Sussex, Brighton and Hove",159
-Birmingham and Solihull,154
+London Inner North,259
+"West Sussex, Brighton and Hove",160
+Birmingham and Solihull,155
 Surrey,154
 London East,146
 London Inner South,130
 South Wales Central,122
-Greater Manchester North,115
-Staffordshire and Stoke-on-Trent,110
+Greater Manchester North,116
+Staffordshire and Stoke-on-Trent,111
 Greater Manchester West,109
 Yorkshire West Eastern,107
 Nottinghamshire,107
 Norfolk,106
-Cornwall and the Isles of Scilly,101
+Cornwall and the Isles of Scilly,102
 "County of Devon, Plymouth & Torbay",95
 North Wales (East & Central),93
 Avon,91
 Yorkshire South West,85
-The Black Country Jurisdiction,83
+The Black Country Jurisdiction,84
 "Hampshire, Portsmouth and Southampton",83
 County Durham and Darlington,81
 Yorkshire West Western,79
 Essex,72
 London Inner West,72
 Bedfordshire and Luton,72
-Leicester City and South Leicestershire,70
+Leicester City and South Leicestershire,71
 Milton Keynes,68
 Cumbria,67
 Manchester City,63
@@ -36,40 +36,40 @@ Liverpool and the Wirral,59
 Kent Mid and Medway,58
 Berkshire,55
 Wiltshire and Swindon,54
-Worcestershire,53
+Worcestershire,54
 London West,53
 Lancashire and Blackburn with Darwen,51
-Derby and Derbyshire,49
+Derby and Derbyshire,51
 Yorkshire South East,48
 Blackpool and Fylde,46
 Sunderland,42
 Warwickshire,41
-Cambridgeshire and Peterborough,40
+Cambridgeshire and Peterborough,41
 London South,39
-Cheshire,38
-Gwent,38
+Cheshire,39
+Gwent,39
 Gloucestershire,35
 Newcastle and North Tyneside,33
+Lincolnshire,32
 Hertfordshire,31
-Lincolnshire,31
 Northamptonshire,29
-Kent Central and South East,27
 East Riding of Yorkshire and Kingston-upon-Hull,27
+Kent Central and South East,27
 Oxfordshire,27
 North Yorkshire and York,26
 Swansea and Neath Port Talbot,25
 East Sussex,24
 "Shropshire, Telford and Wrekin",23
 Somerset,23
-Carmarthenshire and Pembrokeshire,21
-North West Wales,21
 Buckinghamshire,21
+Carmarthenshire and Pembrokeshire,21
 Kent North East,21
+North West Wales,21
 Northumberland,20
 Coventry,19
 Isle of Wight,19
-South Lincolnshire,15
 London City,15
+South Lincolnshire,15
 Herefordshire,11
 Teesside,10
 Gateshead and South Tyneside,10
@@ -84,3 +84,4 @@ North Lincolnshire and Grimsby,3
 North Lincolnshire & Grimsby,3
 Ceredigion,1
 Lincolnshire (South),1
+Nominated Judge Coroner,1
