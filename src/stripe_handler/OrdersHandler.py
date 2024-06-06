@@ -1,5 +1,5 @@
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, UTC
 
 import stripe
 from dotenv import load_dotenv
@@ -18,8 +18,8 @@ class OrdersHandler:
         self.email_cred = UserCred(email=os.getenv("EMAIL"), password=os.getenv("PASSWORD"))
 
     def handle(self) -> None:
-        start_time = int((datetime.utcnow() - timedelta(minutes=60)).timestamp())
-        end_time = int(datetime.utcnow().timestamp())
+        start_time = int((datetime.now(UTC) - timedelta(minutes=60)).timestamp())
+        end_time = int(datetime.now(UTC).timestamp())
         payment_intents = stripe.PaymentIntent.list()
         start_time_str = datetime.fromtimestamp(start_time).strftime('%Y-%m-%d %H:%M:%S')
         end_time_str = datetime.fromtimestamp(end_time).strftime('%Y-%m-%d %H:%M:%S')
