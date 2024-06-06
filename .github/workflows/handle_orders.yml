@@ -25,4 +25,4 @@ jobs:
           EMAIL: ${{ secrets.EMAIL_USERNAME }}
           PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
-        run: python src/stripe_handler/OrdersHandler.py
+        run: python -u src/stripe_handler/OrdersHandler.py
