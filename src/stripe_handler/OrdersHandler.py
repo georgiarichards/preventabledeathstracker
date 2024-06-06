@@ -18,7 +18,7 @@ class OrdersHandler:
         self.email_cred = UserCred(email=os.getenv("EMAIL"), password=os.getenv("PASSWORD"))
 
     def handle(self) -> None:
-        start_time = int((datetime.now(UTC) - timedelta(minutes=600)).timestamp())
+        start_time = int((datetime.now(UTC) - timedelta(minutes=60)).timestamp())
         end_time = int(datetime.now(UTC).timestamp())
         payment_intents = stripe.PaymentIntent.list()
         start_time_str = datetime.fromtimestamp(start_time).strftime('%Y-%m-%d %H:%M:%S')
@@ -39,7 +39,6 @@ class OrdersHandler:
             elif not payment.invoice:
                 print(f"Processing {payment.id} skipped, invoice not created")
                 continue
-            print(payment)
             invoice = stripe.Invoice.retrieve(payment.invoice)
             customer_email = invoice.customer_email
             customer_name = invoice.customer_name
@@ -60,6 +59,7 @@ class OrdersHandler:
             )
             send_email_gmail = SendEmailGmail(config=sender_config, **self.email_cred.dict())
             MailSenderGmail(params=send_email_gmail).send_mail()
+            print(f"Message sent {customer_email} - {product} - path: {product_path}")
 
 
 if __name__ == "__main__":
