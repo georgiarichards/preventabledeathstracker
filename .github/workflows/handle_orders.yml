@@ -31,4 +31,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: update processed payments"
-          file_patter: 'src/stripe_handler/data/processed_payments.csv'
+          file_pattern: 'src/stripe_handler/data/processed_payments.csv'
