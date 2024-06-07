@@ -11,7 +11,7 @@ from template import fill_email_template
 load_dotenv()
 
 stripe.api_key = os.getenv("STRIPE_SECRET_KEY")
-PROCESSED_PAYMENTS_FILE = "data/processed_payments.csv"
+PROCESSED_PAYMENTS_FILE = "src/stripe_handler/data/processed_payments.csv"
 
 
 class OrdersHandler:
