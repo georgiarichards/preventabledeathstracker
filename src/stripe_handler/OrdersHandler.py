@@ -1,5 +1,5 @@
+import csv
 import os
-from datetime import datetime, timedelta, UTC
 
 import stripe
 from dotenv import load_dotenv
@@ -11,34 +11,44 @@ from template import fill_email_template
 load_dotenv()
 
 stripe.api_key = os.getenv("STRIPE_SECRET_KEY")
+PROCESSED_PAYMENTS_FILE = "data/processed_payments.csv"
 
 
 class OrdersHandler:
     def __init__(self) -> None:
         self.email_cred = UserCred(email=os.getenv("EMAIL"), password=os.getenv("PASSWORD"))
+        self.processed_payments = self.load_processed_payments()
+
+    @staticmethod
+    def load_processed_payments() -> set:
+        if os.path.exists(PROCESSED_PAYMENTS_FILE):
+            with open(PROCESSED_PAYMENTS_FILE, "r", newline='') as file:
+                reader = csv.reader(file)
+                return set(row[0] for row in reader)
+        return set()
+
+    @staticmethod
+    def save_processed_payment(payment_id: str) -> None:
+        with open(PROCESSED_PAYMENTS_FILE, "a", newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow([payment_id])
 
     def handle(self) -> None:
-        start_time = int((datetime.now(UTC) - timedelta(minutes=60)).timestamp())
-        end_time = int(datetime.now(UTC).timestamp())
         payment_intents = stripe.PaymentIntent.list()
-        start_time_str = datetime.fromtimestamp(start_time).strftime('%Y-%m-%d %H:%M:%S')
-        end_time_str = datetime.fromtimestamp(end_time).strftime('%Y-%m-%d %H:%M:%S')
-
-        print(f"Start Time: {start_time_str}")
-        print(f"End Time: {end_time_str}")
-        # Doesn't work for some reason  created={"gte": start_time, "lte": end_time})
         _orders = {}
         for payment in payment_intents:
-            if not (start_time <= payment.created <= end_time):
-                created_time_str = datetime.fromtimestamp(payment.created).strftime('%Y-%m-%d %H:%M:%S')
-                print(f"Processing {payment.id} skipped, it's been over 1 hour since it was created {created_time_str}")
+            if payment.id in self.processed_payments:
+                print(f"Processing {payment.id} skipped, already processed")
                 continue
+
             if payment.status != "succeeded":
                 print(f"Processing {payment.id} skipped, payment.status {payment.status}")
                 continue
+
             elif not payment.invoice:
                 print(f"Processing {payment.id} skipped, invoice not created")
                 continue
+
             invoice = stripe.Invoice.retrieve(payment.invoice)
             customer_email = invoice.customer_email
             customer_name = invoice.customer_name
@@ -60,6 +70,9 @@ class OrdersHandler:
             send_email_gmail = SendEmailGmail(config=sender_config, **self.email_cred.dict())
             MailSenderGmail(params=send_email_gmail).send_mail()
             print(f"Message sent {customer_email} - {product} - path: {product_path}")
+
+            # Save processed payment ID
+            self.save_processed_payment(payment.id)
 
 
 if __name__ == "__main__":

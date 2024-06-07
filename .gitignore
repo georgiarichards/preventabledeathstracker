@@ -99,4 +99,5 @@ web_modules/
 # We're also using a fair bit of python
 __pycache__/
 .idea/
+.env
 
