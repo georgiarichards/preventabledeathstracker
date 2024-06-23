@@ -1,13 +1,13 @@
 sent_to,no. PFDs,overdue,pending,completed,% completed
-Department of Health and Social Care,539,223,21,295,55
-NHS England,405,163,16,226,56
+Department of Health and Social Care,539,227,17,295,55
+NHS England,405,165,14,226,56
 Care Quality Commission,130,79,2,49,38
 HM Prison and Probation Service,111,56,2,53,48
 Ministry of Justice,84,60,7,17,20
 NHS Greater Manchester Integrated Care Board,83,44,2,37,45
-Home Office,74,32,4,38,51
+Home Office,74,33,3,38,51
 Department for Transport,72,28,1,43,60
-National Institute for Health and Care Excellence,68,35,2,31,46
+National Institute for Health and Care Excellence,68,36,1,31,46
 Barts Health NHS Trust,59,21,2,36,61
 National Highways,58,37,0,21,36
 Betsi Cadwaladr University Health Board,54,16,0,38,70
@@ -16,12 +16,12 @@ Pennine Care NHS Foundation Trust,47,27,1,19,40
 Health and Safety Executive,45,25,1,19,42
 Welsh Ambulance Services NHS Trust,44,18,0,26,59
 Medicines and Healthcare Products Regulatory Agency,43,27,0,16,37
-National Police Chiefs’ Council,40,30,2,8,20
+National Police Chiefs’ Council,40,31,1,8,20
 Department for Education,40,14,1,25,62
 University Hospitals Sussex NHS Foundation Trust,38,19,0,19,50
 Network Rail,34,5,0,29,85
 Greater Manchester Mental Health NHS Foundation Trust,34,17,0,17,50
-College of Policing,34,11,2,21,62
+College of Policing,34,12,1,21,62
 East London NHS Foundation Trust,31,12,0,19,61
 Norfolk and Suffolk NHS Foundation Trust,29,7,1,21,72
 Essex Partnership University NHS Foundation Trust,29,18,0,11,38
@@ -31,8 +31,8 @@ Cwm Taf Morgannwg University Health Board,28,13,1,14,50
 Birmingham and Solihull Mental Health NHS Foundation Trust,28,11,1,16,57
 Manchester University NHS Foundation Trust,28,16,0,12,43
 Central and North West London NHS Foundation Trust,27,17,0,10,37
-Greater Manchester Police,27,6,2,19,70
-North East London NHS Foundation Trust,26,15,1,10,38
+Greater Manchester Police,27,7,1,19,70
+North East London NHS Foundation Trust,26,16,0,10,38
 University Hospitals Plymouth NHS Trust,26,8,0,18,69
 General Medical Council,25,15,0,10,40
 Stockport NHS Foundation Trust,25,11,0,14,56
@@ -40,7 +40,7 @@ Tameside and Glossop Integrated Care NHS Foundation Trust,24,10,1,13,54
 Sussex Partnership NHS Foundation Trust,24,9,0,15,62
 Aneurin Bevan University Health Board,22,8,1,13,59
 Nottinghamshire Healthcare NHS Foundation Trust,22,10,0,12,55
-NHS Birmingham and Solihull Integrated Care Board,22,7,1,14,64
+NHS Birmingham and Solihull Integrated Care Board,22,8,0,14,64
 Oxleas NHS Foundation Trust,21,12,0,9,43
 London Ambulance Service NHS Trust,21,10,0,11,52
 Ministry of Defence,21,6,0,15,71
@@ -48,7 +48,7 @@ Cornwall Council,20,8,1,11,55
 Lewisham & Greenwich NHS Trust,20,8,0,12,60
 University Hospitals of North Midlands NHS Trust,20,9,0,11,55
 Worcestershire Acute Hospitals NHS Trust,20,10,1,9,45
-Swansea Bay University Health Board,20,12,1,7,35
+Swansea Bay University Health Board,20,13,0,7,35
 "Department for Levelling Up, Housing and Communities",19,10,1,8,42
 Midlands Partnership University NHS Foundation Trust,19,9,1,9,47
 Blackpool Teaching Hospitals NHS Foundation Trust,19,10,0,9,47
@@ -56,11 +56,11 @@ Leeds Teaching Hospitals NHS Trust,18,8,0,10,56
 Royal College of Paediatrics and Child Health,18,6,1,11,61
 Royal College of General Practitioners,18,10,0,8,44
 Northern Care Alliance NHS Foundation Trust,17,7,0,10,59
-Camden and Islington NHS Foundation Trust,17,7,1,9,53
+Camden and Islington NHS Foundation Trust,17,8,0,9,53
 Cardiff and Vale University Health Board,17,8,0,9,53
 Transport for London,17,6,0,11,65
 REDACTED,17,8,3,6,35
-Royal College of Obstetricians and Gynaecologists,17,10,1,6,35
+Royal College of Obstetricians and Gynaecologists,17,11,0,6,35
 St George’s University Hospitals NHS Foundation Trust,17,14,0,3,18
 Devon Partnership NHS Trust,16,6,0,10,62
 East Midlands Ambulance Service NHS Trust,16,7,0,9,56
@@ -75,7 +75,7 @@ Welsh Government,15,6,0,9,60
 South Central Ambulance Service NHS Foundation Trust,15,12,0,3,20
 East of England Ambulance Service NHS Trust,15,7,0,8,53
 Herefordshire and Worcestershire Health and Care NHS Trust,15,8,0,7,47
-Nursing and Midwifery Council,15,7,2,6,40
+Nursing and Midwifery Council,15,8,1,6,40
 North West Ambulance Service NHS Trust,15,7,0,8,53
 "Department for Culture, Media and Sport",14,9,1,4,29
 Surrey County Council,14,7,1,6,43
@@ -90,7 +90,7 @@ South East Coast Ambulance Service NHS Foundation Trust,13,4,0,9,69
 United Lincolnshire Hospitals NHS Trust,13,7,0,6,46
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,12,3,0,9,75
 Cumbria County Council,12,5,0,7,58
-University Hospitals Birmingham NHS Foundation Trust,12,3,3,6,50
+University Hospitals Birmingham NHS Foundation Trust,12,4,2,6,50
 Department for Work and Pensions,12,7,0,5,42
 Kent County Council,12,6,0,6,50
 Kent and Medway NHS and Social Care Partnership Trust,12,8,0,4,33
@@ -132,7 +132,7 @@ Surrey Police,9,6,0,3,33
 British Medical Association,9,8,0,1,11
 Warwickshire County Council,9,6,0,3,33
 Calderdale Council,9,6,0,3,33
-NHS Sussex Integrated Care Board,9,4,2,3,33
+NHS Sussex Integrated Care Board,9,5,1,3,33
 The Royal Wolverhampton NHS Trust,9,5,0,4,44
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",9,4,1,4,44
 Hywel Dda University Health Board,9,6,0,3,33
@@ -167,7 +167,7 @@ Clinical Commissioning Group,7,3,0,4,57
 Maidstone and Tunbridge Wells NHS Foundation Trust,7,2,0,5,71
 Guy's and St Thomas' NHS Foundation Trust,7,2,0,5,71
 Royal Cornwall Hospitals NHS Trust,7,3,0,4,57
-Frimley Health NHS Foundation Trust,7,3,2,2,29
+Frimley Health NHS Foundation Trust,7,4,1,2,29
 "Foreign, Commonwealth & Development Office",7,3,0,4,57
 Royal College of Surgeons,7,5,0,2,29
 South West London and St George’s Mental Health NHS Trust,7,3,1,3,43
@@ -241,7 +241,7 @@ Epsom and St Helier University Hospitals NHS Trust,5,3,0,2,40
 South Tyneside and Sunderland NHS Foundation Trust,5,1,0,4,80
 Kettering General Hospital NHS Foundation Trust,5,3,0,2,40
 Calderdale and Huddersfield NHS Foundation Trust,5,3,0,2,40
-Walsall Council,5,2,1,2,40
+Walsall Council,5,3,0,2,40
 South Western Railway,5,3,0,2,40
 Office of Rail and Road,5,4,0,1,20
 Royal College of Radiologists,5,1,0,4,80
@@ -266,7 +266,7 @@ Chief Medical Officer for Wales,4,2,0,2,50
 Association of Directors of Adult Social Services,4,3,0,1,25
 Surrey Heartlands Integrated Care Board,4,3,0,1,25
 HM Inspectorate of Prisons,4,3,0,1,25
-NHS Wales,4,2,1,1,25
+NHS Wales,4,3,0,1,25
 Chesterfield Royal Hospital NHS Foundation Trust,4,4,0,0,0
 HM Prison Belmarsh,4,4,0,0,0
 Northumberland,4,2,0,2,50
@@ -303,7 +303,7 @@ Barnet Enfield and Haringey Mental Health NHS Trust,4,3,0,1,25
 West Mercia Police,4,1,1,2,50
 Staffordshire County Council,4,1,0,3,75
 Borough Care,4,0,0,4,100
-NHS Cheshire and Merseyside Integrated Care Board,4,3,1,0,0
+NHS Cheshire and Merseyside Integrated Care Board,4,4,0,0,0
 Dyfed-Powys Police,4,3,0,1,25
 Ofcom,4,3,1,0,0
 Rail Safety and Standards Board,4,3,0,1,25
@@ -848,7 +848,7 @@ SystemOne TPP Ltd,1,1,0,0,0
 Sydenham Green Group General Practice,1,1,0,0,0
 Swiss Cottage Special School,1,0,0,1,100
 Swinhoe Farm,1,1,0,0,0
-Swansea Council,1,0,1,0,0
+Swansea Council,1,1,0,0,0
 Swanage Medical Practice,1,0,0,1,100
 Sutton Local Safeguarding Children’s Board,1,1,0,0,0
 Sustrans,1,0,0,1,100
@@ -885,7 +885,7 @@ Tynant Nursing Home,1,0,0,1,100
 Unity MAT,1,1,0,0,0
 Unity Insurance Services: Scouting and Scout Groups Insurance,1,1,0,0,0
 United Response,1,1,0,0,0
-United Children’s Services,1,0,1,0,0
+United Children’s Services,1,1,0,0,0
 Unilink Software Ltd,1,0,1,0,0
 Ultra Events Ltd,1,0,1,0,0
 URBN UK Ltd,1,0,0,1,100
@@ -1085,7 +1085,7 @@ Seaton and Colyton Medical Practice,1,0,0,1,100
 Scraptoft Court residential Care Home,1,1,0,0,0
 Scottish Cycling,1,1,0,0,0
 Scotia Gas Network,1,1,0,0,0
-Scape Living Student Accommodation,1,0,1,0,0
+Scape Living Student Accommodation,1,0,0,1,100
 Scania,1,1,0,0,0
 Shindig Events Limited,1,1,0,0,0
 Shropshire Safeguarding Community Partnership,1,1,0,0,0
@@ -1226,7 +1226,7 @@ Department of Business,1,1,0,0,0
 "Department for Science, Innovation and Technology",1,1,0,0,0
 Denton Medical Centre,1,1,0,0,0
 Dennis Eagle Ltd and Biffa Waste Services Ltd,1,1,0,0,0
-Dennis Eagle Ltd,1,0,1,0,0
+Dennis Eagle Ltd,1,1,0,0,0
 Delamere Medical Practice,1,0,0,1,100
 Decathlon UK,1,1,0,0,0
 Doncaster Council,1,0,0,1,100
@@ -1549,7 +1549,7 @@ Keats House,1,1,0,0,0
 Impact Housing Association,1,0,0,1,100
 Inmind Healthcare Group,1,0,0,1,100
 Informa Healthcare,1,1,0,0,0
-Independent Office for Police Conduct,1,0,1,0,0
+Independent Office for Police Conduct,1,1,0,0,0
 Independent Monitoring Board,1,0,0,1,100
 Independent Healthcare Providers Network,1,1,0,0,0
 Independent Futures,1,1,0,0,0
@@ -1599,7 +1599,7 @@ Mildmay Medical Practice,1,1,0,0,0
 Midlands,1,0,0,1,100
 Midgehole Working Mens Club,1,0,0,1,100
 Mid Yorkshire Teaching NHS Trust,1,0,0,1,100
-MiHomecare,1,0,1,0,0
+MiHomecare,1,1,0,0,0
 Metalchem Ltd,1,0,0,1,100
 Merton,1,1,0,0,0
 Merthyr Tydfil County Borough Council,1,0,0,1,100
