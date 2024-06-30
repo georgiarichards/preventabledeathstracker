@@ -1,4 +1,4 @@
-[
+ [
   {
     "Titan Containers Limited": "Titan Containers Limited",
     "Emergency Call Prioritisation Advisory Group (ECPAG); Association of Ambulance Chief Executives; National Association of Ambulance Medical Directors": "Association of Ambulance Chief Executives",
@@ -610,7 +610,6 @@
     "North Somerset Clinical Commissioning Group": "Bristol, North Somerset and South Gloucestershire Integrated Care Board",
     "British Cardiac Intervention Society": "British Cardiovascular Intervention Society",
     "British Kite Surfing Association": "British Kitesurfing Association",
-    "British National Formulary": "British National Formulary",
     "British Parachute Association": "British Skydiving",
     "British Renal Society": "UK Kidney Association",
     "Bromley CCG": "NHS South East London Integrated Care Board",
@@ -2359,6 +2358,8 @@
     "The Black Country Family Practice": "The Black Country Family Practice",
     "The Borchardt Medical Centre": "The Borchardt Medical Centre",
     "The British National Formulary": "British National Formulary",
+    "British National Formulary": "British National Formulary",
+    "BNF": "British National Formulary",
     "The British Obesity and Metabolic Surgery Society": "The British Obesity and Metabolic Surgery Society",
     "The Castle Rock Group": "Castle Rock Group",
     "The Chief Executive of National Highways": "National Highways",
@@ -3041,8 +3042,6 @@
     "BGA": "British Gliding Association",
     "BKSA": "British Kite Surfing Association",
     "BMFMS": "British Maternal and Fetal Medicine Society",
-    "BMC": "The Borchardt Medical Centre",
-    "BNF": "British National Formulary",
     "BPA": "British Parachute Association",
     "BRS": "The Beaufort Road Surgery",
     "BSG": "British Society of Gastroenterology",
