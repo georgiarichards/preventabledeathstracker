@@ -117,8 +117,7 @@ export default async function Corrector(keep_failed = true) {
             return dest;
         });
 
-        let eee = destination.join(' | ');
-        return eee
+        return destination.join(' | ')
     }
         // }
         // else {
