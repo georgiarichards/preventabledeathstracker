@@ -2859,6 +2859,8 @@
     "Public Health England": "Public Health England",
     "NHS Improvement": "NHS England",
     "Energy and Climate Change": "Department of Energy and Climate Change",
+    "The HSE": "Health and Safety Executive",
+    "HSE": "Health and Safety Executive",
     "Yorkshire Water": "Yorkshire Water"
   },
   {
@@ -2869,7 +2871,6 @@
     "NICE": "National Institute for Health and Care Excellence",
     "N.I.C.E": "National Institute for Health and Care Excellence",
     "MOJ": "Ministry of Justice",
-    "HSE": "Health and Safety Executive",
     "BCUHB": "Betsi Cadwaladr University Health Board",
     "GMHSCP": "NHS Greater Manchester Integrated Care Board",
     "NELFT": "North East London NHS Foundation Trust",
