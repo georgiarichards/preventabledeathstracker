@@ -103,6 +103,28 @@ export default async function Corrector(keep_failed = true) {
         return replacements[known_match]
     }
 
+    function coma_split(text) {
+        const dest = text
+            .split(',')
+            .map(t => t.trim())
+            .filter(t => t.length > 0);
+
+        const destination = dest.map(dest => {
+            const known_match = try_known_match(dest);
+            if (known_match) {
+                return known_match;
+            }
+            return dest;
+        });
+
+        let eee = destination.join(' | ');
+        return eee
+    }
+        // }
+        // else {
+        //     return text
+
+
 
     function add_to_known(text) {
         text = text.replace(non_words, ' ').trim()
@@ -125,17 +147,18 @@ export default async function Corrector(keep_failed = true) {
                 return known_match
             }
             const destinations = text
-                .split(/[;|,]/g)
+                .split(/[;|]/g)
                 .map(dest => dest.trim())
                 .filter(dest => dest.length > 0)
+
+
             return destinations
                 .map(dest => {
                     const known_match = try_known_match(dest)
                     if (known_match) {
                         return known_match
                     }
-                    add_to_known(dest)
-                    return dest
+                    return coma_split(dest)
                 })
                 .join(' | ')
         }
