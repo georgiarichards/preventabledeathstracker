@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,539,227,17,295,55
-NHS England,405,165,14,226,56
-Care Quality Commission,130,79,2,49,38
-HM Prison and Probation Service,111,56,2,53,48
-Ministry of Justice,84,60,7,17,20
-NHS Greater Manchester Integrated Care Board,83,44,2,37,45
-Home Office,74,33,3,38,51
-Department for Transport,72,28,1,43,60
-National Institute for Health and Care Excellence,68,36,1,31,46
-Barts Health NHS Trust,59,21,2,36,61
-National Highways,58,37,0,21,36
-Betsi Cadwaladr University Health Board,54,16,0,38,70
+Department of Health and Social Care,543,208,18,317,58
+NHS England,409,162,14,233,57
+Care Quality Commission,131,80,2,49,37
+HM Prison and Probation Service,114,57,2,55,48
+Ministry of Justice,84,60,8,16,19
+NHS Greater Manchester Integrated Care Board,84,43,2,39,46
+Home Office,75,32,3,40,53
+Department for Transport,73,28,2,43,59
+National Institute for Health and Care Excellence,70,38,1,31,44
+Barts Health NHS Trust,60,22,2,36,60
+National Highways,57,36,0,21,37
+Betsi Cadwaladr University Health Board,55,15,1,39,71
 Metropolitan Police Service,48,27,0,21,44
 Pennine Care NHS Foundation Trust,47,27,1,19,40
-Health and Safety Executive,45,25,1,19,42
-Welsh Ambulance Services NHS Trust,44,18,0,26,59
+Health and Safety Executive,46,26,1,19,41
+Welsh Ambulance Services NHS Trust,45,19,1,25,56
 Medicines and Healthcare Products Regulatory Agency,43,27,0,16,37
-National Police Chiefs’ Council,40,31,1,8,20
-Department for Education,40,14,1,25,62
-University Hospitals Sussex NHS Foundation Trust,38,19,0,19,50
+University Hospitals Sussex NHS Foundation Trust,43,21,0,22,51
+National Police Chiefs’ Council,42,33,1,8,19
+Department for Education,38,13,1,24,63
+College of Policing,35,12,2,21,60
+Greater Manchester Mental Health NHS Foundation Trust,35,18,0,17,49
 Network Rail,34,5,0,29,85
-Greater Manchester Mental Health NHS Foundation Trust,34,17,0,17,50
-College of Policing,34,12,1,21,62
 East London NHS Foundation Trust,31,12,0,19,61
-Norfolk and Suffolk NHS Foundation Trust,29,7,1,21,72
-Essex Partnership University NHS Foundation Trust,29,18,0,11,38
-Practice Plus Group,29,17,0,12,41
-Association of Ambulance Chief Executives,29,14,2,13,45
-Cwm Taf Morgannwg University Health Board,28,13,1,14,50
-Birmingham and Solihull Mental Health NHS Foundation Trust,28,11,1,16,57
+Manchester University NHS Foundation Trust,30,16,2,12,40
+Essex Partnership University NHS Foundation Trust,30,18,1,11,37
+Association of Ambulance Chief Executives,29,12,2,15,52
+Norfolk and Suffolk NHS Foundation Trust,29,6,1,22,76
+Practice Plus Group,29,15,0,14,48
+Birmingham and Solihull Mental Health NHS Foundation Trust,29,11,2,16,55
