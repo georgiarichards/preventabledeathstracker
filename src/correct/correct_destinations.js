@@ -119,10 +119,6 @@ export default async function Corrector(keep_failed = true) {
 
         return destination.join(' | ')
     }
-        // }
-        // else {
-        //     return text
-
 
 
     function add_to_known(text) {
@@ -157,7 +153,8 @@ export default async function Corrector(keep_failed = true) {
                     if (known_match) {
                         return known_match
                     }
-                    return coma_split(dest)
+                    // return coma_split(dest)
+                    return dest
                 })
                 .join(' | ')
         }
