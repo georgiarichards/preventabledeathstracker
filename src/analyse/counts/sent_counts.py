@@ -12,6 +12,8 @@ from datetime import datetime, timedelta
 import pandas as pd
 from create_badge import create_badge
 from helpers import percent, toml_stats
+from src.analyse.counts.data.html.elements import CounterType
+from src.analyse.counts.data.html.get_html_counter import get_html_counter
 
 TOP_N = 30
 QUARTER_MONTHS = [1, 4, 7, 10]
@@ -132,6 +134,13 @@ exploded["status"] = exploded["status"].mask(responded, "received")
 
 # %% [markdown]
 # ### Calculating the counts for each recipient
+# exploded["year"] = exploded['year'].astype(int)
+sent_to_yearly = exploded['sent_to'].groupby(exploded['year']).value_counts().unstack(fill_value=0)
+sent_to_yearly = sent_to_yearly.transpose()
+sent_to_yearly.index.name = 'Addressed to'
+sent_to_yearly['Total no. PFDs'] = sent_to_yearly.sum(axis=1)
+sent_to_yearly.to_csv(f"{DATA_PATH}/sent/sent_to_yearly.csv")
+
 
 sent_types = exploded.value_counts(["sent_to", "status"]).unstack(fill_value=0)
 sent_types["no. PFDs"] = exploded["sent_to"].value_counts()
@@ -401,6 +410,9 @@ rcpt_statuses = rcpt_statuses[
 without = len(fetched) - len(fetched_non_na)
 failed = len(fetched_non_na) - len(non_na)
 
+get_html_counter(len(fetched), CounterType.COUNT)
+get_html_counter(percent(status_counts["completed"], len(fetched)), CounterType.PERCENT)
+
 toml_stats["this report is sent to"] = statistics = {
     "reports parsed": [float(len(non_na)), percent(len(non_na), len(fetched))],
     "reports without recipients": [float(without), percent(without, len(fetched))],
@@ -474,7 +486,9 @@ statuses = statuses[new_order]
 exploded = exploded[exploded["response status"] != "failed"]
 statuses = statuses[statuses["Status"] != "error"]
 
-sent_types.rename(columns={"received": "completed", "% received": "% completed"}, inplace=True)
+# sent_types.rename(columns={"received": "completed", "% received": "% completed"}, inplace=True)
+sent_types.rename(columns={"sent_to": "Addressed to", "% no. PFDs": "Total no. PFDs"}, inplace=True)
+
 
 sent_counts.to_csv(f"{DATA_PATH}/sent/sent-counts.csv")
 top_counts.to_csv(f"{DATA_PATH}/sent/top-sent-counts.csv")

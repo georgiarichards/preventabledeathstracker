@@ -29,9 +29,9 @@
 "coroners in society unknown" = [ 259.0, 28.2,]
 
 ["coroners in reports"]
-"reports from male coroners" = [ 2266.0, 44.1,]
-"reports from female coroners" = [ 2073.0, 40.4,]
-"reports from unknown coroners" = [ 795.0, 15.5,]
+"reports from male coroners" = [ 2301.0, 44.8,]
+"reports from female coroners" = [ 2077.0, 40.5,]
+"reports from unknown coroners" = [ 756.0, 14.7,]
 "no. reports parsed" = 5134
 "no. coroner names in reports" = 485
 "reports from top 30 names" = [ 1906.0, 37.1,]
