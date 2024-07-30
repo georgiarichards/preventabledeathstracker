@@ -1,6 +1,6 @@
 PRODUCT_DETAILS_MAP = {
     "Reg 29 Addressee Tracker Database": {
-        "path": "src/analyse/counts/data/sent/sent-types.csv",
+        "path": "src/analyse/counts/data/sent/sent-types-years.csv",
         "features": [
             "Track PFDs addressed to specific organisations",
             "Access over a decade of data, since July 2013",
