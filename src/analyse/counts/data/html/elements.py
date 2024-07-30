@@ -52,7 +52,7 @@ COUNT_CONTAINER = f"""
     <div class="counter-container">
         <a href="{COUNTS_LINK}" target="_blank" class="button-link">
             <div id="totalReportsCounter" class="counter">0</div>
-            <div class="counter-description" id="counter-description">Total number of reports</div>
+            <div class="counter-description" id="counter-description">Coroners reports</div>
         </a>
     </div>
 """
