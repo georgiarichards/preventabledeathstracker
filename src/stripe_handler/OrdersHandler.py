@@ -74,7 +74,25 @@ class OrdersHandler:
             # Save processed payment ID
             self.save_processed_payment(payment.id)
 
+    def mocked_test(self) -> None:
+        product = "Reg 29 Addressee Tracker Database"
+        product_path = PRODUCT_DETAILS_MAP[product]["path"]
+        customer_email = ""  # set test customer email
+        customer_name = "Test"
+        sender_config = SenderConfigGmail(
+            host="smtp.gmail.com",
+            port=587,
+            email_to=customer_email,
+            subject=f"{product} - PREVENTABLE-DEATHS",
+            body=fill_email_template(customer_name, product),
+            file_paths=[PRODUCT_DETAILS_MAP[product][PATH_KEY]],
+        )
+        send_email_gmail = SendEmailGmail(config=sender_config, **self.email_cred.dict())
+        MailSenderGmail(params=send_email_gmail).send_mail()
+        print(f"Message sent {customer_email} - {product} - path: {product_path}")
+
 
 if __name__ == "__main__":
     handler = OrdersHandler()
     handler.handle()
+    # handler.mocked_test()
