@@ -58,8 +58,6 @@ COUNT_CONTAINER = f"""
 """
 
 SCRIPT = """
-<script>
-        function animateCounter(element, target, duration) {
             let start = 0;
             let range = target - start;
             let increment = target > 100 ? Math.ceil(range / (duration / 10)) : Math.ceil(range / (duration / 100));

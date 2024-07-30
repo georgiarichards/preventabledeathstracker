@@ -12,10 +12,11 @@ def generate_script(value: str, _type: CounterType) -> str:
         let completedReportsCounter = document.getElementById('completedReportsCounter');
 
          setTimeout(() => {{
-        animateCounter(completedReportsCounter, {value}, 2000);}}, 500);
+        animateCounterWithPercent(completedReportsCounter, {value}, 2000);}}, 500);
             </script>
         """
-        return SCRIPT + script_template
+        return """<script>
+        function animateCounterWithPercent(element, target, duration) {""" +SCRIPT + script_template
     if _type == CounterType.COUNT:
         script_template = f"""
                                 element.textContent = target === 0 ? current : current;
@@ -28,7 +29,8 @@ def generate_script(value: str, _type: CounterType) -> str:
             }}, 500);
         </script>
             """
-        return SCRIPT + script_template
+        return """<script>
+                function animateCounter(element, target, duration) {""" + SCRIPT + script_template
 
 
 def get_html_counter(value, _type: CounterType):
