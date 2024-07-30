@@ -7,7 +7,7 @@ class CounterType(str, Enum):
 
 
 COUNTS_LINK = "https://preventabledeathstracker.net/database/"
-PERCENT_LINK = "https://preventabledeathstracker.net/database/reg-29/"
+PERCENT_LINK = "https://preventabledeathstracker.net/reg-29-addressee-tracker-database/"
 
 STYLE = """
 <style>
