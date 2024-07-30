@@ -25,6 +25,7 @@ STYLE = """
         }
 
         .button-link {
+            width: 350px;
             text-decoration: none;
             color: white;
             background-color: #002147;
