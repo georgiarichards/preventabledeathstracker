@@ -14,7 +14,7 @@ STYLE = """
         .counter-container {
             text-align: center;
             margin: 20px;
-            font-family: "Arial", helvetica, arial, sans-serif;
+            font-family: "Alegreya Sans", sans-serif;
         }
         .counter {
             font-size: 2em;
@@ -25,12 +25,12 @@ STYLE = """
         }
 
         .button-link {
-            width: 500px;
+            width: 350px;
+            height: 180px;
             text-decoration: none;
             color: white;
             background-color: #002147;
             padding: 5px 20px 10px;
-            border-radius: 5px;
             display: inline-block;
         }
         .button-link:hover {
@@ -43,7 +43,7 @@ PERCENT_CONTAINER = f"""
     <div class="counter-container">
         <a href="{PERCENT_LINK}" target="_blank" class="button-link">
             <div id="completedReportsCounter" class="counter">0%</div>
-            <div class="counter-description" id="counter-description">Percentage of reports with all responses published</div>
+            <div class="counter-description" id="percent-description">Percentage of reports with all responses published</div>
         </a>
     </div>
     """
