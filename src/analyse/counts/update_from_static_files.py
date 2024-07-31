@@ -117,4 +117,5 @@ _main_df = _main_df.reindex(
     columns=['Status', 'Date added', 'Date of report', 'Ref', 'Deceased name', 'Number of deceased', 'Date of death',
              'Age', 'Sex', 'Coroner name', 'Coroner area', 'Research tags', 'Category', 'Sent to', 'Sent to count',
              'Replies count', 'Report URL'])
-_main_df.to_csv(f"{PATH}/data/sent/db_with_statuses.csv", index=False)
+_main_df.to_csv(f"{PATH}/data/sent/db_with_statuses_and_tags.csv", index=False)  # TODO: remove
+# _main_df.to_csv(f"{PATH}/data/sent/db_with_statuses.csv", index=False)  # TODO: uncomment to apply changes to Reg28
