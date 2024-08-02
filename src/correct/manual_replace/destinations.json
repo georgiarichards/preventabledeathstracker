@@ -2402,6 +2402,7 @@
     "Shepherds Bush Medical Centre": "Shepherds Bush Medical Centre",
     "Sherwood Forest Hospital Trust": "Sherwood Forest Hospitals NHS Foundation Trust",
     "Sherwood Forest Hospitals NHS Foundation Trust": "Sherwood Forest Hospitals NHS Foundation Trust",
+    "Sherwood Forest Hospitals": "Sherwood Forest Hospitals NHS Foundation Trust",
     "Shindig Events Limited": "Shindig Events Limited",
     "SHSC": "Sheffield Health and Social Care NHS Foundation Trust",
     "Silver Birches Care Home": "Silver Birches Care Home",
@@ -2829,7 +2830,6 @@
     "Norfolk and Waveney Integrated Care System": "NHS Norfolk and Waveney Integrated Care Board",
     "NHS Norfolk and Waveney Integrated Care Board": "NHS Norfolk and Waveney Integrated Care Board",
     "CCG and NHS England": "Clinical Commissioning Group | NHS England",
-    "Sherwood Forest Hospitals": "Sherwood Forest Hospitals",
     "NHS Nottingham and Nottinghamshire Clinical Commissioning Group": "NHS Nottingham and Nottinghamshire Integrated Care Board",
     "Nottingham and Nottinghamshire Clinical Commissioning Group": "NHS Nottingham and Nottinghamshire Integrated Care Board",
     "Association of Police and Crime Commissioners": "Association of Police and Crime Commissioners",
@@ -3674,6 +3674,5 @@
     "BNES": "Bath and North East Somerset",
     "SWICB": "Swindon and Wiltshire Integrated Care Board",
     "SHCCG": "NHS Surrey Heartlands Integrated Care Board",
-    "SFH": "Sherwood Forest Hospitals"
   }
 ]
