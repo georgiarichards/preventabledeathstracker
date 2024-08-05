@@ -15,10 +15,10 @@
 
 ["coroner areas"]
 "no. parsed reports" = 5183
-"no. areas" = 78
-"mean per area" = 66.4
-"median per area" = 54.5
-"IQR of areas" = [ 26.0, 86.25,]
+"no. areas" = 79
+"mean per area" = 65.6
+"median per area" = 54.0
+"IQR of areas" = [ 25.5, 85.5,]
 
 ["coroners' society"]
 "no. names in society" = 917
