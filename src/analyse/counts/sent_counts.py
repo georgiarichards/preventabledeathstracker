@@ -582,8 +582,9 @@ name_statuses["% received"] = name_statuses.apply(
 
 area_statuses.rename(
     columns={
-        "no. recipients": "sent to count",
-        "no. replies": "replies count",
+        "no. PFDs": "Total PDFs",
+        "no. recipients": "Sent to",
+        "no. replies": "Replies",
         "no. complete responses": "received",
         "no. partial responses": "partial",
         "no. overdue responses": "overdue",
@@ -592,12 +593,15 @@ area_statuses.rename(
     inplace=True,
 )
 
+area_statuses.index.rename("Coroner area", inplace=True)
+
 area_statuses["% received"] = area_statuses.apply(
-    lambda row: ",".join(str((row["received"] / row["sent to count"] * 100).round(2)).split("."))
-    if row["sent to count"] != 0
+    lambda row: ",".join(str((row["received"] / row["Sent to"] * 100).round(2)).split("."))
+    if row["Sent to"] != 0
     else 0,
     axis=1,
 )
+
 
 area_statuses.to_csv(f"{DATA_PATH}/sent/area-statuses.csv")
 name_statuses.to_csv(f"{DATA_PATH}/sent/name-statuses.csv")

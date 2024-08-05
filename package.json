@@ -7,6 +7,8 @@
     "correct": "node --no-warnings src/correct/run_corrections.js",
     "correct:update": "node --no-warnings src/correct/add_corrections.js",
     "correct:destinations": "python src/analyse/counts/split_dest.py",
+    "correct:static": "python src/analyse/counts/update_from_static_files.py",
+    "correct:values": "python src/analyse/counts/strip_column_values.py",
     "statistics:month": "python src/analyse/counts/sent_statistics.py",
     "analyse:quarter": "python src/analyse/counts/collect_quarter_report.py",
     "analyse:counts": "python src/analyse/counts/counts.py",

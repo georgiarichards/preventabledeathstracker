@@ -25,4 +25,3 @@ import name_counts as _
 import sent_count_first as _
 import sent_counts as _
 import year_counts as _
-import update_from_static_files as _

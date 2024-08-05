@@ -375,7 +375,7 @@ Cumbria Constabulary,0,0,0,0,0,0,0,0,0,0,1,0,1
 Cumbria County Council,2,0,0,3,2,0,2,1,0,2,0,0,12
 Cumbria Health,0,0,0,0,0,0,0,0,0,0,0,1,1
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",0,0,0,0,0,0,2,0,2,1,3,2,10
-Cwm Taf Morgannwg University Health Board,0,0,2,1,7,4,7,1,2,2,0,2,28
+Cwm Taf Morgannwg University Health Board,0,1,2,1,7,4,7,1,2,2,0,2,29
 Cygnet Health Care,0,0,0,0,0,0,0,0,0,1,0,2,3
 Cygnet Hospital,0,0,0,0,0,0,0,0,0,0,0,1,1
 Cyngor Bwrdeistref Sirol Pen-y-Bont ar Ogwr,0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -523,7 +523,7 @@ Floron Residential Home,1,0,0,0,0,0,0,0,0,0,0,0,1
 Food Standards Agency,0,1,0,0,1,1,1,1,0,1,1,1,8
 Football Association,0,0,0,0,0,1,0,0,0,0,0,0,1
 Ford UK,0,0,0,0,0,0,1,0,0,0,0,0,1
-"Foreign, Commonwealth and Development Office",0,0,1,1,2,2,0,0,0,1,3,1,11
+"Foreign, Commonwealth & Development Office",0,0,1,1,2,2,0,0,0,1,3,1,11
 Forest of Marston Vale,0,0,0,0,0,0,0,0,0,0,1,0,1
 Forestry Commission,0,0,0,0,0,1,0,0,0,0,0,0,1
 Forward Trust,0,0,0,0,0,0,0,0,1,1,1,0,3
@@ -754,7 +754,7 @@ Inmind Healthcare Group,0,0,0,0,0,0,0,0,0,0,1,0,1
 Inspector of Diving,0,0,0,0,0,0,1,0,0,0,0,0,1
 Inspector of Hospitals,1,0,0,0,0,0,0,0,0,0,0,0,1
 Instastop Ltd,0,0,0,0,0,0,0,0,1,0,0,0,1
-Institution of Gas Engineers and Managers,0,0,0,0,0,0,0,1,0,0,0,0,1
+Institution of Gas Engineers & Managers,0,0,0,0,0,0,0,1,0,0,0,0,1
 Institution of Occupational Safety and Health,0,1,0,0,0,0,0,0,0,0,0,0,1
 Insure and Co,0,0,0,0,1,0,0,0,0,0,0,0,1
 Intensive Care Society,0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -825,6 +825,7 @@ Leek Health Centre,0,0,0,0,0,0,0,1,0,0,0,0,1
 Leicester City Council,0,0,1,0,0,0,0,0,0,0,0,0,1
 Leicestershire Partnership NHS Trust,1,0,1,3,1,1,0,0,0,0,1,2,10
 Leonard Cheshire,0,0,0,0,0,0,0,0,0,0,1,0,1
+Lewisham Council,0,0,0,1,0,1,1,1,1,0,0,0,5
 Lewisham and Greenwich NHS Trust,1,1,1,0,1,2,5,3,3,1,2,1,21
 Leyden Delta Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1
 Lifeshield Medical Services Limited,0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -854,7 +855,6 @@ London Ambulance Service NHS Trust,2,0,2,2,2,2,4,3,3,0,1,0,21
 London Borough of Harrow,1,0,0,0,0,0,0,0,0,0,0,0,1
 London Borough of Havering,0,0,0,0,0,0,0,1,0,0,0,0,1
 London Borough of Islington,0,0,0,0,0,0,0,0,0,0,1,0,1
-London Borough of Lewisham,0,0,0,1,0,1,1,1,1,0,0,0,5
 London Borough of Newham,0,0,0,0,0,0,0,0,0,0,0,1,1
 London Borough of Redbridge,0,0,0,0,0,0,0,0,0,0,0,1,1
 London Borough of Richmond upon Thames,0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1276,8 +1276,9 @@ Rush Green Medical Centre,0,0,0,0,0,0,0,1,0,0,0,0,1
 Rushcliffe Care,0,0,0,0,0,0,0,1,0,0,0,0,1
 Rushcliffe Clinical Commissioning Group,0,0,0,0,0,0,0,1,0,0,0,0,1
 S & J Transport,0,0,0,0,0,0,1,0,0,0,0,0,1
-SC Johnson and Son,0,0,0,0,1,0,0,0,0,0,0,0,1
+S. C. Johnson & Son,0,0,0,0,1,0,0,0,0,0,0,0,1
 SE Galvanisers,0,0,0,0,0,0,0,1,0,0,0,0,1
+SGN,0,0,0,0,0,0,0,1,0,0,0,0,1
 SMA Medical Practice,0,0,0,0,0,0,0,0,1,0,0,0,1
 Safeguarding Adults Board,1,0,0,0,0,0,0,0,0,0,0,0,1
 Safehands Ltd,0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -1294,7 +1295,6 @@ Sapphire House,0,0,0,0,0,0,1,0,0,0,0,0,1
 Sapphire Independent Living,0,0,0,0,0,0,0,0,0,0,0,1,1
 Scania,0,0,0,0,0,0,1,0,0,0,0,0,1
 Scape Living Student Accommodation,0,0,0,0,0,0,0,0,0,0,0,1,1
-Scotia Gas Network,0,0,0,0,0,0,0,1,0,0,0,0,1
 Scottish Cycling,0,0,0,0,0,1,0,0,0,0,0,0,1
 Scraptoft Court residential Care Home,1,0,0,0,0,0,0,0,0,0,0,0,1
 Seascape Homes and Property Limited,0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -1551,7 +1551,6 @@ Unity MAT,0,0,0,0,0,0,0,0,0,0,1,0,1
 Universities UK,0,0,0,0,0,0,0,0,0,0,0,1,1
 Universities and Colleges Admissions Service,0,0,0,0,0,0,1,0,0,1,0,0,2
 University College London Hospitals NHS Foundation Trust,0,4,0,0,2,0,0,1,0,0,2,0,9
-University Health Board,0,1,0,0,0,0,0,0,0,0,0,0,1
 University Hospital Southampton NHS Foundation Trust,2,0,0,1,1,0,0,1,0,1,0,0,6
 University Hospitals Birmingham NHS Foundation Trust,1,0,1,2,2,1,0,1,1,0,3,5,17
 University Hospitals Bristol and Weston NHS Foundation Trust,0,0,0,0,1,0,1,0,0,1,2,0,5

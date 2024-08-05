@@ -3,7 +3,11 @@ import os
 import pandas as pd
 
 PATH = os.path.dirname(__file__)
-MAIN_DF_PATH = os.path.abspath(f"{PATH}/data/sent/db_with_statuses.csv")
+FRONTEND_DF_PATH = os.path.abspath(f"{PATH}/data/sent/db_with_statuses.csv")
+ALL_DF_PATH = os.path.abspath(f"{PATH}/data/sent/database.csv")
+MONTH_DF_PATH = os.path.abspath(f"{PATH}/data/sent/last_month_reports.csv")
+QUARTER_DF_PATH = os.path.abspath(f"{PATH}/data/sent/last_quarter_reports.csv")
+
 STATIC_1_DF_PATH = os.path.abspath(f"{PATH}/../../tags/Adolescences.xlsx")
 STATIC_2_DF_PATH = os.path.abspath(f"{PATH}/../../tags/Autism.xlsx")
 STATIC_3_DF_PATH = os.path.abspath(f"{PATH}/../../tags/Cardiovascular diseases _ Anticoagulant.xlsx")
@@ -35,7 +39,6 @@ static_12_df = pd.read_excel(STATIC_12_DF_PATH)
 static_13_df = pd.read_excel(STATIC_13_DF_PATH)
 static_14_df = pd.read_excel(STATIC_14_DF_PATH)
 static_15_df = pd.read_excel(STATIC_15_DF_PATH)
-_main_df = pd.read_csv(MAIN_DF_PATH)
 
 
 def update_main_dataframe(main_df: pd.DataFrame, supplementary_dfs: list[pd.DataFrame]) -> pd.DataFrame:
@@ -46,7 +49,11 @@ def update_main_dataframe(main_df: pd.DataFrame, supplementary_dfs: list[pd.Data
     for supplementary_df in supplementary_dfs:
         for index, row in supplementary_df.iterrows():
             url = str(row['URL']).replace('publications', 'prevention-of-future-death-reports')
-            matching_rows = main_df[main_df['Report URL'] == url]
+            try:
+                matching_rows = main_df[main_df['Report URL'] == url]
+            except KeyError:
+                matching_rows = main_df[main_df['URL'] == url]
+
             for main_index, main_row in matching_rows.iterrows():
                 if main_row['Research tags'] is None:
                     value = row.get('research tags', None)
@@ -91,9 +98,9 @@ def round_age(df: pd.DataFrame) -> pd.DataFrame:
 
 def remove_duplicates(df: pd.DataFrame) -> pd.DataFrame:
     def func(x):
-        if not x:
-            return x
-        return ' | '.join(set(x.split(' | ')))
+        if isinstance(x, str):
+            return ' | '.join(set(x.split(' | ')))
+        return x
 
     df['Research tags'] = df['Research tags'].apply(func)
     return df
@@ -108,14 +115,26 @@ def convert_column_to_datetime(df: pd.DataFrame) -> pd.DataFrame:
 dfs = [static_1_df, static_2_df, static_3_df, static_4_df, static_5_df, static_6_df, static_7_df, static_8_df,
        static_9_df, static_10_df, static_11_df, static_12_df, static_13_df, static_14_df, static_15_df]
 
-_main_df = update_main_dataframe(_main_df, dfs)
-_main_df = remove_duplicates(_main_df)
-_main_df = remove_NR(_main_df)
-_main_df = round_age(_main_df)
-_main_df = convert_column_to_datetime(_main_df)
-_main_df = _main_df.reindex(
-    columns=['Status', 'Date added', 'Date of report', 'Ref', 'Deceased name', 'Number of deceased', 'Date of death',
-             'Age', 'Sex', 'Coroner name', 'Coroner area', 'Research tags', 'Category', 'Sent to', 'Sent to count',
-             'Replies count', 'Report URL'])
-_main_df.to_csv(f"{PATH}/data/sent/db_with_statuses_and_tags.csv", index=False)  # TODO: remove
-# _main_df.to_csv(f"{PATH}/data/sent/db_with_statuses.csv", index=False)  # TODO: uncomment to apply changes to Reg28
+
+def run(file_path: str) -> None:
+    df = pd.read_csv(file_path)
+    _df = update_main_dataframe(df, dfs)
+    _df = remove_duplicates(_df)
+    _df = remove_NR(_df)
+    _df = round_age(_df)
+    _df = convert_column_to_datetime(_df)
+    columns = ['Status', 'Date added', 'Date of report', 'Ref', 'Deceased name', 'Number of deceased',
+               'Date of death',
+               'Age', 'Sex', 'Coroner name', 'Coroner area', 'Research tags', 'Category', 'Sent to', 'Sent to count',
+               'Replies count']
+    if file_path == FRONTEND_DF_PATH:
+        columns.append('Report URL')
+    else:
+        columns.append('URL')
+    _df = _df.reindex(columns=columns)
+    _df.to_csv(file_path, index=False)
+
+
+files = [FRONTEND_DF_PATH, ALL_DF_PATH, MONTH_DF_PATH, QUARTER_DF_PATH]
+for file in files:
+    run(file)
