@@ -1,5 +1,8 @@
  [
   {
+    "Lord Chancellor and Secretary of State for Justice": "Ministry of Justice",
+    "Lord Chancellor": "Ministry of Justice",
+    "Ministry of Justice": "Ministry of Justice",
     "Manchester North, Central and South Clinical Commissioning Group": "NHS Greater Manchester Integrated Care Board",
     "Community Mental Health Team": "Dorset Healthcare University NHS Foundation Trust",
     "Telford and Wrekin Clinical Commission Group": "NHS Shropshire, Telford and Wrekin Integrated Care Board",
@@ -986,7 +989,6 @@
     "Care Quality Commission": "Care Quality Commission",
     "Department for Transport": "Department for Transport",
     "Home Office": "Home Office",
-    "Ministry of Justice": "Ministry of Justice",
     "The National Institute for Health and Care Excellence": "National Institute for Health and Care Excellence",
     "National Institute for Health & Care Excellence": "National Institute for Health and Care Excellence",
     "National Institute for Clinical Excellence": "National Institute for Health and Care Excellence",
@@ -2102,7 +2104,6 @@
     "London Underground": "Transport for London",
     "Long Furlong Medical Centre": "Long Furlong Medical Centre",
     "Longton Police Station": "Staffordshire Police",
-    "Lord Chancellor": "Ministry of Justice",
     "Low Moor Medical Practice": "Low Moor Medical Practice",
     "Lower Clapton Group Practice": "Lower Clapton Group Practice",
     "LTE Group": "LTE Group",
