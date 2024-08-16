@@ -69,8 +69,8 @@ jobs:
       if: github.event.schedule == '0 1 1 */4 *' || github.event_name == 'workflow_dispatch'
       run: npm run analyse:quarter
 
-#    - name: Run correct static
-#      run: npm run correct:static
+    - name: Run correct static
+      run: npm run correct:static
 
     - name: Update GitHub with latest reports and analysis
       uses: stefanzweifel/git-auto-commit-action@v4

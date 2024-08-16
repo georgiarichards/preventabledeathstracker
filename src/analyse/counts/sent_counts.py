@@ -417,6 +417,7 @@ toml_stats["this report is sent to"] = statistics = {
     "reports parsed": [float(len(non_na)), percent(len(non_na), len(fetched))],
     "reports without recipients": [float(without), percent(without, len(fetched))],
     "reports failed": [float(failed), percent(failed, len(fetched))],
+    "reports no sent_to": [float(status_counts["no sent_to"]), percent(status_counts["no sent_to"], len(fetched))],
     "reports pending": [float(status_counts["pending"]), percent(status_counts["pending"], len(fetched))],
     "reports overdue": [float(status_counts["overdue"]), percent(status_counts["overdue"], len(fetched))],
     "reports partial": [float(status_counts["partial"]), percent(status_counts["partial"], len(fetched))],
@@ -461,7 +462,7 @@ statuses.rename(
     inplace=True,
 )
 
-statuses["Status"] = statuses["Status"].replace({"no requests": "no data", "failed": "error"})
+statuses["Status"] = statuses["Status"].replace({"no requests": "overdue", "failed": "error"})
 
 statuses["Status"] = statuses["Status"].apply(create_badge)
 # statuses['Deceased name'] = statuses.apply(lambda row: create_button(row['Deceased name'], row['report_url']), axis=1)
