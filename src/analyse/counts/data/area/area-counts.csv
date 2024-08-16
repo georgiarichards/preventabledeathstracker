@@ -1,21 +1,21 @@
 coroner_area,count
 Greater Manchester South,434
-London Inner North,265
+London Inner North,268
 "West Sussex, Brighton and Hove",165
-Surrey,159
+Surrey,160
 Birmingham and Solihull,159
 London East,152
 London Inner South,131
-South Wales Central,124
 Greater Manchester North,124
-Staffordshire and Stoke-on-Trent,113
-Nottinghamshire,112
+South Wales Central,124
+Staffordshire and Stoke-on-Trent,114
+Nottinghamshire,113
 Norfolk,110
 Greater Manchester West,109
 Yorkshire West Eastern,107
 Cornwall and the Isles of Scilly,106
+"County of Devon, Plymouth & Torbay",100
 North Wales (East & Central),96
-"County of Devon, Plymouth & Torbay",95
 Avon,94
 County Durham and Darlington,90
 Yorkshire South West,88
@@ -26,17 +26,17 @@ Essex,76
 London Inner West,74
 Bedfordshire and Luton,73
 Leicester City and South Leicestershire,72
-Cumbria,71
-Milton Keynes,68
+Cumbria,72
+Milton Keynes,69
 Greater Lincolnshire,67
 Dorset,64
 Manchester City,64
 Suffolk,63
-London North,62
+London North,63
 Liverpool and the Wirral,60
 Worcestershire,60
 Kent Mid and Medway,59
-Berkshire,56
+Berkshire,57
 Wiltshire and Swindon,55
 London West,54
 Derby and Derbyshire,54
@@ -46,8 +46,8 @@ Blackpool and Fylde,48
 Yorkshire South East,48
 Cambridgeshire and Peterborough,43
 Sunderland,42
-Warwickshire,42
 London South,42
+Warwickshire,42
 Gwent,40
 Gloucestershire,36
 Newcastle and North Tyneside,35
@@ -55,18 +55,18 @@ Northamptonshire,33
 Hertfordshire,31
 East Riding of Yorkshire and Kingston-upon-Hull,29
 Kent Central and South East,28
-Oxfordshire,27
-Swansea and Neath Port Talbot,26
+Oxfordshire,28
 North Yorkshire and York,26
+Swansea and Neath Port Talbot,26
 East Sussex,25
 Somerset,24
 "Shropshire, Telford and Wrekin",24
-Buckinghamshire,22
 Carmarthenshire and Pembrokeshire,22
+Buckinghamshire,22
 Kent North East,21
 North West Wales,21
 Northumberland,20
-Teesside and Hartlepool,19
+Teesside and Hartlepool,20
 Isle of Wight,19
 Coventry,19
 London City,15
@@ -75,6 +75,5 @@ Rutland and North Leicestershire,11
 Gateshead and South Tyneside,10
 Kent North West,8
 "Sefton, Knowsley and St Helens",6
-Exeter and Greater Devon,5
 Central Criminal Court,1
 Ceredigion,1

@@ -65,7 +65,7 @@ Ashford and St Peter’s Hospitals NHS Foundation Trust,0,0,0,2,1,1,1,0,0,1,0,2,
 Ashgate House Nursing Home,0,0,0,0,1,0,0,0,0,0,0,0,1
 Ashlea Medical Practice,0,0,0,0,0,0,0,0,0,0,0,1,1
 Ashley Gardens Care Home,1,0,0,0,0,0,0,0,0,1,0,0,2
-Association of Ambulance Chief Executives,0,0,0,1,1,0,3,7,1,6,7,2,28
+Association of Ambulance Chief Executives,0,0,0,1,1,0,3,7,1,6,7,3,29
 Association of Anaesthetists,0,0,0,0,0,0,0,0,0,0,1,1,2
 Association of British Insurers,1,0,0,0,0,0,0,0,0,0,0,0,1
 Association of British Neurologists,0,0,0,0,0,0,0,0,1,1,0,0,2
@@ -210,7 +210,6 @@ Buckinghamshire Council,0,0,0,0,0,0,0,0,0,1,0,0,1
 Buckinghamshire Healthcare NHS Trust,0,0,0,0,0,1,0,0,0,0,0,0,1
 Bureau Veritas UK Ltd,0,0,0,0,0,0,0,0,0,0,1,0,1
 Burton Croft Surgery,0,0,0,0,0,0,0,0,0,0,1,0,1
-Burton Hospitals NHS Foundation Trust,0,0,1,0,0,0,0,0,0,0,0,0,1
 Bury Council,0,0,0,0,1,1,0,1,0,0,0,0,3
 Bute House Surgery,0,0,0,0,1,0,0,0,0,0,0,0,1
 Byron Hamburgers,0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -306,7 +305,6 @@ Churchgate Surgery,0,0,0,1,1,0,0,0,0,0,0,0,2
 Circle Health Group,0,0,0,3,1,1,0,0,0,0,0,0,5
 City Health Care Partnership,0,0,0,0,0,0,0,0,0,0,0,1,1
 City and County Healthcare Group,0,0,0,0,0,0,0,1,0,0,0,0,1
-City of Doncaster Council,0,0,0,0,1,0,0,0,0,0,0,0,1
 City of London Police,0,0,0,0,0,0,1,0,1,0,0,0,2
 City of Wolverhampton Council,0,0,0,0,0,1,1,1,0,1,0,0,4
 Civil Aviation Authority,0,0,0,5,1,1,2,1,2,0,2,1,15
@@ -402,12 +400,12 @@ Department for Business and Trade,0,0,0,0,0,0,0,1,0,0,0,1,2
 "Department for Culture, Media and Sport",0,0,0,0,0,1,3,1,2,1,6,4,18
 Department for Education,1,1,0,4,1,3,8,1,4,4,5,6,38
 "Department for Environment, Food and Rural Affairs",0,0,0,0,0,1,2,1,1,0,2,0,7
-"Department for Levelling Up, Housing and Communities",1,0,1,1,2,1,3,3,3,2,3,7,27
+"Department for Levelling Up, Housing and Communities",1,0,1,1,2,1,3,3,3,2,3,8,28
 "Department for Science, Innovation and Technology",0,0,0,0,0,0,0,0,0,0,0,1,1
 Department for Transport,1,1,1,12,9,4,6,8,7,6,11,6,72
 Department for Work and Pensions,0,0,0,2,1,1,1,0,3,1,2,1,12
 Department of Energy and Climate Change,1,0,0,0,0,0,0,0,0,0,0,0,1
-Department of Health and Social Care,16,5,13,46,31,50,48,46,64,77,98,82,576
+Department of Health and Social Care,16,5,13,46,31,50,48,46,64,77,98,83,577
 Department of Trade and Industry,0,0,1,0,0,0,0,0,0,0,0,0,1
 Depaul UK,0,0,0,0,0,0,0,0,0,0,1,0,1
 Derby City Council,0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -429,7 +427,7 @@ Director of Housing,0,0,0,0,1,0,0,0,0,0,0,0,1
 Disclosure and Barring Service,0,0,0,0,0,0,0,1,0,0,1,1,3
 Dispensing Doctors Association,0,0,0,1,0,0,0,0,0,0,0,0,1
 Divine Health Services,0,0,0,0,0,0,0,0,0,0,1,0,1
-Doncaster Council,0,0,1,0,0,0,0,0,0,0,0,0,1
+Doncaster Council,0,0,1,0,1,0,0,0,0,0,0,0,2
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,0,0,0,3,2,3,1,0,1,1,0,1,12
 Donneybrook Medical Centre,0,0,0,0,0,0,0,0,0,1,0,0,1
 Dorset Council,0,0,0,0,1,2,1,0,0,2,1,1,8
@@ -458,7 +456,7 @@ East Cheshire NHS Trust,1,0,0,0,0,0,0,0,0,0,0,1,2
 East Kent Hospitals University NHS Foundation Trust,0,0,0,1,4,0,1,1,1,3,1,0,12
 East Lancashire Hospitals NHS Trust,0,0,2,4,1,0,0,0,2,0,0,1,10
 East Lancashire Hospitals Trust,0,0,0,0,0,0,0,0,0,0,0,1,1
-East London NHS Foundation Trust,0,1,0,3,10,1,2,1,1,6,5,4,34
+East London NHS Foundation Trust,0,1,0,3,10,1,2,1,1,6,5,5,35
 East Midlands Ambulance Service NHS Trust,0,0,2,3,1,2,4,1,1,1,1,2,18
 East Suffolk Council,0,0,0,0,0,0,0,0,0,0,0,1,1
 East Suffolk and North Essex NHS Foundation Trust,0,0,1,0,0,0,0,1,0,0,0,2,4
@@ -557,7 +555,7 @@ Glenroyd Medical Practice,0,0,0,0,0,0,1,0,0,0,0,0,1
 Globe Court Care Home,0,0,0,0,0,0,0,0,0,0,1,0,1
 Gloucestershire County Council,0,0,0,1,0,0,2,0,0,0,0,0,3
 Gloucestershire Health and Care NHS Foundation Trust,0,0,0,0,2,1,1,0,0,0,1,1,6
-Gloucestershire Hospital NHS Foundation Trust,0,0,2,4,2,2,3,0,0,0,1,0,14
+Gloucestershire Hospital NHS Foundation Trust,0,0,1,0,1,2,3,0,0,0,1,0,8
 Gloucestershire Police,0,0,0,0,0,0,0,1,0,0,0,0,1
 Gloucestershire Social Services,1,0,0,0,0,0,0,0,0,0,0,0,1
 Goals Soccer Centres PLC,0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -939,7 +937,7 @@ Milton Keynes City Council,0,0,0,0,1,1,0,1,0,1,1,0,5
 Milton Keynes University Hospital NHS Foundation Trust,0,0,1,0,1,0,2,1,3,2,4,0,14
 "Minister for Education, Wales",0,0,0,0,0,0,0,0,0,0,0,1,1
 Ministry of Defence,1,1,4,0,1,2,3,1,2,1,3,2,21
-Ministry of Justice,1,0,2,9,1,8,12,0,12,10,11,13,79
+Ministry of Justice,1,0,2,9,1,8,12,0,12,10,11,14,80
 Mitie Group,0,0,0,1,0,0,2,0,1,0,0,0,4
 Monarch Health Care C/O Heeley Bank Care Home,0,0,0,0,0,0,0,0,0,0,0,1,1
 Monmouthshire County Council,0,0,0,0,0,0,1,0,0,0,1,0,2
@@ -964,13 +962,13 @@ NHS Care Commissioning Group,0,0,0,1,0,0,0,0,0,0,0,0,1
 NHS Cheshire and Merseyside Integrated Care Board,0,0,0,0,2,0,0,0,0,0,1,1,4
 NHS Cornwall and Isles of Scilly Integrated Care Board,0,0,0,3,0,4,1,0,0,0,0,3,11
 NHS Coventry and Warwickshire Integrated Care Board,0,0,0,0,0,2,0,0,0,0,0,0,2
-NHS Derby and Derbyshire Integrated Care Board,0,0,0,2,0,2,0,1,0,1,0,0,6
+NHS Derby and Derbyshire Integrated Care Board,1,0,2,3,1,3,0,2,0,1,0,0,13
 NHS Devon Integrated Care Board,0,0,0,2,1,1,0,0,0,1,0,0,5
 NHS Dorset Integrated Care Board,0,0,0,0,0,1,0,0,0,1,1,0,3
-NHS England,4,4,8,34,25,34,46,27,41,48,88,64,423
+NHS England,4,4,8,34,25,34,46,27,41,48,88,67,426
 NHS Frimley Integrated Care Board,0,0,0,0,0,0,1,0,0,0,0,0,1
 NHS Gloucestershire Integrated Care Board,0,0,0,1,0,1,0,0,0,0,0,0,2
-NHS Greater Manchester Integrated Care Board,1,1,3,2,7,5,15,13,20,11,10,10,98
+NHS Greater Manchester Integrated Care Board,0,1,1,1,6,4,15,12,20,11,10,10,91
 NHS Hampshire and Isle of Wight Integrated Care Board,0,0,0,0,0,0,2,0,0,0,2,0,4
 NHS Herefordshire and Worcestershire Integrated Care Board,0,0,0,0,0,1,0,0,0,1,0,0,2
 NHS Hertfordshire and West Essex Integrated Care Board,0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -1014,12 +1012,12 @@ National Fire Chiefs Council,0,0,0,0,0,2,0,0,0,1,1,0,4
 National Grid,1,0,0,0,0,0,0,0,0,0,0,0,1
 National Highways,1,0,6,4,7,1,9,4,4,8,7,2,53
 National Infusion and Vascular Access Society,0,0,0,0,0,0,0,0,0,0,1,0,1
-National Institute for Health and Care Excellence,1,0,5,4,3,1,10,7,10,5,17,10,73
+National Institute for Health and Care Excellence,1,0,5,4,3,1,10,7,10,5,17,11,74
 National Institute for Health and Clinical Practice,0,0,0,0,0,0,0,0,0,0,0,1,1
 National Institute for Healthcare and Clinical Excellence,0,0,0,0,0,0,0,0,0,0,0,1,1
 National Pharmacy Association,0,0,0,0,0,0,0,0,0,0,0,1,1
 National Police Air Service,0,0,0,0,0,0,0,0,0,0,1,0,1
-National Police Chiefs’ Council,1,0,0,2,2,2,8,2,11,3,10,4,45
+National Police Chiefs’ Council,1,0,0,2,2,2,8,2,11,3,10,5,46
 National Referral Support Service,0,0,0,0,0,0,0,0,0,0,0,1,1
 National Rifle Association,0,0,0,0,0,0,0,0,1,0,0,0,1
 National Small-bore Rifle Association,0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -1051,12 +1049,13 @@ Norfolk and Suffolk NHS Foundation Trust,1,0,1,0,4,2,7,1,3,5,0,5,29
 Normanton Village View Nursing Home,0,0,0,0,0,0,0,1,0,0,0,0,1
 North Bristol NHS Trust,0,0,0,0,1,2,0,1,0,2,2,1,9
 North Cumbria Integrated Care NHS Foundation Trust,1,0,0,0,2,1,1,1,0,2,1,2,11
+North Cumbria Integrated Care NHS Trust,0,0,0,0,0,0,0,0,0,0,0,1,1
 North Devon County Council,0,0,0,1,0,0,0,0,0,0,0,0,1
-North East Ambulance Service NHS Foundation Trust,0,0,0,3,1,2,2,0,0,2,1,2,13
+North East Ambulance Service NHS Foundation Trust,0,0,0,3,1,2,2,0,0,2,1,3,14
 North East London NHS Foundation Trust,0,0,0,3,0,1,4,2,5,3,7,1,26
 North Laine Medical Centre,0,0,0,0,0,2,0,0,0,0,0,0,2
 North Lincolnshire Council,0,0,0,0,1,0,0,0,0,1,0,0,2
-North Middlesex University Hospital NHS Trust,1,0,0,2,0,0,1,0,0,0,0,0,4
+North Middlesex University Hospital NHS Trust,1,0,0,2,0,0,1,0,0,0,0,1,5
 North Somerset Council,0,0,0,0,0,0,1,0,0,0,0,1,2
 North Staffordshire Combined Healthcare NHS Trust,0,0,0,0,0,0,0,0,0,0,1,0,1
 North Wales Local Authorities,0,0,0,0,0,0,0,0,0,0,4,0,4
@@ -1086,7 +1085,7 @@ Nottingham City Council,0,0,0,0,0,0,0,0,0,1,0,0,1
 Nottingham Police,0,0,0,0,1,0,0,0,0,0,0,0,1
 Nottingham University Hospitals NHS Trust,1,0,0,1,2,3,2,1,3,2,1,0,16
 Nottinghamshire County Council,0,0,0,1,1,1,1,0,2,0,1,0,7
-Nottinghamshire Healthcare NHS Foundation Trust,0,0,1,4,2,0,0,0,2,3,6,4,22
+Nottinghamshire Healthcare NHS Foundation Trust,0,0,1,4,2,0,0,0,2,3,6,5,23
 Nottinghamshire Safeguarding Children Partnership,0,0,1,0,0,0,0,0,0,0,0,0,1
 Npower,1,0,0,0,0,0,0,0,0,0,0,0,1
 Nuffield Health,0,0,0,0,0,0,1,0,1,0,0,0,2
@@ -1101,7 +1100,7 @@ Oasis Recovery Communities,0,0,0,0,0,0,1,0,0,0,0,0,1
 Occupational Safety Manager,0,0,0,0,0,0,1,0,0,0,0,0,1
 Ofcom,0,0,0,0,0,0,0,0,0,0,2,2,4
 "Offender safety, Rights and Responsibilities Group",1,0,0,0,0,0,0,0,0,0,0,0,1
-Office for Product Safety and Standards,0,0,0,0,0,1,1,1,0,0,3,2,8
+Office for Product Safety and Standards,0,0,0,0,0,1,1,1,0,0,3,3,9
 Office for Students,0,0,0,0,0,0,0,0,1,0,0,0,1
 Office of Rail and Road,0,0,0,0,2,0,2,1,0,0,0,0,5
 Ofgem,2,0,0,0,0,0,0,0,0,0,0,0,2
@@ -1244,7 +1243,7 @@ Royal Borough of Greenwich,0,0,0,2,0,0,0,0,0,0,1,0,3
 Royal Borough of Kensington and Chelsea,0,0,0,0,0,0,1,0,0,0,0,0,1
 Royal College of Anaesthetists,0,0,1,0,2,1,0,0,2,1,1,4,12
 Royal College of Emergency Medicine,0,1,0,0,2,0,0,1,1,0,4,2,11
-Royal College of General Practitioners,2,0,0,1,2,0,1,1,4,2,2,2,17
+Royal College of General Practitioners,2,0,0,1,2,0,1,1,4,2,2,3,18
 Royal College of Midwives,0,0,0,0,1,0,0,0,0,1,1,0,3
 Royal College of Nursing,1,0,0,0,0,0,1,2,0,1,0,2,7
 Royal College of Obstetricians and Gynaecologists,0,0,0,3,2,1,1,4,1,1,4,1,18
@@ -1374,7 +1373,7 @@ St Giles Nursing Home,0,0,0,0,1,0,0,0,0,0,0,0,1
 St Lukes Primary Care Centre,0,0,0,0,0,1,0,0,0,0,0,0,1
 St Mary’s Nursing Home,0,1,0,0,0,0,0,0,0,0,0,0,1
 St Stephens Gate Medical Practice,1,0,0,0,0,0,0,0,0,0,0,0,1
-Staffordshire County Council,0,0,1,1,0,1,1,0,0,0,0,1,5
+Staffordshire County Council,0,0,1,1,0,1,1,0,0,0,0,2,6
 Staffordshire Fire and Rescue Service,0,0,0,0,0,0,0,2,0,0,0,0,2
 Staffordshire Police,0,0,0,0,0,1,0,0,2,0,0,0,3
 "Staffordshire, Shropshire and Black Country Newborn Network",0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -1437,7 +1436,7 @@ Tendring District Council,0,0,0,0,0,0,0,1,0,0,0,0,1
 Tesco PLC,0,0,0,1,0,0,0,0,0,1,0,1,3
 Tettenhall Medical Practice,0,0,0,0,0,0,0,1,0,0,0,0,1
 Teva UK Ltd,0,0,1,0,0,0,0,0,0,0,0,0,1
-Thames Valley Police,0,0,0,0,0,0,2,0,0,1,0,1,4
+Thames Valley Police,0,0,0,0,0,0,2,0,0,1,0,2,5
 Thames Water,0,0,0,0,0,0,0,0,0,1,0,0,1
 The Alexandra Court Care Home,0,0,1,0,0,0,0,0,0,0,0,0,1
 The Association of Pallet Networks,0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -1515,8 +1514,7 @@ Tower Hamlets Council,0,0,1,0,0,2,1,2,0,0,0,0,6
 Toxbase,0,0,0,0,0,1,0,0,0,0,0,0,1
 Trading Standards,0,0,1,1,0,0,0,0,0,0,0,0,2
 Tradomi S L Transporte,0,0,0,0,0,0,0,1,0,0,0,0,1
-Traffic Commissioner for West of England,0,0,0,0,0,0,0,0,0,0,0,1,1
-Traffic Commissioners for Great Britain,0,0,0,0,0,0,1,1,0,0,0,0,2
+Traffic Commissioners for Great Britain,0,0,0,0,0,0,1,1,0,0,0,1,3
 Traffic process Office,1,0,0,0,0,0,0,0,0,0,0,0,1
 Trafford Council,1,0,2,2,0,2,0,2,0,0,0,0,9
 Trafford Crisis Resolution and Home Treatment Team,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -1538,6 +1536,7 @@ Tynant Nursing Home,0,0,0,0,1,0,0,0,0,0,0,0,1
 Tyne Housing Association,0,0,0,0,0,0,0,0,0,1,0,0,1
 UK Active,0,0,0,0,0,1,0,0,0,0,0,0,1
 UK Care Services,0,0,0,0,0,0,0,0,0,0,1,0,1
+UK Cleaning Product Industry Association,0,0,0,0,0,0,0,0,0,0,0,1,1
 UK Fatal Anaphylaxis Registry,0,0,0,0,0,0,0,0,0,0,1,0,1
 UK Health Security Agency,0,0,0,0,0,0,0,0,0,1,3,0,4
 UK Home Care,0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -1564,7 +1563,7 @@ University Hospitals Bristol and Weston NHS Foundation Trust,0,0,0,0,1,0,1,0,0,1
 University Hospitals Coventry and Warwickshire NHS Trust,1,0,0,1,0,1,1,0,0,0,1,0,5
 University Hospitals Plymouth NHS Trust,2,0,4,3,0,4,9,1,1,1,1,0,26
 University Hospitals Sussex NHS Foundation Trust,1,0,1,11,6,6,6,1,4,2,3,1,42
-University Hospitals of Derby and Burton NHS Foundation Trust,0,0,0,0,0,0,2,3,0,1,3,2,11
+University Hospitals of Derby and Burton NHS Foundation Trust,0,0,2,4,1,0,2,3,0,1,3,2,18
 University Hospitals of Leicester NHS Trust,0,0,1,1,1,1,1,0,0,0,1,1,7
 University Hospitals of Morecambe Bay NHS Foundation Trust,0,0,0,1,0,0,0,0,0,0,0,1,2
 University Hospitals of North Midlands NHS Trust,1,0,1,1,2,2,3,0,4,0,4,1,19
