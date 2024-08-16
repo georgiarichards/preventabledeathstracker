@@ -10,6 +10,7 @@ import re
 from datetime import datetime, timedelta
 
 import pandas as pd
+
 from create_badge import create_badge
 from helpers import percent, toml_stats
 from src.analyse.counts.data.html.elements import CounterType
@@ -37,7 +38,7 @@ def filter_last_month_records(df):
     df_copy["date_added"] = pd.to_datetime(df_copy["date_added"], format="%d/%m/%Y")
     filtered_df = df_copy[
         (df_copy["date_added"] >= first_day_of_last_month) & (df_copy["date_added"] <= last_day_of_last_month)
-    ]
+        ]
     # filtered_df["date_added"] = filtered_df["date_added"].dt.strftime("%d/%m/%Y")
     filtered_df.loc[:, "date_added"] = filtered_df["date_added"].dt.strftime("%d/%m/%Y")
     filtered_df.reset_index(drop=True, inplace=True)
@@ -141,7 +142,6 @@ sent_to_yearly.index.name = 'Addressed to'
 sent_to_yearly['Total no. PFDs'] = sent_to_yearly.sum(axis=1)
 sent_to_yearly.to_csv(f"{DATA_PATH}/sent/sent_to_yearly.csv")
 
-
 sent_types = exploded.value_counts(["sent_to", "status"]).unstack(fill_value=0)
 sent_types["no. PFDs"] = exploded["sent_to"].value_counts()
 sent_types = sent_types[["no. PFDs", "overdue", "pending", "received"]].sort_values("no. PFDs", ascending=False)
@@ -198,9 +198,9 @@ reports.loc[~report_due & (reports["response status"] == "overdue"), "response s
 reports.loc[~report_due & (reports["response status"] == "partial"), "response status"] = "pending"
 
 equal_len_r = (
-    (reports["no. recipients"] <= reports["no. replies"])
-    & (reports["no. recipients"] != 0)
-    & (reports["no. replies"] != 0)
+        (reports["no. recipients"] <= reports["no. replies"])
+        & (reports["no. recipients"] != 0)
+        & (reports["no. replies"] != 0)
 )
 reports.loc[equal_len_r, "response status"] = "completed"
 # %% [markdown]
@@ -211,8 +211,11 @@ reports.loc[equal_len_r, "response status"] = "completed"
 # reports.loc[mask_update, "response status"] = reports["response status"]
 
 # empty_requests = reports["this_report_is_being_sent_to"].isna()
-condition = (reports["no. replies"] == 0) & (reports["no. recipients"] == 0)
-reports.loc[condition, "response status"] = "no requests"
+current_date = pd.Timestamp.now()
+condition_overdue = (reports["no. replies"] == 0) & (reports["no. recipients"] == 0) & ((current_date - pd.to_datetime(reports["date_of_report"])).dt.days > 56)
+condition_pending = (reports["no. replies"] == 0) & (reports["no. recipients"] == 0) & ((current_date - pd.to_datetime(reports["date_of_report"])).dt.days <= 56)
+reports.loc[condition_overdue, "response status"] = "overdue"
+reports.loc[condition_pending, "response status"] = "pending"
 
 # reports.loc[:, "no. recipients"] = 0
 # reports.loc[non_na.index, "no. recipients"] = non_na["no. recipients"]
@@ -231,10 +234,10 @@ status_years = reports.assign(year=report_date.dt.year).value_counts(["year", "r
 
 failed_index = True
 try:
-    status_years = status_years[["no requests", "no sent_to", "failed", "pending", "overdue", "partial", "completed"]]
+    status_years = status_years[["no sent_to", "failed", "pending", "overdue", "partial", "completed"]]
 except KeyError:
     failed_index = False
-    status_years = status_years[["no requests", "no sent_to", "pending", "overdue", "partial", "completed"]]
+    status_years = status_years[["no sent_to", "pending", "overdue", "partial", "completed"]]
 
 # %% [markdown]
 # ### Writing back the reports with the status
@@ -462,7 +465,7 @@ statuses.rename(
     inplace=True,
 )
 
-statuses["Status"] = statuses["Status"].replace({"no requests": "overdue", "failed": "error"})
+statuses["Status"] = statuses["Status"].replace({"failed": "error"})
 
 statuses["Status"] = statuses["Status"].apply(create_badge)
 # statuses['Deceased name'] = statuses.apply(lambda row: create_button(row['Deceased name'], row['report_url']), axis=1)
@@ -489,7 +492,6 @@ statuses = statuses[statuses["Status"] != "error"]
 
 # sent_types.rename(columns={"received": "completed", "% received": "% completed"}, inplace=True)
 sent_types.rename(columns={"sent_to": "Addressed to", "% no. PFDs": "Total no. PFDs"}, inplace=True)
-
 
 sent_counts.to_csv(f"{DATA_PATH}/sent/sent-counts.csv")
 top_counts.to_csv(f"{DATA_PATH}/sent/top-sent-counts.csv")
@@ -602,7 +604,6 @@ area_statuses["% received"] = area_statuses.apply(
     else 0,
     axis=1,
 )
-
 
 area_statuses.to_csv(f"{DATA_PATH}/sent/area-statuses.csv")
 name_statuses.to_csv(f"{DATA_PATH}/sent/name-statuses.csv")
