@@ -1,7 +1,7 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,577,1321,882,312,122,119,24
+Department of Health and Social Care,577,1321,882,312,122,120,23
 NHS England,426,1112,681,201,101,112,12
-Care Quality Commission,133,371,219,51,43,37,2
+Care Quality Commission,133,371,219,51,43,38,1
 HM Prison and Probation Service,116,256,145,53,33,27,3
 NHS Greater Manchester Integrated Care Board,91,208,119,52,14,23,2
 Home Office,80,245,209,33,29,16,2
@@ -21,7 +21,7 @@ University Hospitals Sussex NHS Foundation Trust,42,60,45,26,5,11,0
 Department for Education,38,118,74,16,11,9,2
 Greater Manchester Mental Health NHS Foundation Trust,35,74,41,17,6,12,0
 East London NHS Foundation Trust,35,54,30,17,4,10,4
-College of Policing,35,127,117,14,14,6,1
+College of Policing,35,127,117,14,14,7,0
 Network Rail,34,49,41,26,4,4,0
 Sussex Partnership NHS Foundation Trust,32,51,35,21,5,6,0
 Birmingham and Solihull Mental Health NHS Foundation Trust,30,88,59,19,5,5,1
@@ -265,7 +265,7 @@ British Society of Gastroenterology,4,12,9,3,0,1,0
 Rail Safety and Standards Board,4,12,10,1,1,2,0
 Redbridge Council,4,14,2,0,1,2,1
 Ofsted,4,8,6,2,0,2,0
-British Standards Institution,4,8,11,3,0,0,1
+British Standards Institution,4,8,11,3,0,1,0
 Ofcom,4,18,6,1,1,2,0
 Hackney Council,4,7,3,1,2,1,0
 City of Wolverhampton Council,4,9,4,1,1,2,0
@@ -624,7 +624,7 @@ Caring Homes Healthcare Group Limited,1,2,1,0,1,0,0
 "Speaker’s Counsel, for the attention of the Parliamentary Authorities at the Palace",1,2,7,1,0,0,0
 Specsavers UK,1,1,1,1,0,0,0
 Spectrum Community Health,1,3,0,0,0,1,0
-Chelsfield Surgery,1,1,0,0,0,0,1
+Chelsfield Surgery,1,1,0,0,0,1,0
 Spider Project Café 71,1,3,4,1,0,0,0
 Sodexo,1,2,0,0,0,1,0
 Carillion,1,2,3,1,0,0,0
