@@ -13,7 +13,7 @@
                 font-size: 1.2em;
             }
 
-            .button-link {
+            .block-pending {
                 width: 350px;
                 height: 120px;
                 text-decoration: none;
@@ -24,7 +24,7 @@
             }
         </style>
         <div class="counter-container">
-            <div class="button-link">
+            <div class="block-pending">
                 <div id="pending-percent" class="counter">0%</div>
                 <div class="counter-description" id="pending-percent-description">106 don’t yet have a response due (i.e. pending – it’s within 56 days of the date of report)</div>
         </div>
@@ -45,9 +45,9 @@
                     element.textContent = target === 0 ? current : current + '%';
         }, stepTime);
     }
-    let completedReportsCounter = document.getElementById('pending-percent');
+    let pendingCounter = document.getElementById('pending-percent');
 
      setTimeout(() => {
-    animateCounterWithPercent(completedReportsCounter, 2.0, 2000);}, 500);
+    animateCounterWithPercent(pendingCounter, 2.0, 2000);}, 500);
         </script>
         

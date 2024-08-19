@@ -13,7 +13,7 @@
                 font-size: 1.2em;
             }
 
-            .button-link {
+            .block-completed {
                 width: 350px;
                 height: 120px;
                 text-decoration: none;
@@ -24,7 +24,7 @@
             }
         </style>
         <div class="counter-container">
-            <div class="button-link">
+            <div class="block-completed">
                 <div id="completed-percent" class="counter">0%</div>
                 <div class="counter-description" id="completed-percent-description">2481 PFDs have all responses published (i.e. completed)</div>
         </div>
@@ -45,9 +45,9 @@
                     element.textContent = target === 0 ? current : current + '%';
         }, stepTime);
     }
-    let completedReportsCounter = document.getElementById('completed-percent');
+    let completedCounter = document.getElementById('completed-percent');
 
      setTimeout(() => {
-    animateCounterWithPercent(completedReportsCounter, 47.4, 2000);}, 500);
+    animateCounterWithPercent(completedCounter, 47.4, 2000);}, 500);
         </script>
         

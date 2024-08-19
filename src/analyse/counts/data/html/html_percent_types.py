@@ -35,7 +35,7 @@ def get_status_html_counter(value_num: int, value_percent: float, _type: StatusC
                 font-size: 1.2em;
             }}
 
-            .button-link {{
+            .block-{_type.value} {{
                 width: 350px;
                 height: 120px;
                 text-decoration: none;
@@ -46,7 +46,7 @@ def get_status_html_counter(value_num: int, value_percent: float, _type: StatusC
             }}
         </style>
         <div class="counter-container">
-            <div class="button-link">
+            <div class="block-{_type.value}">
                 <div id="{_type.value}-percent" class="counter">0%</div>
                 <div class="counter-description" id="{_type.value}-percent-description">{value_num} {map_res[1]}</div>
         </div>
@@ -67,10 +67,10 @@ def get_status_html_counter(value_num: int, value_percent: float, _type: StatusC
                     element.textContent = target === 0 ? current : current + '%';
         }}, stepTime);
     }}
-    let completedReportsCounter = document.getElementById('{_type.value}-percent');
+    let {_type.value}Counter = document.getElementById('{_type.value}-percent');
 
      setTimeout(() => {{
-    animateCounterWithPercent(completedReportsCounter, {value_percent}, 2000);}}, 500);
+    animateCounterWithPercent({_type.value}Counter, {value_percent}, 2000);}}, 500);
         </script>
         """
 

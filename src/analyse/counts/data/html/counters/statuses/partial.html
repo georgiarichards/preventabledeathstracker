@@ -13,7 +13,7 @@
                 font-size: 1.2em;
             }
 
-            .button-link {
+            .block-partial {
                 width: 350px;
                 height: 120px;
                 text-decoration: none;
@@ -24,7 +24,7 @@
             }
         </style>
         <div class="counter-container">
-            <div class="button-link">
+            <div class="block-partial">
                 <div id="partial-percent" class="counter">0%</div>
                 <div class="counter-description" id="partial-percent-description">541 PFDs have some but not all required responses published (i.e. partial)</div>
         </div>
@@ -45,9 +45,9 @@
                     element.textContent = target === 0 ? current : current + '%';
         }, stepTime);
     }
-    let completedReportsCounter = document.getElementById('partial-percent');
+    let partialCounter = document.getElementById('partial-percent');
 
      setTimeout(() => {
-    animateCounterWithPercent(completedReportsCounter, 10.3, 2000);}, 500);
+    animateCounterWithPercent(partialCounter, 10.3, 2000);}, 500);
         </script>
         
