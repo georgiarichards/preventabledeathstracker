@@ -416,6 +416,7 @@ failed = len(fetched_non_na) - len(non_na)
 
 get_html_counter(len(fetched), CounterType.COUNT)
 get_html_counter(percent(status_counts["completed"], len(fetched)), CounterType.PERCENT)
+get_html_counter(len(sent_counts), CounterType.ADDRESSEES)
 
 toml_stats["this report is sent to"] = statistics = {
     "reports parsed": [float(len(non_na)), percent(len(non_na), len(fetched))],

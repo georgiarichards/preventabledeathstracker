@@ -1,31 +1,38 @@
 
 <style>
-        .counter-container {
-            text-align: center;
-            margin: 20px;
-            font-family: "Alegreya Sans", sans-serif;
-        }
-        .counter {
-            font-size: 2em;
-            margin: 10px 0;
-        }
-        .counter-description {
-            font-size: 1.2em;
-        }
+    .counter-container {
+        text-align: center;
+        margin: 20px;
+        font-family: "Alegreya Sans", sans-serif;
+    }
 
-        .button-link {
-            width: 350px;
-            height: 180px;
-            text-decoration: none;
-            color: white;
-            background-color: #002147;
-            padding: 5px 20px 10px;
-            display: inline-block;
-        }
-        .button-link:hover {
-            background-color: #063567;
-        }
-    </style>
+    .button-link {
+        width: 350px;
+        height: 180px;
+        text-decoration: none;
+        color: white;
+        background-color: #002147;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 5px 20px 10px;
+    }
+
+    .button-link:hover {
+        background-color: #063567;
+    }
+
+    .counter {
+        font-size: 2em;
+        margin: 10px 0;
+    }
+
+    .counter-description {
+        font-size: 1.2em;
+    }
+</style>
+
 
     <div class="counter-container">
         <a href="https://preventabledeathstracker.net/database/" target="_blank" class="button-link">
@@ -34,7 +41,7 @@
         </a>
     </div>
 <script>
-                function animateCounter(element, target, duration) {
+        function animateCounter(element, target, duration) {
             let start = 0;
             let range = target - start;
             let increment = target > 100 ? Math.ceil(range / (duration / 10)) : Math.ceil(range / (duration / 100));
