@@ -52,7 +52,7 @@ PERCENT_CONTAINER = f"""
     <div class="counter-container">
         <a href="{PERCENT_LINK}" target="_blank" class="button-link">
             <div id="completedReportsCounter" class="counter">0%</div>
-            <div class="counter-description" id="percent-description">Percentage of reports with all responses published</div>
+            <div class="counter-description" id="percent-description">Coroners reports with responses</div>
         </a>
     </div>
     """
@@ -70,7 +70,7 @@ ADDRESSEES_CONTAINER = f"""
     <div class="counter-container">
         <a href="{ADDRESSEES_LINK}" target="_blank" class="button-link">
             <div id="AddresseesCounter" class="counter">0</div>
-            <div class="counter-description" id="addressees-counter-description">Addressees</div>
+            <div class="counter-description" id="addressees-counter-description">Addressees who have received reports</div>
         </a>
     </div>
 """
