@@ -68,7 +68,7 @@ COUNT_CONTAINER = f"""
 
 ADDRESSEES_CONTAINER = f"""
     <div class="counter-container">
-        <a href="{COUNTS_LINK}" target="_blank" class="button-link">
+        <a href="{ADDRESSEES_LINK}" target="_blank" class="button-link">
             <div id="AddresseesCounter" class="counter">0</div>
             <div class="counter-description" id="addressees-counter-description">Addressees</div>
         </a>
