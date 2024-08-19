@@ -429,10 +429,10 @@ toml_stats["this report is sent to"] = statistics = {
     "reports completed": [float(status_counts["completed"]), percent(status_counts["completed"], len(fetched))],
 }
 
-get_status_html_counter(status_counts["completed"], percent(status_counts["completed"], len(fetched)), StatusCounter.COMPLETED)
-get_status_html_counter(status_counts["partial"], percent(status_counts["partial"], len(fetched)), StatusCounter.PARTIAL)
-get_status_html_counter(status_counts["overdue"], percent(status_counts["overdue"], len(fetched)), StatusCounter.OVERDUE)
-get_status_html_counter(status_counts["pending"], percent(status_counts["pending"], len(fetched)), StatusCounter.PENDING)
+get_status_html_counter(status_counts["completed"], round(percent(status_counts["completed"], len(fetched))), StatusCounter.COMPLETED)
+get_status_html_counter(status_counts["partial"], round(percent(status_counts["partial"], len(fetched))), StatusCounter.PARTIAL)
+get_status_html_counter(status_counts["overdue"], round(percent(status_counts["overdue"], len(fetched))), StatusCounter.OVERDUE)
+get_status_html_counter(status_counts["pending"], round(percent(status_counts["pending"], len(fetched))), StatusCounter.PENDING)
 
 toml_stats["requests for response"] = {
     "no. recipients with requests": len(sent_counts),
