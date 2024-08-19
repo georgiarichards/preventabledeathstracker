@@ -1,0 +1,53 @@
+
+    <style>
+            .counter-container {
+                text-align: center;
+                margin: 20px;
+                font-family: "Alegreya Sans", sans-serif;
+            }
+            .counter {
+                font-size: 2em;
+                margin: 10px 0;
+            }
+            .counter-description {
+                font-size: 1.2em;
+            }
+
+            .button-link {
+                width: 350px;
+                height: 120px;
+                text-decoration: none;
+                color: white;
+                background-color: #DCAF1DFF;
+                padding: 10px 20px 10px;
+                display: inline-block;
+            }
+        </style>
+        <div class="counter-container">
+            <div class="button-link">
+                <div id="partial-percent" class="counter">0%</div>
+                <div class="counter-description" id="partial-percent-description">541 PFDs have some but not all required responses published (i.e. partial)</div>
+        </div>
+        
+        <script>
+    function animateCounterWithPercent(element, target, duration) {
+            let start = 0;
+            let range = target - start;
+            let increment = target > 100 ? Math.ceil(range / (duration / 10)) : Math.ceil(range / (duration / 100));
+            let current = start;
+            let stepTime = Math.abs(Math.floor(duration / range));
+            let timer = setInterval(() => {
+                current += increment;
+                if (current >= target) {
+                    clearInterval(timer);
+                    current = target;
+                }
+                    element.textContent = target === 0 ? current : current + '%';
+        }, stepTime);
+    }
+    let completedReportsCounter = document.getElementById('partial-percent');
+
+     setTimeout(() => {
+    animateCounterWithPercent(completedReportsCounter, 10.3, 2000);}, 500);
+        </script>
+        

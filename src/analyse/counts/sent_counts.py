@@ -15,6 +15,7 @@ from create_badge import create_badge
 from helpers import percent, toml_stats
 from src.analyse.counts.data.html.elements import CounterType
 from src.analyse.counts.data.html.get_html_counter import get_html_counter
+from src.analyse.counts.data.html.html_percent_types import StatusCounter, get_status_html_counter
 
 TOP_N = 30
 QUARTER_MONTHS = [1, 4, 7, 10]
@@ -426,6 +427,11 @@ toml_stats["this report is sent to"] = statistics = {
     "reports partial": [float(status_counts["partial"]), percent(status_counts["partial"], len(fetched))],
     "reports completed": [float(status_counts["completed"]), percent(status_counts["completed"], len(fetched))],
 }
+
+get_status_html_counter(status_counts["completed"], percent(status_counts["completed"], len(fetched)), StatusCounter.COMPLETED)
+get_status_html_counter(status_counts["partial"], percent(status_counts["partial"], len(fetched)), StatusCounter.PARTIAL)
+get_status_html_counter(status_counts["overdue"], percent(status_counts["overdue"], len(fetched)), StatusCounter.OVERDUE)
+get_status_html_counter(status_counts["pending"], percent(status_counts["pending"], len(fetched)), StatusCounter.PENDING)
 
 toml_stats["requests for response"] = {
     "no. recipients with requests": len(sent_counts),

@@ -1,0 +1,53 @@
+
+    <style>
+            .counter-container {
+                text-align: center;
+                margin: 20px;
+                font-family: "Alegreya Sans", sans-serif;
+            }
+            .counter {
+                font-size: 2em;
+                margin: 10px 0;
+            }
+            .counter-description {
+                font-size: 1.2em;
+            }
+
+            .button-link {
+                width: 350px;
+                height: 120px;
+                text-decoration: none;
+                color: white;
+                background-color: #B10707FF;
+                padding: 10px 20px 10px;
+                display: inline-block;
+            }
+        </style>
+        <div class="counter-container">
+            <div class="button-link">
+                <div id="overdue-percent" class="counter">0%</div>
+                <div class="counter-description" id="overdue-percent-description">1589 PFDs have no responses published (i.e. are overdue)</div>
+        </div>
+        
+        <script>
+    function animateCounterWithPercent(element, target, duration) {
+            let start = 0;
+            let range = target - start;
+            let increment = target > 100 ? Math.ceil(range / (duration / 10)) : Math.ceil(range / (duration / 100));
+            let current = start;
+            let stepTime = Math.abs(Math.floor(duration / range));
+            let timer = setInterval(() => {
+                current += increment;
+                if (current >= target) {
+                    clearInterval(timer);
+                    current = target;
+                }
+                    element.textContent = target === 0 ? current : current + '%';
+        }, stepTime);
+    }
+    let completedReportsCounter = document.getElementById('overdue-percent');
+
+     setTimeout(() => {
+    animateCounterWithPercent(completedReportsCounter, 30.4, 2000);}, 500);
+        </script>
+        
