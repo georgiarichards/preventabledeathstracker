@@ -51,7 +51,7 @@ def get_status_html_counter(value_num: int, value_percent: float, _type: StatusC
         <div class="counter-container">
             <div class="block-{_type.value}">
                 <div id="{_type.value}-percent" class="counter">0%</div>
-                <div class="counter-description" id="{_type.value}-percent-description">{value_num} {map_res[1]}</div>
+                <div class="counter-description" id="{_type.value}-percent-description"><b>{value_num}</b> {map_res[1]}</div>
         </div>
         
         <script>
