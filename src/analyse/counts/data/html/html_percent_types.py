@@ -41,11 +41,11 @@ def get_status_html_counter(value_num: int, value_percent: float, _type: StatusC
                 text-decoration: none;
                 color: white;
                 background-color: {map_res[0]};
-            display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column; 
-        padding: 5px 20px 10px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column; 
+                padding: 5px 20px 10px;
     }}
         </style>
         <div class="counter-container">
