@@ -37,7 +37,7 @@ def get_status_html_counter(value_num: int, value_percent: float, _type: StatusC
 
             .block-{_type.value} {{
                 width: 350px;
-                height: 120px;
+                height: 200px;
                 text-decoration: none;
                 color: white;
                 background-color: {map_res[0]};
