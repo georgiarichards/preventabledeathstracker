@@ -11,9 +11,9 @@ class StatusCounter(str, Enum):
 
 status_map = {
     StatusCounter.COMPLETED: ("#248024FF", "PFDs have all responses published (i.e. completed)"),
-    StatusCounter.PARTIAL: ("#DCAF1DFF", "PFDs have some but not all required responses published (i.e. partial)"),
-    StatusCounter.OVERDUE: ("#B10707FF", "PFDs have no responses published (i.e. are overdue)"),
-    StatusCounter.PENDING: ("#0749ACFF", "don’t yet have a response due (i.e. pending – it’s within 56 days of the date of report)")
+    StatusCounter.PARTIAL: ("#DCAF1DFF", "PFDs have some but not all responses published (i.e. partial)"),
+    StatusCounter.OVERDUE: ("#B10707FF", "PFDs have no responses published (i.e. overdue)"),
+    StatusCounter.PENDING: ("#0749ACFF", "don’t yet have a response due (i.e. pending)")
 }
 
 
