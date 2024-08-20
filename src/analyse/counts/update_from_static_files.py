@@ -24,6 +24,13 @@ STATIC_13_DF_PATH = os.path.abspath(f"{PATH}/../../tags/Violence Jun 2022-Jun 20
 STATIC_14_DF_PATH = os.path.abspath(f"{PATH}/../../tags/Violence Women & Girls_.xlsx")
 STATIC_15_DF_PATH = os.path.abspath(f"{PATH}/../../tags/Dog-related.xlsx")
 
+STATIC_16_DF_PATH = os.path.abspath(f"{PATH}/../../tags/Ages 2024-23.xlsx")
+STATIC_17_DF_PATH = os.path.abspath(f"{PATH}/../../tags/Cycling 2013-2021.xlsx")
+
+STATIC_WU_18_DF_PATH = os.path.abspath(f"{PATH}/../../tags/Falls.xlsx")
+STATIC_WU_19_DF_PATH = os.path.abspath(f"{PATH}/../../tags/Sepsis.xlsx")
+STATIC_WU_20_DF_PATH = os.path.abspath(f"{PATH}/../../tags/Clots _ Bleeds.xlsx")
+
 static_1_df = pd.read_excel(STATIC_1_DF_PATH)
 static_2_df = pd.read_excel(STATIC_2_DF_PATH)
 static_3_df = pd.read_excel(STATIC_3_DF_PATH)
@@ -40,19 +47,30 @@ static_13_df = pd.read_excel(STATIC_13_DF_PATH)
 static_14_df = pd.read_excel(STATIC_14_DF_PATH)
 static_15_df = pd.read_excel(STATIC_15_DF_PATH)
 
+static_16_df = pd.read_excel(STATIC_16_DF_PATH)
+static_17_df = pd.read_excel(STATIC_17_DF_PATH)
 
-def update_main_dataframe(main_df: pd.DataFrame, supplementary_dfs: list[pd.DataFrame]) -> pd.DataFrame:
+static_18_df = pd.read_excel(STATIC_WU_18_DF_PATH)
+static_19_df = pd.read_excel(STATIC_WU_19_DF_PATH)
+static_20_df = pd.read_excel(STATIC_WU_20_DF_PATH)
+
+
+def update_main_dataframe(main_df: pd.DataFrame, supplementary_dfs: list[pd.DataFrame],
+                          with_urls: bool = True) -> pd.DataFrame:
     for column in ['Research tags', 'Number of deceased', 'Date of death', 'Age', 'Sex']:
         if column not in main_df.columns:
             main_df[column] = None
 
     for supplementary_df in supplementary_dfs:
         for index, row in supplementary_df.iterrows():
-            url = str(row['URL']).replace('publications', 'prevention-of-future-death-reports')
-            try:
-                matching_rows = main_df[main_df['Report URL'] == url]
-            except KeyError:
-                matching_rows = main_df[main_df['URL'] == url]
+            if with_urls:
+                url = str(row['URL']).replace('publications', 'prevention-of-future-death-reports')
+                try:
+                    matching_rows = main_df[main_df['Report URL'] == url]
+                except KeyError:
+                    matching_rows = main_df[main_df['URL'] == url]
+            else:
+                matching_rows = main_df[main_df['Deceased name'] == row['Deceased name']]
 
             for main_index, main_row in matching_rows.iterrows():
                 if main_row['Research tags'] is None:
@@ -112,13 +130,14 @@ def convert_column_to_datetime(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-dfs = [static_1_df, static_2_df, static_3_df, static_4_df, static_5_df, static_6_df, static_7_df, static_8_df,
-       static_9_df, static_10_df, static_11_df, static_12_df, static_13_df, static_14_df, static_15_df]
+def new_file_name(file_path: str) -> str:
+    return file_path.replace('.csv', '(with_tags).csv')
 
 
-def run(file_path: str) -> None:
+def run(file_path: str, _dfs: list[pd.DataFrame], _dfs_with_urls: list[pd.DataFrame]) -> None:
     df = pd.read_csv(file_path)
     _df = update_main_dataframe(df, dfs)
+    _df = update_main_dataframe(df, _dfs_with_urls, with_urls=False)
     _df = remove_duplicates(_df)
     _df = remove_NR(_df)
     _df = round_age(_df)
@@ -132,9 +151,15 @@ def run(file_path: str) -> None:
     else:
         columns.append('URL')
     _df = _df.reindex(columns=columns)
-    _df.to_csv(file_path, index=False)
+    _df.to_csv(new_file_name(file_path), index=False)
 
 
-files = [FRONTEND_DF_PATH, ALL_DF_PATH, MONTH_DF_PATH, QUARTER_DF_PATH]
+dfs = [static_1_df, static_2_df, static_3_df, static_4_df, static_5_df, static_6_df, static_7_df, static_8_df,
+       static_9_df, static_10_df, static_11_df, static_12_df, static_13_df, static_14_df, static_15_df, static_16_df, static_17_df]
+
+dfs_2 = [static_18_df, static_19_df, static_20_df]
+
+# files = [FRONTEND_DF_PATH, ALL_DF_PATH, MONTH_DF_PATH, QUARTER_DF_PATH]
+files = [ALL_DF_PATH]
 for file in files:
-    run(file)
+    run(file, dfs, dfs_2)
