@@ -139,7 +139,7 @@ def run(file_path: str, _dfs: list[pd.DataFrame], _dfs_with_urls: list[pd.DataFr
     _df = update_main_dataframe(df, dfs)
     _df = update_main_dataframe(df, _dfs_with_urls, with_urls=False)
     _df = remove_duplicates(_df)
-    _df = remove_NR(_df)
+    # _df = remove_NR(_df)
     _df = round_age(_df)
     _df = convert_column_to_datetime(_df)
     columns = ['Status', 'Date added', 'Date of report', 'Ref', 'Deceased name', 'Number of deceased',
