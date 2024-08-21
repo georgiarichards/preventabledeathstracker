@@ -3,7 +3,7 @@ from datetime import datetime
 
 import pandas as pd
 
-from src.analyse.counts.create_badge import create_badge
+from create_badge import create_badge
 
 PATH = os.path.dirname(__file__)
 ALL_DF_PATH = os.path.abspath(f"{PATH}/data/sent/database.csv")
