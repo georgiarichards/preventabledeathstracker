@@ -10,10 +10,21 @@ class StatusCounter(str, Enum):
 
 
 status_map = {
-    StatusCounter.COMPLETED: ("#248024FF", "PFDs have all responses published (i.e. completed)"),
-    StatusCounter.PARTIAL: ("#DCAF1DFF", "PFDs have some but not all responses published (i.e. partial)"),
-    StatusCounter.OVERDUE: ("#B10707FF", "PFDs have no responses published (i.e. overdue)"),
-    StatusCounter.PENDING: ("#0749ACFF", "don’t yet have a response due (i.e. pending)")
+    StatusCounter.COMPLETED: ("#248024FF",
+                              "PFDs have all responses published (i.e. completed)",
+                              "https://preventabledeathstracker.net/completed-responses/"),
+
+    StatusCounter.PARTIAL: ("#DCAF1DFF",
+                            "PFDs have some but not all responses published (i.e. partial)",
+                            "https://preventabledeathstracker.net/overdue-responses/"),
+
+    StatusCounter.OVERDUE: ("#B10707FF",
+                            "PFDs have no responses published (i.e. overdue)",
+                            "https://preventabledeathstracker.net/overdue-responses/"),
+
+    StatusCounter.PENDING: ("#0749ACFF",
+                            "don’t yet have a response due (i.e. pending)",
+                            "https://preventabledeathstracker.net/pending-responses")
 }
 
 
@@ -49,9 +60,10 @@ def get_status_html_counter(value_num: int, value_percent: float, _type: StatusC
     }}
         </style>
         <div class="counter-container">
-            <div class="block-{_type.value}">
+            <a class="block-{_type.value}" href="{map_res[2]}" target="_blank">
                 <div id="{_type.value}-percent" class="counter">0%</div>
                 <div class="counter-description" id="{_type.value}-percent-description"><b>{value_num}</b> {map_res[1]}</div>
+            </a>
         </div>
         
         <script>
