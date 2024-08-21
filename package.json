@@ -10,6 +10,7 @@
     "correct:static": "python src/analyse/counts/update_from_static_files.py",
     "correct:values": "python src/analyse/counts/strip_column_values.py",
     "statistics:month": "python src/analyse/counts/sent_statistics.py",
+    "split:reg28": "python src/analyse/counts/split_reg28_by_status.py",
     "analyse:quarter": "python src/analyse/counts/collect_quarter_report.py",
     "analyse:counts": "python src/analyse/counts/counts.py",
     "analyse:areas": "python src/analyse/counts/area_counts.py",

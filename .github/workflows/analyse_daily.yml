@@ -1,0 +1,37 @@
+name: Daily Analyse
+
+on:
+  schedule:
+    - cron: '0 5 * * 1-6'
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+    - name: Checkout project
+      uses: actions/checkout@v3
+
+    - name: Run Analyses
+      run: npm run analyse:counts
+
+    - name: Run correct static
+      run: npm run correct:static
+
+    - name: Split Reg28
+      run: npm run split:reg28
+
+    - name: Update GitHub with latest reports and analysis
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "chore: daily analyse reports"
+        file_pattern: '**/*.csv **/latest.log **/*.toml **/*.html'
