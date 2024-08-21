@@ -7,7 +7,7 @@ NHS Greater Manchester Integrated Care Board,91,208,119,52,14,23,2
 Home Office,80,245,209,33,29,16,2
 Ministry of Justice,80,200,90,18,31,28,3
 National Institute for Health and Care Excellence,74,206,138,33,17,21,3
-Department for Transport,72,160,104,35,18,18,1
+Department for Transport,72,160,104,35,18,19,0
 Barts Health NHS Trust,61,103,58,30,10,20,1
 Betsi Cadwaladr University Health Board,57,80,49,39,3,13,2
 National Highways,53,79,45,24,7,22,0
@@ -25,14 +25,14 @@ College of Policing,35,127,117,14,14,7,0
 Network Rail,34,49,41,26,4,4,0
 Sussex Partnership NHS Foundation Trust,32,51,35,21,5,6,0
 Birmingham and Solihull Mental Health NHS Foundation Trust,30,88,59,19,5,5,1
-Manchester University NHS Foundation Trust,30,51,19,12,2,15,1
+Manchester University NHS Foundation Trust,30,51,19,12,2,16,0
 Practice Plus Group,29,71,42,10,18,1,0
 Norfolk and Suffolk NHS Foundation Trust,29,44,31,21,2,5,1
 Association of Ambulance Chief Executives,29,122,77,7,15,6,1
 REDACTED,28,56,21,8,4,12,4
 Central and North West London NHS Foundation Trust,28,59,30,11,8,9,0
 "Department for Levelling Up, Housing and Communities",28,62,33,16,2,6,4
-Cwm Taf Morgannwg University Health Board,28,47,24,13,4,10,1
+Cwm Taf Morgannwg University Health Board,28,47,24,13,4,11,0
 Essex Partnership University NHS Foundation Trust,27,48,23,8,5,13,1
 General Medical Council,27,104,61,6,14,6,1
 Greater Manchester Police,27,73,44,15,7,5,0
@@ -59,7 +59,7 @@ Transport for London,18,38,32,9,4,5,0
 "Department for Culture, Media and Sport",18,47,27,8,5,5,0
 Cardiff and Vale University Health Board,18,38,24,9,6,3,0
 Northern Care Alliance NHS Foundation Trust,18,34,20,11,4,2,1
-East Midlands Ambulance Service NHS Trust,18,37,21,10,3,3,2
+East Midlands Ambulance Service NHS Trust,18,37,21,10,3,5,0
 Royal College of Obstetricians and Gynaecologists,18,50,21,5,8,5,0
 Royal College of General Practitioners,18,73,47,7,7,3,1
 Leeds Teaching Hospitals NHS Trust,18,24,17,11,0,7,0
@@ -72,7 +72,7 @@ Nottingham University Hospitals NHS Trust,16,28,16,8,2,6,0
 West Midlands Police,16,57,42,9,4,3,0
 Royal College of Psychiatrists,16,59,42,5,7,4,0
 St George’s University Hospitals NHS Foundation Trust,16,34,14,3,6,7,0
-Welsh Government,16,41,24,5,8,2,1
+Welsh Government,16,41,24,5,8,3,0
 East of England Ambulance Service NHS Trust,16,36,31,11,2,3,0
 Devon Partnership NHS Trust,16,34,23,11,3,2,0
 Herefordshire and Worcestershire Health and Care NHS Trust,16,24,14,7,4,4,1
@@ -141,7 +141,7 @@ Warwickshire County Council,9,9,3,3,0,6,0
 Devon and Cornwall Constabulary,9,21,18,6,3,0,0
 Royal Free London NHS Foundation Trust,9,13,8,5,0,4,0
 Norfolk and Norwich University Hospitals NHS Foundation Trust,9,14,10,4,2,3,0
-Office for Product Safety and Standards,9,18,8,4,2,1,2
+Office for Product Safety and Standards,9,18,8,4,2,2,1
 British Medical Association,9,40,11,1,4,4,0
 Egton Medical Information Systems,9,25,19,6,1,2,0
 Sheffield Teaching Hospitals NHS Foundation Trust,9,13,5,4,1,4,0
@@ -321,7 +321,7 @@ Gateshead Health NHS Foundation Trust,4,5,2,1,0,3,0
 Borough Care,4,4,4,4,0,0,0
 Capita,4,10,9,3,1,0,0
 Virgin Care,4,10,3,1,0,3,0
-Tesco PLC,3,3,2,1,0,1,1
+Tesco PLC,3,3,2,1,0,2,0
 East Sussex County Council,3,4,4,3,0,0,0
 East Sussex Healthcare NHS Trust,3,6,1,0,1,2,0
 Swindon Borough Council,3,4,2,1,0,2,0
@@ -332,7 +332,7 @@ NHS South West London Integrated Care Board,3,7,3,1,0,2,0
 NHS South East London Integrated Care Board,3,6,4,1,2,0,0
 Croydon Health Services NHS Trust,3,5,4,2,0,1,0
 Sunrise Senior Living,3,4,3,2,0,1,0
-Manchester City Council,3,7,2,0,2,0,1
+Manchester City Council,3,7,2,0,2,1,0
 Stoke on Trent City Council,3,4,4,3,0,0,0
 Bury Council,3,5,6,3,0,0,0
 HM Prison Exeter,3,4,2,2,0,1,0
@@ -485,7 +485,7 @@ Tandridge District Council,2,4,0,0,0,2,0
 Suffolk Safeguarding Partnership,2,4,2,1,0,1,0
 University Hospitals of Morecambe Bay NHS Foundation Trust,2,3,2,1,0,0,1
 NHS North East and North Cumbria Integrated Care Board,2,3,1,0,1,0,1
-NHS Northamptonshire Integrated Care Board,2,5,3,1,0,0,1
+NHS Northamptonshire Integrated Care Board,2,5,3,1,0,1,0
 NHS Professionals Limited,2,4,2,1,0,1,0
 NHS Staffordshire and Stoke-on-Trent Integrated Care Board,2,3,2,1,1,0,0
 Bayer Plc,2,8,5,1,1,0,0
@@ -953,7 +953,7 @@ Wayne Clarey Roofing & Cladding Ltd,1,2,2,1,0,0,0
 We Are With You charity,1,4,3,0,1,0,0
 Urban Housing Services,1,3,3,1,0,0,0
 Wanstead Place Surgery,1,1,0,0,0,1,0
-West of England Combined Authority,1,3,0,0,0,0,1
+West of England Combined Authority,1,3,0,0,0,1,0
 Westlands Care Home,1,1,1,1,0,0,0
 Westmorland Court Care Home,1,3,0,0,0,0,1
 Westmorland and Furness Council,1,1,1,1,0,0,0
