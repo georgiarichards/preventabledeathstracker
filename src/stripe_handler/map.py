@@ -77,7 +77,7 @@ PRODUCT_DETAILS_MAP = {
         "features": [
             "Track the number of PFDs that have overdue responses",
             "Understand the number of days each report is overdue",
-            "Access over a decade of data, collated since July 2013"
+            "Access over a decade of data, collated since July 2013",
             "Use the most up-to-date information, with updates every Sunday!"
         ],
         "description": "",  # TODO: add description
