@@ -56,7 +56,7 @@ class OrdersHandler:
             if product not in PRODUCT_DETAILS_MAP:
                 print(f"Processing {payment.id} {product} not checked")
                 continue
-            product_path = PRODUCT_DETAILS_MAP[product]["path"]
+            product_path = PRODUCT_DETAILS_MAP[product][PATH_KEY]
             print(f"{customer_email} - {product} - path: {product_path}")
 
             sender_config = SenderConfigGmail(
@@ -65,7 +65,7 @@ class OrdersHandler:
                 email_to=customer_email,
                 subject=f"{product} - PREVENTABLE-DEATHS",
                 body=fill_email_template(customer_name, product),
-                file_paths=[PRODUCT_DETAILS_MAP[product][PATH_KEY]],
+                file_paths=[product_path],
             )
             send_email_gmail = SendEmailGmail(config=sender_config, **self.email_cred.dict())
             MailSenderGmail(params=send_email_gmail).send_mail()
@@ -74,18 +74,17 @@ class OrdersHandler:
             # Save processed payment ID
             self.save_processed_payment(payment.id)
 
-    def mocked_test(self) -> None:
-        product = "Reg 29 Addressee Tracker Database"
-        product_path = PRODUCT_DETAILS_MAP[product]["path"]
-        customer_email = ""  # set test customer email
-        customer_name = "Test"
+    def mocked_test(self, product: str = "Reg 29 Addressee Tracker Database") -> None:
+        product_path = PRODUCT_DETAILS_MAP[product][PATH_KEY]
+        customer_email = "afanasievmaksym2@gmail.com"  # set test customer email
+        customer_name = "Test User"
         sender_config = SenderConfigGmail(
             host="smtp.gmail.com",
             port=587,
             email_to=customer_email,
             subject=f"{product} - PREVENTABLE-DEATHS",
             body=fill_email_template(customer_name, product),
-            file_paths=[PRODUCT_DETAILS_MAP[product][PATH_KEY]],
+            file_paths=[product_path],
         )
         send_email_gmail = SendEmailGmail(config=sender_config, **self.email_cred.dict())
         MailSenderGmail(params=send_email_gmail).send_mail()
@@ -94,5 +93,9 @@ class OrdersHandler:
 
 if __name__ == "__main__":
     handler = OrdersHandler()
-    handler.handle()
-    # handler.mocked_test()
+    # handler.handle()
+    products = ["Reg 28 Database - Completed responses only",
+                "Reg 28 Database - Pending responses only",
+                "Reg 28 Database - Overdue responses"]
+    for product in products:
+        handler.mocked_test(product)
