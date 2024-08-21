@@ -76,7 +76,7 @@ class OrdersHandler:
 
     def mocked_test(self, product: str = "Reg 29 Addressee Tracker Database") -> None:
         product_path = PRODUCT_DETAILS_MAP[product][PATH_KEY]
-        customer_email = "afanasievmaksym2@gmail.com"  # set test customer email
+        customer_email = ""  # set test customer email
         customer_name = "Test User"
         sender_config = SenderConfigGmail(
             host="smtp.gmail.com",
