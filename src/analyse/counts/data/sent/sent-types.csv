@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,577,217,23,337,58
-NHS England,426,172,12,242,57
+Department of Health and Social Care,577,218,22,337,58
+NHS England,426,173,11,242,57
 Care Quality Commission,133,82,1,50,38
 HM Prison and Probation Service,116,56,3,57,49
 NHS Greater Manchester Integrated Care Board,91,42,2,47,52
@@ -75,7 +75,7 @@ St George’s University Hospitals NHS Foundation Trust,16,13,0,3,19
 Welsh Government,16,7,0,9,56
 East of England Ambulance Service NHS Trust,16,8,0,8,50
 Devon Partnership NHS Trust,16,6,0,10,62
-Herefordshire and Worcestershire Health and Care NHS Trust,16,8,1,7,44
+Herefordshire and Worcestershire Health and Care NHS Trust,16,9,0,7,44
 Medway NHS Foundation Trust,16,7,0,9,56
 Nursing and Midwifery Council,16,9,1,6,38
 Kent and Medway NHS and Social Care Partnership Trust,15,9,0,6,40
@@ -247,7 +247,7 @@ George Eliot Hospital NHS Trust,5,4,0,1,20
 Epsom and St Helier University Hospitals NHS Trust,5,2,0,3,60
 University Hospitals Bristol and Weston NHS Foundation Trust,5,1,0,4,80
 "Barnet, Enfield and Haringey Mental Health NHS Trust",5,4,0,1,20
-HCA Healthcare UK,5,2,1,2,40
+HCA Healthcare UK,5,3,0,2,40
 Milton Keynes City Council,5,0,0,5,100
 Stockport Metropolitan Borough Council,5,1,0,4,80
 NHS Kent and Medway Integrated Care Board,5,4,0,1,20
@@ -395,7 +395,7 @@ HM Prison Durham,3,0,0,3,100
 Solent NHS Trust,3,0,0,3,100
 Staffordshire Police,3,1,0,2,67
 Somerset County Council,3,2,0,1,33
-Somerset NHS Foundation Trust,3,1,1,1,33
+Somerset NHS Foundation Trust,3,2,0,1,33
 North West Anglia NHS Foundation Trust,3,2,0,1,33
 Wigan Council,3,2,0,1,33
 Liverpool Heart and Chest Hospital NHS Foundation Trust,3,1,0,2,67
@@ -1422,7 +1422,7 @@ Council of Psychotherapy,1,1,0,0,0
 National Grid,1,1,0,0,0
 National Infusion and Vascular Access Society,1,0,0,1,100
 National Institute for Health and Clinical Practice,1,0,1,0,0
-National Institute for Healthcare and Clinical Excellence,1,0,1,0,0
+National Institute for Healthcare and Clinical Excellence,1,1,0,0,0
 Cornwall Health,1,0,0,1,100
 National Police Air Service,1,0,0,1,100
 National Referral Support Service,1,0,0,1,100
