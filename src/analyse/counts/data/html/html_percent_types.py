@@ -31,7 +31,7 @@ status_map = {
 def get_status_html_counter(value_num: int, value_percent: float, _type: StatusCounter) -> None:
     map_res = status_map[_type]
 
-    BLOCK = f"""
+    TEMPLATE = """
     <style>
             .counter-container {{
                 text-align: center;
@@ -46,12 +46,12 @@ def get_status_html_counter(value_num: int, value_percent: float, _type: StatusC
                 font-size: 1.2em;
             }}
 
-            .block-{_type.value} {{
+            .block-{_type} {{
                 width: 350px;
                 height: 200px;
                 text-decoration: none;
                 color: white;
-                background-color: {map_res[0]};
+                background-color: {color};
                 display: flex;
                 justify-content: center;
                 align-items: center;
@@ -60,10 +60,7 @@ def get_status_html_counter(value_num: int, value_percent: float, _type: StatusC
     }}
         </style>
         <div class="counter-container">
-            <a class="block-{_type.value}" href="{map_res[2]}" target="_blank">
-                <div id="{_type.value}-percent" class="counter">0%</div>
-                <div class="counter-description" id="{_type.value}-percent-description"><b>{value_num}</b> {map_res[1]}</div>
-            </a>
+            {block}
         </div>
         
         <script>
@@ -82,14 +79,33 @@ def get_status_html_counter(value_num: int, value_percent: float, _type: StatusC
                     element.textContent = target === 0 ? current : current + '%';
         }}, stepTime);
     }}
-    let {_type.value}Counter = document.getElementById('{_type.value}-percent');
+    let {_type}Counter = document.getElementById('{_type}-percent');
 
      setTimeout(() => {{
-    animateCounterWithPercent({_type.value}Counter, {value_percent}, 2000);}}, 500);
+    animateCounterWithPercent({_type}Counter, {value_percent}, 2000);}}, 500);
         </script>
         """
 
+    link = f"""
+                <a class="block-{_type.value}" href="{map_res[2]}" target="_blank">
+                    <div id="{_type.value}-percent" class="counter">0%</div>
+                    <div class="counter-description" id="{_type.value}-percent-description"><b>{value_num}</b> {map_res[1]}</div>
+                </a>
+        """
+
+    no_link = f"""
+                <div class="block-{_type.value}">
+                    <div id="{_type.value}-percent" class="counter">0%</div>
+                    <div class="counter-description" id="{_type.value}-percent-description"><b>{value_num}</b> {map_res[1]}</div>
+                </div>
+            """
+
+    with_link = TEMPLATE.format(color=map_res[0], block=link, _type=_type.value, value_percent=value_percent)
+    without_link = TEMPLATE.format(color=map_res[0], block=no_link, _type=_type.value, value_percent=value_percent)
     PATH = os.path.dirname(__file__)
     file_path = os.path.abspath(f"{PATH}/counters/statuses/{_type.value}.html")
+    file_path_no_link = os.path.abspath(f"{PATH}/counters/statuses/{_type.value}(no_link).html")
     with open(file_path, "w") as f:
-        f.write(BLOCK)
+        f.write(with_link)
+    with open(file_path_no_link, "w") as f:
+        f.write(without_link)

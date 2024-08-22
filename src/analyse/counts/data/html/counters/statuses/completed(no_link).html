@@ -13,12 +13,12 @@
                 font-size: 1.2em;
             }
 
-            .block-partial {
+            .block-completed {
                 width: 350px;
                 height: 200px;
                 text-decoration: none;
                 color: white;
-                background-color: #DCAF1DFF;
+                background-color: #248024FF;
                 display: flex;
                 justify-content: center;
                 align-items: center;
@@ -28,11 +28,11 @@
         </style>
         <div class="counter-container">
             
-                <a class="block-partial" href="https://preventabledeathstracker.net/overdue-responses/" target="_blank">
-                    <div id="partial-percent" class="counter">0%</div>
-                    <div class="counter-description" id="partial-percent-description"><b>541</b> PFDs have some but not all responses published (i.e. partial)</div>
-                </a>
-        
+                <div class="block-completed">
+                    <div id="completed-percent" class="counter">0%</div>
+                    <div class="counter-description" id="completed-percent-description"><b>2481</b> PFDs have all responses published (i.e. completed)</div>
+                </div>
+            
         </div>
         
         <script>
@@ -51,9 +51,9 @@
                     element.textContent = target === 0 ? current : current + '%';
         }, stepTime);
     }
-    let partialCounter = document.getElementById('partial-percent');
+    let completedCounter = document.getElementById('completed-percent');
 
      setTimeout(() => {
-    animateCounterWithPercent(partialCounter, 10, 2000);}, 500);
+    animateCounterWithPercent(completedCounter, 47, 2000);}, 500);
         </script>
         
