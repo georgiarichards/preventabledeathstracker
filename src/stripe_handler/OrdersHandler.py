@@ -93,9 +93,9 @@ class OrdersHandler:
 
 if __name__ == "__main__":
     handler = OrdersHandler()
-    # handler.handle()
-    products = ["Reg 28 Database - Completed responses only",
-                "Reg 28 Database - Pending responses only",
-                "Reg 28 Database - Overdue responses"]
-    for product in products:
-        handler.mocked_test(product)
+    handler.handle()
+    # products = ["Reg 28 Database - Completed responses only",
+    #             "Reg 28 Database - Pending responses only",
+    #             "Reg 28 Database - Overdue responses"]
+    # for product in products:
+    #     handler.mocked_test(product)
