@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,577,219,21,337,58
-NHS England,426,173,11,242,57
-Care Quality Commission,133,82,1,50,38
+Department of Health and Social Care,576,219,20,337,59
+NHS England,420,172,11,237,56
+Care Quality Commission,133,83,1,49,37
 HM Prison and Probation Service,116,56,3,57,49
 NHS Greater Manchester Integrated Care Board,91,42,2,47,52
+Ministry of Justice,81,61,4,16,20
 Home Office,80,36,2,42,52
-Ministry of Justice,80,61,3,16,20
-National Institute for Health and Care Excellence,74,39,3,32,43
-Department for Transport,72,30,0,42,58
+National Institute for Health and Care Excellence,76,40,4,32,42
+Department for Transport,73,30,1,42,58
 Barts Health NHS Trust,61,24,1,36,59
 Betsi Cadwaladr University Health Board,57,16,2,39,68
 National Highways,53,31,0,22,42
 Metropolitan Police Service,51,27,2,22,43
 Health and Safety Executive,47,25,2,20,43
-National Police Chiefs’ Council,46,33,3,10,22
-Pennine Care NHS Foundation Trust,45,26,1,18,40
+National Police Chiefs’ Council,46,34,3,9,20
 Welsh Ambulance Services NHS Trust,45,20,0,25,56
 Medicines and Healthcare Products Regulatory Agency,44,29,2,13,30
 University Hospitals Sussex NHS Foundation Trust,42,20,0,22,52
+Pennine Care NHS Foundation Trust,42,23,1,18,43
 Department for Education,38,14,2,22,58
 Greater Manchester Mental Health NHS Foundation Trust,35,19,0,16,46
 East London NHS Foundation Trust,35,12,4,19,54
 College of Policing,35,13,0,22,63
 Network Rail,34,5,0,29,85
 Sussex Partnership NHS Foundation Trust,32,12,0,20,62
-Birmingham and Solihull Mental Health NHS Foundation Trust,30,12,1,17,57
-Manchester University NHS Foundation Trust,30,18,0,12,40
-Practice Plus Group,29,15,0,14,48
-Norfolk and Suffolk NHS Foundation Trust,29,7,1,21,72
+Northern Care Alliance NHS Foundation Trust,32,16,1,15,47
+Birmingham and Solihull Mental Health NHS Foundation Trust,31,12,2,17,55
 Association of Ambulance Chief Executives,29,15,1,13,45
+Manchester University NHS Foundation Trust,29,18,0,11,38
+Practice Plus Group,29,15,0,14,48

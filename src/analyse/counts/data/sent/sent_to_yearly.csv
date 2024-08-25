@@ -50,7 +50,7 @@ Amey PLC,0,0,0,0,1,1,0,0,0,0,0,0,2
 Amgen,0,0,0,0,0,0,1,0,0,0,0,0,1
 Amphenol Thermometrics UK Ltd,0,0,0,1,0,0,0,0,0,0,0,0,1
 Anastasia Boat,0,0,0,0,0,0,0,0,0,0,0,1,1
-Aneurin Bevan University Health Board,0,0,1,1,3,2,0,2,3,3,5,2,22
+Aneurin Bevan University Health Board,0,0,1,1,3,2,0,2,3,3,5,3,23
 Angel Solutions UK Limited,0,0,0,0,0,0,1,0,0,0,0,0,1
 Anglian Community Enterprise,0,0,0,1,0,0,0,0,0,0,0,0,1
 Antron Manor Care Home,0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -73,6 +73,7 @@ Association of Conservative Clubs,0,0,0,0,0,0,0,0,0,0,1,0,1
 Association of Directors of Adult Social Services,0,0,1,0,1,0,0,0,1,1,0,0,4
 Association of Lorry Loader Manufacturers and Importers,0,0,0,0,0,0,0,0,0,0,0,1,1
 Association of Police and Crime Commissioners,0,0,0,0,0,0,0,0,0,2,1,1,4
+Aston University,0,0,0,0,0,0,0,0,1,0,0,0,1
 Athena Care Homes (UK) Limited,0,0,0,0,0,0,0,0,0,0,1,0,1
 Atrumed Ltd,0,0,0,0,0,0,0,0,0,1,0,0,1
 Audlem Medical Practice,0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -127,9 +128,9 @@ Betsi Cadwaladr University Health Board,1,0,5,3,6,2,1,1,4,4,21,9,57
 Birmingham City Council,0,0,2,2,2,1,3,0,0,1,1,1,13
 Birmingham Community Healthcare NHS Foundation Trust,0,0,1,0,1,1,1,0,0,0,1,0,5
 Birmingham Women's and Children's NHS Foundation Trust,1,0,1,0,1,2,1,0,0,1,0,0,7
-Birmingham and Solihull Mental Health NHS Foundation Trust,0,0,0,2,1,3,7,1,1,3,8,4,30
+Birmingham and Solihull Mental Health NHS Foundation Trust,0,0,0,2,1,3,7,1,1,3,8,5,31
 Birnberg Peirce Solicitors,0,0,0,0,1,0,0,0,0,0,0,0,1
-Black Country Healthcare NHS Foundation Trust,0,1,0,2,2,2,3,0,0,0,0,1,11
+Black Country Healthcare NHS Foundation Trust,0,1,0,2,2,2,3,0,1,0,0,1,12
 Blackpool Council,0,0,0,0,0,0,0,0,0,0,1,0,1
 Blackpool Teaching Hospitals NHS Foundation Trust,1,1,1,3,1,2,4,2,1,1,1,2,20
 Blaenau Gwent County Borough Council,0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -163,12 +164,14 @@ Brancaster Care,0,0,0,0,0,1,0,0,0,0,0,0,1
 Brighton and Hove City Council,0,0,0,0,0,0,1,1,1,0,0,0,3
 Bristol Ambulance Emergency Medical Services,0,0,0,0,0,0,0,0,0,0,1,0,1
 Bristol City Council,0,0,1,0,0,1,0,0,0,0,0,0,2
+Britannia Hotels Group Ltd,0,0,0,0,0,0,0,0,1,0,0,0,1
+Britannia Jinky Jersey Ltd,0,0,0,0,0,0,0,0,1,0,0,0,1
 Britannia Pharmaceutical Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1
 British Army,0,0,0,0,0,0,0,0,1,0,0,0,1
-British Association Perinatal Medicine,0,0,0,0,0,0,0,0,0,0,1,0,1
 British Association of Aesthetic Plastic Surgeons,0,0,0,0,0,0,0,1,0,0,0,0,1
 British Association of Dermatologists,0,0,0,0,0,1,0,0,0,0,0,0,1
 British Association of Paediatric Surgeons,0,0,0,0,0,0,0,0,0,0,0,1,1
+British Association of Perinatal Medicine,0,0,0,0,0,0,0,1,1,0,1,0,3
 "British Association of Plastic, Reconstructive and Aesthetic Surgeons",0,0,0,0,0,0,0,1,0,0,0,0,1
 British Association of Urological Surgeons,0,0,0,0,0,0,0,0,0,1,0,0,1
 British Board of Agrément,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -183,7 +186,7 @@ British Heart Foundation,0,0,0,0,0,0,1,0,0,0,0,0,1
 British Kitesurfing Association,0,0,0,0,0,0,0,0,1,0,0,0,1
 British Marine,0,0,0,2,0,0,0,0,0,0,0,0,2
 British Maternal and Fetal Medicine Society,0,0,0,0,1,0,0,0,0,0,0,0,1
-British Medical Association,0,0,0,2,0,1,3,0,1,1,0,1,9
+British Medical Association,0,0,0,2,0,1,3,0,1,1,0,2,10
 British Mountaineering Council,0,0,0,1,0,0,0,0,0,0,0,0,1
 British National Formulary,0,1,0,0,0,1,0,0,0,0,1,1,4
 British Skydiving,0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -217,11 +220,9 @@ CAMHS,0,0,0,0,1,0,0,0,0,0,0,0,1
 CCG,0,0,1,0,0,0,1,1,0,0,0,0,3
 CLS Care Services,0,0,0,1,0,0,0,0,0,0,0,0,1
 CMF Limited,0,0,1,0,0,0,0,0,0,0,0,0,1
-CRG Lead Commissioner,0,0,0,0,0,1,0,0,0,0,0,0,1
 CSC,0,0,0,0,0,0,0,0,0,0,0,1,1
 CSS Telecare Service,0,0,0,0,1,0,0,0,0,0,0,0,1
 Cabinet Office,0,0,0,0,0,0,0,0,0,0,0,1,1
-Cabinet Secretary Health Social Care & Welsh Language,0,0,0,0,0,0,0,0,0,0,0,1,1
 Cadent Gas Ltd,0,0,0,0,0,0,0,1,0,0,0,0,1
 Calderdale Council,0,0,0,0,0,4,2,1,1,1,0,1,10
 Calderdale and Huddersfield NHS Foundation Trust,0,0,1,1,0,0,2,0,0,1,0,0,5
@@ -260,6 +261,7 @@ Carrington Doors,1,0,0,0,0,0,0,0,0,0,0,0,1
 Castle Rock Group,0,0,0,0,0,0,0,1,0,0,1,0,2
 Castlefields Health Centre,1,0,0,0,0,0,0,0,0,0,0,0,1
 Caterlink,0,0,0,0,1,0,0,0,0,0,0,0,1
+Catholic Church of England and Wales,0,0,0,0,0,1,0,0,0,0,0,0,1
 Catholic Standards Safeguarding Agency,0,0,0,0,0,0,0,0,1,0,0,0,1
 Cator Medical Centre,1,0,0,0,0,0,0,0,0,0,0,0,1
 Cedar Care Home,0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -292,7 +294,7 @@ Chief Fire Officers Association,1,0,0,2,4,0,0,0,0,0,0,0,7
 Chief Medical Officer for Wales,0,0,0,0,2,0,0,0,0,0,2,0,4
 Child and Adolescent Mental Health Service East,0,0,0,0,1,0,0,0,0,0,0,0,1
 Children and Family Court Advisory and Support Service,0,0,0,0,0,1,1,0,0,0,0,0,2
-Children’s Commissioner for England,0,0,0,0,0,0,0,0,0,0,0,1,1
+Children’s Commissioner for England,0,0,0,0,0,0,0,0,0,0,1,1,2
 Children’s Commissioner for Wales,0,0,0,0,0,0,0,0,0,0,0,1,1
 Chilton Care Centre,0,0,0,0,0,0,1,0,0,0,0,0,1
 Choice Support,0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -362,6 +364,7 @@ Cricket Green Medical Practice,0,0,0,0,1,0,0,0,0,0,0,0,1
 Croft Shifa Health Centre,0,0,0,0,0,0,0,0,1,0,1,0,2
 Crossroads House Care Home,0,0,0,0,0,1,0,0,0,0,0,0,1
 Crown Care,0,0,0,0,0,0,0,1,0,0,0,0,1
+Crown Prosecution Service,0,0,0,0,0,0,0,1,0,0,0,0,1
 Croydon Council,0,0,0,0,0,0,1,0,0,0,0,0,1
 Croydon Health Services NHS Trust,0,0,1,1,0,0,0,0,1,0,0,0,3
 Cruise and Maritime Services International Limited,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -372,7 +375,7 @@ Cumbria Constabulary,0,0,0,0,0,0,0,0,0,0,1,0,1
 Cumbria County Council,2,0,0,3,2,0,2,1,0,2,0,0,12
 Cumbria Health,0,0,0,0,0,0,0,0,0,0,0,1,1
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",0,0,0,0,0,0,2,0,2,1,3,2,10
-Cwm Taf Morgannwg University Health Board,0,0,2,1,7,4,7,1,2,2,0,2,28
+Cwm Taf Morgannwg University Health Board,0,1,0,1,3,3,6,1,2,2,0,2,21
 Cygnet Health Care,0,0,0,0,0,0,0,0,0,1,0,2,3
 Cygnet Hospital,0,0,0,0,0,0,0,0,0,0,0,1,1
 Cyngor Bwrdeistref Sirol Pen-y-Bont ar Ogwr,0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -386,9 +389,8 @@ Dairy Lane Care Centre,0,0,0,0,0,1,0,0,0,0,0,0,1
 Dalmeny Hotel,0,0,0,1,0,0,0,0,0,0,0,0,1
 Darlington Farmers Auction Mart,0,0,1,0,0,0,0,0,0,0,0,0,1
 Dartford and Gravesend NHS Trust,0,0,0,0,1,0,0,0,0,0,0,1,2
-Darwin medical Practice,0,0,0,0,0,0,1,0,0,0,0,0,1
+Darwin Medical Practice,0,0,0,0,0,0,1,0,0,0,0,0,1
 David Ake & Co Solicitors,0,0,0,0,0,0,0,0,1,0,0,0,1
-David Bowe,1,0,0,0,0,0,0,0,0,0,0,0,1
 Decathlon UK,0,0,0,0,0,0,0,0,0,0,1,0,1
 Deerlands Residential Home,0,0,0,0,0,0,0,0,0,0,0,1,1
 Delamere Medical Practice,0,0,0,0,0,0,1,0,0,0,0,0,1
@@ -400,12 +402,11 @@ Department for Business and Trade,0,0,0,0,0,0,0,1,0,0,0,1,2
 "Department for Culture, Media and Sport",0,0,0,0,0,1,3,1,2,1,6,4,18
 Department for Education,1,1,0,4,1,3,8,1,4,4,5,6,38
 "Department for Environment, Food and Rural Affairs",0,0,0,0,0,1,2,1,1,0,2,0,7
-"Department for Levelling Up, Housing and Communities",1,0,1,1,2,1,3,3,3,2,3,8,28
-"Department for Science, Innovation and Technology",0,0,0,0,0,0,0,0,0,0,0,1,1
-Department for Transport,1,1,1,12,9,4,6,8,7,6,11,6,72
+"Department for Science, Innovation and Technology",0,0,0,0,0,0,0,0,0,0,0,2,2
+Department for Transport,1,1,1,12,9,4,6,8,7,6,11,7,73
 Department for Work and Pensions,0,0,0,2,1,1,1,0,3,1,2,1,12
 Department of Energy and Climate Change,1,0,0,0,0,0,0,0,0,0,0,0,1
-Department of Health and Social Care,16,5,13,46,31,50,48,46,64,77,98,83,577
+Department of Health and Social Care,16,5,13,46,31,50,48,46,64,77,98,82,576
 Department of Trade and Industry,0,0,1,0,0,0,0,0,0,0,0,0,1
 Depaul UK,0,0,0,0,0,0,0,0,0,0,1,0,1
 Derby City Council,0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -454,8 +455,7 @@ EURO-EKO,0,0,0,0,0,0,0,0,0,1,0,0,1
 Each Step Nursing Home,0,0,0,0,0,0,1,0,0,0,0,0,1
 East Cheshire NHS Trust,1,0,0,0,0,0,0,0,0,0,0,1,2
 East Kent Hospitals University NHS Foundation Trust,0,0,0,1,4,0,1,1,1,3,1,0,12
-East Lancashire Hospitals NHS Trust,0,0,2,4,1,0,0,0,2,0,0,1,10
-East Lancashire Hospitals Trust,0,0,0,0,0,0,0,0,0,0,0,1,1
+East Lancashire Hospitals NHS Trust,0,0,2,4,1,0,0,0,2,0,0,2,11
 East London NHS Foundation Trust,0,1,0,3,10,1,2,1,1,6,5,5,35
 East Midlands Ambulance Service NHS Trust,0,0,2,3,1,2,4,1,1,1,1,2,18
 East Suffolk Council,0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -488,7 +488,7 @@ English Ice Hockey,0,0,0,0,0,0,0,0,0,0,1,0,1
 Environment Agency,0,0,0,0,0,0,0,0,1,0,1,0,2
 Environmental Services Associations,0,0,0,0,0,1,0,0,0,0,0,0,1
 Epsom  Ewell Borough Council,0,0,0,0,1,0,0,0,0,0,0,0,1
-Epsom and St Helier University Hospitals NHS Trust,1,0,0,1,0,2,0,0,0,0,0,1,5
+Epsom and St Helier University Hospitals NHS Trust,1,0,0,2,0,2,0,0,0,0,0,1,6
 Essex Community Rehabilitation Company,0,0,0,0,1,0,0,0,0,0,0,0,1
 Essex County Council,0,0,2,0,1,0,0,1,0,0,2,0,6
 Essex Partnership University NHS Foundation Trust,0,0,2,5,4,1,0,2,2,3,4,4,27
@@ -545,6 +545,7 @@ Gas Safe Register,0,0,0,0,0,0,0,1,0,0,0,0,1
 Gateshead Health NHS Foundation Trust,0,0,0,0,2,0,1,0,0,0,1,0,4
 Gender Identity Clinic,0,0,0,0,0,0,0,0,0,0,1,0,1
 General Chiropractic Council,0,0,0,0,0,0,0,0,0,1,0,0,1
+General Council,0,0,0,0,0,0,1,0,0,0,0,0,1
 General Dental Council,0,0,0,1,0,0,0,0,0,0,1,0,2
 General Medical Council,1,1,3,1,1,3,1,3,6,2,4,1,27
 General Pharmaceutical Council,0,0,0,0,1,1,2,0,2,0,1,1,8
@@ -629,11 +630,11 @@ HM Prison Pentonville,0,0,2,2,3,0,2,0,1,0,1,0,11
 HM Prison Portland,0,0,1,1,0,0,0,0,0,0,0,0,2
 HM Prison Preston,0,0,0,0,1,0,0,0,0,1,0,0,2
 HM Prison Ranby,0,0,0,1,0,0,0,0,0,0,0,0,1
-HM Prison Rochester,0,0,0,1,0,0,0,0,0,0,1,0,2
+HM Prison Rochester,0,0,0,1,0,0,0,0,0,0,1,1,3
 HM Prison Rye Hill,0,0,0,0,0,1,0,0,0,0,0,0,1
 HM Prison Stoke Heath,0,0,0,1,0,1,0,0,0,0,0,1,3
 HM Prison Styal,0,0,0,0,0,0,0,0,0,0,0,1,1
-HM Prison Swaleside,0,0,0,0,0,0,0,0,0,1,0,0,1
+HM Prison Swaleside,0,0,0,0,0,0,0,0,0,1,0,1,2
 HM Prison Swansea,0,0,0,0,0,0,0,0,0,2,0,0,2
 HM Prison Swinfen Hall,0,0,0,0,0,0,0,0,0,0,0,1,1
 HM Prison Thameside,0,0,0,0,0,1,0,0,0,0,1,0,2
@@ -704,6 +705,7 @@ Highlands and Trafalgar Square Surgery,0,0,0,0,0,0,1,0,0,0,0,0,1
 Hillbrook Grange Residential Care Home,0,0,0,0,1,0,0,0,0,0,0,0,1
 Hillingdon Council,0,0,0,0,0,0,0,0,0,0,1,0,1
 Hillingdon Hospitals NHS Foundation Trust,0,0,0,0,1,0,1,0,0,0,0,0,2
+Hilltops Medical Centre,0,0,0,0,0,0,0,0,0,0,1,0,1
 Hilton Hotel,0,0,0,1,0,0,0,0,0,0,0,0,1
 Hindley Health Centre Pharmacy,0,0,0,0,1,0,0,0,0,0,0,0,1
 Hirst Electrical Plant Hire Services UK Ltd,0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -726,13 +728,14 @@ Housing of Vulnerable People (Building Safety),0,0,0,0,0,0,0,1,0,0,0,0,1
 Hull City Council,0,0,0,0,0,0,0,0,0,0,1,0,1
 Hull University Teaching Hospitals NHS Trust,0,0,0,0,1,0,1,0,0,0,1,3,6
 Human Race Limited,0,0,0,0,0,1,0,0,0,0,0,0,1
+Human Resources,0,0,0,0,0,0,0,0,0,0,1,0,1
 Humankind Charity,0,0,0,0,0,0,0,0,0,1,0,0,1
 Humber Bridge Board,0,0,0,0,0,1,0,0,0,0,0,0,1
 Humberside Police,0,0,0,0,0,0,0,0,0,0,0,1,1
 Hunters Lodge Care Home,0,0,0,0,0,0,1,0,0,0,0,0,1
 Hurst Hall Care Centre,0,0,1,0,0,0,0,0,0,0,0,0,1
 Hylton View Care Home,0,0,0,0,0,1,0,0,0,0,0,0,1
-Hywel Dda University Health Board,0,0,0,3,0,1,4,0,0,1,0,1,10
+Hywel Dda University Health Board,0,0,0,3,0,1,4,0,0,1,0,2,11
 Ice Hockey UK,0,0,0,0,0,0,0,0,0,0,1,0,1
 Ideal Care Home Ltd,0,0,0,1,0,0,0,0,0,0,0,0,1
 Ilkley Town Council,0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -766,7 +769,6 @@ Islington Borough Council,0,0,0,0,0,0,0,0,0,0,0,1,1
 Islington Social Services,0,0,0,0,0,0,0,0,0,0,0,1,1
 JD Wetherspoon PLC,0,0,0,0,0,0,0,0,0,0,1,0,1
 JV Ltd,0,0,0,0,0,0,0,1,0,0,0,0,1
-James Cook University Hospital,0,0,0,0,0,0,0,0,0,0,0,1,1
 James Paget University Hospitals NHS Foundation Trust,0,0,1,0,0,0,1,2,0,0,0,1,5
 Jesta Capital Corporation,1,0,0,0,0,0,0,0,0,0,0,0,1
 Jet2.com Ltd,0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -809,6 +811,7 @@ Lancashire County Council,0,0,0,0,0,0,1,1,0,1,1,0,4
 Lancashire Teaching Hospitals NHS Foundation Trust,0,0,1,0,0,0,0,0,0,0,0,1,2
 Lancashire and South Cumbria NHS Foundation Trust,0,0,1,2,2,1,0,1,1,1,1,0,10
 Lancs & Cumbria Lifts UK Ltd,0,0,0,0,0,1,0,0,0,0,0,0,1
+Landlord,0,0,0,0,0,0,0,1,0,0,0,0,1
 Lands End Resort,0,0,0,0,0,1,0,0,0,0,0,0,1
 Landsec,0,0,0,0,0,0,0,0,0,0,1,0,1
 Langford Centre,0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -824,7 +827,7 @@ Leek Health Centre,0,0,0,0,0,0,0,1,0,0,0,0,1
 Leicester City Council,0,0,1,0,0,0,0,0,0,0,0,0,1
 Leicestershire Partnership NHS Trust,1,0,1,3,1,1,0,0,0,0,1,2,10
 Leonard Cheshire,0,0,0,0,0,0,0,0,0,0,1,0,1
-Lewisham and Greenwich NHS Trust,1,1,1,0,1,2,5,3,3,1,2,1,21
+Lewisham and Greenwich NHS Trust,1,1,0,0,0,0,1,1,2,0,0,0,6
 Leyden Delta Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1
 Lifeshield Medical Services Limited,0,0,0,0,1,0,0,0,0,0,0,0,1
 Lifeskills,0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -840,7 +843,7 @@ Lister House Oakwood,0,0,0,0,0,0,0,0,0,0,1,0,1
 Litch Care for Action,0,0,0,0,0,0,0,0,0,1,0,0,1
 Liverpool City Council,0,0,0,0,0,0,0,1,0,0,0,0,1
 Liverpool Heart and Chest Hospital NHS Foundation Trust,0,0,0,0,0,1,0,0,2,0,0,0,3
-Liverpool University Hospitals NHS Foundation Trust,1,0,0,0,0,0,0,0,0,0,0,0,1
+Liverpool University Hospitals NHS Foundation Trust,2,0,0,1,2,3,2,2,2,0,1,0,15
 Liverpool Womens Hospital NHS Foundation Trust,1,0,0,0,0,0,0,0,0,0,0,0,1
 Livewell Southwest,0,0,0,0,0,1,0,0,0,0,0,0,1
 Local Authority for Stoke on Trent,0,0,0,0,0,0,0,0,0,0,0,1,1
@@ -871,7 +874,6 @@ Lynmere Nursing home,0,0,0,0,0,0,0,1,0,0,0,0,1
 M & S Water Services,0,0,0,0,0,1,0,0,0,0,0,0,1
 M C Federation,0,0,1,0,0,0,0,0,0,0,0,0,1
 MAC Skip Hire Limited,0,0,0,1,0,0,0,0,0,0,0,0,1
-MIRUS Wales,0,0,0,0,0,0,0,0,0,1,0,0,1
 MK together,0,0,0,0,0,0,0,0,0,0,1,0,1
 Maesteg Comprehensive School,0,0,0,0,1,0,0,0,0,0,0,0,1
 Magenta Living Support Link,0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -881,7 +883,7 @@ Manchester Airport Group,0,0,0,0,1,0,0,0,0,0,0,0,1
 Manchester City Council,0,0,0,0,0,0,1,0,0,0,1,1,3
 Manchester Medical Service,1,0,0,0,0,0,0,0,0,0,0,0,1
 Manchester United Football Club,0,0,0,0,0,1,0,0,0,0,0,0,1
-Manchester University NHS Foundation Trust,0,0,0,9,1,6,5,3,1,2,1,2,30
+Manchester University NHS Foundation Trust,0,0,0,9,1,6,5,2,1,2,1,2,29
 Manor Field Surgery,0,0,0,0,1,0,0,0,0,0,0,0,1
 Mansfield District Council,0,0,0,0,0,0,0,0,0,0,1,0,1
 Mansfield and Ashfield Clinical Commissioning Group,0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -935,11 +937,13 @@ Mill View Nursing Home,0,0,0,1,0,0,0,0,0,0,0,0,1
 Millbrook Healthcare Limited,0,0,0,0,1,0,0,0,0,0,0,0,1
 Milton Keynes City Council,0,0,0,0,1,1,0,1,0,1,1,0,5
 Milton Keynes University Hospital NHS Foundation Trust,0,0,1,0,1,0,2,1,3,2,4,0,14
-"Minister for Education, Wales",0,0,0,0,0,0,0,0,0,0,0,1,1
-Ministry of Defence,1,1,4,0,1,2,3,1,2,1,3,2,21
-Ministry of Justice,1,0,2,9,1,8,12,0,12,10,11,14,80
+Ministry of Defence,1,1,4,0,1,2,3,1,2,1,3,3,22
+Ministry of Defence Police,0,0,0,0,0,0,0,0,0,0,0,1,1
+"Ministry of Housing, Communities and Local Government",1,0,1,1,2,1,3,3,3,2,3,8,28
+Ministry of Justice,1,0,2,9,1,8,12,0,12,10,11,15,81
+Mirus Wales,0,0,0,0,0,0,0,0,0,1,0,0,1
 Mitie Group,0,0,0,1,0,0,2,0,1,0,0,0,4
-Monarch Health Care C/O Heeley Bank Care Home,0,0,0,0,0,0,0,0,0,0,0,1,1
+Monarch Healthcare Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1
 Monmouthshire County Council,0,0,0,0,0,0,1,0,0,0,1,0,2
 Moorfields Eye Hospital NHS Foundation Trust,0,0,0,0,0,0,0,0,1,0,0,0,1
 Morton Hall Immigration Removal Centre,0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -951,21 +955,22 @@ My The Orchards Ltd,0,0,0,0,0,0,0,0,1,0,0,0,1
 Mylan Pharmaceuticals,0,0,0,0,0,0,1,0,0,0,0,0,1
 NHS,0,0,0,0,1,0,0,1,0,0,0,0,2
 "NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",0,0,0,1,0,0,1,0,0,0,0,0,2
-"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",0,0,0,0,0,3,2,0,0,0,2,0,7
+"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",0,0,0,0,0,3,2,0,0,0,3,0,8
 NHS Birmingham and Solihull Integrated Care Board,0,0,0,1,1,7,5,0,2,1,2,2,21
 NHS Black Country Pathological Service,0,0,0,0,0,0,0,1,0,0,0,0,1
 NHS Blood and Transplant,0,1,0,0,0,0,1,0,0,0,0,0,2
-"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",0,0,0,2,0,0,0,0,0,0,0,0,2
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",0,0,2,2,0,0,0,0,0,0,0,0,4
 "NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",0,0,0,0,0,0,0,0,0,0,1,0,1
 NHS Cambridgeshire and Peterborough Integrated Care Board,0,0,0,1,0,0,0,0,1,0,1,0,3
 NHS Care Commissioning Group,0,0,0,1,0,0,0,0,0,0,0,0,1
 NHS Cheshire and Merseyside Integrated Care Board,0,0,0,0,2,0,0,0,0,0,1,1,4
 NHS Cornwall and Isles of Scilly Integrated Care Board,0,0,0,3,0,4,1,0,0,0,0,3,11
 NHS Coventry and Warwickshire Integrated Care Board,0,0,0,0,0,2,0,0,0,0,0,0,2
-NHS Derby and Derbyshire Integrated Care Board,1,0,2,3,1,3,0,2,0,1,0,0,13
+NHS Derby and Derbyshire Integrated Care Board,1,0,0,4,1,3,0,2,0,1,0,0,12
 NHS Devon Integrated Care Board,0,0,0,2,1,1,0,0,0,1,0,0,5
+NHS Digital,0,0,0,1,1,1,3,3,2,2,2,0,15
 NHS Dorset Integrated Care Board,0,0,0,0,0,1,0,0,0,1,1,0,3
-NHS England,4,4,8,34,25,34,46,27,41,48,88,67,426
+NHS England,4,4,8,34,26,37,44,24,40,46,86,67,420
 NHS Frimley Integrated Care Board,0,0,0,0,0,0,1,0,0,0,0,0,1
 NHS Gloucestershire Integrated Care Board,0,0,0,1,0,1,0,0,0,0,0,0,2
 NHS Greater Manchester Integrated Care Board,0,1,1,1,6,4,15,12,20,11,10,10,91
@@ -988,14 +993,15 @@ NHS Northamptonshire Integrated Care Board,0,0,0,0,0,0,0,0,0,0,0,2,2
 NHS Nottingham and Nottinghamshire Integrated Care Board,1,0,1,0,2,0,0,4,2,0,0,0,10
 NHS Professionals Limited,0,0,0,0,0,1,1,0,0,0,0,0,2
 "NHS Quality, Safety and Investigations",0,0,0,0,0,0,0,0,1,0,0,0,1
-NHS South East London Integrated Care Board,1,0,0,1,0,0,1,0,0,0,0,0,3
+NHS South East London Integrated Care Board,1,0,0,0,0,0,1,0,0,0,0,1,3
 NHS South West London Integrated Care Board,0,0,1,0,0,0,0,0,0,0,1,1,3
 NHS South Yorkshire Integrated Care Board,0,0,0,0,0,0,1,0,0,2,1,0,4
 NHS Staffordshire and Stoke-on-Trent Integrated Care Board,0,0,0,0,0,1,0,1,0,0,0,0,2
 NHS Suffolk and North East Essex Integrated Care Board,0,0,0,0,0,0,0,0,0,1,0,0,1
 NHS Surrey Heartlands Integrated Care Board,0,0,0,1,0,0,1,0,0,2,0,0,4
 NHS Sussex Integrated Care Board,0,0,0,1,1,2,0,0,3,0,1,3,11
-NHS Wales,0,0,0,2,0,1,1,0,0,0,0,2,6
+NHS Wales,0,0,0,2,0,0,1,0,0,0,0,3,6
+NHS Wales Shared Services Partnership,0,1,0,0,0,1,0,0,0,0,0,0,2
 NHS West Yorkshire Integrated Care Board,0,0,0,0,0,1,0,0,0,0,2,3,6
 "NPS/NOMS, Liverpool City Council",0,0,0,0,1,0,0,0,0,0,0,0,1
 Nant y Gaer Hall Nursing Home,0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -1012,9 +1018,8 @@ National Fire Chiefs Council,0,0,0,0,0,2,0,0,0,1,1,0,4
 National Grid,1,0,0,0,0,0,0,0,0,0,0,0,1
 National Highways,1,0,6,4,7,1,9,4,4,8,7,2,53
 National Infusion and Vascular Access Society,0,0,0,0,0,0,0,0,0,0,1,0,1
-National Institute for Health and Care Excellence,1,0,5,4,3,1,10,7,10,5,17,11,74
-National Institute for Health and Clinical Practice,0,0,0,0,0,0,0,0,0,0,0,1,1
-National Institute for Healthcare and Clinical Excellence,0,0,0,0,0,0,0,0,0,0,0,1,1
+National Institute for Cardiovascular Outcomes Research,0,0,0,0,0,0,0,0,1,0,0,0,1
+National Institute for Health and Care Excellence,1,0,5,4,3,1,10,7,10,5,17,13,76
 National Pharmacy Association,0,0,0,0,0,0,0,0,0,0,0,1,1
 National Police Air Service,0,0,0,0,0,0,0,0,0,0,1,0,1
 National Police Chiefs’ Council,1,0,0,2,2,2,8,2,11,3,10,5,46
@@ -1048,8 +1053,7 @@ Norfolk and Norwich University Hospitals NHS Foundation Trust,0,0,1,0,0,0,2,1,3,
 Norfolk and Suffolk NHS Foundation Trust,1,0,1,0,4,2,7,1,3,5,0,5,29
 Normanton Village View Nursing Home,0,0,0,0,0,0,0,1,0,0,0,0,1
 North Bristol NHS Trust,0,0,0,0,1,2,0,1,0,2,2,1,9
-North Cumbria Integrated Care NHS Foundation Trust,1,0,0,0,2,1,1,1,0,2,1,2,11
-North Cumbria Integrated Care NHS Trust,0,0,0,0,0,0,0,0,0,0,0,1,1
+North Cumbria Integrated Care NHS Foundation Trust,1,0,0,0,2,1,1,1,0,2,1,3,12
 North Devon County Council,0,0,0,1,0,0,0,0,0,0,0,0,1
 North East Ambulance Service NHS Foundation Trust,0,0,0,3,1,2,2,0,0,2,1,3,14
 North East London NHS Foundation Trust,0,0,0,3,0,1,4,2,5,3,7,1,26
@@ -1064,14 +1068,13 @@ North West Ambulance Service NHS Trust,1,0,1,2,2,1,3,1,1,1,2,1,16
 North West Anglia NHS Foundation Trust,0,0,0,0,1,0,0,0,1,0,1,0,3
 North West Boroughs Healthcare NHS Foundation Trust,0,0,1,2,2,0,1,1,0,0,0,0,7
 North West Fire Control,0,0,0,0,0,0,0,0,0,0,1,0,1
-North Yorkshire County Council,0,0,0,1,0,1,0,0,1,1,1,0,5
+North Yorkshire County Council,1,0,0,1,0,1,0,0,1,1,1,0,6
 North Yorkshire Police,0,0,0,1,0,0,0,0,0,0,0,0,1
-North and Mid Wales Trunk Road Agent,0,0,0,0,0,1,0,0,0,0,0,0,1
 Northampton General Hospital NHS Trust,0,0,0,0,0,0,0,0,0,0,1,1,2
 Northamptonshire County Council,0,0,0,0,0,1,0,0,0,0,0,0,1
 Northamptonshire Healthcare NHS Foundation Trust,0,0,1,0,0,1,0,0,0,0,0,0,2
 Northamptonshire Police,0,0,0,0,1,0,0,0,0,0,0,0,1
-Northern Care Alliance NHS Foundation Trust,2,0,0,0,5,2,4,0,3,0,1,1,18
+Northern Care Alliance NHS Foundation Trust,3,0,0,2,8,5,9,0,3,0,1,1,32
 Northern Care Limited,0,0,0,0,0,0,0,0,0,0,1,0,1
 Northern Health and Social Care Trust,0,0,0,0,1,0,0,0,0,0,1,0,2
 Northern Medical Centre,0,1,0,0,0,0,0,0,0,0,0,0,1
@@ -1083,7 +1086,7 @@ Northumbria Water,0,1,0,0,0,0,0,0,0,0,0,0,1
 Norwich Practices Health Centre,0,0,1,0,0,0,0,0,0,0,0,0,1
 Nottingham City Council,0,0,0,0,0,0,0,0,0,1,0,0,1
 Nottingham Police,0,0,0,0,1,0,0,0,0,0,0,0,1
-Nottingham University Hospitals NHS Trust,1,0,0,1,2,3,2,1,3,2,1,0,16
+Nottingham University Hospitals NHS Trust,0,0,0,0,0,0,0,0,1,2,0,0,3
 Nottinghamshire County Council,0,0,0,1,1,1,1,0,2,0,1,0,7
 Nottinghamshire Healthcare NHS Foundation Trust,0,0,1,4,2,0,0,0,2,3,6,5,23
 Nottinghamshire Safeguarding Children Partnership,0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -1141,7 +1144,7 @@ Peel Holdings,0,0,0,0,0,1,0,0,0,0,0,0,1
 Peel Medical Practice,0,0,0,0,1,0,0,0,0,0,0,0,1
 "Pelham House, West Sussex",0,0,0,0,0,0,0,1,0,0,0,0,1
 Pembrokeshire County Council,1,0,1,0,0,0,0,0,0,0,0,0,2
-Pennine Care NHS Foundation Trust,2,0,1,5,6,8,8,5,1,2,5,2,45
+Pennine Care NHS Foundation Trust,2,0,1,4,5,7,8,5,1,2,5,2,42
 Pentree Lodge Home,0,0,0,0,0,0,1,0,0,0,0,0,1
 Persimmon Homes,0,0,0,0,0,0,1,0,0,0,0,0,1
 Persona Care and Support Ltd,0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1179,13 +1182,11 @@ Proprietary Association,0,0,0,0,1,0,0,0,0,0,0,0,1
 Public Health England,0,0,1,0,2,1,5,3,3,0,0,0,15
 Public Services,1,0,0,0,0,0,0,0,0,0,0,0,1
 Quarry House,0,0,0,0,0,0,0,0,0,0,1,0,1
-Queen Elizabeth Hospital King’s Lynn NHS Foundation Trust,0,0,0,0,0,0,0,0,0,1,0,0,1
-Queen Mary’s Hospital for Children,0,0,0,1,0,0,0,0,0,0,0,0,1
 Queen Victoria Hospital NHS Foundation Trust,0,0,0,0,1,0,0,0,0,0,0,0,1
 Quora,0,0,0,0,0,0,0,0,0,0,0,1,1
 RCI,0,0,0,0,0,0,1,0,0,0,0,0,1
 RCPLT,0,0,0,0,0,0,1,0,0,0,0,0,1
-REDACTED,2,0,0,0,2,1,2,1,0,3,6,11,28
+REDACTED,2,0,0,0,2,1,1,0,0,3,5,11,25
 RICS,0,0,0,0,1,0,0,0,0,0,0,0,1
 RPFI,0,0,0,0,0,0,1,0,0,0,0,0,1
 Radcliffe Investment Properties,0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1219,7 +1220,6 @@ Rochdale Adult Care,0,0,0,0,0,0,1,0,0,0,0,0,1
 Rochdale Borough Council,0,0,0,0,0,1,0,0,0,0,0,0,1
 Roche Diagnostics Limited,0,0,0,1,0,0,0,0,0,0,0,0,1
 Rocky Lane Medical Centre,0,0,0,0,0,0,0,0,0,0,1,0,1
-Roman Catholic Church of England and Wales,0,0,0,0,0,1,0,0,0,0,0,0,1
 Rookery Medical Centre,0,0,0,0,0,1,0,0,0,0,0,0,1
 Rope Green Medical Centre,0,0,0,0,0,0,1,0,0,0,0,0,1
 Rose Builders and Contractors Ltd,0,0,0,0,0,1,0,0,0,0,0,0,1
@@ -1242,12 +1242,12 @@ Royal Berkshire NHS Foundation Trust,0,0,0,0,0,1,0,0,0,1,2,1,5
 Royal Borough of Greenwich,0,0,0,2,0,0,0,0,0,0,1,0,3
 Royal Borough of Kensington and Chelsea,0,0,0,0,0,0,1,0,0,0,0,0,1
 Royal College of Anaesthetists,0,0,1,0,2,1,0,0,2,1,1,4,12
-Royal College of Emergency Medicine,0,1,0,0,2,0,0,1,1,0,4,2,11
+Royal College of Emergency Medicine,0,1,0,0,2,0,0,1,1,0,4,3,12
 Royal College of General Practitioners,2,0,0,1,2,0,1,1,4,2,2,3,18
 Royal College of Midwives,0,0,0,0,1,0,0,0,0,1,1,0,3
 Royal College of Nursing,1,0,0,0,0,0,1,2,0,1,0,2,7
 Royal College of Obstetricians and Gynaecologists,0,0,0,3,2,1,1,4,1,1,4,1,18
-Royal College of Paediatrics and Child Health,0,1,0,1,1,0,1,1,3,1,6,2,17
+Royal College of Paediatrics and Child Health,0,1,0,1,1,0,1,1,3,1,6,3,18
 Royal College of Pathologists,0,1,0,0,0,1,3,0,0,0,1,0,6
 Royal College of Physicians,0,0,0,1,0,1,1,1,2,0,2,1,9
 Royal College of Psychiatrists,0,0,0,1,1,2,0,0,1,6,4,1,16
@@ -1256,7 +1256,7 @@ Royal College of Surgeons,0,0,0,0,2,1,1,1,0,1,1,1,8
 Royal Cornwall Hospitals NHS Trust,1,0,0,1,0,0,0,1,0,0,4,1,8
 Royal Devon University Healthcare Foundation Trust,0,0,0,0,1,0,1,0,0,0,1,0,3
 Royal Docks Medical Practice,0,0,0,0,0,0,1,0,0,0,0,0,1
-Royal Free London NHS Foundation Trust,0,1,1,1,1,2,0,1,2,0,0,0,9
+Royal Free London NHS Foundation Trust,0,1,1,1,1,2,0,1,2,0,0,1,10
 Royal Institute of British Architects,0,0,0,0,0,0,1,0,0,0,0,0,1
 Royal Life Saving Society UK,0,0,0,0,1,0,0,0,0,0,0,0,1
 Royal Mail,0,0,0,0,0,0,0,1,0,0,0,0,1
@@ -1279,7 +1279,6 @@ Rushcliffe Clinical Commissioning Group,0,0,0,0,0,0,0,1,0,0,0,0,1
 S & J Transport,0,0,0,0,0,0,1,0,0,0,0,0,1
 SC Johnson and Son,0,0,0,0,1,0,0,0,0,0,0,0,1
 SE Galvanisers,0,0,0,0,0,0,0,1,0,0,0,0,1
-SE London Integrated Care Board,0,0,0,0,0,0,0,0,0,0,0,1,1
 SMA Medical Practice,0,0,0,0,0,0,0,0,1,0,0,0,1
 Safeguarding Adults Board,1,0,0,0,0,0,0,0,0,0,0,0,1
 Safehands Ltd,0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -1339,12 +1338,11 @@ South East Fire and Rescue,1,0,0,0,0,0,0,0,0,0,0,0,1
 South Essex NHS Partnership,0,0,0,0,0,0,0,0,0,0,0,1,1
 South London Islamic Centre,0,0,0,0,0,1,0,0,0,0,0,0,1
 South London and Maudsley NHS Foundation Trust,1,1,0,2,2,3,0,2,0,0,0,2,13
-South Tees Hospitals NHS Foundation Trust,0,0,0,1,0,0,1,0,0,0,0,0,2
+South Tees Hospitals NHS Foundation Trust,0,0,0,1,0,0,1,0,0,0,0,1,3
 South Tyneside Council,0,0,0,0,0,0,0,0,0,0,1,1,2
 South Tyneside and Sunderland NHS Foundation Trust,0,0,2,0,1,1,1,0,1,0,0,0,6
 South Wales Fire and Rescue Service,0,0,0,0,1,0,0,0,0,0,0,0,1
 South Wales Police,0,0,0,1,0,0,1,2,0,1,1,0,6
-South Wales Trunk Road Agent,0,0,0,0,0,0,0,0,1,0,0,0,1
 South Warwickshire University NHS Foundation Trust,0,0,0,0,0,0,1,1,1,0,1,1,5
 South West London and St George’s Mental Health NHS Trust,0,0,0,1,1,1,0,1,0,1,1,2,8
 South West Yorkshire Partnership NHS Foundation Trust,0,0,0,0,1,2,0,0,3,3,0,1,10
@@ -1393,7 +1391,7 @@ Student Roost,0,0,0,0,0,0,0,0,0,0,0,1,1
 SubCPartner,0,0,2,0,0,0,0,0,0,0,0,0,2
 Suffolk Constabulary,0,0,0,0,0,0,0,0,1,0,0,1,2
 Suffolk County Council,0,0,0,0,0,0,2,1,1,2,0,1,7
-Suffolk Safeguarding Partnership,0,1,0,0,0,0,0,1,0,0,0,0,2
+Suffolk Safeguarding Partnership,0,0,0,0,0,0,0,1,0,0,0,0,1
 Sunderland City Council,0,0,0,0,1,0,0,1,0,0,1,0,3
 Sunlight Care Group,0,0,0,0,0,0,0,0,0,0,0,1,1
 Sunnyside Nursing Home,0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -1425,17 +1423,17 @@ TPP LTD,0,0,0,0,0,0,0,0,0,0,1,0,1
 TUI Group,0,0,0,0,0,0,0,1,0,0,0,0,1
 Tadworth Grove Care Home,0,0,0,0,0,0,0,0,0,1,0,0,1
 Taff's Well Medical Centre,0,0,0,0,0,0,0,0,1,0,0,0,1
+Takeda UK Ltd,0,0,1,0,0,0,0,0,0,0,0,0,1
 Tameside Metropolitan Borough Council,0,0,0,1,2,0,0,0,1,0,0,0,4
 Tameside and Glossop Integrated Care NHS Foundation Trust,0,0,0,3,3,1,4,3,2,5,2,1,24
 Tandridge District Council,0,0,0,1,1,0,0,0,0,0,0,0,2
 Tanglewood Cloverleaf Care Home,0,0,0,0,0,0,0,0,0,1,0,0,1
 Taunton Couthy Hall,1,0,0,0,0,0,0,0,0,0,0,0,1
-"Tees, Esk and Wear Valley NHS Foundation Trust",3,0,0,2,2,0,0,1,1,2,5,1,17
+"Tees, Esk and Wear Valley NHS Foundation Trust",3,0,0,2,2,0,0,1,1,2,5,2,18
 Templemore Care Home,0,0,0,1,0,0,0,0,0,0,0,0,1
 Tendring District Council,0,0,0,0,0,0,0,1,0,0,0,0,1
 Tesco PLC,0,0,0,1,0,0,0,0,0,1,0,1,3
 Tettenhall Medical Practice,0,0,0,0,0,0,0,1,0,0,0,0,1
-Teva UK Ltd,0,0,1,0,0,0,0,0,0,0,0,0,1
 Thames Valley Police,0,0,0,0,0,0,2,0,0,1,0,2,5
 Thames Water,0,0,0,0,0,0,0,0,0,1,0,0,1
 The Alexandra Court Care Home,0,0,1,0,0,0,0,0,0,0,0,0,1
@@ -1458,9 +1456,7 @@ The Difficult Airway Society,0,0,0,0,1,0,0,0,0,0,0,0,1
 The Droylsden Road Family GP Practice,0,0,0,0,0,0,0,0,1,0,0,0,1
 The Evergreen Surgery,0,0,0,0,0,0,0,0,0,0,0,1,1
 The Financial Conduct Authority,0,0,0,0,0,1,0,0,0,0,0,0,1
-The General Practitioners Committee,0,0,0,0,0,0,0,0,0,0,0,1,1
 The Glass and Glazing Federation,0,0,0,0,1,0,0,0,0,0,0,0,1
-The Governor HMP Rochester,0,0,0,0,0,0,0,0,0,0,0,1,1
 The Grange Care Centre,0,0,0,0,1,0,0,0,0,0,0,0,1
 The Grove Medical Centre,1,0,0,0,0,0,0,0,0,0,0,0,1
 The Hub,0,0,0,0,1,0,0,0,0,0,0,0,1
@@ -1471,19 +1467,18 @@ The Limehouse Practice,0,0,0,0,0,0,0,0,0,0,1,0,1
 The Limes Care Home,0,0,0,0,0,0,0,0,0,0,0,1,1
 The Limes Sheltered Housing,0,0,0,0,0,0,0,1,0,0,0,0,1
 The Manor Residential and Nursing Care Home,1,0,0,0,0,0,0,0,0,0,0,0,1
-The Ministry of Defence,0,0,0,0,0,0,0,0,0,0,0,1,1
-The Ministry of Defence Police,0,0,0,0,0,0,0,0,0,0,0,1,1
 The Moat Surgery,0,0,0,0,1,0,0,0,0,0,0,0,1
 The Monkstone House Care Home,1,0,0,0,0,0,0,0,0,0,0,0,1
 The Motor Ombudsman,0,0,0,0,0,0,0,0,0,0,0,1,1
 The Oaks and Woodcroft Care Home,0,0,0,0,0,0,0,0,0,0,1,0,1
 "The Office for Standards in Education, Children Services and Skills",0,0,0,0,1,0,0,0,0,0,0,0,1
-The Park Surgery,0,0,0,0,0,0,0,0,0,0,0,1,1
+The Park Surgery Heanor,0,0,0,0,0,0,0,0,0,0,0,1,1
 The Peak District National Park Authority,1,0,0,0,0,0,0,0,0,0,0,0,1
 The Peligoni Club,0,0,0,0,0,0,1,0,0,0,0,0,1
 The Phonix Partnership,0,0,0,0,0,0,0,0,0,0,0,1,1
 The Pipeline Industries Guild,0,0,0,0,0,0,0,0,0,0,0,1,1
 The Practice,1,0,0,0,0,0,0,0,0,0,0,0,1
+The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,0,0,1,0,1,2,4,2,1,2,2,1,16
 The Range UK,0,0,0,0,0,0,0,0,0,0,1,0,1
 The Right Honourable Jeremy Hunt MP,0,0,0,1,0,0,0,0,0,0,0,0,1
 The Right Honourable Theresa May MP,0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -1491,7 +1486,6 @@ The Roundwood Medical Centre,0,0,0,0,0,0,1,0,0,0,0,0,1
 The Samaritans,0,0,0,1,0,0,0,0,0,0,0,0,1
 The Scout Association,0,0,0,0,0,0,0,1,0,0,0,1,2
 The Secretary of State for Housing,0,0,0,0,0,0,1,0,0,0,0,0,1
-"The Secretary of State for Science, Innovation & Technology",0,0,0,0,0,0,0,0,0,0,0,1,1
 The Security Service,0,0,0,0,0,0,1,0,1,0,0,0,2
 The Showmen’s Guild of Great Britain,0,0,0,1,0,0,0,0,0,0,0,0,1
 The Spindles Town Square Shopping Centre,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -1538,6 +1532,7 @@ UK Active,0,0,0,0,0,1,0,0,0,0,0,0,1
 UK Care Services,0,0,0,0,0,0,0,0,0,0,1,0,1
 UK Cleaning Product Industry Association,0,0,0,0,0,0,0,0,0,0,0,1,1
 UK Fatal Anaphylaxis Registry,0,0,0,0,0,0,0,0,0,0,1,0,1
+UK Foundation Programme,0,0,0,0,0,0,0,0,1,0,0,0,1
 UK Health Security Agency,0,0,0,0,0,0,0,0,0,1,3,0,4
 UK Home Care,0,0,0,0,1,0,0,0,0,0,0,0,1
 UK Kidney Association,0,0,0,0,2,0,0,0,0,0,0,0,2
@@ -1551,13 +1546,14 @@ Unilink Software Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1
 United Children’s Services,0,0,0,0,0,0,0,0,0,0,0,1,1
 United Lincolnshire Hospitals NHS Trust,2,1,0,1,3,1,1,1,1,1,2,0,14
 United Response,0,0,0,1,0,0,0,0,0,0,0,0,1
-Unity Insurance Services: Scouting and Scout Groups Insurance,0,0,0,0,0,0,0,0,0,0,0,1,1
+Unity Insurance Services,0,0,0,0,0,0,0,0,0,0,0,1,1
 Unity MAT,0,0,0,0,0,0,0,0,0,0,1,0,1
 Universities UK,0,0,0,0,0,0,0,0,0,0,0,1,1
 Universities and Colleges Admissions Service,0,0,0,0,0,0,1,0,0,1,0,0,2
 University College London Hospitals NHS Foundation Trust,0,4,0,0,2,0,0,1,0,0,2,0,9
-University Health Board,0,1,0,0,0,0,0,0,0,0,0,0,1
+University Health Board,0,0,2,0,4,1,1,0,0,0,0,0,8
 University Hospital Southampton NHS Foundation Trust,2,0,0,1,1,0,0,1,0,1,0,0,6
+University Hospitals Birmingham,0,0,0,0,0,0,0,0,0,0,0,1,1
 University Hospitals Birmingham NHS Foundation Trust,1,0,1,2,2,1,0,1,1,0,3,5,17
 University Hospitals Bristol and Weston NHS Foundation Trust,0,0,0,0,1,0,1,0,0,1,2,0,5
 University Hospitals Coventry and Warwickshire NHS Trust,1,0,0,1,0,1,1,0,0,0,1,0,5
@@ -1597,7 +1593,7 @@ Viatris UK Healthcare Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1
 Village Nursing and Care Home,0,0,0,1,0,0,0,0,0,0,0,0,1
 Virgin Care,0,0,1,0,0,3,0,0,0,0,0,0,4
 Volvo Group UK Limited,0,0,0,0,1,0,0,0,0,0,0,0,1
-Voyage Care Cloverdale,0,0,0,0,0,0,0,0,0,0,0,1,1
+Voyage Care,0,0,0,0,0,0,0,0,0,0,0,1,1
 W E Rawson Ltd,0,0,1,0,0,0,0,0,0,0,0,0,1
 W M Morrisons PLC,0,0,0,1,0,0,0,0,0,0,0,0,1
 WISH,0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -1623,7 +1619,7 @@ Wells Road Surgery,0,0,0,0,1,0,0,0,0,0,0,0,1
 Wellsky,0,0,0,0,0,0,0,1,0,0,0,0,1
 Welsh Ambulance Services NHS Trust,2,0,1,5,4,7,6,2,0,6,9,3,45
 Welsh Cycling,0,0,0,0,0,1,0,0,0,0,0,0,1
-Welsh Government,0,0,0,4,5,1,3,0,1,0,0,2,16
+Welsh Government,0,0,0,4,5,2,3,0,1,0,0,4,19
 Wessex Water Services Limited,0,0,0,0,0,0,0,0,0,0,0,1,1
 West Hertfordshire Hospitals NHS Trust,0,1,0,0,1,0,0,1,0,0,0,1,4
 West London Alliance,0,0,0,0,0,0,0,0,0,0,1,0,1
@@ -1664,7 +1660,7 @@ Wirral University Teaching Hospital NHS Foundation Trust,0,0,0,0,1,0,0,0,0,0,1,0
 Wood Street Medical Centre,0,0,0,0,0,0,0,0,0,0,1,0,1
 Woodley Centre Surgery,0,0,0,0,1,0,0,0,0,0,0,0,1
 Woolwich Station Medical Centre,0,0,0,0,0,0,0,1,0,0,0,0,1
-Worcestershire Acute Hospitals NHS Trust,1,0,1,1,3,2,5,0,1,1,2,3,20
+Worcestershire Acute Hospitals NHS Trust,0,0,1,0,1,0,0,0,1,1,2,3,9
 Worcestershire County Council,0,0,0,0,0,1,0,0,0,1,0,0,2
 Worthing Homes,0,0,0,0,0,0,1,0,0,0,0,0,1
 Wrexham County Borough Council,0,0,0,0,1,0,0,0,1,1,0,0,3
@@ -1672,11 +1668,12 @@ Wrexham County Borough Council,0,0,0,0,1,0,0,0,1,1,0,0,3
 Wychall Lane Surgery,0,0,0,1,0,0,0,0,0,0,0,0,1
 Wychavon District Council,0,0,0,0,0,0,0,0,0,0,1,1,2
 Wye Valley NHS Trust,0,0,0,0,0,0,1,1,0,1,2,1,6
+York Road Pharmacy,0,0,0,0,0,0,0,0,0,0,0,1,1
 Yorkshire Ambulance Service NHS Trust,0,0,1,1,4,0,1,1,0,0,1,1,10
 Yorkshire Care Equipment,0,0,0,0,1,0,0,0,0,0,0,0,1
 Yorkshire Water,0,0,0,0,1,0,0,0,1,0,0,0,2
 Your Health Limited,0,0,1,0,0,0,0,0,0,0,0,0,1
 Your Housing,0,0,0,0,1,0,0,0,0,0,0,0,1
-Youth Justice Board for England and Wales,0,0,0,0,0,0,0,0,0,1,0,0,1
+Youth Justice Board,0,0,0,0,0,0,0,0,0,1,0,0,1
 Zelltec Limited,0,0,1,0,0,0,0,0,0,0,0,0,1
 Zinnia Healthcare Limited,0,0,0,0,0,1,0,0,0,0,0,0,1
