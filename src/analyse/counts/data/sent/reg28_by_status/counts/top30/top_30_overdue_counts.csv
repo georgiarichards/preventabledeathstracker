@@ -1,31 +1,31 @@
-sent_to,no. overdue responses,no. partial responses
-Department of Health and Social Care,122,125
-NHS England,114,100
-Care Quality Commission,38,45
-HM Prison and Probation Service,27,33
-Ministry of Justice,28,31
-Home Office,16,29
-National Institute for Health and Care Excellence,22,17
-NHS Greater Manchester Integrated Care Board,23,14
-Department for Transport,19,18
-National Police Chiefs’ Council,10,22
-Barts Health NHS Trust,20,10
-National Highways,22,7
-Health and Safety Executive,13,14
-Medicines and Healthcare Products Regulatory Agency,12,14
-Metropolitan Police Service,13,10
-Association of Ambulance Chief Executives,6,15
-College of Policing,7,14
-Welsh Ambulance Services NHS Trust,13,8
-General Medical Council,6,14
-Department for Education,9,11
-Pennine Care NHS Foundation Trust,11,9
-Practice Plus Group,1,18
-Greater Manchester Mental Health NHS Foundation Trust,12,6
-Manchester University NHS Foundation Trust,16,2
-Essex Partnership University NHS Foundation Trust,13,5
-Central and North West London NHS Foundation Trust,9,8
-University Hospitals Sussex NHS Foundation Trust,11,5
-Betsi Cadwaladr University Health Board,13,3
-REDACTED,11,4
-North East London NHS Foundation Trust,11,4
+sent_to,no. overdue responses,no. partial responses,% overdue
+Birmingham Women's and Children's NHS Foundation Trust,5,2,100.0
+Avon Fire and Rescue Services,3,2,100.0
+HM Prison Hewell,1,4,100.0
+London Borough of Lewisham,1,4,100.0
+NHS Lincolnshire Integrated Care Board,4,1,100.0
+Office of Rail and Road,2,3,100.0
+South Western Railway,2,3,100.0
+Walsall Council,1,4,100.0
+Cambridgeshire and Peterborough NHS Foundation Trust,4,0,100.0
+Chesterfield Royal Hospital NHS Foundation Trust,3,1,100.0
+HM Prison Belmarsh,0,4,100.0
+Mitie Group,4,0,100.0
+"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",2,2,100.0
+North Wales Local Authorities,3,1,100.0
+Sutton Council,3,1,100.0
+BT,2,1,100.0
+Brighton and Hove City Council,1,2,100.0
+Cheshire Constabulary,2,1,100.0
+Derbyshire Community Health Services NHS Foundation Trust,2,1,100.0
+East Sussex Healthcare NHS Trust,2,1,100.0
+Forward Trust,1,2,100.0
+HM Prison Bedford,2,1,100.0
+HM Prison Winchester,1,2,100.0
+Harbour Healthcare Limited,2,1,100.0
+Lancashire Constabulary,1,2,100.0
+Manchester City Council,1,2,100.0
+National Trading Standards,0,3,100.0
+Royal Borough of Greenwich,0,3,100.0
+Royal Surrey NHS Foundation Trust,1,2,100.0
+Southampton City Council,3,0,100.0

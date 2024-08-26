@@ -43,11 +43,13 @@ def process_overdue_df(_main_df: pd.DataFrame) -> None:
     _df_overdue.loc[:, 'Status'] = _df_overdue["Status"].apply(create_badge)
     _df_overdue.to_csv(f"{PATH}/data/sent/reg28_by_status/overdue_with_badges.csv", index=False)
     counts = recipient_counts.copy()
-    counts = counts[['sent_to', 'no. partial responses', 'no. overdue responses']]
+    counts = counts[['sent_to', 'no. partial responses', 'no. overdue responses', 'no. PFDs']]
     counts.loc[:, 'sum'] = counts['no. partial responses'] + counts['no. overdue responses']
+    counts['% overdue'] = round(
+        (counts['sum'] / counts['no. PFDs']) * 100, 0)
     filtered_counts = counts[(counts['no. partial responses'] != 0) | (counts['no. overdue responses'] != 0)]
-    sorted_df = filtered_counts.sort_values(by='sum', ascending=False)
-    sorted_df = sorted_df[['sent_to', 'no. overdue responses', 'no. partial responses']]
+    sorted_df = filtered_counts.sort_values(by=['% overdue', 'sum', 'sent_to'], ascending=[False, False, True])
+    sorted_df = sorted_df[['sent_to', 'no. overdue responses', 'no. partial responses', '% overdue']]
     sorted_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/overdue_counts.csv", index=False)
     top_30_df = sorted_df.head(30)
     top_30_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/top30/top_30_overdue_counts.csv", index=False)
