@@ -12,6 +12,7 @@ recipient_counts = pd.read_csv(f"{PATH}/data/sent/rcpt-statuses.csv")
 
 def process_completed_df(_main_df: pd.DataFrame) -> None:
     _df_completed = _main_df[(_main_df['Status'] == 'completed')]
+    _df_completed = _df_completed.sort_values(by='Sent to count', ascending=False)
     _df_completed.to_csv(f"{PATH}/data/sent/reg28_by_status/completed.csv", index=False)
     _df_completed.loc[:, 'Status'] = _df_completed["Status"].apply(create_badge)
     _df_completed.to_csv(f"{PATH}/data/sent/reg28_by_status/completed_with_badges.csv", index=False)
