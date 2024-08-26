@@ -74,9 +74,10 @@ def process_pending_df(_main_df: pd.DataFrame) -> None:
     _df_pending.to_csv(f"{PATH}/data/sent/reg28_by_status/pending.csv", index=False)
     _df_pending.loc[:, 'Status'] = _df_pending["Status"].apply(create_badge)
     _df_pending.to_csv(f"{PATH}/data/sent/reg28_by_status/pending_with_badges.csv", index=False)
+
     counts = recipient_counts.copy()
     counts = counts[['sent_to', 'no. pending responses']]
-    sorted_df = counts.sort_values(by='no. pending responses', ascending=False)
+    sorted_df = counts.sort_values(by=['no. pending responses', 'sent_to'], ascending=[False, True])
     filtered_counts = sorted_df[sorted_df['no. pending responses'] != 0]
     filtered_counts.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/pending_counts.csv", index=False)
     top_30_df = filtered_counts.head(30)
