@@ -7,6 +7,7 @@ from create_badge import create_badge
 
 PATH = os.path.dirname(__file__)
 ALL_DF_PATH = os.path.abspath(f"{PATH}/data/sent/database.csv")
+recipient_counts = pd.read_csv(f"{PATH}/data/sent/rcpt-statuses.csv")
 
 
 def process_completed_df(_main_df: pd.DataFrame) -> None:
@@ -14,6 +15,13 @@ def process_completed_df(_main_df: pd.DataFrame) -> None:
     _df_completed.to_csv(f"{PATH}/data/sent/reg28_by_status/completed.csv", index=False)
     _df_completed.loc[:, 'Status'] = _df_completed["Status"].apply(create_badge)
     _df_completed.to_csv(f"{PATH}/data/sent/reg28_by_status/completed_with_badges.csv", index=False)
+    counts = recipient_counts.copy()
+    counts = counts[['sent_to', 'no. complete responses']]
+    filtered_counts = counts[counts['no. complete responses'] != 0]
+    sorted_df = filtered_counts.sort_values(by='no. complete responses', ascending=False)
+    sorted_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/completed_counts.csv", index=False)
+    top_30_df = sorted_df.head(30)
+    top_30_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/top30/top_30_completed_counts.csv", index=False)
 
 
 def process_overdue_df(_main_df: pd.DataFrame) -> None:
@@ -29,6 +37,15 @@ def process_overdue_df(_main_df: pd.DataFrame) -> None:
     _df_overdue.to_csv(f"{PATH}/data/sent/reg28_by_status/overdue.csv", index=False)
     _df_overdue.loc[:, 'Status'] = _df_overdue["Status"].apply(create_badge)
     _df_overdue.to_csv(f"{PATH}/data/sent/reg28_by_status/overdue_with_badges.csv", index=False)
+    counts = recipient_counts.copy()
+    counts = counts[['sent_to', 'no. partial responses', 'no. overdue responses']]
+    counts.loc[:, 'sum'] = counts['no. partial responses'] + counts['no. overdue responses']
+    filtered_counts = counts[(counts['no. partial responses'] != 0) | (counts['no. overdue responses'] != 0)]
+    sorted_df = filtered_counts.sort_values(by='sum', ascending=False)
+    sorted_df = sorted_df[['sent_to', 'no. overdue responses', 'no. partial responses']]
+    sorted_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/overdue_counts.csv", index=False)
+    top_30_df = sorted_df.head(30)
+    top_30_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/top30/top_30_overdue_counts.csv", index=False)
 
 
 def change_col_position(col_name: str, df: pd.DataFrame) -> pd.DataFrame:
@@ -52,6 +69,13 @@ def process_pending_df(_main_df: pd.DataFrame) -> None:
     _df_pending.to_csv(f"{PATH}/data/sent/reg28_by_status/pending.csv", index=False)
     _df_pending.loc[:, 'Status'] = _df_pending["Status"].apply(create_badge)
     _df_pending.to_csv(f"{PATH}/data/sent/reg28_by_status/pending_with_badges.csv", index=False)
+    counts = recipient_counts.copy()
+    counts = counts[['sent_to', 'no. pending responses']]
+    sorted_df = counts.sort_values(by='no. pending responses', ascending=False)
+    filtered_counts = sorted_df[sorted_df['no. pending responses'] != 0]
+    filtered_counts.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/pending_counts.csv", index=False)
+    top_30_df = filtered_counts.head(30)
+    top_30_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/top30/top_30_pending_counts.csv", index=False)
 
 
 main_df = pd.read_csv(ALL_DF_PATH)
