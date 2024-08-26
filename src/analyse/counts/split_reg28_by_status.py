@@ -38,18 +38,18 @@ def process_overdue_df(_main_df: pd.DataFrame) -> None:
     _df_overdue.loc[:, 'Days overdue'] = _df_overdue['Days overdue'].apply(lambda x: x.days - 56)
     _df_overdue = change_col_position("Days overdue", _df_overdue)
     _df_overdue.loc[:, 'Date of report'] = _df_overdue['Date of report'].apply(lambda x: x.strftime("%d/%m/%Y"))
-    _df_overdue = _df_overdue.sort_values(by='Days overdue', ascending=False)
+    _df_overdue = _df_overdue.sort_values(by=['Days overdue', 'Sent to count'], ascending=[False, False])
     _df_overdue.to_csv(f"{PATH}/data/sent/reg28_by_status/overdue.csv", index=False)
     _df_overdue.loc[:, 'Status'] = _df_overdue["Status"].apply(create_badge)
     _df_overdue.to_csv(f"{PATH}/data/sent/reg28_by_status/overdue_with_badges.csv", index=False)
     counts = recipient_counts.copy()
-    counts = counts[['sent_to', 'no. partial responses', 'no. overdue responses', 'no. PFDs']]
-    counts.loc[:, 'sum'] = counts['no. partial responses'] + counts['no. overdue responses']
+    counts = counts[['sent_to', 'no. overdue responses', 'no. PFDs']]
+    # counts.loc[:, 'sum'] = counts['no. partial responses'] + counts['no. overdue responses']
     counts['% overdue'] = round(
-        (counts['sum'] / counts['no. PFDs']) * 100, 0)
-    filtered_counts = counts[(counts['no. partial responses'] != 0) | (counts['no. overdue responses'] != 0)]
-    sorted_df = filtered_counts.sort_values(by=['% overdue', 'sum', 'sent_to'], ascending=[False, False, True])
-    sorted_df = sorted_df[['sent_to', 'no. overdue responses', 'no. partial responses', '% overdue']]
+        (counts['no. overdue responses'] / counts['no. PFDs']) * 100, 0)
+    filtered_counts = counts[counts['no. overdue responses'] != 0]
+    sorted_df = filtered_counts.sort_values(by=['% overdue', 'no. overdue responses', 'sent_to'], ascending=[False, False, True])
+    sorted_df = sorted_df[['sent_to', 'no. overdue responses', '% overdue']]
     sorted_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/overdue_counts.csv", index=False)
     top_30_df = sorted_df.head(30)
     top_30_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/top30/top_30_overdue_counts.csv", index=False)
