@@ -22,7 +22,7 @@ def process_completed_df(_main_df: pd.DataFrame) -> None:
     filtered_counts = filtered_counts.copy()
     filtered_counts['% completed'] = round((filtered_counts['no. complete responses'] / filtered_counts['no. PFDs']) * 100, 0)
     filtered_counts = filtered_counts[['sent_to', 'no. complete responses', '% completed']]
-    sorted_df = filtered_counts.sort_values(by=['% completed', 'no. complete responses'], ascending=[False, False])
+    sorted_df = filtered_counts.sort_values(by=['% completed', 'no. complete responses', 'sent_to'], ascending=[False, False, True])
     sorted_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/completed_counts.csv", index=False)
     top_30_df = sorted_df.head(30)
     top_30_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/top30/top_30_completed_counts.csv", index=False)
