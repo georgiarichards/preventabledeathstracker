@@ -15,10 +15,14 @@ def process_completed_df(_main_df: pd.DataFrame) -> None:
     _df_completed.to_csv(f"{PATH}/data/sent/reg28_by_status/completed.csv", index=False)
     _df_completed.loc[:, 'Status'] = _df_completed["Status"].apply(create_badge)
     _df_completed.to_csv(f"{PATH}/data/sent/reg28_by_status/completed_with_badges.csv", index=False)
+
     counts = recipient_counts.copy()
-    counts = counts[['sent_to', 'no. complete responses']]
+    counts = counts[['sent_to', 'no. complete responses', 'no. PFDs']]
     filtered_counts = counts[counts['no. complete responses'] != 0]
-    sorted_df = filtered_counts.sort_values(by='no. complete responses', ascending=False)
+    filtered_counts = filtered_counts.copy()
+    filtered_counts['% completed'] = round((filtered_counts['no. complete responses'] / filtered_counts['no. PFDs']) * 100, 0)
+    filtered_counts = filtered_counts[['sent_to', 'no. complete responses', '% completed']]
+    sorted_df = filtered_counts.sort_values(by='% completed', ascending=False)
     sorted_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/completed_counts.csv", index=False)
     top_30_df = sorted_df.head(30)
     top_30_df.to_csv(f"{PATH}/data/sent/reg28_by_status/counts/top30/top_30_completed_counts.csv", index=False)
