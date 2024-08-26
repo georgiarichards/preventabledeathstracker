@@ -69,7 +69,7 @@ def process_pending_df(_main_df: pd.DataFrame) -> None:
     _df_pending.loc[:, 'Days left'] = _df_pending['Days left'].apply(lambda x: -(x.days - 56))
     _df_pending = change_col_position("Days left", _df_pending)
     _df_pending.loc[:, 'Date of report'] = _df_pending['Date of report'].apply(lambda x: x.strftime("%d/%m/%Y"))
-    _df_pending = _df_pending.sort_values(by='Days left', ascending=True)
+    _df_pending = _df_pending.sort_values(by=['Days left', 'Sent to count'], ascending=[True, False])
     _df_pending.to_csv(f"{PATH}/data/sent/reg28_by_status/pending.csv", index=False)
     _df_pending.loc[:, 'Status'] = _df_pending["Status"].apply(create_badge)
     _df_pending.to_csv(f"{PATH}/data/sent/reg28_by_status/pending_with_badges.csv", index=False)
