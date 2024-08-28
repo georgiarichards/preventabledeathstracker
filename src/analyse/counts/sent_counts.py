@@ -523,7 +523,8 @@ new_types.index.rename("Addressed to", inplace=True)
 new_types = new_types[["% completed", "completed", "partial", "overdue", "pending"]]
 result = pd.merge(sent_to_yearly, new_types, on='Addressed to', how='inner')
 result.rename(columns={"Total no. PFDs": "Total"}, inplace=True)
-result.sort_values(by=["% completed", "Total"], ascending=[False, False], inplace=True)
+# result.sort_values(by=["% completed", "Total"], ascending=[False, False], inplace=True)
+result.sort_values(by="Total", ascending=False, inplace=True)
 result.to_csv(f"{DATA_PATH}/sent/sent_to_yearly.csv")
 
 top_types_with_partial = sent_types_with_partial.loc[top_counts.index]
