@@ -141,6 +141,7 @@ sent_to_yearly = exploded['sent_to'].groupby(exploded['year']).value_counts().un
 sent_to_yearly = sent_to_yearly.transpose()
 sent_to_yearly.index.name = 'Addressed to'
 sent_to_yearly['Total no. PFDs'] = sent_to_yearly.sum(axis=1)
+
 sent_to_yearly.to_csv(f"{DATA_PATH}/sent/sent_to_yearly.csv")
 
 sent_types = exploded.value_counts(["sent_to", "status"]).unstack(fill_value=0)
@@ -148,6 +149,14 @@ sent_types["no. PFDs"] = exploded["sent_to"].value_counts()
 sent_types = sent_types[["no. PFDs", "overdue", "pending", "received"]].sort_values("no. PFDs", ascending=False)
 sent_types["% received"] = sent_types["received"] / sent_types["no. PFDs"] * 100
 sent_types["% received"] = sent_types["% received"].apply(lambda el: int(round(el, 0)))
+
+sent_types_with_partial = exploded.value_counts(["sent_to", "response status"]).unstack(fill_value=0)
+sent_types_with_partial["no. PFDs"] = exploded["sent_to"].value_counts()
+sent_types_with_partial = sent_types_with_partial[["no. PFDs", "overdue", "pending", "completed", "partial"]].sort_values("no. PFDs", ascending=False)
+sent_types_with_partial["% completed"] = sent_types_with_partial["completed"] / sent_types["no. PFDs"] * 100
+sent_types_with_partial["% completed"] = sent_types_with_partial["% completed"].apply(lambda el: int(round(el, 0)))
+
+
 
 sent_counts = exploded.value_counts("sent_to")
 sent_years = exploded.value_counts(["year", "status"]).unstack(fill_value=0)
@@ -507,6 +516,17 @@ top_types.to_csv(f"{DATA_PATH}/sent/top-sent-types.csv")
 sent_years.to_csv(f"{DATA_PATH}/sent/sent-types-years.csv")
 status_years.to_csv(f"{DATA_PATH}/sent/status-years.csv")
 exploded.to_csv(f"{DATA_PATH}/sent/statuses.csv", index=False)
+
+
+new_types = sent_types_with_partial.copy()
+new_types.index.rename("Addressed to", inplace=True)
+new_types = new_types[["overdue", "pending", "completed", "partial"]]
+result = pd.merge(sent_to_yearly, new_types, on='Addressed to', how='inner')
+result.sort_values(by="Total no. PFDs", ascending=False, inplace=True)
+result.to_csv(f"{DATA_PATH}/sent/sent_to_yearly.csv")
+
+top_types_with_partial = sent_types_with_partial.loc[top_counts.index]
+top_types_with_partial.to_csv(f"{DATA_PATH}/sent/top-sent-types-with_partial.csv")
 
 statuses["Date of report"] = pd.to_datetime(statuses["Date of report"], format="%d/%m/%Y")
 statuses.sort_values(by="Date of report", inplace=True, ascending=False)
