@@ -520,9 +520,10 @@ exploded.to_csv(f"{DATA_PATH}/sent/statuses.csv", index=False)
 
 new_types = sent_types_with_partial.copy()
 new_types.index.rename("Addressed to", inplace=True)
-new_types = new_types[["overdue", "pending", "completed", "partial"]]
+new_types = new_types[["% completed", "completed", "partial", "overdue", "pending"]]
 result = pd.merge(sent_to_yearly, new_types, on='Addressed to', how='inner')
 result.sort_values(by="Total no. PFDs", ascending=False, inplace=True)
+result.rename(columns={"Total no. PFDs": "Total"}, inplace=True)
 result.to_csv(f"{DATA_PATH}/sent/sent_to_yearly.csv")
 
 top_types_with_partial = sent_types_with_partial.loc[top_counts.index]
