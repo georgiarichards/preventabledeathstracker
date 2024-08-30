@@ -1,6 +1,6 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,16,5,13,46,31,50,48,46,64,77,98,82,576,54,309,125,122,20
-NHS England,4,4,8,34,26,37,44,24,40,46,86,67,420,46,195,100,115,10
+Department of Health and Social Care,16,5,13,46,31,50,48,46,64,77,98,82,576,54,309,125,126,16
+NHS England,4,4,8,34,26,37,44,24,40,46,86,67,420,46,195,100,116,9
 Care Quality Commission,9,1,3,15,20,11,10,10,18,11,12,13,133,37,49,45,38,1
 HM Prison and Probation Service,2,0,8,12,12,10,24,5,7,6,17,13,116,46,53,33,27,3
 NHS Greater Manchester Integrated Care Board,0,1,1,1,6,4,15,12,20,11,10,10,91,57,52,14,24,1
@@ -15,7 +15,7 @@ Metropolitan Police Service,2,0,2,5,3,6,6,5,5,7,6,4,51,51,26,10,13,2
 Health and Safety Executive,4,0,2,3,5,4,8,1,4,3,9,4,47,38,18,14,13,2
 National Police Chiefs’ Council,1,0,0,2,2,2,8,2,11,3,10,5,46,24,11,22,10,3
 Welsh Ambulance Services NHS Trust,2,0,1,5,4,7,6,2,0,6,9,3,45,53,24,8,13,0
-Medicines and Healthcare Products Regulatory Agency,0,2,0,6,4,5,6,5,3,3,6,4,44,36,16,14,12,2
+Medicines and Healthcare Products Regulatory Agency,0,2,0,6,4,5,6,5,3,3,6,4,44,36,16,14,14,0
 University Hospitals Sussex NHS Foundation Trust,1,0,1,11,6,6,6,1,4,2,3,1,42,62,26,5,11,0
 Pennine Care NHS Foundation Trust,2,0,1,4,5,7,8,5,1,2,5,2,42,50,21,9,11,1
 Department for Education,1,1,0,4,1,3,8,1,4,4,5,6,38,42,16,11,9,2
@@ -42,9 +42,9 @@ Stockport NHS Foundation Trust,3,0,1,7,4,3,2,1,2,1,1,0,25,60,15,1,9,0
 Tameside and Glossop Integrated Care NHS Foundation Trust,0,0,0,3,3,1,4,3,2,5,2,1,24,62,15,4,5,0
 Aneurin Bevan University Health Board,0,0,1,1,3,2,0,2,3,3,5,3,23,57,13,3,6,1
 Nottinghamshire Healthcare NHS Foundation Trust,0,0,1,4,2,0,0,0,2,3,6,5,23,61,14,3,6,0
-"Barking, Havering and Redbridge University Hospitals NHS Trust",2,0,1,0,3,0,1,2,3,3,7,1,23,52,12,2,8,1
+"Barking, Havering and Redbridge University Hospitals NHS Trust",2,0,1,0,3,0,1,2,3,3,7,1,23,52,12,2,9,0
 Oxleas NHS Foundation Trust,0,0,0,2,1,5,2,4,1,3,2,2,22,45,10,6,5,1
-Ministry of Defence,1,1,4,0,1,2,3,1,2,1,3,3,22,68,15,1,5,1
+Ministry of Defence,1,1,4,0,1,2,3,1,2,1,3,3,22,68,15,1,6,0
 NHS Birmingham and Solihull Integrated Care Board,0,0,0,1,1,7,5,0,2,1,2,2,21,71,15,3,3,0
 London Ambulance Service NHS Trust,2,0,2,2,2,2,4,3,3,0,1,0,21,48,10,7,4,0
 Cwm Taf Morgannwg University Health Board,0,1,0,1,3,3,6,1,2,2,0,2,21,48,10,3,8,0
@@ -92,7 +92,7 @@ South London and Maudsley NHS Foundation Trust,1,1,0,2,2,3,0,2,0,0,0,2,13,38,5,3
 South East Coast Ambulance Service NHS Foundation Trust,0,0,0,0,1,2,4,1,2,0,3,0,13,77,10,0,3,0
 Birmingham City Council,0,0,2,2,2,1,3,0,0,1,1,1,13,38,5,5,3,0
 Priory Group,0,0,1,2,2,0,1,2,0,1,1,3,13,46,6,2,4,1
-"Foreign, Commonwealth and Development Office",0,0,1,1,2,2,0,0,0,1,3,2,12,42,5,0,6,1
+"Foreign, Commonwealth and Development Office",0,0,1,1,2,2,0,0,0,1,3,2,12,42,5,0,7,0
 Cumbria County Council,2,0,0,3,2,0,2,1,0,2,0,0,12,58,7,0,5,0
 Department for Work and Pensions,0,0,0,2,1,1,1,0,3,1,2,1,12,50,6,4,2,0
 North Cumbria Integrated Care NHS Foundation Trust,1,0,0,0,2,1,1,1,0,2,1,3,12,50,6,2,3,1
@@ -1387,7 +1387,7 @@ Fern House Surgery,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
 Cleveland Police,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 British Society of Interventional Radiology,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 British Society for Dermatological Surgery,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
-Ministry of Defence Police,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Ministry of Defence Police,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Millbrook Healthcare Limited,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
 Mill View Nursing Home,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Military Aviation Authority,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0

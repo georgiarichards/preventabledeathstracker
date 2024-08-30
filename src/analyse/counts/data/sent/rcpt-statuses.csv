@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,576,1332,882,309,125,122,20
-NHS England,420,1087,657,195,100,115,10
+Department of Health and Social Care,576,1332,882,309,125,126,16
+NHS England,420,1087,657,195,100,116,9
 Care Quality Commission,133,373,219,49,45,38,1
 HM Prison and Probation Service,116,256,145,53,33,27,3
 NHS Greater Manchester Integrated Care Board,91,209,119,52,14,24,1
@@ -15,7 +15,7 @@ Metropolitan Police Service,51,115,84,26,10,13,2
 Health and Safety Executive,47,130,70,18,14,13,2
 National Police Chiefs’ Council,46,147,98,11,22,10,3
 Welsh Ambulance Services NHS Trust,45,89,51,24,8,13,0
-Medicines and Healthcare Products Regulatory Agency,44,117,65,16,14,12,2
+Medicines and Healthcare Products Regulatory Agency,44,117,65,16,14,14,0
 University Hospitals Sussex NHS Foundation Trust,42,60,45,26,5,11,0
 Pennine Care NHS Foundation Trust,42,87,45,21,9,11,1
 Department for Education,38,119,74,16,11,9,2
@@ -42,9 +42,9 @@ Stockport NHS Foundation Trust,25,37,19,15,1,9,0
 Tameside and Glossop Integrated Care NHS Foundation Trust,24,36,27,15,4,5,0
 Aneurin Bevan University Health Board,23,35,23,13,3,6,1
 Nottinghamshire Healthcare NHS Foundation Trust,23,41,27,14,3,6,0
-"Barking, Havering and Redbridge University Hospitals NHS Trust",23,38,21,12,2,8,1
+"Barking, Havering and Redbridge University Hospitals NHS Trust",23,38,21,12,2,9,0
 Oxleas NHS Foundation Trust,22,41,28,10,6,5,1
-Ministry of Defence,22,32,21,15,1,5,1
+Ministry of Defence,22,32,21,15,1,6,0
 NHS Birmingham and Solihull Integrated Care Board,21,64,47,15,3,3,0
 London Ambulance Service NHS Trust,21,72,50,10,7,4,0
 Cwm Taf Morgannwg University Health Board,21,35,16,10,3,8,0
@@ -92,7 +92,7 @@ South London and Maudsley NHS Foundation Trust,13,25,11,5,3,5,0
 South East Coast Ambulance Service NHS Foundation Trust,13,28,16,10,0,3,0
 Birmingham City Council,13,38,21,5,5,3,0
 Priory Group,13,26,12,6,2,4,1
-"Foreign, Commonwealth and Development Office",12,21,6,5,0,6,1
+"Foreign, Commonwealth and Development Office",12,21,6,5,0,7,0
 Cumbria County Council,12,14,12,7,0,5,0
 Department for Work and Pensions,12,28,16,6,4,2,0
 North Cumbria Integrated Care NHS Foundation Trust,12,18,14,6,2,3,1
@@ -1387,7 +1387,7 @@ Fern House Surgery,1,4,3,0,1,0,0
 Cleveland Police,1,2,1,0,1,0,0
 British Society of Interventional Radiology,1,2,1,0,1,0,0
 British Society for Dermatological Surgery,1,2,0,0,0,0,1
-Ministry of Defence Police,1,3,0,0,0,0,1
+Ministry of Defence Police,1,3,0,0,0,1,0
 Millbrook Healthcare Limited,1,1,0,0,0,1,0
 Mill View Nursing Home,1,3,0,0,0,1,0
 Military Aviation Authority,1,2,0,0,0,1,0

@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,576,219,20,337,59
-NHS England,420,173,10,237,56
+Department of Health and Social Care,576,223,16,337,59
+NHS England,420,174,9,237,56
 Care Quality Commission,133,83,1,49,37
 HM Prison and Probation Service,116,56,3,57,49
 NHS Greater Manchester Integrated Care Board,91,43,1,47,52
@@ -15,7 +15,7 @@ Metropolitan Police Service,51,27,2,22,43
 Health and Safety Executive,47,25,2,20,43
 National Police Chiefs’ Council,46,34,3,9,20
 Welsh Ambulance Services NHS Trust,45,20,0,25,56
-Medicines and Healthcare Products Regulatory Agency,44,29,2,13,30
+Medicines and Healthcare Products Regulatory Agency,44,31,0,13,30
 University Hospitals Sussex NHS Foundation Trust,42,20,0,22,52
 Pennine Care NHS Foundation Trust,42,23,1,18,43
 Department for Education,38,14,2,22,58
@@ -42,9 +42,9 @@ Stockport NHS Foundation Trust,25,11,0,14,56
 Tameside and Glossop Integrated Care NHS Foundation Trust,24,10,0,14,58
 Aneurin Bevan University Health Board,23,9,1,13,57
 Nottinghamshire Healthcare NHS Foundation Trust,23,9,0,14,61
-"Barking, Havering and Redbridge University Hospitals NHS Trust",23,10,1,12,52
+"Barking, Havering and Redbridge University Hospitals NHS Trust",23,11,0,12,52
 Oxleas NHS Foundation Trust,22,11,1,10,45
-Ministry of Defence,22,6,1,15,68
+Ministry of Defence,22,7,0,15,68
 NHS Birmingham and Solihull Integrated Care Board,21,6,0,15,71
 London Ambulance Service NHS Trust,21,10,0,11,52
 Cwm Taf Morgannwg University Health Board,21,11,0,10,48
@@ -92,7 +92,7 @@ South London and Maudsley NHS Foundation Trust,13,8,0,5,38
 South East Coast Ambulance Service NHS Foundation Trust,13,4,0,9,69
 Birmingham City Council,13,7,0,6,46
 Priory Group,13,6,1,6,46
-"Foreign, Commonwealth and Development Office",12,6,1,5,42
+"Foreign, Commonwealth and Development Office",12,7,0,5,42
 Cumbria County Council,12,5,0,7,58
 Department for Work and Pensions,12,6,0,6,50
 North Cumbria Integrated Care NHS Foundation Trust,12,6,1,5,42
@@ -1387,7 +1387,7 @@ Fern House Surgery,1,1,0,0,0
 Cleveland Police,1,1,0,0,0
 British Society of Interventional Radiology,1,1,0,0,0
 British Society for Dermatological Surgery,1,0,1,0,0
-Ministry of Defence Police,1,0,1,0,0
+Ministry of Defence Police,1,1,0,0,0
 Millbrook Healthcare Limited,1,1,0,0,0
 Mill View Nursing Home,1,1,0,0,0
 Military Aviation Authority,1,1,0,0,0
