@@ -1,18 +1,18 @@
 ["this report is sent to"]
-"reports parsed" = [ 43.0, 100.0,]
+"reports parsed" = [ 64.0, 100.0,]
 "reports without recipients" = [ 0.0, 0.0,]
 "reports failed" = [ 0.0, 0.0,]
-"reports pending" = [ 39.0, 90.7,]
-"reports overdue" = [ 3.0, 7.0,]
-"reports partial" = [ 0.0, 0.0,]
-"reports completed" = [ 1.0, 2.3,]
+"reports pending" = [ 54.0, 84.4,]
+"reports overdue" = [ 6.0, 9.4,]
+"reports partial" = [ 2.0, 3.1,]
+"reports completed" = [ 2.0, 3.1,]
 
 ["requests for response"]
-"no. recipients with requests" = 38
-"no. requests for response" = 43
-"requests pending" = [ 39.0, 90.7,]
-"requests received" = [ 1.0, 2.3,]
-"requests overdue" = [ 3.0, 7.0,]
-"mean no. requests per recipient" = 1.1
+"no. recipients with requests" = 62
+"no. requests for response" = 64
+"requests pending" = [ 54.0, 84.4,]
+"requests received" = [ 2.0, 3.1,]
+"requests overdue" = [ 6.0, 9.4,]
+"mean no. requests per recipient" = 1.0
 "median no. requests per recipient" = 1.0
 "IQR of requests per recipients" = [ 1.0, 1.0,]
