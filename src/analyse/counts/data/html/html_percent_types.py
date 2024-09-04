@@ -47,7 +47,8 @@ def get_status_html_counter(value_num: int, value_percent: float, _type: StatusC
             }}
 
             .block-{_type} {{
-                width: 350px;
+                width: auto;
+                max_width: 320px;
                 height: 200px;
                 text-decoration: none;
                 color: white;

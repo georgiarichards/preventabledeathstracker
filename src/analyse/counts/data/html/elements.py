@@ -20,7 +20,9 @@ STYLE = """
     }
 
     .button-link {
-        width: 320px;
+        width: auto;
+        min-width: 150px;
+        max-width: 320px;
         height: 180px;
         text-decoration: none;
         color: white;
