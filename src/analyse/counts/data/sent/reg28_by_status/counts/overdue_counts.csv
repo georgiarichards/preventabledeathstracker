@@ -1,4 +1,5 @@
 sent_to,no. overdue responses,% overdue
+Mitie Group,5,100.0
 Cambridgeshire and Peterborough NHS Foundation Trust,4,100.0
 Southampton City Council,3,100.0
 Boots UK Limited,2,100.0
@@ -390,7 +391,6 @@ Wiltshire Constabulary,1,100.0
 Worthing Homes,1,100.0
 Your Housing,1,100.0
 Zelltec Limited,1,100.0
-Mitie Group,4,80.0
 Chesterfield Royal Hospital NHS Foundation Trust,3,75.0
 Gateshead Health NHS Foundation Trust,3,75.0
 Isle of Wight NHS Trust,3,75.0
@@ -526,6 +526,7 @@ SubCPartner,1,50.0
 Taff's Well Medical Centre,1,50.0
 Torbay and South Devon NHS Foundation Trust,1,50.0
 Tredegar Practice,1,50.0
+University Hospitals of Morecambe Bay NHS Foundation Trust,1,50.0
 University of Bristol,1,50.0
 Various,1,50.0
 Wakefield Council,1,50.0
@@ -567,6 +568,7 @@ Royal United Hospitals Bath NHS Foundation Trust,3,38.0
 REDACTED,13,37.0
 British Medical Association,4,36.0
 Great Western Hospitals NHS Foundation Trust,4,36.0
+Sussex Police,4,36.0
 Stockport NHS Foundation Trust,9,35.0
 University Hospitals of Derby and Burton NHS Foundation Trust,8,35.0
 Blackpool Teaching Hospitals NHS Foundation Trust,7,35.0
@@ -629,6 +631,7 @@ Sunrise Senior Living,1,33.0
 Wandsworth Borough Council,1,33.0
 West Suffolk NHS Foundation Trust,1,33.0
 Wigan Council,1,33.0
+Midlands Partnership University NHS Foundation Trust,7,32.0
 University Hospitals of North Midlands NHS Trust,6,32.0
 "Ministry of Housing, Communities and Local Government",9,31.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,4,31.0
@@ -652,7 +655,6 @@ Health and Safety Executive,13,28.0
 University Hospitals Sussex NHS Foundation Trust,13,28.0
 Pennine Care NHS Foundation Trust,12,27.0
 University Hospitals Plymouth NHS Trust,7,27.0
-Midlands Partnership University NHS Foundation Trust,6,27.0
 Surrey County Council,4,27.0
 Bedfordshire Hospitals NHS Foundation Trust,3,27.0
 County Durham and Darlington NHS Foundation Trust,3,27.0
@@ -660,7 +662,6 @@ G4S,3,27.0
 NHS Cornwall and Isles of Scilly Integrated Care Board,3,27.0
 South West Yorkshire Partnership NHS Foundation Trust,3,27.0
 Surrey Police,3,27.0
-Sussex Police,3,27.0
 West Midlands Ambulance Service University NHS Foundation Trust,3,27.0
 Care Quality Commission,37,26.0
 Department for Transport,19,26.0
@@ -669,6 +670,7 @@ Ministry of Defence,6,26.0
 East Midlands Ambulance Service NHS Trust,5,26.0
 Transport for London,5,26.0
 Metropolitan Police Service,13,25.0
+National Police Chiefs’ Council,12,25.0
 Department for Education,10,25.0
 Northern Care Alliance NHS Foundation Trust,8,25.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",5,25.0
@@ -709,11 +711,10 @@ UK Health Security Agency,1,25.0
 West Hertfordshire Hospitals NHS Trust,1,25.0
 West Yorkshire Police,1,25.0
 Wiltshire Police,1,25.0
-NHS England,102,24.0
+NHS England,103,24.0
 HM Prison and Probation Service,29,24.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,6,24.0
 North West Ambulance Service NHS Trust,4,24.0
-National Police Chiefs’ Council,11,23.0
 Sussex Partnership NHS Foundation Trust,8,23.0
 Nottinghamshire Healthcare NHS Foundation Trust,5,23.0
 Oxleas NHS Foundation Trust,5,23.0
