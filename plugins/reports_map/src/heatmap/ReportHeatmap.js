@@ -26,8 +26,8 @@ const ReportHeatmap = forwardRef(
 				data-name="Report Heatmap"
 				xmlns="http://www.w3.org/2000/svg"
 				viewBox="0 0 647.73 680.32"
-				width={ 630 }
-				height={ 680 }
+				style={{ width: '100%', height: 'auto', maxWidth: '630px', maxHeight: '680px' }}
+				width={ 1000 }
 				role="group"
 				aria-labelledby="Report_Heatmap_Title Report_Heatmap_Desc"
 				{ ...svg_props }
