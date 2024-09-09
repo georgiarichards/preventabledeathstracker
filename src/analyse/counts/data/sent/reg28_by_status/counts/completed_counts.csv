@@ -668,12 +668,12 @@ HC One,5,56.0
 Surrey and Sussex Healthcare NHS Trust,5,56.0
 University College London Hospitals NHS Foundation Trust,5,56.0
 Walsall Healthcare NHS Trust,5,56.0
-University Hospitals Sussex NHS Foundation Trust,26,55.0
 "Ministry of Housing, Communities and Local Government",16,55.0
 County Durham and Darlington NHS Foundation Trust,6,55.0
 NHS Sussex Integrated Care Board,6,55.0
 West Midlands Ambulance Service University NHS Foundation Trust,6,55.0
 Department of Health and Social Care,325,54.0
+University Hospitals Sussex NHS Foundation Trust,26,54.0
 Department for Work and Pensions,7,54.0
 Priory Group,7,54.0
 Northern Care Alliance NHS Foundation Trust,17,53.0
@@ -683,7 +683,6 @@ West Midlands Police,9,53.0
 Liverpool University Hospitals NHS Foundation Trust,8,53.0
 NHS Digital,8,53.0
 Metropolitan Police Service,27,52.0
-Barts Health NHS Trust,31,50.0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",12,50.0
 Royal College of General Practitioners,10,50.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",10,50.0
@@ -806,6 +805,7 @@ Wakefield Council,1,50.0
 Welsh Cycling,1,50.0
 Wirral University Teaching Hospital NHS Foundation Trust,1,50.0
 Department for Transport,36,49.0
+Barts Health NHS Trust,31,49.0
 East London NHS Foundation Trust,17,49.0
 NHS England,207,48.0
 Pennine Care NHS Foundation Trust,21,48.0
@@ -827,7 +827,6 @@ North Bristol NHS Trust,4,44.0
 Office for Product Safety and Standards,4,44.0
 Royal Cornwall Hospitals NHS Trust,4,44.0
 Sheffield Teaching Hospitals NHS Foundation Trust,4,44.0
-National Institute for Health and Care Excellence,34,43.0
 Royal College of Paediatrics and Child Health,9,43.0
 North East Ambulance Service NHS Foundation Trust,6,43.0
 South London and Maudsley NHS Foundation Trust,6,43.0
@@ -837,10 +836,10 @@ Chief Fire Officers Association,3,43.0
 Nottinghamshire County Council,3,43.0
 Staffordshire County Council,3,43.0
 Home Office,34,42.0
-National Highways,24,42.0
+National Institute for Health and Care Excellence,34,42.0
 "Foreign, Commonwealth and Development Office",5,42.0
 Kent County Council,5,42.0
-Royal College of Anaesthetists,5,42.0
+National Highways,24,41.0
 Herefordshire and Worcestershire Health and Care NHS Trust,7,41.0
 Department for Education,16,40.0
 Swansea Bay University Health Board,8,40.0
@@ -865,6 +864,7 @@ College of Policing,14,39.0
 Health and Safety Executive,18,38.0
 Central and North West London NHS Foundation Trust,11,38.0
 Manchester University NHS Foundation Trust,11,38.0
+Royal College of Anaesthetists,5,38.0
 Canal and River Trust,3,38.0
 Frimley Health NHS Foundation Trust,3,38.0
 Royal United Hospitals Bath NHS Foundation Trust,3,38.0
@@ -894,7 +894,6 @@ Tower Hamlets Council,2,33.0
 ABTA – The Travel Association,1,33.0
 Bondcare Limited,1,33.0
 Bradford Council,1,33.0
-British Association of Perinatal Medicine,1,33.0
 CCG,1,33.0
 Chelsea and Westminster Hospital NHS Foundation Trust,1,33.0
 Disclosure and Barring Service,1,33.0
@@ -943,6 +942,7 @@ Advisory Council on the Misuse of Drugs,1,25.0
 Association of Directors of Adult Social Services,1,25.0
 Avon and Somerset Constabulary,1,25.0
 Barnsley Hospital NHS Foundation Trust,1,25.0
+British Association of Perinatal Medicine,1,25.0
 British National Formulary,1,25.0
 City of Wolverhampton Council,1,25.0
 Gateshead Health NHS Foundation Trust,1,25.0

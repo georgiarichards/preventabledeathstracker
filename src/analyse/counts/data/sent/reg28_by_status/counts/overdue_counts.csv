@@ -549,7 +549,7 @@ Sheffield Teaching Hospitals NHS Foundation Trust,4,44.0
 South West London and St George’s Mental Health NHS Trust,4,44.0
 Cumbria County Council,6,43.0
 Coventry and Warwickshire Partnership NHS Trust,3,43.0
-National Highways,24,42.0
+National Highways,24,41.0
 Blackpool Teaching Hospitals NHS Foundation Trust,8,40.0
 Kent and Medway NHS and Social Care Partnership Trust,6,40.0
 Liverpool University Hospitals NHS Foundation Trust,6,40.0
@@ -598,7 +598,6 @@ North Yorkshire County Council,2,33.0
 Shrewsbury and Telford Hospital NHS Trust,2,33.0
 University Hospital Southampton NHS Foundation Trust,2,33.0
 Brighton and Hove City Council,1,33.0
-British Association of Perinatal Medicine,1,33.0
 Chelsea and Westminster Hospital NHS Foundation Trust,1,33.0
 Clinical Commissioning Group,1,33.0
 Croydon Health Services NHS Trust,1,33.0
@@ -656,7 +655,7 @@ Staffordshire County Council,2,29.0
 Suffolk County Council,2,29.0
 National Institute for Health and Care Excellence,22,28.0
 Health and Safety Executive,13,28.0
-University Hospitals Sussex NHS Foundation Trust,13,28.0
+University Hospitals Sussex NHS Foundation Trust,13,27.0
 Pennine Care NHS Foundation Trust,12,27.0
 University Hospitals Plymouth NHS Trust,7,27.0
 Surrey County Council,4,27.0
@@ -692,6 +691,7 @@ Advisory Council on the Misuse of Drugs,1,25.0
 Association of Police and Crime Commissioners,1,25.0
 Avon and Somerset Constabulary,1,25.0
 Barnsley Hospital NHS Foundation Trust,1,25.0
+British Association of Perinatal Medicine,1,25.0
 British National Formulary,1,25.0
 British Society of Gastroenterology,1,25.0
 Cygnet Health Care,1,25.0
@@ -771,7 +771,6 @@ Mid Yorkshire Teaching NHS Trust,2,18.0
 Oxford University Hospitals NHS Foundation Trust,2,18.0
 Association of Ambulance Chief Executives,5,17.0
 Norfolk and Suffolk NHS Foundation Trust,5,17.0
-Royal College of Emergency Medicine,2,17.0
 "Department for Business, Energy and Industrial Strategy",1,17.0
 Epsom and St Helier University Hospitals NHS Trust,1,17.0
 Hampshire County Council,1,17.0
@@ -785,6 +784,7 @@ Wye Valley NHS Trust,1,17.0
 Cardiff and Vale University Health Board,3,16.0
 "Department for Culture, Media and Sport",3,16.0
 Department for Work and Pensions,2,15.0
+Royal College of Emergency Medicine,2,15.0
 Network Rail,5,14.0
 Royal College of Paediatrics and Child Health,3,14.0
 Milton Keynes University Hospital NHS Foundation Trust,2,14.0
