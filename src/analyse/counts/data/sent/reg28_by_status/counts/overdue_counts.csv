@@ -246,6 +246,7 @@ Motorsport UK,1,100.0
 Moundsley Hall Nursing Home,1,100.0
 My Care Ltd,1,100.0
 My The Orchards Ltd,1,100.0
+NHS Hertfordshire and West Essex Integrated Care Board,1,100.0
 "NHS Quality, Safety and Investigations",1,100.0
 NHS South Sefton Clinical Commissioning Group,1,100.0
 "NPS/NOMS, Liverpool City Council",1,100.0
@@ -458,6 +459,7 @@ Devon County Council,3,50.0
 Driver and Vehicle Standards Agency,3,50.0
 Essex County Council,3,50.0
 NHS Wales,3,50.0
+NHS West Yorkshire Integrated Care Board,3,50.0
 Northumbria Police,3,50.0
 Royal College of Pathologists,3,50.0
 South Wales Police,3,50.0
@@ -547,6 +549,7 @@ Medway NHS Foundation Trust,7,44.0
 South Central Ambulance Service NHS Foundation Trust,7,44.0
 Sheffield Teaching Hospitals NHS Foundation Trust,4,44.0
 South West London and St George’s Mental Health NHS Trust,4,44.0
+REDACTED,15,43.0
 Cumbria County Council,6,43.0
 Coventry and Warwickshire Partnership NHS Trust,3,43.0
 National Highways,24,41.0
@@ -571,7 +574,6 @@ Gloucestershire Hospital NHS Foundation Trust,3,38.0
 Health Services Safety Investigations Body,3,38.0
 Resuscitation Council UK,3,38.0
 Royal United Hospitals Bath NHS Foundation Trust,3,38.0
-REDACTED,13,37.0
 British Medical Association,4,36.0
 Great Western Hospitals NHS Foundation Trust,4,36.0
 Sussex Police,4,36.0
@@ -593,7 +595,6 @@ University College London Hospitals NHS Foundation Trust,3,33.0
 Walsall Healthcare NHS Trust,3,33.0
 Gloucestershire Health and Care NHS Foundation Trust,2,33.0
 Hull University Teaching Hospitals NHS Trust,2,33.0
-NHS West Yorkshire Integrated Care Board,2,33.0
 North Yorkshire County Council,2,33.0
 Shrewsbury and Telford Hospital NHS Trust,2,33.0
 University Hospital Southampton NHS Foundation Trust,2,33.0
@@ -715,7 +716,7 @@ UK Health Security Agency,1,25.0
 West Hertfordshire Hospitals NHS Trust,1,25.0
 West Yorkshire Police,1,25.0
 Wiltshire Police,1,25.0
-NHS England,104,24.0
+NHS England,105,24.0
 HM Prison and Probation Service,29,24.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,6,24.0
 North West Ambulance Service NHS Trust,4,24.0
@@ -739,7 +740,8 @@ Worcestershire Acute Hospitals NHS Trust,2,22.0
 Royal College of Obstetricians and Gynaecologists,4,21.0
 Avon and Wiltshire Mental Health Partnership NHS Trust,3,21.0
 Birmingham City Council,3,21.0
-Department of Health and Social Care,120,20.0
+Department of Health and Social Care,121,20.0
+Norfolk and Suffolk NHS Foundation Trust,6,20.0
 Cornwall Council,4,20.0
 Swansea Bay University Health Board,4,20.0
 Southern Health NHS Foundation Trust,2,20.0
@@ -770,7 +772,6 @@ Leicestershire Partnership NHS Trust,2,18.0
 Mid Yorkshire Teaching NHS Trust,2,18.0
 Oxford University Hospitals NHS Foundation Trust,2,18.0
 Association of Ambulance Chief Executives,5,17.0
-Norfolk and Suffolk NHS Foundation Trust,5,17.0
 "Department for Business, Energy and Industrial Strategy",1,17.0
 Epsom and St Helier University Hospitals NHS Trust,1,17.0
 Hampshire County Council,1,17.0

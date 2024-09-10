@@ -1,6 +1,6 @@
 Addressed to,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0,2023.0,2024.0,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,26,13,46,31,50,48,46,64,78,98,86,605,54,325,142,120,18
-NHS England,6,10,6,34,26,37,44,24,40,46,86,70,429,48,207,108,104,10
+Department of Health and Social Care,19,26,13,46,31,50,48,46,64,78,98,86,605,54,325,142,121,17
+NHS England,6,10,6,34,26,37,44,24,40,46,86,70,429,48,207,108,105,9
 Care Quality Commission,11,5,3,15,20,12,10,10,18,11,12,13,140,36,51,51,37,1
 HM Prison and Probation Service,3,5,8,12,12,10,24,5,7,6,17,13,122,44,54,36,29,3
 NHS Greater Manchester Integrated Care Board,1,2,1,1,6,4,15,12,20,11,10,10,93,57,53,18,20,2
@@ -24,12 +24,12 @@ College of Policing,0,1,0,1,0,1,7,3,5,5,9,4,36,39,14,14,8,0
 Network Rail,0,2,0,4,5,7,5,2,4,2,3,1,35,74,26,4,5,0
 Sussex Partnership NHS Foundation Trust,2,3,1,3,6,2,2,3,6,1,5,1,35,63,22,5,8,0
 East London NHS Foundation Trust,0,1,0,3,10,1,2,1,1,6,5,5,35,49,17,4,11,3
-REDACTED,3,4,0,0,2,1,1,0,0,4,5,15,35,23,8,6,13,8
+REDACTED,3,4,0,0,2,1,1,0,0,4,5,15,35,23,8,6,15,6
 Northern Care Alliance NHS Foundation Trust,3,0,0,2,8,5,9,0,3,0,1,1,32,53,17,6,8,1
 Birmingham and Solihull Mental Health NHS Foundation Trust,0,0,0,2,1,3,7,1,1,3,8,5,31,65,20,5,4,2
 General Medical Council,1,4,3,1,1,3,1,3,6,2,4,1,30,23,7,15,8,1
 Association of Ambulance Chief Executives,0,1,0,1,1,0,3,7,1,6,7,3,30,23,7,17,5,1
-Norfolk and Suffolk NHS Foundation Trust,1,1,1,0,4,2,7,1,3,5,0,5,30,70,21,3,5,1
+Norfolk and Suffolk NHS Foundation Trust,1,1,1,0,4,2,7,1,3,5,0,5,30,70,21,3,6,0
 "Ministry of Housing, Communities and Local Government",1,1,1,1,2,1,3,3,3,2,3,8,29,55,16,2,9,2
 Central and North West London NHS Foundation Trust,0,1,2,2,2,2,6,2,5,3,1,3,29,38,11,8,10,0
 Manchester University NHS Foundation Trust,0,0,0,9,1,6,5,2,1,2,1,2,29,38,11,3,15,0
@@ -224,7 +224,7 @@ Tower Hamlets Council,0,0,1,0,0,2,1,2,0,0,0,0,6,33,2,1,3,0
 North Yorkshire County Council,1,0,0,1,0,1,0,0,1,1,1,0,6,67,4,0,2,0
 Norfolk County Council,0,1,0,1,0,0,1,0,2,0,0,1,6,50,3,1,1,1
 NHS Wales,0,0,0,2,0,0,1,0,0,0,0,3,6,33,2,1,3,0
-NHS West Yorkshire Integrated Care Board,0,0,0,0,0,1,0,0,0,0,2,3,6,0,0,3,2,1
+NHS West Yorkshire Integrated Care Board,0,0,0,0,0,1,0,0,0,0,2,3,6,0,0,3,3,0
 NHS Lancashire and South Cumbria Integrated Care Board,0,0,0,0,0,1,1,1,1,0,2,0,6,67,4,1,1,0
 Hull University Teaching Hospitals NHS Trust,0,0,0,0,1,0,1,0,0,0,1,3,6,33,2,2,2,0
 Wye Valley NHS Trust,0,0,0,0,0,0,1,1,0,1,2,1,6,67,4,0,1,1
@@ -1005,7 +1005,7 @@ Meta Platforms,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 Merton Council,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
 Merthyr Tydfil County Borough Council,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 Moorfields Eye Hospital NHS Foundation Trust,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
-NHS Hertfordshire and West Essex Integrated Care Board,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+NHS Hertfordshire and West Essex Integrated Care Board,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Care Inspectorate Wales,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
 Care Inn Limited,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
 Care First Homes,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0

@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,605,237,18,350,58
-NHS England,429,163,10,256,60
+Department of Health and Social Care,605,238,17,350,58
+NHS England,429,164,9,256,60
 Care Quality Commission,140,88,1,51,36
 HM Prison and Probation Service,122,62,3,57,47
 NHS Greater Manchester Integrated Care Board,93,44,2,47,51
@@ -24,12 +24,12 @@ College of Policing,36,14,0,22,61
 Network Rail,35,6,0,29,83
 Sussex Partnership NHS Foundation Trust,35,14,0,21,60
 East London NHS Foundation Trust,35,13,3,19,54
-REDACTED,35,19,8,8,23
+REDACTED,35,21,6,8,23
 Northern Care Alliance NHS Foundation Trust,32,16,1,15,47
 Birmingham and Solihull Mental Health NHS Foundation Trust,31,11,2,18,58
 General Medical Council,31,18,1,12,39
 Association of Ambulance Chief Executives,30,16,1,13,43
-Norfolk and Suffolk NHS Foundation Trust,30,8,1,21,70
+Norfolk and Suffolk NHS Foundation Trust,30,9,0,21,70
 "Ministry of Housing, Communities and Local Government",29,15,2,12,41
 Central and North West London NHS Foundation Trust,29,18,0,11,38
 Manchester University NHS Foundation Trust,29,18,0,11,38
@@ -224,7 +224,7 @@ Tower Hamlets Council,6,4,0,2,33
 North Yorkshire County Council,6,2,0,4,67
 Norfolk County Council,6,1,1,4,67
 NHS Wales,6,5,0,1,17
-NHS West Yorkshire Integrated Care Board,6,5,1,0,0
+NHS West Yorkshire Integrated Care Board,6,6,0,0,0
 NHS Lancashire and South Cumbria Integrated Care Board,6,3,0,3,50
 Hull University Teaching Hospitals NHS Trust,6,4,0,2,33
 Wye Valley NHS Trust,6,1,1,4,67
@@ -1005,7 +1005,7 @@ Meta Platforms,1,0,0,1,100
 Merton Council,1,1,0,0,0
 Merthyr Tydfil County Borough Council,1,0,0,1,100
 Moorfields Eye Hospital NHS Foundation Trust,1,0,0,1,100
-NHS Hertfordshire and West Essex Integrated Care Board,1,0,1,0,0
+NHS Hertfordshire and West Essex Integrated Care Board,1,1,0,0,0
 Care Inspectorate Wales,1,1,0,0,0
 Care Inn Limited,1,1,0,0,0
 Care First Homes,1,1,0,0,0
