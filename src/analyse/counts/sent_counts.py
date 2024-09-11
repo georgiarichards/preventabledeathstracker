@@ -585,6 +585,8 @@ statuses.to_csv(f"{DATA_PATH}/sent/db_with_statuses.csv", index=False)
 filtered_monthly_reports, today_date = filter_last_month_records(reports)
 
 filtered_monthly_reports = select_and_rename_columns(filtered_monthly_reports)
+filtered_monthly_reports["Date added"] = pd.to_datetime(filtered_monthly_reports["Date added"])
+filtered_monthly_reports["Date added"] = filtered_monthly_reports["Date added"].dt.strftime("%d/%m/%Y")
 filtered_monthly_reports.to_csv(f"{DATA_PATH}/sent/last_month_reports.csv", index=False)
 
 database = reports.copy()
