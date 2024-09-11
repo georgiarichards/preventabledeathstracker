@@ -21,7 +21,7 @@ reports = pd.read_csv(f"{REPORTS_PATH}/reports-analysed.csv")
 # ### Extracting the dates of reports
 
 # use a regex to extract the year from the date of report
-reports["year"] = reports["date_added"].str.extract(r"\d{2}\/\d{2}\/(\d{4})")
+reports["year"] = reports["date_of_report"].str.extract(r"\d{2}\/\d{2}\/(\d{4})")
 reports["datetime"] = pd.to_datetime(reports["date_added"], format="%d/%m/%Y", errors="coerce")
 
 earliest = reports["datetime"].min()

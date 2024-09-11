@@ -1,9 +1,9 @@
 [year]
-"no. reports parsed" = 5245
+"no. reports parsed" = 5244
 "no. years covered" = 11.1
-"mean per year" = 472.5
-"median per year" = 460.0
-"IQR of years" = [ 391.0, 501.0,]
+"mean per year" = 472.4
+"median per year" = 449.0
+"IQR of years" = [ 420.75, 492.5,]
 
 ["death categories"]
 "no. reports parsed" = 5245
