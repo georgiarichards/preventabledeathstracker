@@ -222,8 +222,8 @@ reports.loc[equal_len_r, "response status"] = "completed"
 
 # empty_requests = reports["this_report_is_being_sent_to"].isna()
 current_date = pd.Timestamp.now()
-condition_overdue = (reports["no. replies"] == 0) & (reports["no. recipients"] == 0) & ((current_date - pd.to_datetime(reports["date_of_report"])).dt.days > 56)
-condition_pending = (reports["no. replies"] == 0) & (reports["no. recipients"] == 0) & ((current_date - pd.to_datetime(reports["date_of_report"])).dt.days <= 56)
+condition_overdue = (reports["no. replies"] == 0) & (reports["no. recipients"] == 0) & ((current_date - pd.to_datetime(reports["date_of_report"], dayfirst=True)).dt.days > 56)
+condition_pending = (reports["no. replies"] == 0) & (reports["no. recipients"] == 0) & ((current_date - pd.to_datetime(reports["date_of_report"], dayfirst=True)).dt.days <= 56)
 reports.loc[condition_overdue, "response status"] = "overdue"
 reports.loc[condition_pending, "response status"] = "pending"
 
