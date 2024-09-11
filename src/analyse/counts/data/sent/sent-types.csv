@@ -6,7 +6,7 @@ HM Prison and Probation Service,122,62,3,57,47
 NHS Greater Manchester Integrated Care Board,93,44,2,47,51
 Ministry of Justice,84,62,4,18,21
 Home Office,81,36,2,43,53
-National Institute for Health and Care Excellence,80,43,4,33,41
+National Institute for Health and Care Excellence,80,44,3,33,41
 Department for Transport,74,30,1,43,58
 Betsi Cadwaladr University Health Board,67,18,2,47,70
 Barts Health NHS Trust,63,23,3,37,59
@@ -159,7 +159,7 @@ University College London Hospitals NHS Foundation Trust,9,4,0,5,56
 Sheffield Teaching Hospitals NHS Foundation Trust,9,5,0,4,44
 Gloucestershire Hospital NHS Foundation Trust,8,3,0,5,62
 Frimley Health NHS Foundation Trust,8,6,0,2,25
-Royal Pharmaceutical Society,8,3,1,4,50
+Royal Pharmaceutical Society,8,4,0,4,50
 Royal United Hospitals Bath NHS Foundation Trust,8,5,0,3,38
 Royal Wolverhampton NHS Trust,8,4,0,4,50
 Food Standards Agency,8,1,0,7,88
@@ -377,7 +377,7 @@ National Trading Standards,3,1,0,2,67
 NHS South East London Integrated Care Board,3,2,0,1,33
 NHS South West London Integrated Care Board,3,2,0,1,33
 North West Anglia NHS Foundation Trust,3,2,0,1,33
-Northern Rail,3,1,1,1,33
+Northern Rail,3,2,0,1,33
 Newcastle City Council,3,2,0,1,33
 Peabody Trust,3,1,1,1,33
 Nottingham University Hospitals NHS Trust,3,2,0,1,33
@@ -1466,7 +1466,7 @@ Avenue House Nursing and Care Home,1,1,0,0,0
 BUPA UK Provision,1,1,0,0,0
 BUPA Care Homes,1,1,0,0,0
 BOC Limited,1,1,0,0,0
-BMJ Group,1,0,1,0,0
+BMJ Group,1,1,0,0,0
 Beech Dene Residential Home,1,1,0,0,0
 Dorset Highways Management,1,0,0,1,100
 Donneybrook Medical Centre,1,0,0,1,100
