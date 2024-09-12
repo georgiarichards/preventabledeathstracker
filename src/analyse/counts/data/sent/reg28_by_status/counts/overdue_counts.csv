@@ -9,6 +9,7 @@ Casualty Reduction Team,2,100.0
 Cheshire West and Chester Council,2,100.0
 Choice Support,2,100.0
 Cornwall and Isles of Scilly Safeguarding Adults Board,2,100.0
+East Cheshire NHS Trust,2,100.0
 Hillingdon Hospitals NHS Foundation Trust,2,100.0
 Independent Advisory Panel on Deaths in Custody,2,100.0
 Mid Cheshire Hospitals NHS Foundation Trust,2,100.0
@@ -490,7 +491,6 @@ Children and Family Court Advisory and Support Service,1,50.0
 Children’s Commissioner for England,1,50.0
 Croft Shifa Health Centre,1,50.0
 Dartford and Gravesend NHS Trust,1,50.0
-East Cheshire NHS Trust,1,50.0
 Greater Manchester Fire and Rescue Service,1,50.0
 Gwent Police,1,50.0
 HM Prison Lindholme,1,50.0
@@ -598,6 +598,7 @@ University College London Hospitals NHS Foundation Trust,3,33.0
 Walsall Healthcare NHS Trust,3,33.0
 Gloucestershire Health and Care NHS Foundation Trust,2,33.0
 Hull University Teaching Hospitals NHS Trust,2,33.0
+Norfolk County Council,2,33.0
 North Yorkshire County Council,2,33.0
 Shrewsbury and Telford Hospital NHS Trust,2,33.0
 University Hospital Southampton NHS Foundation Trust,2,33.0
@@ -675,6 +676,7 @@ General Medical Council,8,26.0
 Ministry of Defence,6,26.0
 East Midlands Ambulance Service NHS Trust,5,26.0
 Transport for London,5,26.0
+NHS England,106,25.0
 Metropolitan Police Service,13,25.0
 National Police Chiefs’ Council,12,25.0
 Department for Education,10,25.0
@@ -717,7 +719,6 @@ UK Health Security Agency,1,25.0
 West Hertfordshire Hospitals NHS Trust,1,25.0
 West Yorkshire Police,1,25.0
 Wiltshire Police,1,25.0
-NHS England,105,24.0
 HM Prison and Probation Service,29,24.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,6,24.0
 North West Ambulance Service NHS Trust,4,24.0
@@ -741,7 +742,7 @@ Worcestershire Acute Hospitals NHS Trust,2,22.0
 Royal College of Obstetricians and Gynaecologists,4,21.0
 Avon and Wiltshire Mental Health Partnership NHS Trust,3,21.0
 Birmingham City Council,3,21.0
-Department of Health and Social Care,121,20.0
+Department of Health and Social Care,123,20.0
 Norfolk and Suffolk NHS Foundation Trust,6,20.0
 Cornwall Council,4,20.0
 Swansea Bay University Health Board,4,20.0
@@ -780,7 +781,6 @@ Isle of Wight Council,1,17.0
 Lewisham and Greenwich NHS Trust,1,17.0
 NHS Lancashire and South Cumbria Integrated Care Board,1,17.0
 "NHS Leicester, Leicestershire and Rutland Integrated Care Board",1,17.0
-Norfolk County Council,1,17.0
 Sheffield City Council,1,17.0
 Wye Valley NHS Trust,1,17.0
 Cardiff and Vale University Health Board,3,16.0
