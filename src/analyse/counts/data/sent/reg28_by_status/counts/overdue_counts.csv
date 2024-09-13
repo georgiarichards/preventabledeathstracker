@@ -70,6 +70,7 @@ Boat Safety Scheme,1,100.0
 Borough Council of King’s Lynn & West Norfolk,1,100.0
 Bounce Till I Die Events,1,100.0
 Bourne House,1,100.0
+Britannia Pharmaceutical Ltd,1,100.0
 British Industrial Truck Association,1,100.0
 British Obesity and Metabolic Surgery Society,1,100.0
 British Society for Dermatological Surgery,1,100.0
@@ -218,6 +219,7 @@ Lands End Resort,1,100.0
 Langley Health Centre,1,100.0
 Lattitude Global Volunteering,1,100.0
 Leeds Martial Arts College,1,100.0
+Leyden Delta Ltd,1,100.0
 Lodge Road Surgery,1,100.0
 London Borough of Harrow,1,100.0
 London Borough of Waltham Forest,1,100.0
@@ -384,6 +386,7 @@ University of Southampton,1,100.0
 Unusual Rigging Ltd,1,100.0
 Upwell Street Surgery,1,100.0
 VOSA Berkeley House,1,100.0
+Viatris UK Healthcare Ltd,1,100.0
 Village Nursing and Care Home,1,100.0
 Wanstead Place Surgery,1,100.0
 West London Alliance,1,100.0
@@ -491,6 +494,7 @@ Children and Family Court Advisory and Support Service,1,50.0
 Children’s Commissioner for England,1,50.0
 Croft Shifa Health Centre,1,50.0
 Dartford and Gravesend NHS Trust,1,50.0
+"Department for Science, Innovation and Technology",1,50.0
 Greater Manchester Fire and Rescue Service,1,50.0
 Gwent Police,1,50.0
 HM Prison Lindholme,1,50.0
@@ -544,6 +548,7 @@ Wirral University Teaching Hospital NHS Foundation Trust,1,50.0
 Yorkshire Water,1,50.0
 St George’s University Hospitals NHS Foundation Trust,8,47.0
 Public Health England,7,47.0
+REDACTED,16,46.0
 Essex Partnership University NHS Foundation Trust,13,46.0
 Driver and Vehicle Licensing Agency,5,45.0
 King’s College Hospital NHS Foundation Trust,5,45.0
@@ -551,7 +556,6 @@ Medway NHS Foundation Trust,7,44.0
 South Central Ambulance Service NHS Foundation Trust,7,44.0
 Sheffield Teaching Hospitals NHS Foundation Trust,4,44.0
 South West London and St George’s Mental Health NHS Trust,4,44.0
-REDACTED,15,43.0
 Cumbria County Council,6,43.0
 Coventry and Warwickshire Partnership NHS Trust,3,43.0
 National Highways,24,41.0
@@ -583,6 +587,7 @@ Sussex Police,4,36.0
 Stockport NHS Foundation Trust,9,35.0
 University Hospitals of Derby and Burton NHS Foundation Trust,8,35.0
 Herefordshire and Worcestershire Health and Care NHS Trust,6,35.0
+East London NHS Foundation Trust,12,34.0
 Central and North West London NHS Foundation Trust,10,34.0
 Ministry of Justice,28,33.0
 Medicines and Healthcare Products Regulatory Agency,16,33.0
@@ -640,12 +645,12 @@ West Suffolk NHS Foundation Trust,1,33.0
 Wigan Council,1,33.0
 Midlands Partnership University NHS Foundation Trust,7,32.0
 University Hospitals of North Midlands NHS Trust,6,32.0
-East London NHS Foundation Trust,11,31.0
 "Ministry of Housing, Communities and Local Government",9,31.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,4,31.0
+National Institute for Health and Care Excellence,24,30.0
+Health and Safety Executive,14,30.0
 NHS Nottingham and Nottinghamshire Integrated Care Board,3,30.0
 Portsmouth Hospitals University NHS Trust,3,30.0
-National Institute for Health and Care Excellence,23,29.0
 Barts Health NHS Trust,18,29.0
 Welsh Ambulance Services NHS Trust,13,29.0
 Cwm Taf Morgannwg University Health Board,6,29.0
@@ -658,7 +663,6 @@ Lincolnshire County Council,2,29.0
 Nottinghamshire County Council,2,29.0
 Staffordshire County Council,2,29.0
 Suffolk County Council,2,29.0
-Health and Safety Executive,13,28.0
 University Hospitals Sussex NHS Foundation Trust,13,27.0
 Pennine Care NHS Foundation Trust,12,27.0
 University Hospitals Plymouth NHS Trust,7,27.0
@@ -720,6 +724,7 @@ West Hertfordshire Hospitals NHS Trust,1,25.0
 West Yorkshire Police,1,25.0
 Wiltshire Police,1,25.0
 HM Prison and Probation Service,29,24.0
+Betsi Cadwaladr University Health Board,16,24.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,6,24.0
 North West Ambulance Service NHS Trust,4,24.0
 Sussex Partnership NHS Foundation Trust,8,23.0
@@ -729,7 +734,6 @@ Priory Group,3,23.0
 Royal College of Physicians,3,23.0
 South East Coast Ambulance Service NHS Foundation Trust,3,23.0
 NHS Greater Manchester Integrated Care Board,20,22.0
-Betsi Cadwaladr University Health Board,15,22.0
 College of Policing,8,22.0
 Aneurin Bevan University Health Board,5,22.0
 East of England Ambulance Service NHS Trust,4,22.0

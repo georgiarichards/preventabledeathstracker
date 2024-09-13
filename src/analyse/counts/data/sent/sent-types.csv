@@ -6,16 +6,16 @@ HM Prison and Probation Service,122,62,3,57,47
 NHS Greater Manchester Integrated Care Board,93,44,2,47,51
 Ministry of Justice,84,62,4,18,21
 Home Office,81,36,2,43,53
-National Institute for Health and Care Excellence,80,44,3,33,41
+National Institute for Health and Care Excellence,80,45,2,33,41
 Department for Transport,74,30,1,43,58
-Betsi Cadwaladr University Health Board,67,18,2,47,70
+Betsi Cadwaladr University Health Board,67,19,1,47,70
 Barts Health NHS Trust,63,23,3,37,59
 National Highways,58,34,2,22,38
 Metropolitan Police Service,52,27,2,23,44
 National Police Chiefs’ Council,48,37,2,9,19
 University Hospitals Sussex NHS Foundation Trust,48,25,1,22,46
 Medicines and Healthcare Products Regulatory Agency,48,35,0,13,27
-Health and Safety Executive,47,25,2,20,43
+Health and Safety Executive,47,26,1,20,43
 Welsh Ambulance Services NHS Trust,45,19,0,26,58
 Pennine Care NHS Foundation Trust,44,25,1,18,41
 Department for Education,40,15,3,22,55
@@ -23,8 +23,8 @@ Greater Manchester Mental Health NHS Foundation Trust,36,20,0,16,44
 College of Policing,36,14,0,22,61
 Network Rail,35,6,0,29,83
 Sussex Partnership NHS Foundation Trust,35,14,0,21,60
-East London NHS Foundation Trust,35,13,3,19,54
-REDACTED,35,21,6,8,23
+East London NHS Foundation Trust,35,14,2,19,54
+REDACTED,35,22,5,8,23
 Northern Care Alliance NHS Foundation Trust,32,16,1,15,47
 Birmingham and Solihull Mental Health NHS Foundation Trust,31,11,2,18,58
 General Medical Council,31,18,1,12,39
@@ -440,7 +440,7 @@ UK Kidney Association,2,2,0,0,0
 Amey PLC,2,2,0,0,0
 Doncaster Council,2,0,0,2,100
 East Cheshire NHS Trust,2,2,0,0,0
-"Department for Science, Innovation and Technology",2,1,1,0,0
+"Department for Science, Innovation and Technology",2,2,0,0,0
 Department for Business and Trade,2,1,0,1,50
 Tredegar Practice,2,1,0,1,50
 The Security Service,2,2,0,0,0
@@ -903,7 +903,7 @@ Lime Tree Surgery,1,0,0,1,100
 Lightwater Quarries Limited,1,0,0,1,100
 Lifeskills,1,0,0,1,100
 Lifeshield Medical Services Limited,1,0,0,1,100
-Leyden Delta Ltd,1,0,1,0,0
+Leyden Delta Ltd,1,1,0,0,0
 Leonard Cheshire,1,0,0,1,100
 London Borough of Newham,1,0,1,0,0
 Chartered Trading Standards Institute,1,1,0,0,0
@@ -1258,7 +1258,7 @@ British Association of Paediatric Surgeons,1,0,0,1,100
 British Association of Dermatologists,1,1,0,0,0
 British Association of Aesthetic Plastic Surgeons,1,1,0,0,0
 British Army,1,0,0,1,100
-Britannia Pharmaceutical Ltd,1,0,1,0,0
+Britannia Pharmaceutical Ltd,1,1,0,0,0
 Britannia Jinky Jersey Ltd,1,0,0,1,100
 Ringmead Medical Group,1,0,0,1,100
 Rights and Responsibilities Group,1,1,0,0,0
@@ -1699,7 +1699,7 @@ W E Rawson Ltd,1,0,0,1,100
 Voyage Care,1,0,1,0,0
 Volvo Group UK Limited,1,0,0,1,100
 Village Nursing and Care Home,1,1,0,0,0
-Viatris UK Healthcare Ltd,1,0,1,0,0
+Viatris UK Healthcare Ltd,1,1,0,0,0
 Vascular Access Society of Britain and Ireland,1,1,0,0,0
 University of Warwick,1,0,0,1,100
 University of Sussex,1,0,0,1,100
