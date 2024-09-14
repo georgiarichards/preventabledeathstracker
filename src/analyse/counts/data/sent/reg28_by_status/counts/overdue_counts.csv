@@ -607,6 +607,7 @@ Norfolk County Council,2,33.0
 North Yorkshire County Council,2,33.0
 Shrewsbury and Telford Hospital NHS Trust,2,33.0
 University Hospital Southampton NHS Foundation Trust,2,33.0
+Wye Valley NHS Trust,2,33.0
 Brighton and Hove City Council,1,33.0
 Chelsea and Westminster Hospital NHS Foundation Trust,1,33.0
 Clinical Commissioning Group,1,33.0
@@ -614,6 +615,7 @@ Croydon Health Services NHS Trust,1,33.0
 Derbyshire Constabulary,1,33.0
 Dyfed-Powys Police,1,33.0
 East Sussex Healthcare NHS Trust,1,33.0
+Faculty of Intensive Care Medicine,1,33.0
 Forward Trust,1,33.0
 General Dental Council,1,33.0
 Gloucestershire County Council,1,33.0
@@ -621,6 +623,7 @@ HM Prison Cardiff,1,33.0
 HM Prison Exeter,1,33.0
 HM Prison Guys Marsh,1,33.0
 HM Prison Nottingham,1,33.0
+HM Prison Rochester,1,33.0
 HM Prison Winchester,1,33.0
 Hampshire Hospitals NHS Foundation Trust,1,33.0
 Hertfordshire Constabulary,1,33.0
@@ -666,6 +669,7 @@ Suffolk County Council,2,29.0
 University Hospitals Sussex NHS Foundation Trust,13,27.0
 Pennine Care NHS Foundation Trust,12,27.0
 University Hospitals Plymouth NHS Trust,7,27.0
+Oxleas NHS Foundation Trust,6,27.0
 Surrey County Council,4,27.0
 Bedfordshire Hospitals NHS Foundation Trust,3,27.0
 County Durham and Darlington NHS Foundation Trust,3,27.0
@@ -680,7 +684,7 @@ General Medical Council,8,26.0
 Ministry of Defence,6,26.0
 East Midlands Ambulance Service NHS Trust,5,26.0
 Transport for London,5,26.0
-NHS England,106,25.0
+NHS England,107,25.0
 Metropolitan Police Service,13,25.0
 National Police Chiefs’ Council,12,25.0
 Department for Education,10,25.0
@@ -729,8 +733,8 @@ Tameside and Glossop Integrated Care NHS Foundation Trust,6,24.0
 North West Ambulance Service NHS Trust,4,24.0
 Sussex Partnership NHS Foundation Trust,8,23.0
 Nottinghamshire Healthcare NHS Foundation Trust,5,23.0
-Oxleas NHS Foundation Trust,5,23.0
 Priory Group,3,23.0
+Royal College of Emergency Medicine,3,23.0
 Royal College of Physicians,3,23.0
 South East Coast Ambulance Service NHS Foundation Trust,3,23.0
 NHS Greater Manchester Integrated Care Board,20,22.0
@@ -786,11 +790,10 @@ Lewisham and Greenwich NHS Trust,1,17.0
 NHS Lancashire and South Cumbria Integrated Care Board,1,17.0
 "NHS Leicester, Leicestershire and Rutland Integrated Care Board",1,17.0
 Sheffield City Council,1,17.0
-Wye Valley NHS Trust,1,17.0
 Cardiff and Vale University Health Board,3,16.0
 "Department for Culture, Media and Sport",3,16.0
 Department for Work and Pensions,2,15.0
-Royal College of Emergency Medicine,2,15.0
+Royal College of Anaesthetists,2,15.0
 Network Rail,5,14.0
 Royal College of Paediatrics and Child Health,3,14.0
 Milton Keynes University Hospital NHS Foundation Trust,2,14.0
@@ -817,5 +820,4 @@ Devon and Cornwall Constabulary,1,10.0
 Whittington Health NHS Trust,1,10.0
 Bolton NHS Foundation Trust,1,9.0
 Sandwell and West Birmingham Hospitals NHS Trust,1,9.0
-Royal College of Anaesthetists,1,8.0
 Practice Plus Group,1,3.0
