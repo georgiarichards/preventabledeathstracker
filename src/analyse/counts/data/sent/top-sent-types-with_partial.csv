@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,606,123,17,324,142,53
-NHS England,429,107,7,207,108,48
-Care Quality Commission,143,37,3,52,51,36
-HM Prison and Probation Service,124,30,4,54,36,44
-NHS Greater Manchester Integrated Care Board,95,20,3,54,18,57
-Ministry of Justice,88,29,5,20,34,23
-Home Office,81,15,2,34,30,42
-National Institute for Health and Care Excellence,80,24,2,34,20,42
-Department for Transport,76,19,1,38,18,50
-Betsi Cadwaladr University Health Board,67,16,1,47,3,70
-Barts Health NHS Trust,63,18,3,31,11,49
-National Highways,58,24,2,24,8,41
-Metropolitan Police Service,52,13,2,27,10,52
-National Police Chiefs’ Council,49,12,2,12,23,24
-Medicines and Healthcare Products Regulatory Agency,48,16,0,16,16,33
-University Hospitals Sussex NHS Foundation Trust,48,13,1,26,8,54
-Health and Safety Executive,47,14,1,18,14,38
+Department of Health and Social Care,683,133,17,371,162,54
+NHS England,459,116,7,212,124,46
+Care Quality Commission,157,41,3,57,56,36
+HM Prison and Probation Service,142,38,4,59,41,42
+Ministry of Justice,100,34,5,23,38,23
+Home Office,96,19,2,38,37,40
+NHS Greater Manchester Integrated Care Board,95,19,3,54,19,57
+National Institute for Health and Care Excellence,91,32,2,36,21,40
+Department for Transport,91,25,1,42,23,46
+Barts Health NHS Trust,69,19,3,36,11,52
+Betsi Cadwaladr University Health Board,68,16,0,49,3,72
+National Highways,64,27,2,27,8,42
+REDACTED,63,25,5,11,22,17
+Metropolitan Police Service,60,13,2,32,13,53
+University Hospitals Sussex NHS Foundation Trust,59,16,1,31,11,53
+Medicines and Healthcare Products Regulatory Agency,55,18,0,19,18,35
+National Police Chiefs’ Council,55,11,2,14,28,25
+Health and Safety Executive,50,15,1,19,15,38
+Pennine Care NHS Foundation Trust,47,13,1,21,12,45
 Welsh Ambulance Services NHS Trust,45,13,0,25,7,56
-Pennine Care NHS Foundation Trust,44,12,1,21,10,48
-Department for Education,40,10,3,16,11,40
-College of Policing,36,8,0,14,14,39
-Greater Manchester Mental Health NHS Foundation Trust,36,12,0,17,7,47
-Sussex Partnership NHS Foundation Trust,35,8,0,22,5,63
-East London NHS Foundation Trust,35,12,2,17,4,49
-Network Rail,35,5,0,26,4,74
-REDACTED,35,16,5,8,6,23
-Northern Care Alliance NHS Foundation Trust,32,8,1,17,6,53
-Birmingham and Solihull Mental Health NHS Foundation Trust,31,4,2,20,5,65
-General Medical Council,31,8,1,7,15,23
-"Ministry of Housing, Communities and Local Government",30,9,2,17,2,57
+Department for Education,44,10,3,17,14,39
+Greater Manchester Mental Health NHS Foundation Trust,43,14,0,18,11,42
+Sussex Partnership NHS Foundation Trust,42,10,0,25,7,60
+Network Rail,41,10,0,26,5,63
+Northern Care Alliance NHS Foundation Trust,39,10,1,20,8,51
+College of Policing,37,6,0,15,16,41
+Norfolk and Suffolk NHS Foundation Trust,36,9,0,25,2,69
+East London NHS Foundation Trust,36,12,2,18,4,50
+"Ministry of Housing, Communities and Local Government",35,8,2,19,6,54
+Manchester University NHS Foundation Trust,34,14,0,14,6,41
