@@ -11,14 +11,11 @@ CORRECT_PATH = os.path.abspath(f"{PATH}/../../correct")
 
 
 def find_matches(_input_string, _pattern):
-    if _input_string and "and" in _input_string:
-        _input_string = _input_string.strip("| ")
-        input_list = _input_string.split(" | ")
+    if _input_string and ("and" in _input_string or "," in _input_string):
+        input_list = _input_string.strip("| ").split(" | ")
         result = []
         for el in input_list:
-            if "and" in el:
-                if el == "Milton Keynes University Hospital and Secretary of State for Transport":
-                    print(1)
+            if "and" in el or "," in el:
                 matches = re.finditer(_pattern, el)
                 list_of_match = [match.group() for match in matches if match.group()]
                 cleaned_values = [value.replace(r"\ ", " ") for value in list_of_match]

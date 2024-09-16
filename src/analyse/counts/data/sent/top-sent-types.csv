@@ -1,10 +1,10 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,605,240,17,348,58
+Department of Health and Social Care,606,241,17,348,57
 NHS England,429,166,7,256,60
-Care Quality Commission,142,88,3,51,36
-HM Prison and Probation Service,123,62,4,57,46
-NHS Greater Manchester Integrated Care Board,94,44,3,47,50
-Ministry of Justice,86,63,5,18,21
+Care Quality Commission,143,88,3,52,36
+HM Prison and Probation Service,124,63,4,57,46
+NHS Greater Manchester Integrated Care Board,95,44,3,48,51
+Ministry of Justice,88,65,5,18,20
 Home Office,81,36,2,43,53
 National Institute for Health and Care Excellence,80,45,2,33,41
 Department for Transport,76,30,1,45,59
@@ -13,19 +13,19 @@ Barts Health NHS Trust,63,23,3,37,59
 National Highways,58,34,2,22,38
 Metropolitan Police Service,52,27,2,23,44
 National Police Chiefs’ Council,49,37,2,10,20
-Medicines and Healthcare Products Regulatory Agency,48,35,0,13,27
 University Hospitals Sussex NHS Foundation Trust,48,25,1,22,46
+Medicines and Healthcare Products Regulatory Agency,48,35,0,13,27
 Health and Safety Executive,47,26,1,20,43
 Welsh Ambulance Services NHS Trust,45,19,0,26,58
 Pennine Care NHS Foundation Trust,44,25,1,18,41
 Department for Education,40,15,3,22,55
-Greater Manchester Mental Health NHS Foundation Trust,36,20,0,16,44
 College of Policing,36,14,0,22,61
-REDACTED,35,22,5,8,23
-Sussex Partnership NHS Foundation Trust,35,14,0,21,60
+Greater Manchester Mental Health NHS Foundation Trust,36,20,0,16,44
 Network Rail,35,6,0,29,83
+Sussex Partnership NHS Foundation Trust,35,14,0,21,60
+REDACTED,35,22,5,8,23
 East London NHS Foundation Trust,35,14,2,19,54
 Northern Care Alliance NHS Foundation Trust,32,16,1,15,47
 General Medical Council,31,18,1,12,39
 Birmingham and Solihull Mental Health NHS Foundation Trust,31,11,2,18,58
-Norfolk and Suffolk NHS Foundation Trust,30,9,0,21,70
+"Ministry of Housing, Communities and Local Government",30,15,2,13,43
