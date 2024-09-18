@@ -166,6 +166,7 @@ Church Elm Lane Medical Practice,1,100.0
 Church Lane Surgery,1,100.0
 Church of England,1,100.0
 City and County Healthcare Group,1,100.0
+City of Westminster,1,100.0
 Clacton Community Practices,1,100.0
 Clatterbridge Cancer Centre,1,100.0
 Cleric Computer Services,1,100.0
@@ -621,8 +622,8 @@ Ynys Mon County Council,1,100.0
 Your Health Limited,1,100.0
 Zinnia Healthcare Limited,1,100.0
 Leeds City Council,10,91.0
+North West Boroughs Healthcare NHS Foundation Trust,9,90.0
 University Hospitals of Leicester NHS Trust,9,90.0
-North West Boroughs Healthcare NHS Foundation Trust,8,89.0
 Food Standards Agency,7,88.0
 Guy's and St Thomas' NHS Foundation Trust,6,86.0
 Leicestershire Partnership NHS Trust,11,85.0
@@ -645,7 +646,7 @@ West Hertfordshire Hospitals NHS Trust,3,75.0
 Devon Partnership NHS Trust,14,74.0
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",8,73.0
 Yorkshire Ambulance Service NHS Trust,8,73.0
-Betsi Cadwaladr University Health Board,49,72.0
+Betsi Cadwaladr University Health Board,50,72.0
 Civil Aviation Authority,12,71.0
 South East Coast Ambulance Service NHS Foundation Trust,10,71.0
 "Bournemouth, Christchurch and Poole Council",5,71.0
@@ -765,13 +766,13 @@ Department of Health and Social Care,371,54.0
 "Ministry of Housing, Communities and Local Government",19,54.0
 County Durham and Darlington NHS Foundation Trust,7,54.0
 Department for Work and Pensions,7,54.0
+Barts Health NHS Trust,37,53.0
 Metropolitan Police Service,32,53.0
 University Hospitals Sussex NHS Foundation Trust,31,53.0
 Herefordshire and Worcestershire Health and Care NHS Trust,10,53.0
 Medway NHS Foundation Trust,9,53.0
 NHS Digital,8,53.0
 Priory Group,8,53.0
-Barts Health NHS Trust,36,52.0
 Greater Manchester Police,17,52.0
 Northern Care Alliance NHS Foundation Trust,20,51.0
 East London NHS Foundation Trust,18,50.0
@@ -902,7 +903,7 @@ Oxleas NHS Foundation Trust,11,48.0
 Cwm Taf Morgannwg University Health Board,14,47.0
 East Kent Hospitals University NHS Foundation Trust,9,47.0
 North East Ambulance Service NHS Foundation Trust,7,47.0
-NHS England,212,46.0
+NHS England,213,46.0
 Department for Transport,42,46.0
 Midlands Partnership University NHS Foundation Trust,11,46.0
 East Lancashire Hospitals NHS Trust,6,46.0
@@ -1091,12 +1092,12 @@ St George’s University Hospitals NHS Foundation Trust,3,19.0
 Public Health England,3,18.0
 British Medical Association,2,18.0
 REDACTED,11,17.0
-Advisory Council on the Misuse of Drugs,1,17.0
 Circle Health Group,1,17.0
 Rail Safety and Standards Board,1,17.0
 Tameside Metropolitan Borough Council,1,17.0
 Thames Valley Police,1,17.0
 Dorset Healthcare University NHS Foundation Trust,2,15.0
+Advisory Council on the Misuse of Drugs,1,14.0
 Joint Royal Colleges Ambulance Liaison Committee,1,14.0
 Royal College of Pathologists,1,14.0
 NHS Nottingham and Nottinghamshire Integrated Care Board,1,10.0

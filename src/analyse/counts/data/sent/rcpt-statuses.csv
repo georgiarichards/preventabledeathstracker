@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,683,1582,1060,371,162,135,15
-NHS England,459,1212,740,213,124,115,7
+Department of Health and Social Care,683,1582,1060,371,162,136,14
+NHS England,459,1212,740,213,124,116,6
 Care Quality Commission,157,438,255,57,56,41,3
 HM Prison and Probation Service,142,327,165,59,41,38,4
 Ministry of Justice,100,262,115,23,38,34,5
@@ -12,14 +12,14 @@ Barts Health NHS Trust,70,114,70,37,11,19,3
 Betsi Cadwaladr University Health Board,69,92,60,50,3,16,0
 National Highways,64,98,50,27,8,27,2
 REDACTED,63,201,61,11,22,26,4
-Metropolitan Police Service,60,143,99,32,13,13,2
+Metropolitan Police Service,60,143,99,32,13,14,1
 University Hospitals Sussex NHS Foundation Trust,59,93,56,31,11,16,1
 National Police Chiefs’ Council,55,194,126,14,28,11,2
 Medicines and Healthcare Products Regulatory Agency,55,150,76,19,18,18,0
 Health and Safety Executive,50,139,73,19,15,15,1
 Pennine Care NHS Foundation Trust,47,115,53,21,12,13,1
 Welsh Ambulance Services NHS Trust,45,88,51,25,7,13,0
-Department for Education,44,134,80,17,14,10,3
+Department for Education,44,134,80,17,14,11,2
 Greater Manchester Mental Health NHS Foundation Trust,43,113,51,18,11,14,0
 Sussex Partnership NHS Foundation Trust,42,70,43,25,7,10,0
 Network Rail,41,61,42,26,5,10,0
@@ -91,7 +91,7 @@ United Lincolnshire Hospitals NHS Trust,16,22,7,7,1,8,0
 South Central Ambulance Service NHS Foundation Trust,16,34,17,5,4,7,0
 Surrey County Council,16,33,19,4,8,4,0
 Milton Keynes University Hospital NHS Foundation Trust,16,23,17,10,2,4,0
-Surrey Police,15,46,11,4,4,5,2
+Surrey Police,15,46,11,4,4,6,1
 NHS Digital,15,48,35,8,5,2,0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,15,18,10,10,0,5,0
 North East Ambulance Service NHS Foundation Trust,15,27,14,7,2,4,2
@@ -103,7 +103,7 @@ King’s College Hospital NHS Foundation Trust,14,23,11,6,2,6,0
 Durham County Council,14,15,13,11,1,2,0
 Royal College of Physicians,14,61,37,3,6,3,2
 East Lancashire Hospitals NHS Trust,13,14,6,6,0,7,0
-County Durham and Darlington NHS Foundation Trust,13,20,12,7,1,4,1
+County Durham and Darlington NHS Foundation Trust,13,20,12,7,1,5,0
 Hywel Dda University Health Board,13,24,8,6,1,6,0
 Department for Work and Pensions,13,29,17,7,4,2,0
 HM Prison Pentonville,13,27,13,3,7,3,0
@@ -772,7 +772,7 @@ Scape Living Student Accommodation,1,1,1,1,0,0,0
 Nottingham City Council,1,1,1,1,0,0,0
 Scottish Cycling,1,3,1,0,1,0,0
 Scraptoft Court residential Care Home,1,1,2,1,0,0,0
-Seascape Homes and Property Limited,1,1,0,0,0,0,1
+Seascape Homes and Property Limited,1,1,0,0,0,1,0
 Shimano Inc,1,2,0,0,0,1,0
 Proprietary Association,1,9,5,0,1,0,0
 Provost Marshall (Army),1,2,0,0,0,1,0
