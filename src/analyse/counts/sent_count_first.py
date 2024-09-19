@@ -122,12 +122,19 @@ print(reports["response status"].value_counts())
 
 status_years = reports.assign(year=report_date.dt.year).value_counts(["year", "response status"]).unstack(fill_value=0)
 
-failed_index = True
-try:
-    status_years = status_years[["no requests", "failed", "pending", "overdue", "partial", "completed"]]
-except KeyError:
-    failed_index = False
-    status_years = status_years[["no requests", "pending", "overdue", "partial", "completed"]]
+columns_options = [
+    ["no requests", "failed", "pending", "overdue", "partial", "completed"],
+    ["no requests", "pending", "overdue", "partial", "completed"],
+    ["pending", "overdue", "partial", "completed"]
+]
+
+for columns in columns_options:
+    try:
+        status_years = status_years[columns]
+        break
+    except KeyError:
+        continue
+
 
 # %% [markdown]
 # ### Writing back the reports with the status

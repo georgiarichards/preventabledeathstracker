@@ -242,12 +242,21 @@ statuses = reports.copy()
 
 status_years = reports.assign(year=report_date.dt.year).value_counts(["year", "response status"]).unstack(fill_value=0)
 
-failed_index = True
-try:
-    status_years = status_years[["no sent_to", "failed", "pending", "overdue", "partial", "completed"]]
-except KeyError:
-    failed_index = False
-    status_years = status_years[["no sent_to", "pending", "overdue", "partial", "completed"]]
+columns_options = [
+    ["no requests", "failed", "pending", "overdue", "partial", "completed"],
+    ["no requests", "pending", "overdue", "partial", "completed"],
+    ["pending", "overdue", "partial", "completed"],
+    ["overdue", "partial", "completed"],
+    ["overdue", "completed"]
+]
+selected_option = columns_options[0]
+for columns in columns_options:
+    try:
+        selected_option = columns
+        status_years = status_years[columns]
+        break
+    except KeyError:
+        continue
 
 # %% [markdown]
 # ### Writing back the reports with the status
@@ -274,54 +283,35 @@ area_statuses = reports.value_counts(["coroner_area", "response status"]).unstac
 area_statuses.loc[:, ["no. recipients", "no. replies"]] = reports.groupby("coroner_area")[
     ["no. recipients", "no. replies"]
 ].sum()
-if failed_index:
-    area_statuses = area_statuses.rename(
-        {
+
+status_rename_dict = {
             "completed": "no. complete responses",
             "partial": "no. partial responses",
             "overdue": "no. overdue responses",
             "failed": "no. failed parses",
             "pending": "no. pending responses",
-        },
-        axis=1,
-    )
-else:
-    area_statuses = area_statuses.rename(
-        {
-            "completed": "no. complete responses",
-            "partial": "no. partial responses",
-            "overdue": "no. overdue responses",
-            "pending": "no. pending responses",
-        },
-        axis=1,
-    )
+        }
+
+filtred_status_rename_dict = {k: v for k, v in status_rename_dict.items() if k in selected_option}
+
+area_statuses = area_statuses.rename(
+    filtred_status_rename_dict,
+    axis=1,
+)
 area_statuses["no. PFDs"] = reports["coroner_area"].value_counts()
 area_statuses = area_statuses.sort_values("no. PFDs", ascending=False)
-if failed_index:
-    area_statuses = area_statuses[
-        [
-            "no. PFDs",
-            "no. recipients",
-            "no. replies",
+
+base_list = ["no. PFDs", "no. recipients", "no. replies"]
+raw_list = [
             "no. complete responses",
             "no. partial responses",
             "no. overdue responses",
             "no. pending responses",
             "no. failed parses",
         ]
-    ]
-else:
-    area_statuses = area_statuses[
-        [
-            "no. PFDs",
-            "no. recipients",
-            "no. replies",
-            "no. complete responses",
-            "no. partial responses",
-            "no. overdue responses",
-            "no. pending responses",
-        ]
-    ]
+list_for_extend = [i for i in raw_list if i in filtred_status_rename_dict.values()]
+statuses_list = base_list.extend(list_for_extend)
+area_statuses = area_statuses[base_list]
 
 # %% [markdown]
 # ### Calculating statistics over coroner names
@@ -331,55 +321,14 @@ name_statuses.loc[:, ["no. recipients", "no. replies"]] = reports.groupby("coron
     ["no. recipients", "no. replies"]
 ].sum()
 
-if failed_index:
-    name_statuses = name_statuses.rename(
-        {
-            "completed": "no. complete responses",
-            "partial": "no. partial responses",
-            "overdue": "no. overdue responses",
-            "failed": "no. failed parses",
-            "pending": "no. pending responses",
-        },
-        axis=1,
-    )
-else:
-    name_statuses = name_statuses.rename(
-        {
-            "completed": "no. complete responses",
-            "partial": "no. partial responses",
-            "overdue": "no. overdue responses",
-            "pending": "no. pending responses",
-        },
-        axis=1,
-    )
+name_statuses = name_statuses.rename(
+    filtred_status_rename_dict,
+    axis=1,
+)
 
 name_statuses["no. PFDs"] = reports["coroner_name"].value_counts()
 name_statuses = name_statuses.sort_values("no. PFDs", ascending=False)
-if failed_index:
-    name_statuses = name_statuses[
-        [
-            "no. PFDs",
-            "no. recipients",
-            "no. replies",
-            "no. complete responses",
-            "no. partial responses",
-            "no. overdue responses",
-            "no. pending responses",
-            "no. failed parses",
-        ]
-    ]
-else:
-    name_statuses = name_statuses[
-        [
-            "no. PFDs",
-            "no. recipients",
-            "no. replies",
-            "no. complete responses",
-            "no. partial responses",
-            "no. overdue responses",
-            "no. pending responses",
-        ]
-    ]
+name_statuses = name_statuses[base_list]
 
 # %% [markdown]
 # ### Calculating statistics over recipients

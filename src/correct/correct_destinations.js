@@ -135,14 +135,14 @@ export default async function Corrector(keep_failed = true) {
         if (text === undefined || text.length === 0) return undefined
         if (incorrect.has(text)) return undefined
 
-        // if we have `;` or `|` in the text we can assume it's a well formed list
-        if (text.match(/[;|,]/) || text.match(connective_words)) {
+        // if we have `|` in the text we can assume it's a well formed list
+        if (!text.match(/[;]/) && (text.match(/[|,]/) || text.match(connective_words))) {
             const known_match = try_known_match(text)
             if (known_match) {
                 return known_match
             }
             const destinations = text
-                .split(/[;|]/g)
+                .split(/[|]/g)
                 .map(dest => dest.trim())
                 .filter(dest => dest.length > 0)
 
@@ -153,7 +153,23 @@ export default async function Corrector(keep_failed = true) {
                     if (known_match) {
                         return known_match
                     }
-                    // return coma_split(dest)
+                    return dest
+                })
+                .join(' | ')
+        }
+
+        // if we have `;` in the text we can assume it's a well formed list
+        if (text.match(/[;]/) || text.match(connective_words)) {
+            const destinations = text
+                .split(/[;]/g)
+                .map(dest => dest.trim())
+                .filter(dest => dest.length > 0)
+            return destinations
+                .map(dest => {
+                    const known_match = try_known_match(dest)
+                    if (known_match) {
+                        return known_match
+                    }
                     return dest
                 })
                 .join(' | ')
