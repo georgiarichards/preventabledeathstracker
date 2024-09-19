@@ -1,23 +1,23 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,683,137,13,371,162,54
-NHS England,459,116,6,213,124,46
-Care Quality Commission,157,41,3,57,56,36
-HM Prison and Probation Service,142,38,4,59,41,42
-Ministry of Justice,100,34,5,23,38,23
-Home Office,96,19,2,38,37,40
+Department of Health and Social Care,683,132,12,376,163,55
+NHS England,465,115,6,216,128,46
+Care Quality Commission,163,41,4,58,60,36
+HM Prison and Probation Service,145,37,4,60,44,41
+Ministry of Justice,100,33,5,23,39,23
 NHS Greater Manchester Integrated Care Board,95,19,3,54,19,57
-National Institute for Health and Care Excellence,91,32,2,36,21,40
-Department for Transport,91,25,1,42,23,46
+Home Office,95,19,2,37,37,39
+Department for Transport,92,25,1,42,24,46
+National Institute for Health and Care Excellence,92,33,2,36,21,39
+Betsi Cadwaladr University Health Board,71,17,0,51,3,72
 Barts Health NHS Trust,70,19,3,37,11,53
-Betsi Cadwaladr University Health Board,69,16,0,50,3,72
-National Highways,64,27,2,27,8,42
-REDACTED,63,26,4,11,22,17
-Metropolitan Police Service,60,14,1,32,13,53
+National Highways,65,27,3,27,8,42
+REDACTED,64,24,4,11,25,17
+Metropolitan Police Service,60,12,1,33,14,55
 University Hospitals Sussex NHS Foundation Trust,59,16,1,31,11,53
+Medicines and Healthcare Products Regulatory Agency,56,18,1,19,18,34
 National Police Chiefs’ Council,55,11,2,14,28,25
-Medicines and Healthcare Products Regulatory Agency,55,18,0,19,18,35
-Health and Safety Executive,50,15,1,19,15,38
-Pennine Care NHS Foundation Trust,47,13,1,21,12,45
+Health and Safety Executive,52,16,1,19,16,37
+Pennine Care NHS Foundation Trust,48,13,2,21,12,44
 Welsh Ambulance Services NHS Trust,45,13,0,25,7,56
 Department for Education,44,11,2,17,14,39
 Greater Manchester Mental Health NHS Foundation Trust,43,14,0,18,11,42
@@ -25,7 +25,7 @@ Sussex Partnership NHS Foundation Trust,42,10,0,25,7,60
 Network Rail,41,10,0,26,5,63
 Northern Care Alliance NHS Foundation Trust,39,10,1,20,8,51
 College of Policing,37,6,0,15,16,41
-Norfolk and Suffolk NHS Foundation Trust,36,9,0,25,2,69
-East London NHS Foundation Trust,36,13,1,18,4,50
-"Ministry of Housing, Communities and Local Government",35,8,2,19,6,54
-Manchester University NHS Foundation Trust,34,14,0,14,6,41
+Norfolk and Suffolk NHS Foundation Trust,36,7,0,25,4,69
+East London NHS Foundation Trust,36,12,1,19,4,53
+"Ministry of Housing, Communities and Local Government",35,6,2,21,6,60
+General Medical Council,35,10,1,8,16,23

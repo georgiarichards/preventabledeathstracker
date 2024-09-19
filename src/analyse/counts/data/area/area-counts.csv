@@ -1,16 +1,16 @@
 coroner_area,count
-Greater Manchester South,439
-London Inner North,268
-"West Sussex, Brighton and Hove",166
-Surrey,161
+Greater Manchester South,440
+London Inner North,269
+"West Sussex, Brighton and Hove",165
+Surrey,164
 Birmingham and Solihull,161
 London East,156
 London Inner South,132
+South Wales Central,124
 Greater Manchester North,124
-South Wales Central,123
 Staffordshire and Stoke-on-Trent,114
 Nottinghamshire,112
-Greater Manchester West,110
+Greater Manchester West,111
 Norfolk,110
 Yorkshire West Eastern,108
 Cornwall and the Isles of Scilly,106
@@ -41,9 +41,9 @@ London West,54
 Derby and Derbyshire,54
 Wiltshire and Swindon,54
 Lancashire and Blackburn with Darwen,52
-Yorkshire South East,49
+Yorkshire South East,50
 Cheshire,49
-Blackpool and Fylde,48
+Blackpool and Fylde,49
 Cambridgeshire and Peterborough,44
 London South,42
 Sunderland,42
@@ -59,8 +59,8 @@ Oxfordshire,26
 North Yorkshire and York,26
 Swansea and Neath Port Talbot,26
 East Sussex,25
+Somerset,25
 "Shropshire, Telford and Wrekin",24
-Somerset,24
 Carmarthenshire and Pembrokeshire,23
 Buckinghamshire,22
 Northumberland,21
