@@ -380,7 +380,7 @@ toml_stats["this report is sent to"] = statistics = {
     "reports parsed": [float(len(non_na)), percent(len(non_na), len(fetched))],
     "reports without recipients": [float(without), percent(without, len(fetched))],
     "reports failed": [float(failed), percent(failed, len(fetched))],
-    "reports no sent_to": [float(status_counts["no sent_to"]), percent(status_counts["no sent_to"], len(fetched))],
+    "reports no sent_to": [float(status_counts["no sent_to"]), percent(status_counts["no sent_to"], len(fetched))] if "no sent_to" in status_counts else 0,
     "reports pending": [float(status_counts["pending"]), percent(status_counts["pending"], len(fetched))],
     "reports overdue": [float(status_counts["overdue"]), percent(status_counts["overdue"], len(fetched))],
     "reports partial": [float(status_counts["partial"]), percent(status_counts["partial"], len(fetched))],
