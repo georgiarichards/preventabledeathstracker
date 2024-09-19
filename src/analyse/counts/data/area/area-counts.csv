@@ -1,14 +1,14 @@
 coroner_area,count
-Greater Manchester South,440
+Greater Manchester South,441
 London Inner North,269
 "West Sussex, Brighton and Hove",165
 Surrey,164
 Birmingham and Solihull,161
-London East,156
+London East,157
 London Inner South,132
-South Wales Central,124
 Greater Manchester North,124
-Staffordshire and Stoke-on-Trent,114
+South Wales Central,124
+Staffordshire and Stoke-on-Trent,115
 Nottinghamshire,112
 Greater Manchester West,111
 Norfolk,110
@@ -34,32 +34,32 @@ Manchester City,64
 Suffolk,64
 London North,63
 Kent Mid and Medway,60
-Liverpool and the Wirral,60
 Worcestershire,60
+Liverpool and the Wirral,60
 Berkshire,58
+Wiltshire and Swindon,54
 London West,54
 Derby and Derbyshire,54
-Wiltshire and Swindon,54
 Lancashire and Blackburn with Darwen,52
 Yorkshire South East,50
-Cheshire,49
 Blackpool and Fylde,49
+Cheshire,49
 Cambridgeshire and Peterborough,44
-London South,42
 Sunderland,42
+London South,42
 Gwent,41
 Warwickshire,39
 Gloucestershire,36
 Newcastle and North Tyneside,35
 Northamptonshire,33
 Hertfordshire,31
-East Riding of Yorkshire and Kingston-upon-Hull,29
 Kent Central and South East,29
-Oxfordshire,26
+East Riding of Yorkshire and Kingston-upon-Hull,29
 North Yorkshire and York,26
+Oxfordshire,26
 Swansea and Neath Port Talbot,26
-East Sussex,25
 Somerset,25
+East Sussex,25
 "Shropshire, Telford and Wrekin",24
 Carmarthenshire and Pembrokeshire,23
 Buckinghamshire,22
@@ -75,6 +75,5 @@ Rutland and North Leicestershire,12
 Gateshead and South Tyneside,10
 Kent North West,8
 "Sefton, Knowsley and St Helens",6
-Ceredigion,1
 Central Criminal Court,1
-Staffordshire,1
+Ceredigion,1
