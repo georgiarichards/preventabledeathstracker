@@ -1,5 +1,5 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,683,1589,1070,376,163,132,12
+Department of Health and Social Care,683,1589,1070,376,163,133,11
 NHS England,465,1226,749,216,128,115,6
 Care Quality Commission,163,451,263,58,60,41,4
 HM Prison and Probation Service,146,335,173,60,45,37,4
@@ -9,7 +9,7 @@ Home Office,95,298,211,37,37,19,2
 National Institute for Health and Care Excellence,92,254,151,36,21,33,2
 Department for Transport,92,212,125,42,24,25,1
 Betsi Cadwaladr University Health Board,71,96,62,51,3,17,0
-Barts Health NHS Trust,70,114,70,37,11,19,3
+Barts Health NHS Trust,70,114,70,37,11,20,2
 National Highways,65,100,50,27,8,27,3
 REDACTED,64,209,65,11,25,24,4
 Metropolitan Police Service,60,143,104,33,14,12,1
@@ -35,7 +35,7 @@ Birmingham and Solihull Mental Health NHS Foundation Trust,33,94,73,21,8,2,2
 Greater Manchester Police,33,98,56,17,10,6,0
 Practice Plus Group,33,85,48,12,20,1,0
 Cwm Taf Morgannwg University Health Board,31,56,22,14,4,12,1
-Essex Partnership University NHS Foundation Trust,31,57,29,12,6,12,1
+Essex Partnership University NHS Foundation Trust,31,57,29,12,6,13,0
 Stockport NHS Foundation Trust,31,45,24,18,2,11,0
 Central and North West London NHS Foundation Trust,30,62,32,12,8,10,0
 University Hospitals of Derby and Burton NHS Foundation Trust,30,44,24,16,4,10,0
