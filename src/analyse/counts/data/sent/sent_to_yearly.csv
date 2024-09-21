@@ -2,17 +2,17 @@ Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,Total,%
 Department of Health and Social Care,19,60,55,47,31,50,48,46,63,78,98,88,683,55,376,163,133,11
 NHS England,6,25,22,34,27,37,45,26,40,46,86,71,465,46,216,128,115,6
 Care Quality Commission,11,13,10,15,20,13,14,10,18,11,12,16,163,36,58,60,41,4
-HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,14,146,41,60,45,37,4
-Ministry of Justice,1,12,6,9,1,8,13,0,12,11,10,16,99,23,23,38,33,5
+HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,14,146,41,60,45,38,3
+Ministry of Justice,1,12,6,9,1,8,13,0,12,11,10,16,99,23,23,38,34,4
 NHS Greater Manchester Integrated Care Board,1,2,1,1,6,4,16,12,20,11,10,11,95,57,54,19,19,3
-Home Office,2,8,10,5,4,5,12,8,12,11,11,7,95,39,37,37,19,2
+Home Office,2,8,10,5,4,5,12,8,12,11,11,7,95,39,37,37,20,1
 National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,5,17,14,92,39,36,21,33,2
-Department for Transport,1,12,6,12,9,5,6,8,9,6,11,7,92,46,42,24,25,1
+Department for Transport,1,12,6,12,9,5,6,8,9,6,11,7,92,46,42,24,26,0
 Betsi Cadwaladr University Health Board,1,9,7,4,7,2,2,1,4,4,21,9,71,72,51,3,17,0
 Barts Health NHS Trust,0,5,5,6,5,7,9,8,3,7,10,5,70,53,37,11,20,2
 National Highways,1,7,8,4,7,1,9,4,4,8,7,5,65,42,27,8,27,3
 REDACTED,3,24,7,0,3,1,1,0,0,4,6,15,64,17,11,25,24,4
-Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,6,4,60,55,33,14,12,1
+Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,6,4,60,55,33,14,13,0
 University Hospitals Sussex NHS Foundation Trust,1,12,5,11,6,6,6,1,4,2,3,2,59,53,31,11,16,1
 Medicines and Healthcare Products Regulatory Agency,1,8,4,6,4,5,6,5,3,3,6,5,56,34,19,18,18,1
 National Police Chiefs’ Council,1,3,5,2,2,2,8,2,11,3,10,6,55,25,14,28,11,2
@@ -50,7 +50,7 @@ Nottinghamshire Healthcare NHS Foundation Trust,0,1,3,4,2,0,0,0,2,3,6,4,25,56,14
 Midlands Partnership University NHS Foundation Trust,1,1,2,0,4,4,3,2,1,1,2,3,24,46,11,5,8,0
 Royal College of Paediatrics and Child Health,0,4,1,1,1,0,1,1,3,2,6,4,24,38,9,9,4,2
 Blackpool Teaching Hospitals NHS Foundation Trust,1,5,1,3,1,2,4,2,1,1,1,2,24,58,14,1,9,0
-Welsh Government,1,1,3,4,5,2,3,0,1,0,0,4,24,38,9,10,4,1
+Welsh Government,1,1,3,4,5,2,3,0,1,0,0,4,24,38,9,10,5,0
 "Tees, Esk and Wear Valley NHS Foundation Trust",3,6,0,2,2,0,0,1,1,2,5,2,24,50,12,6,5,1
 Camden and Islington NHS Foundation Trust,2,3,6,1,4,1,1,1,1,1,1,1,23,57,13,4,6,0
 Oxleas NHS Foundation Trust,0,1,0,2,1,5,2,4,1,3,2,2,23,43,10,7,6,0
@@ -180,7 +180,7 @@ NHS Wales,0,0,3,2,0,0,1,0,0,0,0,3,9,33,3,2,4,0
 Food Standards Agency,0,1,0,0,1,1,1,1,0,1,1,1,8,88,7,1,0,0
 "Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust",1,0,0,3,3,0,0,0,0,1,0,0,8,62,5,2,1,0
 Royal Wolverhampton NHS Trust,0,0,0,3,3,0,1,0,0,1,0,0,8,38,3,1,4,0
-Cambridgeshire County Council,0,1,0,0,0,0,0,0,1,1,4,1,8,50,4,0,3,1
+Cambridgeshire County Council,0,1,0,0,0,0,0,0,1,1,4,1,8,50,4,0,4,0
 Hampshire County Council,0,1,0,2,0,0,2,0,1,1,0,1,8,50,4,3,1,0
 Camden Council,0,2,0,1,0,1,1,2,0,0,0,1,8,50,4,2,2,0
 Royal College of Pathologists,0,2,0,0,0,1,3,0,0,1,1,0,8,25,2,3,3,0
@@ -349,7 +349,7 @@ Kirklees Council,0,0,1,0,0,0,1,1,1,0,0,0,4,25,1,2,1,0
 HM Prison Exeter,0,0,2,0,0,0,0,0,1,0,1,0,4,50,2,1,1,0
 HM Prison Durham,0,1,1,0,0,0,1,0,1,0,0,0,4,75,3,1,0,0
 Denbighshire County Council,0,1,1,0,1,0,0,0,0,0,1,0,4,50,2,1,1,0
-Redbridge Council,0,0,0,0,0,0,0,0,1,0,1,2,4,0,0,1,2,1
+Redbridge Council,0,0,0,0,0,0,0,0,1,0,1,2,4,0,0,1,3,0
 Association of Police and Crime Commissioners,0,0,0,0,0,0,0,0,0,2,1,1,4,75,3,1,0,0
 West Suffolk NHS Foundation Trust,0,1,0,0,0,1,0,2,0,0,0,0,4,50,2,0,2,0
 Avon and Somerset Constabulary,1,0,0,0,1,0,0,1,1,0,0,0,4,25,1,2,1,0

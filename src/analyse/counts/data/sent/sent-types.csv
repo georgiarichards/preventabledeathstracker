@@ -2,17 +2,17 @@ sent_to,no. PFDs,overdue,pending,received,% received
 Department of Health and Social Care,683,276,11,396,58
 NHS England,465,188,6,271,58
 Care Quality Commission,163,98,4,61,37
-HM Prison and Probation Service,146,79,4,63,43
-Ministry of Justice,99,73,5,21,21
+HM Prison and Probation Service,146,80,3,63,43
+Ministry of Justice,99,74,4,21,21
 NHS Greater Manchester Integrated Care Board,95,44,3,48,51
-Home Office,95,43,2,50,53
+Home Office,95,44,1,50,53
 National Institute for Health and Care Excellence,92,55,2,35,38
-Department for Transport,92,41,1,50,54
+Department for Transport,92,42,0,50,54
 Betsi Cadwaladr University Health Board,71,20,0,51,72
 Barts Health NHS Trust,70,25,2,43,61
 National Highways,65,37,3,25,38
 REDACTED,64,49,4,11,17
-Metropolitan Police Service,60,29,1,30,50
+Metropolitan Police Service,60,30,0,30,50
 University Hospitals Sussex NHS Foundation Trust,59,30,1,28,47
 Medicines and Healthcare Products Regulatory Agency,56,39,1,16,29
 National Police Chiefs’ Council,55,41,2,12,22
@@ -50,7 +50,7 @@ Nottinghamshire Healthcare NHS Foundation Trust,25,11,0,14,56
 Midlands Partnership University NHS Foundation Trust,24,13,0,11,46
 Royal College of Paediatrics and Child Health,24,11,2,11,46
 Blackpool Teaching Hospitals NHS Foundation Trust,24,11,0,13,54
-Welsh Government,24,10,1,13,54
+Welsh Government,24,11,0,13,54
 "Tees, Esk and Wear Valley NHS Foundation Trust",24,16,1,7,29
 Camden and Islington NHS Foundation Trust,23,10,0,13,57
 Oxleas NHS Foundation Trust,23,13,0,10,43
@@ -180,7 +180,7 @@ NHS Wales,9,7,0,2,22
 Food Standards Agency,8,1,0,7,88
 "Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust",8,3,0,5,62
 Royal Wolverhampton NHS Trust,8,4,0,4,50
-Cambridgeshire County Council,8,3,1,4,50
+Cambridgeshire County Council,8,4,0,4,50
 Hampshire County Council,8,2,0,6,75
 Camden Council,8,3,0,5,62
 Royal College of Pathologists,8,6,0,2,25
@@ -349,7 +349,7 @@ Kirklees Council,4,3,0,1,25
 HM Prison Exeter,4,2,0,2,50
 HM Prison Durham,4,1,0,3,75
 Denbighshire County Council,4,2,0,2,50
-Redbridge Council,4,3,1,0,0
+Redbridge Council,4,4,0,0,0
 Association of Police and Crime Commissioners,4,3,0,1,25
 West Suffolk NHS Foundation Trust,4,2,0,2,50
 Avon and Somerset Constabulary,4,2,0,2,50

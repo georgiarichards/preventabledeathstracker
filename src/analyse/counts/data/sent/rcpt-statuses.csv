@@ -2,17 +2,17 @@ sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial r
 Department of Health and Social Care,683,1589,1070,376,163,133,11
 NHS England,465,1226,749,216,128,115,6
 Care Quality Commission,163,451,263,58,60,41,4
-HM Prison and Probation Service,146,335,173,60,45,37,4
-Ministry of Justice,99,259,113,23,38,33,5
+HM Prison and Probation Service,146,335,173,60,45,38,3
+Ministry of Justice,99,259,113,23,38,34,4
 NHS Greater Manchester Integrated Care Board,95,222,131,54,19,19,3
-Home Office,95,298,211,37,37,19,2
+Home Office,95,298,211,37,37,20,1
 National Institute for Health and Care Excellence,92,254,151,36,21,33,2
-Department for Transport,92,212,125,42,24,25,1
+Department for Transport,92,212,125,42,24,26,0
 Betsi Cadwaladr University Health Board,71,96,62,51,3,17,0
 Barts Health NHS Trust,70,114,70,37,11,20,2
 National Highways,65,100,50,27,8,27,3
 REDACTED,64,209,65,11,25,24,4
-Metropolitan Police Service,60,143,104,33,14,12,1
+Metropolitan Police Service,60,143,104,33,14,13,0
 University Hospitals Sussex NHS Foundation Trust,59,94,56,31,11,16,1
 Medicines and Healthcare Products Regulatory Agency,56,153,76,19,18,18,1
 National Police Chiefs’ Council,55,194,126,14,28,11,2
@@ -50,7 +50,7 @@ Nottinghamshire Healthcare NHS Foundation Trust,25,47,27,14,3,8,0
 Midlands Partnership University NHS Foundation Trust,24,45,23,11,5,8,0
 Royal College of Paediatrics and Child Health,24,93,54,9,9,4,2
 Blackpool Teaching Hospitals NHS Foundation Trust,24,38,22,14,1,9,0
-Welsh Government,24,61,37,9,10,4,1
+Welsh Government,24,61,37,9,10,5,0
 "Tees, Esk and Wear Valley NHS Foundation Trust",24,52,36,12,6,5,1
 Camden and Islington NHS Foundation Trust,23,38,24,13,4,6,0
 Oxleas NHS Foundation Trust,23,47,32,10,7,6,0
@@ -180,7 +180,7 @@ NHS Wales,9,24,11,3,2,4,0
 Food Standards Agency,8,29,27,7,1,0,0
 "Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust",8,15,11,5,2,1,0
 Royal Wolverhampton NHS Trust,8,11,4,3,1,4,0
-Cambridgeshire County Council,8,12,7,4,0,3,1
+Cambridgeshire County Council,8,12,7,4,0,4,0
 Hampshire County Council,8,15,11,4,3,1,0
 Camden Council,8,14,10,4,2,2,0
 Royal College of Pathologists,8,36,19,2,3,3,0
@@ -349,7 +349,7 @@ Kirklees Council,4,6,3,1,2,1,0
 HM Prison Exeter,4,6,3,2,1,1,0
 HM Prison Durham,4,10,7,3,1,0,0
 Denbighshire County Council,4,8,3,2,1,1,0
-Redbridge Council,4,14,2,0,1,2,1
+Redbridge Council,4,14,2,0,1,3,0
 Association of Police and Crime Commissioners,4,15,15,3,1,0,0
 West Suffolk NHS Foundation Trust,4,5,3,2,0,2,0
 Avon and Somerset Constabulary,4,12,5,1,2,1,0
