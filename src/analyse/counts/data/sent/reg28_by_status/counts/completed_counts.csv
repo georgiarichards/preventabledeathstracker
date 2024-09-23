@@ -6,6 +6,7 @@ NHS Norfolk and Waveney Integrated Care Board,4,100.0
 Royal Devon University Healthcare Foundation Trust,4,100.0
 Spire Healthcare Limited,4,100.0
 Bedfordshire Clinical Commissioning Group,3,100.0
+Doncaster Council,3,100.0
 East Sussex County Council,3,100.0
 Govia Thameslink Railway,3,100.0
 NHS Dorset Integrated Care Board,3,100.0
@@ -22,7 +23,6 @@ College of Paramedics,2,100.0
 Construction Industry Council,2,100.0
 Cumberland Council,2,100.0
 Cyngor Gwynedd Council,2,100.0
-Doncaster Council,2,100.0
 Dorset County Hospital NHS Foundation Trust,2,100.0
 Energy UK,2,100.0
 GBUK Enteral,2,100.0
@@ -209,7 +209,6 @@ Derby City Council,1,100.0
 Derwent Students,1,100.0
 Digital,1,100.0
 Dolby Vivisol,1,100.0
-Doncaster Borough Council,1,100.0
 Donneybrook Medical Centre,1,100.0
 Dorset Highways Management,1,100.0
 Downham Grange Care Home,1,100.0
@@ -741,7 +740,6 @@ Stoke on Trent City Council,3,60.0
 University Hospitals Bristol and Weston NHS Foundation Trust,3,60.0
 West Mercia Police,3,60.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,16,59.0
-Leeds Teaching Hospitals NHS Trust,13,59.0
 Stockport NHS Foundation Trust,18,58.0
 Blackpool Teaching Hospitals NHS Foundation Trust,14,58.0
 Herefordshire and Worcestershire Health and Care NHS Trust,11,58.0
@@ -751,6 +749,7 @@ North Cumbria Integrated Care NHS Foundation Trust,7,58.0
 NHS Greater Manchester Integrated Care Board,54,57.0
 "Ministry of Housing, Communities and Local Government",21,57.0
 Camden and Islington NHS Foundation Trust,13,57.0
+Leeds Teaching Hospitals NHS Trust,13,57.0
 Lewisham and Greenwich NHS Trust,4,57.0
 Milton Keynes City Council,4,57.0
 Shrewsbury and Telford Hospital NHS Trust,4,57.0
