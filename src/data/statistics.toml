@@ -1,7 +1,7 @@
 [year]
 "no. reports parsed" = 5268
-"no. years covered" = 11.1
-"mean per year" = 474.6
+"no. years covered" = 11.2
+"mean per year" = 470.4
 "median per year" = 462.0
 "IQR of years" = [ 420.75, 491.75,]
 
@@ -46,17 +46,17 @@
 "reports without recipients" = [ 1.0, 0.0,]
 "reports failed" = [ -1.0, -0.0,]
 "reports no sent_to" = 0
-"reports pending" = [ 77.0, 1.5,]
-"reports overdue" = [ 1513.0, 28.7,]
+"reports pending" = [ 73.0, 1.4,]
+"reports overdue" = [ 1517.0, 28.8,]
 "reports partial" = [ 719.0, 13.6,]
 "reports completed" = [ 2959.0, 56.2,]
 
 ["requests for response"]
 "no. recipients with requests" = 2067
 "no. requests for response" = 8435
-"requests pending" = [ 141.0, 1.7,]
+"requests pending" = [ 135.0, 1.6,]
 "requests received" = [ 3999.0, 47.4,]
-"requests overdue" = [ 4295.0, 50.9,]
+"requests overdue" = [ 4301.0, 51.0,]
 "mean no. requests per recipient" = 4.1
 "median no. requests per recipient" = 1.0
 "IQR of requests per recipients" = [ 1.0, 2.0,]
