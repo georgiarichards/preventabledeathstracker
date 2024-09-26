@@ -1,5 +1,5 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,683,134,10,376,163,55
+Department of Health and Social Care,683,135,9,376,163,55
 NHS England,465,115,6,216,128,46
 Care Quality Commission,163,41,4,58,60,36
 HM Prison and Probation Service,146,38,3,60,45,41
@@ -28,4 +28,4 @@ Northern Care Alliance NHS Foundation Trust,39,10,1,20,8,51
 College of Policing,37,6,0,15,16,41
 Norfolk and Suffolk NHS Foundation Trust,36,7,0,25,4,69
 East London NHS Foundation Trust,36,12,1,19,4,53
-General Medical Council,35,10,1,8,16,23
+General Medical Council,35,11,0,8,16,23

@@ -1,5 +1,5 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,683,1589,1070,376,163,134,10
+Department of Health and Social Care,683,1589,1070,376,163,135,9
 NHS England,465,1226,749,216,128,115,6
 Care Quality Commission,163,451,263,58,60,41,4
 HM Prison and Probation Service,146,335,173,60,45,38,3
@@ -28,7 +28,7 @@ Northern Care Alliance NHS Foundation Trust,39,68,38,20,8,10,1
 College of Policing,37,130,125,15,16,6,0
 Norfolk and Suffolk NHS Foundation Trust,36,54,41,25,4,7,0
 East London NHS Foundation Trust,36,57,35,19,4,12,1
-General Medical Council,35,129,68,8,16,10,1
+General Medical Council,35,129,68,8,16,11,0
 Manchester University NHS Foundation Trust,34,60,23,14,6,14,0
 Association of Ambulance Chief Executives,33,134,85,7,19,6,1
 Greater Manchester Police,33,98,56,17,10,6,0
@@ -273,7 +273,7 @@ Princess Alexandra Hospital NHS Trust,5,7,6,3,0,2,0
 Essex Police,5,10,5,1,2,2,0
 Ofsted,5,9,7,3,0,2,0
 Northumbria Healthcare NHS Foundation Trust,5,7,5,3,2,0,0
-North Middlesex University Hospital NHS Trust,5,6,2,1,1,2,1
+North Middlesex University Hospital NHS Trust,5,6,2,1,1,3,0
 George Eliot Hospital NHS Trust,5,11,3,1,1,3,0
 Royal Society for the Prevention of Accidents,5,20,8,0,3,1,1
 Greater Manchester Combined Authority,5,15,5,1,2,2,0
@@ -1304,7 +1304,7 @@ Farleys Solicitors LLP,1,5,1,0,1,0,0
 Family Mosaic,1,3,0,0,0,1,0
 Fairlight Nursing Home,1,1,0,0,0,1,0
 Fairfield View Care Centre,1,2,1,0,1,0,0
-Faculty of Physician Associates,1,3,0,0,0,0,1
+Faculty of Physician Associates,1,3,0,0,0,1,0
 FALCON CRANE HIRE LIMITED,1,1,0,0,0,1,0
 FA Group,1,1,0,0,0,1,0
 Fentons,1,4,1,0,1,0,0

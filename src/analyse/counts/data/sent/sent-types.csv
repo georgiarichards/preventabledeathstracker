@@ -1,5 +1,5 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,683,277,10,396,58
+Department of Health and Social Care,683,278,9,396,58
 NHS England,465,188,6,271,58
 Care Quality Commission,163,98,4,61,37
 HM Prison and Probation Service,146,80,3,63,43
@@ -28,7 +28,7 @@ Northern Care Alliance NHS Foundation Trust,39,20,1,18,46
 College of Policing,37,13,0,24,65
 Norfolk and Suffolk NHS Foundation Trust,36,10,0,26,72
 East London NHS Foundation Trust,36,14,1,21,58
-General Medical Council,35,21,1,13,37
+General Medical Council,35,22,0,13,37
 Manchester University NHS Foundation Trust,34,20,0,14,41
 Association of Ambulance Chief Executives,33,19,1,13,39
 Greater Manchester Police,33,9,0,24,73
@@ -273,7 +273,7 @@ Princess Alexandra Hospital NHS Trust,5,2,0,3,60
 Essex Police,5,3,0,2,40
 Ofsted,5,2,0,3,60
 Northumbria Healthcare NHS Foundation Trust,5,2,0,3,60
-North Middlesex University Hospital NHS Trust,5,3,1,1,20
+North Middlesex University Hospital NHS Trust,5,4,0,1,20
 George Eliot Hospital NHS Trust,5,4,0,1,20
 Royal Society for the Prevention of Accidents,5,4,1,0,0
 Greater Manchester Combined Authority,5,4,0,1,20
@@ -1304,7 +1304,7 @@ Farleys Solicitors LLP,1,1,0,0,0
 Family Mosaic,1,1,0,0,0
 Fairlight Nursing Home,1,1,0,0,0
 Fairfield View Care Centre,1,0,0,1,100
-Faculty of Physician Associates,1,0,1,0,0
+Faculty of Physician Associates,1,1,0,0,0
 FALCON CRANE HIRE LIMITED,1,1,0,0,0
 FA Group,1,1,0,0,0
 Fentons,1,1,0,0,0
