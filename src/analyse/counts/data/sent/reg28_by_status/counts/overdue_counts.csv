@@ -675,13 +675,13 @@ Gloucestershire Hospital NHS Foundation Trust,3,38.0
 Health Services Safety Investigations Body,3,38.0
 Resuscitation Council UK,3,38.0
 Royal College of Pathologists,3,38.0
+Ministry of Justice,36,36.0
 National Institute for Health and Care Excellence,33,36.0
 British Medical Association,4,36.0
 Stockport NHS Foundation Trust,11,35.0
 Leeds Teaching Hospitals NHS Trust,8,35.0
 Kent and Medway NHS and Social Care Partnership Trust,6,35.0
 NHS Derby and Derbyshire Integrated Care Board,6,35.0
-Ministry of Justice,34,34.0
 Greater Manchester Mental Health NHS Foundation Trust,14,33.0
 East London NHS Foundation Trust,12,33.0
 Central and North West London NHS Foundation Trust,10,33.0
@@ -766,6 +766,7 @@ Department for Transport,26,28.0
 Aneurin Bevan University Health Board,7,28.0
 Royal College of Psychiatrists,5,28.0
 South London and Maudsley NHS Foundation Trust,5,28.0
+HM Prison and Probation Service,40,27.0
 University Hospitals Sussex NHS Foundation Trust,16,27.0
 Pennine Care NHS Foundation Trust,13,27.0
 Department for Education,12,27.0
@@ -776,7 +777,6 @@ Priory Group,4,27.0
 North Bristol NHS Trust,3,27.0
 South West Yorkshire Partnership NHS Foundation Trust,3,27.0
 Southern Health NHS Foundation Trust,3,27.0
-HM Prison and Probation Service,38,26.0
 Northern Care Alliance NHS Foundation Trust,10,26.0
 Camden and Islington NHS Foundation Trust,6,26.0
 Oxleas NHS Foundation Trust,6,26.0
@@ -913,6 +913,7 @@ Maidstone and Tunbridge Wells NHS Foundation Trust,1,11.0
 NHS Birmingham and Solihull Integrated Care Board,2,10.0
 North West Boroughs Healthcare NHS Foundation Trust,1,10.0
 University Hospitals of Leicester NHS Trust,1,10.0
+Birmingham and Solihull Mental Health NHS Foundation Trust,3,9.0
 Cornwall Partnership NHS Foundation Trust,1,9.0
 Devon and Cornwall Constabulary,1,9.0
 Leeds City Council,1,9.0
@@ -920,6 +921,5 @@ Sandwell and West Birmingham Hospitals NHS Trust,1,9.0
 Whittington Health NHS Trust,1,9.0
 Yorkshire Ambulance Service NHS Trust,1,9.0
 Maritime and Coastguard Agency,1,8.0
-Birmingham and Solihull Mental Health NHS Foundation Trust,2,6.0
 West Midlands Police,1,6.0
 Practice Plus Group,1,3.0

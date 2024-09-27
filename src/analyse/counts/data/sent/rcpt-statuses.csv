@@ -2,8 +2,8 @@ sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial r
 Department of Health and Social Care,683,1589,1070,376,163,135,9
 NHS England,465,1226,749,216,128,115,6
 Care Quality Commission,163,451,263,58,60,41,4
-HM Prison and Probation Service,146,335,173,60,45,38,3
-Ministry of Justice,99,259,113,23,38,34,4
+HM Prison and Probation Service,146,335,173,60,45,40,1
+Ministry of Justice,99,259,113,23,38,36,2
 Home Office,95,298,211,37,37,20,1
 NHS Greater Manchester Integrated Care Board,95,222,131,54,19,19,3
 National Institute for Health and Care Excellence,92,254,151,36,21,33,2
@@ -32,7 +32,7 @@ General Medical Council,35,129,68,8,16,11,0
 Manchester University NHS Foundation Trust,34,60,23,14,6,14,0
 Association of Ambulance Chief Executives,33,134,85,7,19,6,1
 Greater Manchester Police,33,98,56,17,10,6,0
-Birmingham and Solihull Mental Health NHS Foundation Trust,33,94,73,21,8,2,2
+Birmingham and Solihull Mental Health NHS Foundation Trust,33,94,73,21,8,3,1
 Practice Plus Group,33,85,48,12,20,1,0
 Stockport NHS Foundation Trust,31,45,24,18,2,11,0
 Cwm Taf Morgannwg University Health Board,31,56,22,14,4,12,1
