@@ -3,6 +3,7 @@ import os
 
 import pandas as pd
 import toml
+
 from helpers import monthly_toml_stats, percent
 
 PATH = os.path.dirname(__file__)
@@ -33,7 +34,9 @@ monthly_toml_stats["this report is sent to"] = statistics = {
         float(status_counts.get("pending", 0)),
         percent(status_counts.get("pending", 0), len(reports)),
     ],
-    "reports overdue": [float(status_counts["overdue"]), percent(status_counts["overdue"], len(reports))],
+    "reports overdue": [float(status_counts.get("overdue", 0)),
+                        percent(status_counts.get("overdue", 0), len(reports)),
+                        ],
     "reports partial": [
         float(status_counts.get("partial", 0)),
         percent(status_counts.get("partial", 0), len(reports)),
@@ -52,7 +55,10 @@ monthly_toml_stats["requests for response"] = {
         float(type_counts.get("completed", 0)),
         percent(type_counts.get("completed", 0), len(exploded)),
     ],
-    "requests overdue": [float(type_counts.get("overdue", 0)), percent(type_counts.get("overdue", 0), len(exploded))],
+    "requests overdue": [
+        float(type_counts.get("overdue", 0)), percent(type_counts.get("overdue", 0),
+                                                      len(exploded))
+    ],
     "mean no. requests per recipient": round(sent_counts.mean(), 1),
     "median no. requests per recipient": sent_counts.median(),
     "IQR of requests per recipients": list(sent_counts.quantile([0.25, 0.75])),

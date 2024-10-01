@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,683,135,9,376,163,55
-NHS England,465,115,6,216,128,46
-Care Quality Commission,163,42,3,58,60,36
-HM Prison and Probation Service,146,40,1,60,45,41
-Ministry of Justice,99,36,2,23,38,23
-NHS Greater Manchester Integrated Care Board,95,19,3,54,19,57
-Home Office,95,20,1,37,37,39
-National Institute for Health and Care Excellence,92,33,2,36,21,39
-Department for Transport,92,26,0,42,24,46
+Department of Health and Social Care,685,128,11,381,165,56
+NHS England,466,109,7,223,127,48
+Care Quality Commission,164,42,4,59,59,36
+HM Prison and Probation Service,146,39,1,60,46,41
+Ministry of Justice,99,32,2,23,42,23
+NHS Greater Manchester Integrated Care Board,96,19,4,55,18,57
+Home Office,95,18,1,37,39,39
+Department for Transport,92,24,0,42,26,46
+National Institute for Health and Care Excellence,92,29,2,38,23,41
 Betsi Cadwaladr University Health Board,71,17,0,51,3,72
 Barts Health NHS Trust,70,20,2,37,11,53
-National Highways,65,27,3,27,8,42
-REDACTED,64,25,3,11,25,17
+REDACTED,65,24,3,12,26,18
+National Highways,64,27,3,27,7,42
 Metropolitan Police Service,60,13,0,33,14,55
 University Hospitals Sussex NHS Foundation Trust,59,16,1,31,11,53
-Medicines and Healthcare Products Regulatory Agency,56,18,1,19,18,34
-National Police Chiefs’ Council,55,11,2,14,28,25
-Health and Safety Executive,52,17,0,19,16,37
-Pennine Care NHS Foundation Trust,48,13,2,21,12,44
-Welsh Ambulance Services NHS Trust,45,13,0,25,7,56
-Department for Education,44,12,1,17,14,39
+Medicines and Healthcare Products Regulatory Agency,56,18,1,20,17,36
+National Police Chiefs’ Council,55,10,2,14,29,25
+Health and Safety Executive,53,17,0,20,16,38
+Pennine Care NHS Foundation Trust,48,12,2,21,13,44
+Welsh Ambulance Services NHS Trust,45,12,0,26,7,58
+Department for Education,44,11,1,18,14,41
 Greater Manchester Mental Health NHS Foundation Trust,43,14,0,18,11,42
-Sussex Partnership NHS Foundation Trust,42,10,0,25,7,60
+Sussex Partnership NHS Foundation Trust,43,10,1,25,7,58
 Network Rail,41,10,0,26,5,63
 Northern Care Alliance NHS Foundation Trust,39,10,1,20,8,51
 "Ministry of Housing, Communities and Local Government",37,7,2,21,7,57
 College of Policing,37,6,0,15,16,41
+East London NHS Foundation Trust,36,11,1,20,4,56
 Norfolk and Suffolk NHS Foundation Trust,36,7,0,25,4,69
-East London NHS Foundation Trust,36,12,1,19,4,53
 General Medical Council,35,11,0,8,16,23
