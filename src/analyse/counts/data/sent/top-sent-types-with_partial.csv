@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,685,128,11,381,165,56
-NHS England,466,109,7,223,127,48
+Department of Health and Social Care,685,127,11,382,165,56
+NHS England,466,107,7,225,127,48
 Care Quality Commission,164,42,4,59,59,36
 HM Prison and Probation Service,146,39,1,60,46,41
 Ministry of Justice,99,32,2,23,42,23
@@ -20,8 +20,8 @@ Health and Safety Executive,53,17,0,20,16,38
 Pennine Care NHS Foundation Trust,48,12,2,21,13,44
 Welsh Ambulance Services NHS Trust,45,12,0,26,7,58
 Department for Education,44,11,1,18,14,41
-Greater Manchester Mental Health NHS Foundation Trust,43,14,0,18,11,42
 Sussex Partnership NHS Foundation Trust,43,10,1,25,7,58
+Greater Manchester Mental Health NHS Foundation Trust,43,14,0,18,11,42
 Network Rail,41,10,0,26,5,63
 Northern Care Alliance NHS Foundation Trust,39,10,1,20,8,51
 "Ministry of Housing, Communities and Local Government",37,7,2,21,7,57
