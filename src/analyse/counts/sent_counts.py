@@ -547,17 +547,18 @@ write_monthly_data_to_log(f"{REPORTS_PATH}/latest_last_month.log", filtered_mont
 
 name_statuses.rename(
     columns={
+        "no. PFDs": "Total PFDs",
         "no. recipients": "sent to count",
         "no. replies": "replies count",
-        "no. complete responses": "received",
+        "no. complete responses": "completed",
         "no. partial responses": "partial",
         "no. overdue responses": "overdue",
         "no. pending responses": "pending",
     },
     inplace=True,
 )
-name_statuses["% received"] = name_statuses.apply(
-    lambda row: ",".join(str((row["received"] / row["sent to count"] * 100).round(2)).split("."))
+name_statuses["% completed"] = name_statuses.apply(
+    lambda row: ",".join(str((row["completed"] / row["sent to count"] * 100).round(2)).split("."))
     if row["sent to count"] != 0
     else 0,
     axis=1,
@@ -565,10 +566,10 @@ name_statuses["% received"] = name_statuses.apply(
 
 area_statuses.rename(
     columns={
-        "no. PFDs": "Total PDFs",
+        "no. PFDs": "Total PFDs",
         "no. recipients": "Sent to",
         "no. replies": "Replies",
-        "no. complete responses": "received",
+        "no. complete responses": "completed",
         "no. partial responses": "partial",
         "no. overdue responses": "overdue",
         "no. pending responses": "pending",
@@ -578,8 +579,8 @@ area_statuses.rename(
 
 area_statuses.index.rename("Coroner area", inplace=True)
 
-area_statuses["% received"] = area_statuses.apply(
-    lambda row: ",".join(str((row["received"] / row["Sent to"] * 100).round(2)).split("."))
+area_statuses["% completed"] = area_statuses.apply(
+    lambda row: ",".join(str((row["completed"] / row["Sent to"] * 100).round(2)).split("."))
     if row["Sent to"] != 0
     else 0,
     axis=1,
