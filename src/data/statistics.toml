@@ -42,14 +42,14 @@
 "reports from top 10 names" = [ 916.0, 19.0,]
 
 ["this report is sent to"]
-"reports parsed" = [ 5266.0, 100.0,]
+"reports parsed" = [ 5266.0, 99.8,]
 "reports without recipients" = [ 1.0, 0.0,]
-"reports failed" = [ -1.0, -0.0,]
+"reports failed" = [ 11.0, 0.2,]
 "reports no sent_to" = 0
 "reports pending" = [ 59.0, 1.1,]
 "reports overdue" = [ 1528.0, 29.0,]
-"reports partial" = [ 720.0, 13.7,]
-"reports completed" = [ 2959.0, 56.2,]
+"reports partial" = [ 720.0, 13.6,]
+"reports completed" = [ 2959.0, 56.1,]
 
 ["requests for response"]
 "no. recipients with requests" = 2068
