@@ -273,7 +273,6 @@ Green Porch Medical Centre,1,100.0
 Greenbrook Healthcare,1,100.0
 Guinness Care,1,100.0
 Gwern Alyn House Residential Home,1,100.0
-"HADDON COURT REST HOME, BLACKPOOL",1,100.0
 HM Prison Cookham Wood,1,100.0
 HM Prison Dartmoor,1,100.0
 HM Prison Doncaster,1,100.0
@@ -287,6 +286,7 @@ HMP Cookham Wood,1,100.0
 HMP Featherstone,1,100.0
 HMP Northumberland,1,100.0
 HMP Wayland,1,100.0
+Haddon Court Limited,1,100.0
 Hamilton Community Homes Ltd,1,100.0
 Handicare Accessibility Ltd,1,100.0
 Hands of Light Academy,1,100.0
@@ -397,7 +397,6 @@ Meta Platforms,1,100.0
 Metalchem Ltd,1,100.0
 MiHomecare,1,100.0
 Midgehole Working Mens Club,1,100.0
-Midlands Partnership Trust,1,100.0
 Mirus Wales,1,100.0
 Moorfields Eye Hospital NHS Foundation Trust,1,100.0
 Motor Cross Federation,1,100.0
@@ -591,7 +590,6 @@ UPS,1,100.0
 URBN UK Ltd,1,100.0
 Ultra Events Ltd,1,100.0
 United Children’s Services,1,100.0
-University Hospital North Midlands,1,100.0
 University Hospitals of Leicester,1,100.0
 University of Hertfordshire,1,100.0
 University of Oxford,1,100.0
@@ -673,7 +671,7 @@ Suffolk County Council,5,71.0
 Egton Medical Information Systems,7,70.0
 Norfolk and Suffolk NHS Foundation Trust,25,69.0
 Bedfordshire Hospitals NHS Foundation Trust,11,69.0
-University Hospitals of North Midlands NHS Trust,14,67.0
+University Hospitals of North Midlands NHS Trust,15,68.0
 The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,12,67.0
 Bolton NHS Foundation Trust,8,67.0
 British Standards Institution,4,67.0
@@ -724,7 +722,6 @@ Devon and Cornwall Constabulary,7,64.0
 Norfolk County Council,7,64.0
 Oxford University Hospitals NHS Foundation Trust,7,64.0
 Sandwell and West Birmingham Hospitals NHS Trust,7,64.0
-West Midlands Ambulance Service University NHS Foundation Trust,7,64.0
 Network Rail,26,63.0
 Ministry of Defence,19,63.0
 University Hospitals Birmingham NHS Foundation Trust,18,62.0
@@ -752,15 +749,16 @@ Stoke on Trent City Council,3,60.0
 University Hospitals Bristol and Weston NHS Foundation Trust,3,60.0
 West Mercia Police,3,60.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,16,59.0
+Liverpool University Hospitals NHS Foundation Trust,10,59.0
 Welsh Ambulance Services NHS Trust,26,58.0
 Sussex Partnership NHS Foundation Trust,25,58.0
 Stockport NHS Foundation Trust,18,58.0
 Blackpool Teaching Hospitals NHS Foundation Trust,14,58.0
 Herefordshire and Worcestershire Health and Care NHS Trust,11,58.0
-Liverpool University Hospitals NHS Foundation Trust,11,58.0
 Great Western Hospitals NHS Foundation Trust,7,58.0
 Mid Yorkshire Teaching NHS Trust,7,58.0
 North Cumbria Integrated Care NHS Foundation Trust,7,58.0
+West Midlands Ambulance Service University NHS Foundation Trust,7,58.0
 NHS Greater Manchester Integrated Care Board,55,57.0
 "Ministry of Housing, Communities and Local Government",21,57.0
 University Hospitals of Derby and Burton NHS Foundation Trust,17,57.0
@@ -793,8 +791,8 @@ Medway NHS Foundation Trust,9,53.0
 NHS Digital,8,53.0
 Priory Group,8,53.0
 Greater Manchester Police,17,52.0
+Midlands Partnership University NHS Foundation Trust,13,52.0
 Northern Care Alliance NHS Foundation Trust,20,51.0
-Midlands Partnership University NHS Foundation Trust,12,50.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",12,50.0
 "Department for Culture, Media and Sport",10,50.0
 South London and Maudsley NHS Foundation Trust,9,50.0
@@ -929,7 +927,7 @@ Royal College of General Practitioners,10,45.0
 Royal Free London NHS Foundation Trust,5,45.0
 West London NHS Trust,5,45.0
 Pennine Care NHS Foundation Trust,21,44.0
-Manchester University NHS Foundation Trust,15,44.0
+Manchester University NHS Foundation Trust,16,44.0
 Cwm Taf Morgannwg University Health Board,14,44.0
 United Lincolnshire Hospitals NHS Trust,7,44.0
 Canal and River Trust,4,44.0

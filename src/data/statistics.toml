@@ -21,12 +21,12 @@
 "IQR of areas" = [ 26.0, 87.75,]
 
 ["coroners' society"]
-"no. names in society" = 932
-"names in society with reports" = [ 478.0, 51.3,]
-"names in society without reports" = [ 454.0, 48.7,]
-"coroners in society male" = [ 348.0, 37.3,]
-"coroners in society female" = [ 322.0, 34.5,]
-"coroners in society unknown" = [ 262.0, 28.1,]
+"no. names in society" = 929
+"names in society with reports" = [ 478.0, 51.5,]
+"names in society without reports" = [ 451.0, 48.5,]
+"coroners in society male" = [ 346.0, 37.2,]
+"coroners in society female" = [ 321.0, 34.6,]
+"coroners in society unknown" = [ 262.0, 28.2,]
 
 ["coroners in reports"]
 "reports from male coroners" = [ 2364.0, 44.8,]
@@ -46,17 +46,17 @@
 "reports without recipients" = [ 2.0, 0.0,]
 "reports failed" = [ -1.0, -0.0,]
 "reports no sent_to" = [ 1.0, 0.0,]
-"reports pending" = [ 71.0, 1.3,]
-"reports overdue" = [ 1491.0, 28.2,]
+"reports pending" = [ 67.0, 1.3,]
+"reports overdue" = [ 1495.0, 28.3,]
 "reports partial" = [ 722.0, 13.7,]
 "reports completed" = [ 2995.0, 56.7,]
 
 ["requests for response"]
 "no. recipients with requests" = 2073
 "no. requests for response" = 8458
-"requests pending" = [ 132.0, 1.6,]
+"requests pending" = [ 125.0, 1.5,]
 "requests received" = [ 4056.0, 48.0,]
-"requests overdue" = [ 4270.0, 50.5,]
+"requests overdue" = [ 4277.0, 50.6,]
 "mean no. requests per recipient" = 4.1
 "median no. requests per recipient" = 1.0
 "IQR of requests per recipients" = [ 1.0, 2.0,]
