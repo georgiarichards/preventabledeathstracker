@@ -1,11 +1,11 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,685,273,11,401,59
+Department of Health and Social Care,685,275,9,401,59
 NHS England,466,182,6,278,60
 Care Quality Commission,164,98,4,62,38
 HM Prison and Probation Service,146,82,1,63,43
-Ministry of Justice,99,76,2,21,21
+Ministry of Justice,99,77,1,21,21
 NHS Greater Manchester Integrated Care Board,96,43,4,49,51
-Home Office,95,40,1,54,57
+Home Office,95,41,0,54,57
 Department for Transport,92,41,0,51,55
 National Institute for Health and Care Excellence,92,54,2,36,39
 Betsi Cadwaladr University Health Board,71,20,0,51,72
@@ -15,7 +15,7 @@ National Highways,64,36,3,25,39
 Metropolitan Police Service,60,30,0,30,50
 University Hospitals Sussex NHS Foundation Trust,59,30,1,28,47
 Medicines and Healthcare Products Regulatory Agency,56,38,1,17,30
-National Police Chiefs’ Council,55,41,2,12,22
+National Police Chiefs’ Council,55,42,1,12,22
 Health and Safety Executive,53,31,0,22,42
 Pennine Care NHS Foundation Trust,48,28,2,18,38
 Welsh Ambulance Services NHS Trust,45,17,0,28,62
@@ -23,7 +23,7 @@ Department for Education,44,19,1,24,55
 Greater Manchester Mental Health NHS Foundation Trust,43,26,0,17,40
 Sussex Partnership NHS Foundation Trust,43,19,1,23,53
 Network Rail,41,11,0,30,73
-Northern Care Alliance NHS Foundation Trust,39,20,1,18,46
+Northern Care Alliance NHS Foundation Trust,39,21,0,18,46
 "Ministry of Housing, Communities and Local Government",37,19,1,17,46
 College of Policing,37,13,0,24,65
 East London NHS Foundation Trust,36,13,1,22,61
@@ -90,7 +90,7 @@ United Lincolnshire Hospitals NHS Trust,16,8,0,8,50
 St George’s University Hospitals NHS Foundation Trust,16,13,0,3,19
 Milton Keynes University Hospital NHS Foundation Trust,16,7,0,9,56
 Cumbria County Council,16,7,0,9,56
-Surrey Police,16,9,2,5,31
+Surrey Police,16,10,1,5,31
 Bedfordshire Hospitals NHS Foundation Trust,16,6,0,10,62
 NHS Digital,15,4,0,11,73
 North East Ambulance Service NHS Foundation Trust,15,7,1,7,47
@@ -105,7 +105,7 @@ Royal College of Physicians,14,9,1,4,29
 King’s College Hospital NHS Foundation Trust,14,10,0,4,29
 Department for Work and Pensions,13,6,0,7,54
 East Lancashire Hospitals NHS Trust,13,7,0,6,46
-Ashford and St Peter’s Hospitals NHS Foundation Trust,13,8,1,4,31
+Ashford and St Peter’s Hospitals NHS Foundation Trust,13,9,0,4,31
 Royal College of Emergency Medicine,13,7,2,4,31
 Leicestershire Partnership NHS Trust,13,2,0,11,85
 Lancashire and South Cumbria NHS Foundation Trust,13,8,0,5,38
@@ -141,7 +141,7 @@ Norfolk County Council,11,2,0,9,82
 Royal Free London NHS Foundation Trust,11,5,1,5,45
 Sandwell and West Birmingham Hospitals NHS Trust,11,4,0,7,64
 North Bristol NHS Trust,11,4,0,7,64
-British Medical Association,11,8,1,2,18
+British Medical Association,11,9,0,2,18
 Oxford University Hospitals NHS Foundation Trust,11,3,0,8,73
 South West London and St George’s Mental Health NHS Trust,11,7,0,4,36
 NHS Sussex Integrated Care Board,11,7,0,4,36
@@ -193,7 +193,7 @@ Royal College of Pathologists,8,7,0,1,12
 West Sussex County Council,8,2,0,6,75
 Royal Wolverhampton NHS Trust,8,4,0,4,50
 Dorset Council,8,0,0,8,100
-Royal College of Nursing,7,4,1,2,29
+Royal College of Nursing,7,5,0,2,29
 NHS West Yorkshire Integrated Care Board,7,6,0,1,14
 Joint Royal Colleges Ambulance Liaison Committee,7,7,0,0,0
 Bedfordshire Police,7,1,0,6,86
@@ -232,7 +232,7 @@ Tameside Metropolitan Borough Council,6,5,0,1,17
 Calderdale and Huddersfield NHS Foundation Trust,6,4,0,2,33
 Driver and Vehicle Standards Agency,6,4,0,2,33
 NHS Lancashire and South Cumbria Integrated Care Board,6,3,0,3,50
-Royal College of Radiologists,6,1,1,4,67
+Royal College of Radiologists,6,2,0,4,67
 National Trust,6,0,0,6,100
 Hull University Teaching Hospitals NHS Trust,6,3,0,3,50
 Circle Health Group,6,5,0,1,17
@@ -401,7 +401,7 @@ HM Prison Nottingham,3,3,0,0,0
 HM Prison Cardiff,3,2,0,1,33
 Powys Teaching Health Board,3,1,0,2,67
 HM Prison Swansea,3,2,0,1,33
-HM Prison Swaleside,3,0,1,2,67
+HM Prison Swaleside,3,1,0,2,67
 HM Prison Stoke Heath,3,2,0,1,33
 Northern Health and Social Care Trust,3,2,0,1,33
 Northern Rail,3,2,0,1,33
