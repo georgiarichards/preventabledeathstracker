@@ -258,6 +258,7 @@ Manor Park Residential Home,1,100.0
 Martin-Baker,1,100.0
 Mayfield Care Home,1,100.0
 Maylands Health Care,1,100.0
+Medequip UK,1,100.0
 Medical Protection Society,1,100.0
 Medicspro,1,100.0
 Medway Community Healthcare,1,100.0
@@ -525,6 +526,7 @@ East Lancashire Hospitals NHS Trust,7,54.0
 Lancashire and South Cumbria NHS Foundation Trust,7,54.0
 East Kent Hospitals University NHS Foundation Trust,10,53.0
 United Lincolnshire Hospitals NHS Trust,8,50.0
+Driver and Vehicle Licensing Agency,6,50.0
 Calderdale Council,5,50.0
 Royal Cornwall Hospitals NHS Trust,5,50.0
 Sheffield Teaching Hospitals NHS Foundation Trust,5,50.0
@@ -635,7 +637,7 @@ South Wales Police,3,43.0
 Tower Hamlets Council,3,43.0
 Wiltshire Council,3,43.0
 National Highways,27,42.0
-Driver and Vehicle Licensing Agency,5,42.0
+REDACTED,27,42.0
 Hywel Dda University Health Board,5,42.0
 South Central Ambulance Service NHS Foundation Trust,7,41.0
 University Hospitals Plymouth NHS Trust,8,40.0
@@ -667,16 +669,17 @@ Health Services Safety Investigations Body,3,38.0
 NHS Wales,3,38.0
 Resuscitation Council UK,3,38.0
 Royal College of Pathologists,3,38.0
-REDACTED,24,37.0
 British Medical Association,4,36.0
 Kent and Medway NHS and Social Care Partnership Trust,6,35.0
 Liverpool University Hospitals NHS Foundation Trust,6,35.0
 NHS Derby and Derbyshire Integrated Care Board,6,35.0
 Stockport NHS Foundation Trust,11,34.0
 Ministry of Justice,33,33.0
+East London NHS Foundation Trust,12,33.0
 Central and North West London NHS Foundation Trust,10,33.0
 Leeds Teaching Hospitals NHS Trust,8,33.0
 North East Ambulance Service NHS Foundation Trust,5,33.0
+Priory Group,5,33.0
 Great Western Hospitals NHS Foundation Trust,4,33.0
 Kent County Council,4,33.0
 Berkshire Healthcare NHS Foundation Trust,3,33.0
@@ -735,7 +738,6 @@ National Institute for Health and Care Excellence,29,32.0
 Medicines and Healthcare Products Regulatory Agency,18,32.0
 Health and Safety Executive,17,32.0
 Greater Manchester Mental Health NHS Foundation Trust,14,32.0
-East London NHS Foundation Trust,11,31.0
 General Medical Council,11,31.0
 Nottinghamshire Healthcare NHS Foundation Trust,8,31.0
 Surrey Police,5,31.0
@@ -757,10 +759,10 @@ Midlands Partnership University NHS Foundation Trust,7,28.0
 South London and Maudsley NHS Foundation Trust,5,28.0
 HM Prison and Probation Service,39,27.0
 University Hospitals Sussex NHS Foundation Trust,16,27.0
+Pennine Care NHS Foundation Trust,13,27.0
 Welsh Ambulance Services NHS Trust,12,27.0
 London Ambulance Service NHS Trust,7,27.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,4,27.0
-Priory Group,4,27.0
 North Bristol NHS Trust,3,27.0
 South West Yorkshire Partnership NHS Foundation Trust,3,27.0
 Southern Health NHS Foundation Trust,3,27.0
@@ -772,7 +774,6 @@ Surrey and Borders Partnership NHS Foundation Trust,6,26.0
 University Hospitals of North Midlands NHS Trust,6,26.0
 Royal College of Psychiatrists,5,26.0
 Care Quality Commission,42,25.0
-Pennine Care NHS Foundation Trust,12,25.0
 Department for Education,11,25.0
 Bedfordshire Hospitals NHS Foundation Trust,4,25.0
 Milton Keynes University Hospital NHS Foundation Trust,4,25.0
@@ -816,6 +817,7 @@ Transport for London,5,22.0
 HC One,2,22.0
 Lincolnshire County Council,2,22.0
 Royal Pharmaceutical Society,2,22.0
+NHS Greater Manchester Integrated Care Board,20,21.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",5,21.0
 Welsh Government,5,21.0
 Herefordshire and Worcestershire Health and Care NHS Trust,4,21.0
@@ -823,7 +825,6 @@ Birmingham City Council,3,21.0
 "Department for Business, Energy and Industrial Strategy",3,21.0
 Royal College of Physicians,3,21.0
 South East Coast Ambulance Service NHS Foundation Trust,3,21.0
-NHS Greater Manchester Integrated Care Board,19,20.0
 Egton Medical Information Systems,2,20.0
 Trafford Council,2,20.0
 BUPA,1,20.0

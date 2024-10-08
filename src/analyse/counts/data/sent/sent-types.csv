@@ -5,19 +5,19 @@ Care Quality Commission,165,98,5,62,38
 HM Prison and Probation Service,146,82,1,63,43
 Ministry of Justice,99,77,1,21,21
 Home Office,97,41,2,54,56
-NHS Greater Manchester Integrated Care Board,96,43,4,49,51
+NHS Greater Manchester Integrated Care Board,96,44,3,49,51
 Department for Transport,93,41,1,51,55
 National Institute for Health and Care Excellence,92,54,2,36,39
 Betsi Cadwaladr University Health Board,71,20,0,51,72
 Barts Health NHS Trust,70,25,2,43,61
-REDACTED,65,50,3,12,18
+REDACTED,65,53,0,12,18
 National Highways,64,36,3,25,39
 Metropolitan Police Service,60,30,0,30,50
 University Hospitals Sussex NHS Foundation Trust,59,30,1,28,47
 Medicines and Healthcare Products Regulatory Agency,56,38,1,17,30
 National Police Chiefs’ Council,55,42,1,12,22
 Health and Safety Executive,53,31,0,22,42
-Pennine Care NHS Foundation Trust,48,28,2,18,38
+Pennine Care NHS Foundation Trust,48,29,1,18,38
 Welsh Ambulance Services NHS Trust,45,17,0,28,62
 Greater Manchester Mental Health NHS Foundation Trust,44,26,1,17,39
 Department for Education,44,19,1,24,55
@@ -27,7 +27,7 @@ Northern Care Alliance NHS Foundation Trust,39,21,0,18,46
 College of Policing,38,13,1,24,63
 "Ministry of Housing, Communities and Local Government",37,19,1,17,46
 Norfolk and Suffolk NHS Foundation Trust,36,10,0,26,72
-East London NHS Foundation Trust,36,13,1,22,61
+East London NHS Foundation Trust,36,14,0,22,61
 Manchester University NHS Foundation Trust,36,19,1,16,44
 General Medical Council,35,22,0,13,37
 Greater Manchester Police,34,9,1,24,71
@@ -46,7 +46,7 @@ North East London NHS Foundation Trust,28,16,0,12,43
 Tameside and Glossop Integrated Care NHS Foundation Trust,27,11,1,15,56
 London Ambulance Service NHS Trust,26,14,0,12,46
 Nottinghamshire Healthcare NHS Foundation Trust,26,11,1,14,54
-Midlands Partnership University NHS Foundation Trust,25,12,1,12,48
+Midlands Partnership University NHS Foundation Trust,25,12,0,13,52
 Aneurin Bevan University Health Board,25,10,1,14,56
 "Tees, Esk and Wear Valley NHS Foundation Trust",24,16,1,7,29
 Leeds Teaching Hospitals NHS Trust,24,9,2,13,54
@@ -96,7 +96,7 @@ Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,15,4,0,11,73
 NHS Digital,15,4,0,11,73
 North East Ambulance Service NHS Foundation Trust,15,7,1,7,47
 Royal College of Anaesthetists,15,8,1,6,40
-Priory Group,15,6,1,8,53
+Priory Group,15,7,0,8,53
 Royal College of Physicians,14,9,1,4,29
 Durham County Council,14,3,0,11,79
 South East Coast Ambulance Service NHS Foundation Trust,14,4,1,9,64
@@ -125,7 +125,7 @@ Portsmouth Hospitals University NHS Trust,12,6,0,6,50
 Black Country Healthcare NHS Foundation Trust,12,5,0,7,58
 West Midlands Ambulance Service University NHS Foundation Trust,12,5,0,7,58
 North Cumbria Integrated Care NHS Foundation Trust,12,5,1,6,50
-Driver and Vehicle Licensing Agency,12,10,1,1,8
+Driver and Vehicle Licensing Agency,12,11,0,1,8
 General Pharmaceutical Council,12,5,2,5,42
 Great Western Hospitals NHS Foundation Trust,12,5,0,7,58
 Norfolk and Norwich University Hospitals NHS Foundation Trust,12,9,0,3,25
@@ -1750,7 +1750,7 @@ Maylands Health Care,1,1,0,0,0
 Meadbank Care Home,1,1,0,0,0
 Meade Close Care Home,1,0,0,1,100
 MedPure Healthcare,1,0,0,1,100
-Medequip UK,1,0,1,0,0
+Medequip UK,1,1,0,0,0
 Medical Centre Stalybridge,1,1,0,0,0
 Medical Protection Society,1,1,0,0,0
 Milford House Care Home,1,1,0,0,0

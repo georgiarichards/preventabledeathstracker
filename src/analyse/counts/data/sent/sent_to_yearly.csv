@@ -5,19 +5,19 @@ Care Quality Commission,11,13,10,15,20,13,14,10,18,11,12,18,165,36,59,59,42,5
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,14,146,41,60,46,39,1
 Ministry of Justice,1,12,6,9,1,8,13,0,12,11,10,16,99,23,23,42,33,1
 Home Office,2,8,10,5,4,5,12,8,12,11,11,9,97,38,37,40,18,2
-NHS Greater Manchester Integrated Care Board,1,2,1,1,6,4,16,12,20,11,10,12,96,57,55,18,19,4
+NHS Greater Manchester Integrated Care Board,1,2,1,1,6,4,16,12,20,11,10,12,96,57,55,18,20,3
 Department for Transport,1,12,6,12,9,5,6,8,9,6,11,8,93,45,42,26,24,1
 National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,5,17,14,92,41,38,23,29,2
 Betsi Cadwaladr University Health Board,1,9,7,4,7,2,2,1,4,4,21,9,71,72,51,3,17,0
 Barts Health NHS Trust,0,5,5,6,5,7,9,8,3,7,10,5,70,53,37,11,20,2
-REDACTED,3,24,7,0,3,1,2,0,0,4,6,15,65,18,12,26,24,3
+REDACTED,3,24,7,0,3,1,2,0,0,4,6,15,65,18,12,26,27,0
 National Highways,1,7,8,4,7,1,9,4,4,7,7,5,64,42,27,7,27,3
 Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,6,4,60,55,33,14,13,0
 University Hospitals Sussex NHS Foundation Trust,1,12,5,11,6,6,6,1,4,2,3,2,59,53,31,11,16,1
 Medicines and Healthcare Products Regulatory Agency,1,8,4,6,4,5,6,5,3,3,6,5,56,36,20,17,18,1
 National Police Chiefs’ Council,1,3,5,2,2,2,8,2,11,3,10,6,55,25,14,30,10,1
 Health and Safety Executive,4,2,3,4,5,5,9,1,4,3,9,4,53,38,20,16,17,0
-Pennine Care NHS Foundation Trust,2,2,4,4,5,7,8,5,1,2,5,3,48,44,21,13,12,2
+Pennine Care NHS Foundation Trust,2,2,4,4,5,7,8,5,1,2,5,3,48,44,21,13,13,1
 Welsh Ambulance Services NHS Trust,2,0,1,5,4,7,6,2,0,6,9,3,45,58,26,7,12,0
 Greater Manchester Mental Health NHS Foundation Trust,1,4,5,3,2,3,7,3,6,6,3,1,44,41,18,11,14,1
 Department for Education,1,3,3,4,1,3,8,1,4,4,5,7,44,41,18,14,11,1
@@ -27,7 +27,7 @@ Northern Care Alliance NHS Foundation Trust,3,1,6,2,8,5,9,0,3,0,1,1,39,51,20,8,1
 College of Policing,0,1,1,1,0,1,7,3,5,5,9,5,38,39,15,16,6,1
 "Ministry of Housing, Communities and Local Government",1,3,4,1,2,1,4,4,3,2,4,8,37,57,21,7,8,1
 Norfolk and Suffolk NHS Foundation Trust,1,4,4,0,4,2,7,1,3,5,0,5,36,69,25,4,7,0
-East London NHS Foundation Trust,0,2,0,3,10,1,2,1,1,6,5,5,36,56,20,4,11,1
+East London NHS Foundation Trust,0,2,0,3,10,1,2,1,1,6,5,5,36,56,20,4,12,0
 Manchester University NHS Foundation Trust,0,4,1,9,1,6,5,3,1,2,1,3,36,44,16,5,14,1
 General Medical Council,2,5,4,1,1,3,3,3,6,2,4,1,35,23,8,16,11,0
 Greater Manchester Police,0,3,6,4,0,1,5,2,4,3,2,4,34,50,17,11,5,1
@@ -96,7 +96,7 @@ Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,1,1,1,3,2,3,1,0,
 NHS Digital,0,0,0,1,1,1,3,3,2,2,2,0,15,53,8,5,2,0
 North East Ambulance Service NHS Foundation Trust,0,0,1,3,1,2,2,0,0,2,1,3,15,47,7,2,5,1
 Royal College of Anaesthetists,0,2,1,0,2,1,0,0,2,1,1,5,15,40,6,7,1,1
-Priory Group,0,2,2,2,2,0,1,2,0,1,1,2,15,53,8,2,4,1
+Priory Group,0,2,2,2,2,0,1,2,0,1,1,2,15,53,8,2,5,0
 Royal College of Physicians,0,3,0,1,0,1,1,1,2,0,2,3,14,21,3,7,3,1
 Durham County Council,0,2,0,2,1,1,2,2,1,1,1,1,14,79,11,1,2,0
 South East Coast Ambulance Service NHS Foundation Trust,0,0,0,0,1,2,4,1,2,0,3,1,14,71,10,0,3,1
@@ -125,7 +125,7 @@ Portsmouth Hospitals University NHS Trust,0,2,0,2,2,0,3,0,0,1,1,1,12,42,5,5,2,0
 Black Country Healthcare NHS Foundation Trust,0,1,0,2,2,2,3,0,1,0,0,1,12,50,6,3,3,0
 West Midlands Ambulance Service University NHS Foundation Trust,0,2,0,0,1,0,1,2,1,0,3,2,12,58,7,2,3,0
 North Cumbria Integrated Care NHS Foundation Trust,1,0,0,0,2,1,1,1,0,2,1,3,12,58,7,2,2,1
-Driver and Vehicle Licensing Agency,0,0,2,1,2,2,0,0,3,0,1,1,12,8,1,5,5,1
+Driver and Vehicle Licensing Agency,0,0,2,1,2,2,0,0,3,0,1,1,12,8,1,5,6,0
 General Pharmaceutical Council,0,1,1,0,1,1,2,0,2,0,1,3,12,42,5,3,2,2
 Great Western Hospitals NHS Foundation Trust,0,1,1,1,5,0,0,1,0,1,2,0,12,58,7,1,4,0
 Norfolk and Norwich University Hospitals NHS Foundation Trust,0,2,2,0,0,0,2,1,3,1,0,1,12,42,5,4,3,0
@@ -1750,7 +1750,7 @@ Maylands Health Care,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
 Meadbank Care Home,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Meade Close Care Home,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
 MedPure Healthcare,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
-Medequip UK,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Medequip UK,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Medical Centre Stalybridge,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Medical Protection Society,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Milford House Care Home,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
