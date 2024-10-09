@@ -1,13 +1,13 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,688,275,12,401,58
-NHS England,469,182,9,278,59
+Department of Health and Social Care,688,276,11,401,58
+NHS England,469,184,7,278,59
 Care Quality Commission,165,98,5,62,38
 HM Prison and Probation Service,146,82,1,63,43
 Ministry of Justice,99,77,1,21,21
 Home Office,97,41,2,54,56
 NHS Greater Manchester Integrated Care Board,96,44,3,49,51
 Department for Transport,93,41,1,51,55
-National Institute for Health and Care Excellence,92,54,2,36,39
+National Institute for Health and Care Excellence,92,55,1,36,39
 Betsi Cadwaladr University Health Board,71,20,0,51,72
 Barts Health NHS Trust,70,25,2,43,61
 REDACTED,65,53,0,12,18
@@ -15,7 +15,7 @@ National Highways,64,36,3,25,39
 Metropolitan Police Service,60,30,0,30,50
 University Hospitals Sussex NHS Foundation Trust,59,30,1,28,47
 Medicines and Healthcare Products Regulatory Agency,56,38,1,17,30
-National Police Chiefs’ Council,55,42,1,12,22
+National Police Chiefs’ Council,55,43,0,12,22
 Health and Safety Executive,53,31,0,22,42
 Pennine Care NHS Foundation Trust,48,29,1,18,38
 Welsh Ambulance Services NHS Trust,45,17,0,28,62
@@ -25,14 +25,14 @@ Sussex Partnership NHS Foundation Trust,43,19,1,23,53
 Network Rail,41,11,0,30,73
 Northern Care Alliance NHS Foundation Trust,39,21,0,18,46
 College of Policing,38,13,1,24,63
-"Ministry of Housing, Communities and Local Government",37,19,1,17,46
+"Ministry of Housing, Communities and Local Government",37,20,0,17,46
 Norfolk and Suffolk NHS Foundation Trust,36,10,0,26,72
 East London NHS Foundation Trust,36,14,0,22,61
 Manchester University NHS Foundation Trust,36,19,1,16,44
 General Medical Council,35,22,0,13,37
 Greater Manchester Police,34,9,1,24,71
 Practice Plus Group,33,17,0,16,48
-Association of Ambulance Chief Executives,33,19,1,13,39
+Association of Ambulance Chief Executives,33,20,0,13,39
 Birmingham and Solihull Mental Health NHS Foundation Trust,33,13,1,19,58
 Stockport NHS Foundation Trust,32,14,1,17,53
 Cwm Taf Morgannwg University Health Board,32,17,1,14,44
@@ -48,7 +48,7 @@ London Ambulance Service NHS Trust,26,14,0,12,46
 Nottinghamshire Healthcare NHS Foundation Trust,26,11,1,14,54
 Midlands Partnership University NHS Foundation Trust,25,12,0,13,52
 Aneurin Bevan University Health Board,25,10,1,14,56
-"Tees, Esk and Wear Valley NHS Foundation Trust",24,16,1,7,29
+"Tees, Esk and Wear Valley NHS Foundation Trust",24,17,0,7,29
 Leeds Teaching Hospitals NHS Trust,24,9,2,13,54
 Blackpool Teaching Hospitals NHS Foundation Trust,24,11,0,13,54
 Welsh Government,24,11,0,13,54
@@ -59,7 +59,7 @@ Royal College of Obstetricians and Gynaecologists,23,15,0,8,35
 Surrey and Borders Partnership NHS Foundation Trust,23,11,2,10,43
 Transport for London,23,8,0,15,65
 University Hospitals of North Midlands NHS Trust,23,8,1,14,61
-Royal College of General Practitioners,22,9,1,12,55
+Royal College of General Practitioners,22,10,0,12,55
 Cornwall Council,22,7,1,14,64
 Cardiff and Vale University Health Board,22,12,0,10,45
 Avon and Wiltshire Mental Health Partnership NHS Trust,21,12,0,9,43
@@ -94,7 +94,7 @@ United Lincolnshire Hospitals NHS Trust,16,8,0,8,50
 Bedfordshire Hospitals NHS Foundation Trust,16,6,0,10,62
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,15,4,0,11,73
 NHS Digital,15,4,0,11,73
-North East Ambulance Service NHS Foundation Trust,15,7,1,7,47
+North East Ambulance Service NHS Foundation Trust,15,8,0,7,47
 Royal College of Anaesthetists,15,8,1,6,40
 Priory Group,15,7,0,8,53
 Royal College of Physicians,14,9,1,4,29
@@ -124,7 +124,7 @@ Kent County Council,12,6,0,6,50
 Portsmouth Hospitals University NHS Trust,12,6,0,6,50
 Black Country Healthcare NHS Foundation Trust,12,5,0,7,58
 West Midlands Ambulance Service University NHS Foundation Trust,12,5,0,7,58
-North Cumbria Integrated Care NHS Foundation Trust,12,5,1,6,50
+North Cumbria Integrated Care NHS Foundation Trust,12,6,0,6,50
 Driver and Vehicle Licensing Agency,12,11,0,1,8
 General Pharmaceutical Council,12,5,2,5,42
 Great Western Hospitals NHS Foundation Trust,12,5,0,7,58
@@ -168,11 +168,11 @@ Dudley Group NHS Foundation Trust,9,2,0,7,78
 Royal Pharmaceutical Society,9,5,0,4,44
 Lincolnshire County Council,9,3,0,6,67
 Warwickshire County Council,9,5,0,4,44
-Office for Product Safety and Standards,9,4,1,4,44
+Office for Product Safety and Standards,9,5,0,4,44
 Maidstone and Tunbridge Wells NHS Foundation Trust,9,2,0,7,78
 Canal and River Trust,9,6,0,3,33
 Berkshire Healthcare NHS Foundation Trust,9,6,0,3,33
-Staffordshire County Council,9,4,1,4,44
+Staffordshire County Council,9,5,0,4,44
 Frimley Health NHS Foundation Trust,9,5,0,4,44
 South Western Ambulance Service NHS Foundation Trust,9,6,0,3,33
 HC One,9,2,0,7,78
@@ -239,7 +239,7 @@ Leeds and York Partnership NHS Foundation Trust,6,2,0,4,67
 "Barnet, Enfield and Haringey Mental Health NHS Trust",6,5,0,1,17
 University Hospitals Coventry and Warwickshire NHS Trust,6,4,0,2,33
 Driver and Vehicle Standards Agency,6,4,0,2,33
-Thames Valley Police,6,0,1,5,83
+Thames Valley Police,6,1,0,5,83
 Gloucestershire Health and Care NHS Foundation Trust,6,2,0,4,67
 Tameside Metropolitan Borough Council,6,5,0,1,17
 Circle Health Group,6,5,0,1,17
@@ -268,7 +268,7 @@ Change Grow Live,5,4,0,1,20
 Kettering General Hospital NHS Foundation Trust,5,3,0,2,40
 HM Prison Long Lartin,5,3,0,2,40
 HM Prison Winchester,5,5,0,0,0
-Sainsbury's,5,2,1,2,40
+Sainsbury's,5,3,0,2,40
 Chesterfield Royal Hospital NHS Foundation Trust,5,4,0,1,20
 BUPA,5,2,0,3,60
 Royal Society for the Prevention of Accidents,5,5,0,0,0
@@ -959,7 +959,7 @@ University Hospital Leicester,1,1,0,0,0
 University Hospital of South Manchester,1,1,0,0,0
 University Hospital of South Manchester NHS Foundation Trust,1,1,0,0,0
 UK Care Services,1,1,0,0,0
-UK Cleaning Product Industry Association,1,0,1,0,0
+UK Cleaning Product Industry Association,1,1,0,0,0
 UK Fatal Anaphylaxis Registry,1,1,0,0,0
 UK Foundation Programme,1,1,0,0,0
 UK Home Care,1,1,0,0,0
