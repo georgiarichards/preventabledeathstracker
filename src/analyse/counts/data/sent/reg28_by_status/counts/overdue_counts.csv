@@ -457,6 +457,7 @@ Whitepost Healthcare Group,1,100.0
 Wibsey and Queensbury Medical Practice,1,100.0
 Withybush General Hospital,1,100.0
 Worthing Homes,1,100.0
+York Road Pharmacy,1,100.0
 Youngman,1,100.0
 Your Housing,1,100.0
 Zelltec Limited,1,100.0
@@ -513,6 +514,7 @@ Devon County Council,4,57.0
 Joint Royal Colleges Ambulance Liaison Committee,4,57.0
 Canal and River Trust,5,56.0
 Warwickshire County Council,5,56.0
+Royal Free London NHS Foundation Trust,6,55.0
 West London NHS Trust,6,55.0
 Ashford and St Peter’s Hospitals NHS Foundation Trust,7,54.0
 East Lancashire Hospitals NHS Trust,7,54.0
@@ -615,7 +617,6 @@ West Yorkshire Fire and Rescue Service,1,50.0
 Wirral University Teaching Hospital NHS Foundation Trust,1,50.0
 Yorkshire Water,1,50.0
 Medway NHS Foundation Trust,8,47.0
-Royal Free London NHS Foundation Trust,5,45.0
 South West London and St George’s Mental Health NHS Trust,5,45.0
 St George’s University Hospitals NHS Foundation Trust,7,44.0
 Staffordshire County Council,4,44.0
@@ -766,6 +767,7 @@ Northern Care Alliance NHS Foundation Trust,10,25.0
 Bedfordshire Hospitals NHS Foundation Trust,4,25.0
 Milton Keynes University Hospital NHS Foundation Trust,4,25.0
 Black Country Healthcare NHS Foundation Trust,3,25.0
+General Pharmaceutical Council,3,25.0
 Mid Yorkshire Teaching NHS Trust,3,25.0
 Norfolk and Norwich University Hospitals NHS Foundation Trust,3,25.0
 North Cumbria Integrated Care NHS Foundation Trust,3,25.0
@@ -805,6 +807,7 @@ Sussex Partnership NHS Foundation Trust,10,23.0
 Cornwall Council,5,23.0
 County Durham and Darlington NHS Foundation Trust,3,23.0
 HM Prison Pentonville,3,23.0
+Royal College of Emergency Medicine,3,23.0
 Sussex Police,3,23.0
 Metropolitan Police Service,13,22.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,6,22.0
@@ -822,6 +825,7 @@ Birmingham City Council,3,21.0
 "Department for Business, Energy and Industrial Strategy",3,21.0
 Royal College of Physicians,3,21.0
 South East Coast Ambulance Service NHS Foundation Trust,3,21.0
+Royal College of Paediatrics and Child Health,5,20.0
 Egton Medical Information Systems,2,20.0
 Office for Product Safety and Standards,2,20.0
 Trafford Council,2,20.0
@@ -857,7 +861,6 @@ Surrey and Sussex Healthcare NHS Trust,2,18.0
 Ministry of Defence,5,17.0
 East of England Ambulance Service NHS Trust,3,17.0
 Bolton NHS Foundation Trust,2,17.0
-General Pharmaceutical Council,2,17.0
 Portsmouth Hospitals University NHS Trust,2,17.0
 British Standards Institution,1,17.0
 James Paget University Hospitals NHS Foundation Trust,1,17.0
@@ -870,11 +873,9 @@ West Yorkshire Police,1,17.0
 Wye Valley NHS Trust,1,17.0
 National Police Chiefs’ Council,9,16.0
 College of Policing,6,16.0
-Royal College of Paediatrics and Child Health,4,16.0
 Greater Manchester Police,5,15.0
 Department for Work and Pensions,2,15.0
 G4S,2,15.0
-Royal College of Emergency Medicine,2,15.0
 Worcestershire Acute Hospitals NHS Trust,2,15.0
 University Hospitals Birmingham NHS Foundation Trust,4,14.0
 "Department for Culture, Media and Sport",3,14.0

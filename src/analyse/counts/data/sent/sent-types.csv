@@ -47,7 +47,7 @@ Tameside and Glossop Integrated Care NHS Foundation Trust,27,11,1,15,56
 London Ambulance Service NHS Trust,26,14,0,12,46
 Nottinghamshire Healthcare NHS Foundation Trust,26,11,1,14,54
 Midlands Partnership University NHS Foundation Trust,25,11,0,14,56
-Royal College of Paediatrics and Child Health,25,12,2,11,44
+Royal College of Paediatrics and Child Health,25,13,1,11,44
 Aneurin Bevan University Health Board,25,11,0,14,56
 Leeds Teaching Hospitals NHS Trust,24,9,2,13,54
 Welsh Government,24,11,0,13,54
@@ -117,7 +117,7 @@ Department for Work and Pensions,13,6,0,7,54
 HM Prison Pentonville,13,10,0,3,23
 Lancashire and South Cumbria NHS Foundation Trust,13,8,0,5,38
 NHS Cornwall and Isles of Scilly Integrated Care Board,13,8,0,5,38
-Royal College of Emergency Medicine,13,7,2,4,31
+Royal College of Emergency Medicine,13,8,1,4,31
 County Durham and Darlington NHS Foundation Trust,13,5,0,8,62
 Worcestershire Acute Hospitals NHS Trust,13,3,2,8,62
 West Midlands Ambulance Service University NHS Foundation Trust,12,5,0,7,58
@@ -131,7 +131,7 @@ Bolton NHS Foundation Trust,12,4,0,8,67
 Mid Yorkshire Teaching NHS Trust,12,5,0,7,58
 Great Western Hospitals NHS Foundation Trust,12,5,0,7,58
 Driver and Vehicle Licensing Agency,12,10,0,2,17
-General Pharmaceutical Council,12,5,2,5,42
+General Pharmaceutical Council,12,6,1,5,42
 Oxford University Hospitals NHS Foundation Trust,11,3,0,8,73
 Surrey and Sussex Healthcare NHS Trust,11,5,0,6,55
 Yorkshire Ambulance Service NHS Trust,11,4,0,7,64
@@ -146,7 +146,7 @@ Cornwall Partnership NHS Foundation Trust,11,4,0,7,64
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",11,2,1,8,73
 North Bristol NHS Trust,11,4,0,7,64
 British Medical Association,11,9,0,2,18
-Royal Free London NHS Foundation Trust,11,5,1,5,45
+Royal Free London NHS Foundation Trust,11,6,0,5,45
 South West London and St George’s Mental Health NHS Trust,11,7,0,4,36
 South West Yorkshire Partnership NHS Foundation Trust,11,7,0,4,36
 "Department for Environment, Food and Rural Affairs",11,8,0,3,27
@@ -1539,7 +1539,7 @@ Clatterbridge Cancer Centre,1,0,0,1,100
 Cleric Computer Services,1,0,0,1,100
 Clevedon Medical Centre,1,1,0,0,0
 Comfort Call Limited,1,0,0,1,100
-York Road Pharmacy,1,0,1,0,0
+York Road Pharmacy,1,1,0,0,0
 Yorkshire Care Equipment,1,1,0,0,0
 Youngman,1,1,0,0,0
 Your Health Limited,1,0,0,1,100
