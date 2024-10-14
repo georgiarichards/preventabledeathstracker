@@ -662,7 +662,6 @@
     "Coal Authority": "Coal Authority",
     "Sodexo": "Sodexo",
     "University of Southampton": "University of Southampton",
-    "UKHSA": "UK Health Security Agency",
     "Humberside Police": "Humberside Police",
     "Travel Lodge": "Travel Lodge",
     "Rt Hon Victoria Atkins": "Rt Hon Victoria Atkins",
@@ -3164,6 +3163,7 @@
   },
   {
     "PHE": "Public Health England",
+    "UKHSA": "UK Health Security Agency",
     "CQC": "Care Quality Commission",
     "NIHCE": "National Institute for Health and Care Excellence",
     "NICE": "National Institute for Health and Care Excellence",
