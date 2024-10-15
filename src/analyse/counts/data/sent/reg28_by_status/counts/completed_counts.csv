@@ -860,7 +860,6 @@ Croft Shifa Health Centre,1,50.0
 "Department for Science, Innovation and Technology",1,50.0
 East Cheshire NHS Trust,1,50.0
 Ebay UK Ltd,1,50.0
-Environment Agency,1,50.0
 Football Association,1,50.0
 General Midwifery Council,1,50.0
 Great Ormond Street Hospital for Children NHS Foundation Trust,1,50.0
@@ -1009,7 +1008,6 @@ Hampshire and Isle of Wight Constabulary,3,38.0
 NHS Wales,3,38.0
 Royal Wolverhampton NHS Trust,3,38.0
 Care Quality Commission,59,36.0
-Medicines and Healthcare Products Regulatory Agency,20,36.0
 Practice Plus Group,12,36.0
 Royal College of Paediatrics and Child Health,9,36.0
 Birmingham City Council,5,36.0
@@ -1017,11 +1015,11 @@ Royal Cornwall Hospitals NHS Trust,4,36.0
 South West London and St George’s Mental Health NHS Trust,4,36.0
 South West Yorkshire Partnership NHS Foundation Trust,4,36.0
 South Western Ambulance Service NHS Foundation Trust,4,36.0
+Medicines and Healthcare Products Regulatory Agency,20,35.0
 NHS Derby and Derbyshire Integrated Care Board,6,33.0
 Berkshire Healthcare NHS Foundation Trust,3,33.0
 "Barnet, Enfield and Haringey Mental Health NHS Trust",2,33.0
 Calderdale and Huddersfield NHS Foundation Trust,2,33.0
-Driver and Vehicle Standards Agency,2,33.0
 National Trust,2,33.0
 Northumbria Police,2,33.0
 Oldham Council,2,33.0
@@ -1037,6 +1035,7 @@ Casualty Reduction Team,1,33.0
 Chelsea and Westminster Hospital NHS Foundation Trust,1,33.0
 Disclosure and Barring Service,1,33.0
 East Sussex Healthcare NHS Trust,1,33.0
+Environment Agency,1,33.0
 GEOAmey,1,33.0
 General Dental Council,1,33.0
 HM Prison Cardiff,1,33.0
@@ -1068,6 +1067,7 @@ The Lakes Care Centre,1,33.0
 Wigan Council,1,33.0
 Ashford and St Peter’s Hospitals NHS Foundation Trust,4,31.0
 Surrey County Council,5,29.0
+Driver and Vehicle Standards Agency,2,29.0
 Greater London Authority,2,29.0
 Royal College of Nursing,2,29.0
 Royal National Lifeboat Institution,2,29.0
@@ -1122,7 +1122,6 @@ REDACTED,12,18.0
 British Medical Association,2,18.0
 Driver and Vehicle Licensing Agency,2,17.0
 Circle Health Group,1,17.0
-Office of Rail and Road,1,17.0
 Rail Safety and Standards Board,1,17.0
 Tameside Metropolitan Borough Council,1,17.0
 Thames Valley Police,1,17.0
@@ -1130,5 +1129,6 @@ Dorset Healthcare University NHS Foundation Trust,2,14.0
 Advisory Council on the Misuse of Drugs,1,14.0
 Joint Royal Colleges Ambulance Liaison Committee,1,14.0
 NHS West Yorkshire Integrated Care Board,1,14.0
+Office of Rail and Road,1,14.0
 Royal College of Pathologists,1,14.0
 NHS Nottingham and Nottinghamshire Integrated Care Board,1,10.0
