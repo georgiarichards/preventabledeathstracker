@@ -480,6 +480,7 @@ CCG,2,67.0
 Casualty Reduction Team,2,67.0
 Cheshire Constabulary,2,67.0
 Derbyshire Community Health Services NHS Foundation Trust,2,67.0
+General Dental Council,2,67.0
 HM Prison Bedford,2,67.0
 HM Prison Nottingham,2,67.0
 Healthcare Inspectorate Wales,2,67.0
@@ -672,6 +673,7 @@ Stockport NHS Foundation Trust,11,34.0
 East London NHS Foundation Trust,12,33.0
 Leeds Teaching Hospitals NHS Trust,8,33.0
 NHS Derby and Derbyshire Integrated Care Board,6,33.0
+General Pharmaceutical Council,4,33.0
 Great Western Hospitals NHS Foundation Trust,4,33.0
 Kent County Council,4,33.0
 Berkshire Healthcare NHS Foundation Trust,3,33.0
@@ -690,7 +692,6 @@ Dyfed-Powys Police,1,33.0
 East Sussex Healthcare NHS Trust,1,33.0
 Environment Agency,1,33.0
 Forward Trust,1,33.0
-General Dental Council,1,33.0
 Gloucestershire County Council,1,33.0
 Greater Manchester Fire and Rescue Service,1,33.0
 HM Prison Cardiff,1,33.0
@@ -740,6 +741,7 @@ NHS Nottingham and Nottinghamshire Integrated Care Board,3,30.0
 Royal United Hospitals Bath NHS Foundation Trust,3,30.0
 Walsall Healthcare NHS Trust,3,30.0
 Barts Health NHS Trust,20,29.0
+Royal College of Physicians,4,29.0
 Cambridgeshire County Council,2,29.0
 Driver and Vehicle Standards Agency,2,29.0
 Isle of Wight Council,2,29.0
@@ -764,7 +766,6 @@ Northern Care Alliance NHS Foundation Trust,10,25.0
 Bedfordshire Hospitals NHS Foundation Trust,4,25.0
 Milton Keynes University Hospital NHS Foundation Trust,4,25.0
 Black Country Healthcare NHS Foundation Trust,3,25.0
-General Pharmaceutical Council,3,25.0
 Mid Yorkshire Teaching NHS Trust,3,25.0
 Norfolk and Norwich University Hospitals NHS Foundation Trust,3,25.0
 North Cumbria Integrated Care NHS Foundation Trust,3,25.0
@@ -793,13 +794,15 @@ Royal Surrey NHS Foundation Trust,1,25.0
 West Hertfordshire Hospitals NHS Trust,1,25.0
 Department for Transport,23,24.0
 Betsi Cadwaladr University Health Board,17,24.0
+Department for Education,11,24.0
 Network Rail,10,24.0
 "Ministry of Housing, Communities and Local Government",9,24.0
 Midlands Partnership University NHS Foundation Trust,6,24.0
+Royal College of Paediatrics and Child Health,6,24.0
 Avon and Wiltshire Mental Health Partnership NHS Trust,5,24.0
 North West Ambulance Service NHS Trust,5,24.0
 Royal College of Psychiatrists,5,24.0
-NHS England,108,23.0
+NHS England,109,23.0
 Sussex Partnership NHS Foundation Trust,10,23.0
 Cornwall Council,5,23.0
 County Durham and Darlington NHS Foundation Trust,3,23.0
@@ -807,7 +810,6 @@ HM Prison Pentonville,3,23.0
 Royal College of Emergency Medicine,3,23.0
 Sussex Police,3,23.0
 Metropolitan Police Service,13,22.0
-Department for Education,10,22.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,6,22.0
 Swansea Bay University Health Board,5,22.0
 Transport for London,5,22.0
@@ -821,14 +823,13 @@ Welsh Government,5,21.0
 Herefordshire and Worcestershire Health and Care NHS Trust,4,21.0
 Birmingham City Council,3,21.0
 "Department for Business, Energy and Industrial Strategy",3,21.0
-Royal College of Physicians,3,21.0
 South East Coast Ambulance Service NHS Foundation Trust,3,21.0
-Royal College of Paediatrics and Child Health,5,20.0
 Egton Medical Information Systems,2,20.0
 Office for Product Safety and Standards,2,20.0
 Trafford Council,2,20.0
 BUPA,1,20.0
 Borough Care,1,20.0
+British Society for Allergy and Clinical Immunology,1,20.0
 British Society of Gastroenterology,1,20.0
 Change Grow Live,1,20.0
 Derbyshire Healthcare NHS Foundation Trust,1,20.0
@@ -846,7 +847,7 @@ West Mercia Police,1,20.0
 Home Office,18,19.0
 Norfolk and Suffolk NHS Foundation Trust,7,19.0
 East Midlands Ambulance Service NHS Trust,4,19.0
-Department of Health and Social Care,126,18.0
+Department of Health and Social Care,127,18.0
 Cardiff and Vale University Health Board,4,18.0
 Royal College of General Practitioners,4,18.0
 Civil Aviation Authority,3,18.0

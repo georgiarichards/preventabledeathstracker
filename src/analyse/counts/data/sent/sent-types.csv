@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,693,275,15,403,58
-NHS England,473,183,9,281,59
+Department of Health and Social Care,693,276,14,403,58
+NHS England,473,184,8,281,59
 Care Quality Commission,165,98,5,62,38
 HM Prison and Probation Service,146,81,1,64,44
 Ministry of Justice,99,76,1,22,22
@@ -20,7 +20,7 @@ Health and Safety Executive,53,31,0,22,42
 Pennine Care NHS Foundation Trust,48,29,1,18,38
 Greater Manchester Mental Health NHS Foundation Trust,45,27,1,17,38
 Welsh Ambulance Services University NHS Trust,45,19,0,26,58
-Department for Education,45,18,2,25,56
+Department for Education,45,19,1,25,56
 Sussex Partnership NHS Foundation Trust,43,19,1,23,53
 Network Rail,41,11,0,30,73
 Northern Care Alliance NHS Foundation Trust,40,21,0,19,48
@@ -47,7 +47,7 @@ Tameside and Glossop Integrated Care NHS Foundation Trust,27,11,1,15,56
 London Ambulance Service NHS Trust,26,14,0,12,46
 Nottinghamshire Healthcare NHS Foundation Trust,26,11,1,14,54
 Aneurin Bevan University Health Board,25,11,0,14,56
-Royal College of Paediatrics and Child Health,25,13,1,11,44
+Royal College of Paediatrics and Child Health,25,14,0,11,44
 Midlands Partnership University NHS Foundation Trust,25,11,0,14,56
 Leeds Teaching Hospitals NHS Trust,24,9,2,13,54
 "Tees, Esk and Wear Valley NHS Foundation Trust",24,17,0,7,29
@@ -102,7 +102,7 @@ University Hospitals of Leicester NHS Trust,14,3,0,11,79
 "Department for Business, Energy and Industrial Strategy",14,8,0,6,43
 Birmingham City Council,14,7,0,7,50
 South East Coast Ambulance Service NHS Foundation Trust,14,4,1,9,64
-Royal College of Physicians,14,9,1,4,29
+Royal College of Physicians,14,10,0,4,29
 King’s College Hospital NHS Foundation Trust,14,10,0,4,29
 Dorset Healthcare University NHS Foundation Trust,14,13,0,1,7
 Durham County Council,14,3,0,11,79
@@ -124,7 +124,7 @@ Driver and Vehicle Licensing Agency,12,10,0,2,17
 Mid Yorkshire Teaching NHS Trust,12,5,0,7,58
 Hywel Dda University Health Board,12,7,0,5,42
 Great Western Hospitals NHS Foundation Trust,12,5,0,7,58
-General Pharmaceutical Council,12,6,1,5,42
+General Pharmaceutical Council,12,7,0,5,42
 North Cumbria Integrated Care NHS Foundation Trust,12,6,0,6,50
 Bolton NHS Foundation Trust,12,4,0,8,67
 Norfolk and Norwich University Hospitals NHS Foundation Trust,12,9,0,3,25
@@ -258,7 +258,7 @@ Bolton Council,5,3,0,2,40
 NHS Surrey Heartlands Integrated Care Board,5,5,0,0,0
 Essex Police,5,3,0,2,40
 UK Health Security Agency,5,2,1,2,40
-British Society for Allergy and Clinical Immunology,5,2,1,2,40
+British Society for Allergy and Clinical Immunology,5,3,0,2,40
 Borough Care,5,1,0,4,80
 North Middlesex University Hospital NHS Trust,5,3,0,2,40
 British National Formulary,5,3,0,2,40
@@ -434,7 +434,7 @@ Universities and Colleges Admissions Service,3,1,0,2,67
 Faculty of Intensive Care Medicine,3,0,0,3,100
 Forward Trust,3,2,0,1,33
 GEOAmey,3,2,0,1,33
-General Dental Council,3,1,1,1,33
+General Dental Council,3,2,0,1,33
 Northern Health and Social Care Trust,3,2,0,1,33
 Northern Rail,3,2,0,1,33
 Portsmouth City Council,3,1,0,2,67
