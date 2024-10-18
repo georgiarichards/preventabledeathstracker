@@ -11,7 +11,7 @@ Department for Transport,94,40,1,53,56
 Betsi Cadwaladr University Health Board,71,20,0,51,72
 Barts Health NHS Trust,70,25,2,43,61
 REDACTED,65,53,0,12,18
-National Highways,64,36,3,25,39
+National Highways,64,37,2,25,39
 Metropolitan Police Service,60,30,0,30,50
 University Hospitals Sussex NHS Foundation Trust,59,30,1,28,47
 Medicines and Healthcare Products Regulatory Agency,57,39,1,17,30
@@ -148,7 +148,7 @@ Devon and Cornwall Constabulary,11,7,0,4,36
 Yorkshire Ambulance Service NHS Trust,11,4,0,7,64
 Southern Health NHS Foundation Trust,11,5,0,6,55
 Whittington Health NHS Trust,11,3,0,8,73
-"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",11,2,1,8,73
+"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",11,3,0,8,73
 Oxford University Hospitals NHS Foundation Trust,11,3,0,8,73
 North Bristol NHS Trust,11,4,0,7,64
 British Medical Association,11,9,0,2,18
@@ -477,7 +477,7 @@ Sandwell Metropolitan Borough Council,2,2,0,0,0
 University of Surrey,2,0,0,2,100
 Leeds Community Healthcare NHS Trust,2,2,0,0,0
 Hammerson Plc,2,1,0,1,50
-Google,2,0,1,1,50
+Google,2,1,0,1,50
 Hillingdon Hospitals NHS Foundation Trust,2,2,0,0,0
 University of Exeter,2,0,0,2,100
 Torbay and South Devon NHS Foundation Trust,2,1,0,1,50
@@ -537,7 +537,7 @@ Medtronic,2,1,0,1,50
 Association of Anaesthetists,2,1,0,1,50
 Bayer Plc,2,2,0,0,0
 Association of British Insurers,2,2,0,0,0
-Apple,2,1,1,0,0
+Apple,2,2,0,0,0
 NHS Frimley Integrated Care Board,2,2,0,0,0
 Tandridge District Council,2,2,0,0,0
 Coventry City Council,2,1,0,1,50
@@ -1000,7 +1000,7 @@ Ambassador House Care Home,1,0,0,1,100
 Timperley Care Home,1,1,0,0,0
 Titan Containers Limited,1,1,0,0,0
 Together Housing,1,1,0,0,0
-TomTom,1,0,1,0,0
+TomTom,1,1,0,0,0
 Tonic Construction Ltd,1,1,0,0,0
 Torbay Hospital,1,1,0,0,0
 Torbay and South Devon Clinical Commissioning Group,1,1,0,0,0

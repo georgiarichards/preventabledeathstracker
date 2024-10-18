@@ -4,6 +4,7 @@ National Patient Safety Agency,4,100.0
 Plymouth City Council,4,100.0
 Southampton City Council,3,100.0
 Worcestershire County Council,3,100.0
+Apple,2,100.0
 Boots UK Limited,2,100.0
 Bristol City Council,2,100.0
 British Marine,2,100.0
@@ -420,6 +421,7 @@ The Waterfield Practice,1,100.0
 The Youth Justice Board,1,100.0
 Thomas Cook Group,1,100.0
 Thornton Heath Medical Practice,1,100.0
+TomTom,1,100.0
 Torbay Hospital,1,100.0
 Torbay and South Devon Clinical Commissioning Group,1,100.0
 Tradomi S L Transporte,1,100.0
@@ -547,7 +549,6 @@ University Hospital Southampton NHS Foundation Trust,2,50.0
 West Suffolk NHS Foundation Trust,2,50.0
 A ONE+,1,50.0
 Amey PLC,1,50.0
-Apple,1,50.0
 Arrowe Park Hospital,1,50.0
 Ashley Gardens Care Home,1,50.0
 Association of British Insurers,1,50.0
@@ -564,6 +565,7 @@ Croft Shifa Health Centre,1,50.0
 Dartford and Gravesend NHS Trust,1,50.0
 Devon Clinical Commissioning Group,1,50.0
 East Cheshire NHS Trust,1,50.0
+Google,1,50.0
 Gwent Police,1,50.0
 HM Prison Lindholme,1,50.0
 HM Prison Portland,1,50.0
@@ -616,6 +618,7 @@ Yorkshire Water,1,50.0
 Medway NHS Foundation Trust,8,47.0
 Royal Cornwall Hospitals NHS Trust,5,45.0
 South West London and St George’s Mental Health NHS Trust,5,45.0
+National Highways,28,44.0
 North East Ambulance Service NHS Foundation Trust,7,44.0
 St George’s University Hospitals NHS Foundation Trust,7,44.0
 Staffordshire County Council,4,44.0
@@ -628,7 +631,6 @@ Shrewsbury and Telford Hospital NHS Trust,3,43.0
 South Wales Police,3,43.0
 Tower Hamlets Council,3,43.0
 Wiltshire Council,3,43.0
-National Highways,27,42.0
 Driver and Vehicle Licensing Agency,5,42.0
 Hywel Dda University Health Board,5,42.0
 Manchester University NHS Foundation Trust,16,41.0
@@ -753,6 +755,7 @@ Pennine Care NHS Foundation Trust,13,27.0
 Welsh Ambulance Services University NHS Trust,12,27.0
 London Ambulance Service NHS Trust,7,27.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,4,27.0
+"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",3,27.0
 North Bristol NHS Trust,3,27.0
 South West Yorkshire Partnership NHS Foundation Trust,3,27.0
 Southern Health NHS Foundation Trust,3,27.0
@@ -852,7 +855,6 @@ Cardiff and Vale University Health Board,4,18.0
 Royal College of General Practitioners,4,18.0
 Civil Aviation Authority,3,18.0
 Surrey County Council,3,18.0
-"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",2,18.0
 "Department for Environment, Food and Rural Affairs",2,18.0
 Norfolk County Council,2,18.0
 Oxford University Hospitals NHS Foundation Trust,2,18.0
