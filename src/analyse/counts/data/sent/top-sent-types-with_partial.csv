@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,693,128,13,384,168,55
-NHS England,473,109,8,227,129,48
-Care Quality Commission,165,42,5,59,59,36
-HM Prison and Probation Service,146,39,1,61,45,42
-Ministry of Justice,99,32,1,24,42,24
-NHS Greater Manchester Integrated Care Board,97,21,2,55,19,57
+Department of Health and Social Care,698,128,17,384,169,55
+NHS England,476,109,11,227,129,48
+Care Quality Commission,166,42,6,59,59,36
+HM Prison and Probation Service,147,39,2,61,45,41
+Ministry of Justice,100,32,2,24,42,24
+NHS Greater Manchester Integrated Care Board,98,21,3,55,19,56
 Home Office,97,18,2,37,40,38
 National Institute for Health and Care Excellence,95,30,4,38,23,40
-Department for Transport,94,23,1,44,26,47
+Department for Transport,95,23,2,44,26,46
 Betsi Cadwaladr University Health Board,71,17,0,51,3,72
 Barts Health NHS Trust,70,20,2,37,11,53
 REDACTED,65,24,0,12,29,18
 National Highways,64,28,2,27,7,42
 Metropolitan Police Service,60,13,0,33,14,55
-University Hospitals Sussex NHS Foundation Trust,59,16,1,31,11,53
-Medicines and Healthcare Products Regulatory Agency,57,18,1,20,18,35
+University Hospitals Sussex NHS Foundation Trust,60,16,2,31,11,52
+Medicines and Healthcare Products Regulatory Agency,58,18,1,20,19,34
 National Police Chiefs’ Council,55,9,0,15,31,27
 Health and Safety Executive,54,18,0,20,16,37
 Pennine Care NHS Foundation Trust,48,13,1,21,13,44
-Department for Education,45,11,1,18,15,40
-Welsh Ambulance Services University NHS Trust,45,12,0,26,7,58
+Department for Education,46,11,2,18,15,39
 Greater Manchester Mental Health NHS Foundation Trust,45,14,1,18,12,40
+Welsh Ambulance Services University NHS Trust,45,12,0,26,7,58
 Sussex Partnership NHS Foundation Trust,43,10,1,25,7,58
 Network Rail,41,10,0,26,5,63
 Northern Care Alliance NHS Foundation Trust,40,10,0,21,9,52
 Manchester University NHS Foundation Trust,39,16,1,16,6,41
 College of Policing,38,6,1,15,16,39
-"Ministry of Housing, Communities and Local Government",37,9,0,21,7,57
 Norfolk and Suffolk NHS Foundation Trust,37,7,1,25,4,68
+"Ministry of Housing, Communities and Local Government",37,9,0,21,7,57
 East London NHS Foundation Trust,36,12,0,20,4,56
