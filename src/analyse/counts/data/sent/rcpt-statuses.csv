@@ -1,5 +1,5 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,698,1642,1094,384,169,128,17
+Department of Health and Social Care,698,1642,1094,384,169,129,16
 NHS England,476,1281,782,227,129,109,11
 Care Quality Commission,166,469,263,59,59,42,6
 HM Prison and Probation Service,147,337,175,61,45,39,2
@@ -9,9 +9,9 @@ Home Office,97,319,220,37,40,18,2
 National Institute for Health and Care Excellence,95,269,156,38,23,30,4
 Department for Transport,95,236,150,44,26,23,2
 Betsi Cadwaladr University Health Board,72,97,63,52,3,17,0
-Barts Health NHS Trust,70,114,72,37,11,20,2
+Barts Health NHS Trust,70,114,72,37,11,21,1
 REDACTED,65,214,71,12,29,24,0
-National Highways,64,98,49,27,7,28,2
+National Highways,64,98,49,27,7,29,1
 University Hospitals Sussex NHS Foundation Trust,60,97,56,31,11,16,2
 Metropolitan Police Service,60,143,104,33,14,13,0
 Medicines and Healthcare Products Regulatory Agency,58,164,85,20,19,18,1
@@ -1861,7 +1861,7 @@ Kent and Medway Mental Health Directorate,1,3,0,0,0,1,0
 Iveagh Surgery,1,3,0,0,0,1,0
 JD Wetherspoon PLC,1,1,1,1,0,0,0
 JV Ltd,1,2,2,1,0,0,0
-Jaguar Land Rover,1,1,0,0,0,0,1
+Jaguar Land Rover,1,1,0,0,0,1,0
 Jesta Capital Corporation,1,1,0,0,0,1,0
 Jet2.com Ltd,1,2,2,1,0,0,0
 Jewish Free School,1,1,1,1,0,0,0
