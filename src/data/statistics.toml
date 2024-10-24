@@ -21,19 +21,19 @@
 "IQR of areas" = [ 26.0, 89.25,]
 
 ["coroners' society"]
-"no. names in society" = 933
-"names in society with reports" = [ 478.0, 51.2,]
+"no. names in society" = 932
+"names in society with reports" = [ 477.0, 51.2,]
 "names in society without reports" = [ 455.0, 48.8,]
 "coroners in society male" = [ 348.0, 37.3,]
-"coroners in society female" = [ 323.0, 34.6,]
+"coroners in society female" = [ 322.0, 34.5,]
 "coroners in society unknown" = [ 262.0, 28.1,]
 
 ["coroners in reports"]
-"reports from male coroners" = [ 2326.0, 43.7,]
+"reports from male coroners" = [ 2378.0, 44.7,]
 "reports from female coroners" = [ 2168.0, 40.7,]
-"reports from unknown coroners" = [ 829.0, 15.6,]
+"reports from unknown coroners" = [ 777.0, 14.6,]
 "no. reports parsed" = 5323
-"no. coroner names in reports" = 498
+"no. coroner names in reports" = 497
 "reports from top 30 names" = [ 1951.0, 36.7,]
 "mean per name" = 10.7
 "median per name" = 4.0
