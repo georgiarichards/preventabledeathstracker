@@ -1,12 +1,12 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
 Department of Health and Social Care,698,1642,1094,384,169,129,16
-NHS England,476,1282,782,227,129,109,11
+NHS England,476,1282,782,227,129,110,10
 Care Quality Commission,166,469,263,59,59,42,6
 HM Prison and Probation Service,147,338,175,61,45,39,2
 Ministry of Justice,102,267,126,25,43,32,2
 NHS Greater Manchester Integrated Care Board,98,237,133,55,19,21,3
 Home Office,97,319,220,37,40,18,2
-National Institute for Health and Care Excellence,95,269,156,38,23,30,4
+National Institute for Health and Care Excellence,95,269,156,38,23,31,3
 Department for Transport,93,234,148,42,26,23,2
 Betsi Cadwaladr University Health Board,72,97,63,52,3,17,0
 REDACTED,65,214,71,12,29,24,0
@@ -124,7 +124,7 @@ General Pharmaceutical Council,13,47,28,5,4,4,0
 G4S,13,44,24,5,6,2,0
 Royal Cornwall Hospitals NHS Trust,13,20,8,5,1,6,1
 East Lancashire Hospitals NHS Trust,13,14,6,6,0,7,0
-Royal College of Emergency Medicine,13,45,20,0,9,3,1
+Royal College of Emergency Medicine,13,45,20,0,9,4,0
 Maritime and Coastguard Agency,13,56,40,5,7,1,0
 Surrey and Sussex Healthcare NHS Trust,12,18,12,6,3,3,0
 Norfolk and Norwich University Hospitals NHS Foundation Trust,12,21,15,5,4,3,0
