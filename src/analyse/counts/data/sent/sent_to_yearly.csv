@@ -1,6 +1,6 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,55,47,31,50,48,46,64,78,98,102,698,55,384,169,129,16
-NHS England,6,25,22,34,27,37,45,26,42,46,86,80,476,48,227,129,110,10
+Department of Health and Social Care,19,60,55,47,31,50,48,46,64,78,98,102,698,55,384,169,130,15
+NHS England,6,25,22,34,27,37,45,26,42,46,86,80,476,48,227,129,111,9
 Care Quality Commission,11,13,10,15,20,13,14,10,18,11,12,19,166,36,59,59,42,6
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,15,147,41,61,45,39,2
 Ministry of Justice,1,12,6,8,1,8,13,0,14,11,11,17,102,25,25,43,32,2
@@ -10,10 +10,10 @@ National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,5,17,17,9
 Department for Transport,1,12,6,12,9,5,6,8,7,7,11,9,93,45,42,26,23,2
 Betsi Cadwaladr University Health Board,1,9,8,4,7,2,2,1,4,4,21,9,72,72,52,3,17,0
 REDACTED,3,24,7,0,3,1,2,0,0,4,6,15,65,18,12,29,24,0
-Barts Health NHS Trust,0,5,5,6,5,7,9,8,2,6,8,4,65,52,34,10,20,1
+Barts Health NHS Trust,0,5,5,6,5,7,9,8,2,6,8,4,65,52,34,10,21,0
 National Highways,1,7,8,4,7,1,9,4,4,7,7,5,64,42,27,7,29,1
 Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,6,4,60,55,33,14,13,0
-University Hospitals Sussex NHS Foundation Trust,1,11,5,11,6,6,6,1,4,2,3,3,59,53,31,10,16,2
+University Hospitals Sussex NHS Foundation Trust,1,11,5,11,6,6,6,1,4,2,3,3,59,53,31,10,17,1
 Medicines and Healthcare Products Regulatory Agency,1,8,4,6,4,5,6,5,3,3,7,6,58,34,20,19,18,1
 National Police Chiefs’ Council,1,3,5,2,2,2,8,2,11,3,10,6,55,27,15,31,9,0
 Health and Safety Executive,4,3,3,4,5,5,9,1,4,3,9,4,54,37,20,16,18,0
@@ -98,7 +98,7 @@ Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,1,1,1,3,2,3,1,0,
 King’s College Hospital NHS Foundation Trust,1,3,2,1,3,0,1,0,1,3,0,0,15,40,6,3,6,0
 Bedfordshire Hospitals NHS Foundation Trust,0,4,1,2,2,1,3,1,0,1,0,0,15,67,10,1,4,0
 University Hospitals of Derby and Burton NHS Foundation Trust,1,1,1,0,0,0,2,3,0,1,3,3,15,47,7,4,3,1
-Royal College of Anaesthetists,0,2,1,0,2,1,0,0,2,1,1,5,15,40,6,7,1,1
+Royal College of Anaesthetists,0,2,1,0,2,1,0,0,2,1,1,5,15,40,6,7,2,0
 NHS Digital,0,0,0,1,1,1,3,3,2,2,2,0,15,53,8,5,2,0
 Hywel Dda University Health Board,0,3,1,3,0,1,4,0,0,1,0,1,14,50,7,1,6,0
 Birmingham City Council,0,1,2,2,2,1,3,0,0,1,1,1,14,36,5,6,3,0
@@ -327,7 +327,7 @@ Harbour Healthcare Limited,0,1,0,0,1,2,0,0,0,0,0,0,4,0,0,1,3,0
 Kirklees Council,0,0,1,0,0,0,1,1,1,0,0,0,4,25,1,2,1,0
 Leicester City Council,0,2,2,0,0,0,0,0,0,0,0,0,4,50,2,2,0,0
 Lancashire Teaching Hospitals NHS Foundation Trust,0,1,2,0,0,0,0,0,0,0,0,1,4,25,1,0,3,0
-British Association of Perinatal Medicine,0,0,0,0,0,0,0,1,1,0,1,1,4,25,1,1,1,1
+British Association of Perinatal Medicine,0,0,0,0,0,0,0,1,1,0,1,1,4,25,1,1,2,0
 Lincolnshire Police,0,0,0,2,0,0,0,0,1,1,0,0,4,25,1,0,3,0
 East Suffolk and North Essex NHS Foundation Trust,0,0,1,0,0,0,0,1,0,0,0,2,4,50,2,1,1,0
 NHS Hampshire and Isle of Wight Integrated Care Board,0,0,0,0,0,0,2,0,0,0,2,0,4,25,1,1,2,0
@@ -810,7 +810,7 @@ First Aid Cover Limited,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
 Fire and Rescue Oxfordshire,0,0,1,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Bureau Veritas UK Ltd,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
 Buckinghamshire Healthcare NHS Trust,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
-Happy at Home Community Care Services Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Happy at Home Community Care Services Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Hands of Light Academy,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 Handicare Accessibility Ltd,0,0,1,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Healthcare Management Solutions Ltd,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0

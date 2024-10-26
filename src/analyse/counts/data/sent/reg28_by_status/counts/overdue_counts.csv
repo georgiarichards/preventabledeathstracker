@@ -179,6 +179,7 @@ HM Revenue and Customs,1,100.0
 Hackney Alcohol Recovery Centre,1,100.0
 Hainault Surgery,1,100.0
 Halfords Group PLC,1,100.0
+Happy at Home Community Care Services Ltd,1,100.0
 Harmoni HS,1,100.0
 Harrogate and District NHS Foundation Trust,1,100.0
 Haulage Contractors Limited,1,100.0
@@ -503,6 +504,7 @@ The Royal Wolverhampton NHS Trust,4,50.0
 Essex County Council,3,50.0
 Northumbria Police,3,50.0
 Association of Directors of Adult Social Services,2,50.0
+British Association of Perinatal Medicine,2,50.0
 City of Wolverhampton Council,2,50.0
 HM Inspectorate of Prisons,2,50.0
 NHS Hampshire and Isle of Wight Integrated Care Board,2,50.0
@@ -701,12 +703,12 @@ Torbay and South Devon NHS Foundation Trust,1,33.0
 Wakefield Council,1,33.0
 Wandsworth Council,1,33.0
 Wigan Council,1,33.0
+Barts Health NHS Trust,21,32.0
 Central and North West London NHS Foundation Trust,10,32.0
 Aneurin Bevan University Health Board,8,32.0
 University Hospitals Dorset NHS Foundation Trust,7,32.0
 NHS Derby and Derbyshire Integrated Care Board,6,32.0
 Ministry of Justice,32,31.0
-Barts Health NHS Trust,20,31.0
 Medicines and Healthcare Products Regulatory Agency,18,31.0
 Greater Manchester Mental Health NHS Foundation Trust,14,31.0
 General Medical Council,11,31.0
@@ -721,6 +723,7 @@ South London and Maudsley NHS Foundation Trust,6,30.0
 NHS Nottingham and Nottinghamshire Integrated Care Board,3,30.0
 Royal United Hospitals Bath NHS Foundation Trust,3,30.0
 Walsall Healthcare NHS Trust,3,30.0
+University Hospitals Sussex NHS Foundation Trust,17,29.0
 County Durham and Darlington NHS Foundation Trust,4,29.0
 Royal College of Physicians,4,29.0
 Cambridgeshire County Council,2,29.0
@@ -730,7 +733,6 @@ Milton Keynes City Council,2,29.0
 Nottinghamshire County Council,2,29.0
 Sheffield Health and Social Care NHS Foundation Trust,2,29.0
 HM Prison and Probation Service,39,27.0
-University Hospitals Sussex NHS Foundation Trust,16,27.0
 Pennine Care NHS Foundation Trust,13,27.0
 Welsh Ambulance Services University NHS Trust,12,27.0
 London Ambulance Service NHS Trust,7,27.0
@@ -764,7 +766,6 @@ Suffolk County Council,2,25.0
 Avon and Somerset Constabulary,1,25.0
 Barnsley Hospital NHS Foundation Trust,1,25.0
 Brighton and Hove City Council,1,25.0
-British Association of Perinatal Medicine,1,25.0
 Denbighshire County Council,1,25.0
 Department for Business and Trade,1,25.0
 East Suffolk and North Essex NHS Foundation Trust,1,25.0
@@ -786,7 +787,7 @@ Royal College of Paediatrics and Child Health,6,24.0
 Avon and Wiltshire Mental Health Partnership NHS Trust,5,24.0
 North West Ambulance Service NHS Trust,5,24.0
 Royal College of Psychiatrists,5,24.0
-NHS England,110,23.0
+NHS England,111,23.0
 Sussex Partnership NHS Foundation Trust,10,23.0
 Midlands Partnership University NHS Foundation Trust,6,23.0
 Cornwall Council,5,23.0
@@ -829,12 +830,12 @@ Staffordshire Police,1,20.0
 The Princess Alexandra Hospital NHS Trust,1,20.0
 UK Health Security Agency,1,20.0
 West Mercia Police,1,20.0
+Department of Health and Social Care,130,19.0
 Home Office,18,19.0
 Norfolk and Suffolk NHS Foundation Trust,7,19.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",5,19.0
 University Hospitals Birmingham NHS Foundation Trust,5,19.0
 East Midlands Ambulance Service NHS Trust,4,19.0
-Department of Health and Social Care,129,18.0
 Civil Aviation Authority,3,18.0
 "Department for Environment, Food and Rural Affairs",2,18.0
 Norfolk County Council,2,18.0
@@ -871,6 +872,7 @@ Sherwood Forest Hospitals NHS Foundation Trust,1,14.0
 Stockport Council,1,14.0
 Leicestershire Partnership NHS Trust,2,13.0
 NHS Digital,2,13.0
+Royal College of Anaesthetists,2,13.0
 Birmingham and Solihull Mental Health NHS Foundation Trust,4,12.0
 Hampshire County Council,1,12.0
 West Sussex County Council,1,12.0
@@ -888,7 +890,6 @@ Sandwell and West Birmingham Hospitals NHS Trust,1,9.0
 Whittington Health NHS Trust,1,9.0
 Yorkshire Ambulance Service NHS Trust,1,9.0
 Maritime and Coastguard Agency,1,8.0
-Royal College of Anaesthetists,1,7.0
 University Hospitals of Leicester NHS Trust,1,7.0
 West Midlands Police,1,5.0
 Practice Plus Group,1,3.0
