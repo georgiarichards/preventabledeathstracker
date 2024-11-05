@@ -2,8 +2,8 @@ sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial r
 Department of Health and Social Care,705,1657,1110,389,172,125,19
 NHS England,480,1295,789,228,131,108,13
 Care Quality Commission,166,470,263,58,60,43,5
-HM Prison and Probation Service,149,340,180,63,46,38,2
-Ministry of Justice,101,266,129,25,43,31,2
+HM Prison and Probation Service,149,340,180,63,46,39,1
+Ministry of Justice,101,266,129,25,43,32,1
 Home Office,99,322,227,39,40,17,3
 NHS Greater Manchester Integrated Care Board,97,236,149,57,18,19,3
 National Institute for Health and Care Excellence,96,272,157,37,25,30,4
@@ -415,7 +415,7 @@ The Lakes Care Centre,3,6,2,1,1,1,0
 Herefordshire Council,3,4,3,2,0,0,1
 Islington Council,3,11,7,1,1,1,0
 Independent Office for Police Conduct,3,7,2,0,2,0,1
-Inmind Healthcare Group,3,5,1,1,0,0,2
+Inmind Healthcare Group,3,5,1,1,0,2,0
 Dyfed-Powys Police,3,5,3,2,0,1,0
 Imperial College Healthcare NHS Trust,3,4,2,1,0,2,0
 NHS Dorset Integrated Care Board,3,13,15,3,0,0,0
