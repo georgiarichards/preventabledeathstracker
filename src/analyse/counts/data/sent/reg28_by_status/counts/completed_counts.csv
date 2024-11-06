@@ -200,7 +200,7 @@ Cyngor Sir Ceredigion County Council,1,100.0
 DAF Trucks Ltd,1,100.0
 DHL Supply Chain UK,1,100.0
 Dalmeny Hotel,1,100.0
-Darnell Grange Nursing Home,1,100.0
+Darnall Grange Care Home,1,100.0
 Darwin Medical Practice,1,100.0
 David Ake & Co Solicitors,1,100.0
 Davyhulme Medical Centre,1,100.0
@@ -400,6 +400,7 @@ Moorfields Eye Hospital NHS Foundation Trust,1,100.0
 Motor Cross Federation,1,100.0
 NHS Black Country Pathological Service,1,100.0
 NHS Coastal West Sussex CCG,1,100.0
+NHS Education for Scotland,1,100.0
 NHS Hertfordshire and West Essex Integrated Care Board,1,100.0
 NHS Suffolk and North East Essex Integrated Care Board,1,100.0
 Nant y Gaer Hall Nursing Home,1,100.0
@@ -493,7 +494,6 @@ SSP Health Medical Services Ltd,1,100.0
 Salter Labs,1,100.0
 Sapphire Independent Living,1,100.0
 Scape Living Student Accommodation,1,100.0
-Scottish Dental Clinical Effectiveness Programme,1,100.0
 Scraptoft Court residential Care Home,1,100.0
 Seascape Homes and Property Limited,1,100.0
 Seaton and Colyton Medical Practice,1,100.0
@@ -709,7 +709,6 @@ Universities and Colleges Admissions Service,2,67.0
 Wakefield Council,2,67.0
 Whirlpool UK,2,67.0
 Wrexham County Borough Council,2,67.0
-University Hospitals of North Midlands NHS Trust,15,65.0
 Cornwall Council,14,64.0
 Cornwall Partnership NHS Foundation Trust,7,64.0
 Devon and Cornwall Police,7,64.0
@@ -717,6 +716,7 @@ Norfolk County Council,7,64.0
 Oxford University Hospitals NHS Foundation Trust,7,64.0
 Sandwell and West Birmingham Hospitals NHS Trust,7,64.0
 Network Rail,26,63.0
+University Hospitals of North Midlands NHS Trust,15,62.0
 North West Ambulance Service NHS Trust,13,62.0
 Milton Keynes University Hospital NHS Foundation Trust,10,62.0
 Bolton NHS Foundation Trust,8,62.0
@@ -913,11 +913,11 @@ University of Bristol,1,50.0
 Various,1,50.0
 Waste Industry Safety and Health Forum,1,50.0
 Welsh Cycling,1,50.0
-NHS England,228,48.0
 Oxleas NHS Foundation Trust,11,48.0
 Transport for London,11,48.0
 "Department for Culture, Media and Sport",10,48.0
 East Midlands Ambulance Service NHS Trust,10,48.0
+NHS England,228,47.0
 Royal College of Anaesthetists,7,47.0
 University Hospitals of Derby and Burton NHS Foundation Trust,7,47.0
 East Lancashire Hospitals NHS Trust,6,46.0
