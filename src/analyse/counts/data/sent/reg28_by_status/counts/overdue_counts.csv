@@ -559,6 +559,7 @@ Ofgem,1,50.0
 Peterborough City Council,1,50.0
 Prime Life Limited,1,50.0
 Road Transport Industry Training Board,1,50.0
+Salford City Council,1,50.0
 Scotia Gas Network,1,50.0
 Sirona Care & Health,1,50.0
 Slough Borough Council,1,50.0
@@ -587,8 +588,8 @@ South Wales Police,3,43.0
 Tower Hamlets Council,3,43.0
 University Hospitals Bristol and Weston NHS Foundation Trust,3,43.0
 Wiltshire Council,3,43.0
+National Highways,27,42.0
 Driver and Vehicle Licensing Agency,5,42.0
-National Highways,26,41.0
 Manchester University NHS Foundation Trust,16,41.0
 University Hospitals Plymouth NHS Trust,8,40.0
 King’s College Hospital NHS Foundation Trust,6,40.0
@@ -771,12 +772,12 @@ Transport for London,5,22.0
 HC One,2,22.0
 Lincolnshire County Council,2,22.0
 NHS Nottingham and Nottinghamshire Integrated Care Board,2,22.0
+NHS Greater Manchester Integrated Care Board,20,21.0
 Association of Ambulance Chief Executives,7,21.0
 Swansea Bay University Health Board,5,21.0
 Birmingham City Council,3,21.0
 "Department for Business, Energy and Industrial Strategy",3,21.0
 South East Coast Ambulance Service NHS Foundation Trust,3,21.0
-NHS Greater Manchester Integrated Care Board,19,20.0
 Metropolitan Police Service,12,20.0
 Royal College of Paediatrics and Child Health,5,20.0
 Welsh Government,5,20.0
