@@ -1,7 +1,7 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
 Department of Health and Social Care,705,125,19,389,172,55
 NHS England,481,108,14,228,131,47
-Care Quality Commission,166,44,4,58,60,35
+Care Quality Commission,166,45,3,58,60,35
 HM Prison and Probation Service,149,39,1,63,46,42
 Ministry of Justice,101,32,1,25,43,25
 Home Office,99,17,3,39,40,39
@@ -14,7 +14,7 @@ REDACTED,65,22,0,14,29,22
 National Highways,64,27,0,29,8,45
 Metropolitan Police Service,61,12,1,33,15,54
 University Hospitals Sussex NHS Foundation Trust,59,16,1,30,12,51
-Medicines and Healthcare Products Regulatory Agency,58,17,1,21,19,36
+Medicines and Healthcare Products Regulatory Agency,58,18,0,21,19,36
 National Police Chiefs’ Council,55,9,0,15,31,27
 Health and Safety Executive,54,16,0,22,16,41
 Pennine Care NHS Foundation Trust,48,13,1,21,13,44
