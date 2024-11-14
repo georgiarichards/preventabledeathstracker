@@ -17,7 +17,7 @@ University Hospitals Sussex NHS Foundation Trust,59,30,1,28,47
 Medicines and Healthcare Products Regulatory Agency,58,40,0,18,31
 National Police Chiefs’ Council,55,42,0,13,24
 Health and Safety Executive,54,30,0,24,44
-Pennine Care NHS Foundation Trust,48,29,1,18,38
+Pennine Care NHS Foundation Trust,48,30,0,18,38
 Welsh Ambulance Services University NHS Trust,47,19,2,26,55
 Department for Education,46,19,2,25,54
 Greater Manchester Mental Health NHS Foundation Trust,45,27,1,17,38
@@ -51,7 +51,7 @@ Aneurin Bevan University Health Board,25,11,0,14,56
 Welsh Government,25,11,1,13,52
 Royal College of General Practitioners,24,10,2,12,50
 University Hospitals of North Midlands NHS Trust,24,8,2,14,58
-Surrey and Borders Partnership NHS Foundation Trust,24,11,3,10,42
+Surrey and Borders Partnership NHS Foundation Trust,24,12,2,10,42
 Blackpool Teaching Hospitals NHS Foundation Trust,24,11,0,13,54
 Care UK,24,4,0,20,83
 Swansea Bay University Health Board,24,13,1,10,42
@@ -76,7 +76,7 @@ West Midlands Police,20,6,1,13,65
 NHS Derby and Derbyshire Integrated Care Board,20,14,1,5,25
 Herefordshire and Worcestershire Health and Care NHS Trust,20,8,1,11,55
 Devon Partnership NHS Trust,19,6,0,13,68
-Surrey County Council,19,9,3,7,37
+Surrey County Council,19,10,2,7,37
 Nursing and Midwifery Council,18,10,0,8,44
 East of England Ambulance Service NHS Trust,18,8,0,10,56
 Public Health England,18,10,0,8,44
@@ -87,7 +87,7 @@ Liverpool University Hospitals NHS Foundation Trust,17,8,0,9,53
 Medway NHS Foundation Trust,17,8,0,9,53
 Milton Keynes University Hospital NHS Foundation Trust,16,7,0,9,56
 Priory Group,16,8,0,8,50
-Surrey Police,16,10,1,5,31
+Surrey Police,16,11,0,5,31
 St George’s University Hospitals NHS Foundation Trust,16,13,0,3,19
 United Lincolnshire Hospitals NHS Trust,16,8,0,8,50
 South Central Ambulance Service NHS Foundation Trust,16,11,0,5,31
@@ -1594,7 +1594,7 @@ Seascape Homes and Property Limited,1,0,0,1,100
 Sibelco UK Ltd,1,1,0,0,0
 Shropshire Safeguarding Community Partnership,1,1,0,0,0
 Shropshire Council,1,0,0,1,100
-Schindler Ltd,1,0,1,0,0
+Schindler Ltd,1,1,0,0,0
 Scape Living Student Accommodation,1,0,0,1,100
 Scania,1,1,0,0,0
 Savills,1,1,0,0,0
@@ -1609,7 +1609,7 @@ Shannon Court Care Centre,1,1,0,0,0
 Sequence Care Group,1,0,0,1,100
 Senior Lawyer Professional Support,1,0,0,1,100
 Select Healthcare,1,1,0,0,0
-Sedgemoor District Council,1,0,1,0,0
+Sedgemoor District Council,1,1,0,0,0
 Central Medical Services,1,1,0,0,0
 Central England Co-operative,1,1,0,0,0
 Central Bedfordshire Council,1,0,0,1,100

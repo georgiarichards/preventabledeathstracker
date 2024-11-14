@@ -331,6 +331,8 @@ Safety Matters (Legal) Limited,1,100.0
 Safety Matters Ltd,1,100.0
 Saga Homecare,1,100.0
 Savills,1,100.0
+Schindler Ltd,1,100.0
+Sedgemoor District Council,1,100.0
 Select Healthcare,1,100.0
 Serco Group,1,100.0
 Services for Children,1,100.0
@@ -619,6 +621,7 @@ North East London NHS Foundation Trust,11,38.0
 Blackpool Teaching Hospitals NHS Foundation Trust,9,38.0
 Cumbria County Council,6,38.0
 South Central Ambulance Service NHS Foundation Trust,6,38.0
+Surrey Police,6,38.0
 University College London Hospitals NHS Foundation Trust,5,38.0
 Gloucestershire Hospital NHS Foundation Trust,3,38.0
 Health Services Safety Investigations Body,3,38.0
@@ -691,7 +694,6 @@ Medicines and Healthcare Products Regulatory Agency,18,31.0
 Greater Manchester Mental Health NHS Foundation Trust,14,31.0
 Nottinghamshire Healthcare NHS Foundation Trust,8,31.0
 Priory Group,5,31.0
-Surrey Police,5,31.0
 NHS Cornwall and Isles of Scilly Integrated Care Board,4,31.0
 Barts Health NHS Trust,20,30.0
 Health and Safety Executive,16,30.0
@@ -700,7 +702,9 @@ South London and Maudsley NHS Foundation Trust,6,30.0
 Royal College of Surgeons,3,30.0
 Royal United Hospitals Bath NHS Foundation Trust,3,30.0
 Walsall Healthcare NHS Trust,3,30.0
+Pennine Care NHS Foundation Trust,14,29.0
 General Medical Council,10,29.0
+Surrey and Borders Partnership NHS Foundation Trust,7,29.0
 County Durham and Darlington NHS Foundation Trust,4,29.0
 Royal College of Physicians,4,29.0
 South East Coast Ambulance Service NHS Foundation Trust,4,29.0
@@ -711,7 +715,6 @@ Nottinghamshire County Council,2,29.0
 Care Quality Commission,45,27.0
 HM Prison and Probation Service,41,27.0
 University Hospitals Sussex NHS Foundation Trust,16,27.0
-Pennine Care NHS Foundation Trust,13,27.0
 London Ambulance Service NHS Trust,7,27.0
 Bedfordshire Hospitals NHS Foundation Trust,4,27.0
 Black Country Healthcare NHS Foundation Trust,4,27.0
@@ -723,7 +726,6 @@ Camden and Islington NHS Foundation Trust,6,26.0
 Oxleas NHS Foundation Trust,6,26.0
 Royal College of Obstetricians and Gynaecologists,6,26.0
 Northern Care Alliance NHS Foundation Trust,10,25.0
-Surrey and Borders Partnership NHS Foundation Trust,6,25.0
 University Hospitals of North Midlands NHS Trust,6,25.0
 Milton Keynes University Hospital NHS Foundation Trust,4,25.0
 Mid Yorkshire Teaching NHS Trust,3,25.0
@@ -778,6 +780,7 @@ NHS Nottingham and Nottinghamshire Integrated Care Board,2,22.0
 NHS Greater Manchester Integrated Care Board,20,21.0
 Association of Ambulance Chief Executives,7,21.0
 Swansea Bay University Health Board,5,21.0
+Surrey County Council,4,21.0
 Birmingham City Council,3,21.0
 "Department for Business, Energy and Industrial Strategy",3,21.0
 Metropolitan Police Service,12,20.0
@@ -833,7 +836,6 @@ Wye Valley NHS Trust,1,17.0
 National Police Chiefs’ Council,9,16.0
 College of Policing,6,16.0
 Ministry of Defence,5,16.0
-Surrey County Council,3,16.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",4,15.0
 Bolton NHS Foundation Trust,2,15.0
 Department for Work and Pensions,2,15.0
