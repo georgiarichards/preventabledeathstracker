@@ -36,11 +36,11 @@ Greater Manchester Police,34,8,1,25,74
 Birmingham and Solihull Mental Health NHS Foundation Trust,33,11,0,22,67
 Cwm Taf Morgannwg University Health Board,33,19,0,14,42
 Essex Partnership University NHS Foundation Trust,32,18,0,14,44
-Tameside and Glossop Integrated Care NHS Foundation Trust,32,13,1,18,56
+Tameside and Glossop Integrated Care NHS Foundation Trust,32,14,0,18,56
 Ministry of Defence,31,9,1,21,68
 Central and North West London NHS Foundation Trust,31,18,1,12,39
 University Hospitals Birmingham NHS Foundation Trust,30,9,3,18,60
-"Barking, Havering and Redbridge University Hospitals NHS Trust",29,14,2,13,45
+"Barking, Havering and Redbridge University Hospitals NHS Trust",29,15,1,13,45
 North East London NHS Foundation Trust,29,16,1,12,41
 Midlands Partnership University NHS Foundation Trust,26,10,1,15,58
 London Ambulance Service NHS Trust,26,14,0,12,46
@@ -60,7 +60,7 @@ Oxleas NHS Foundation Trust,23,12,0,11,48
 Royal College of Obstetricians and Gynaecologists,23,15,0,8,35
 Transport for London,23,8,0,15,65
 Camden and Islington NHS Foundation Trust,23,10,0,13,57
-Leeds Teaching Hospitals NHS Trust,23,9,2,12,52
+Leeds Teaching Hospitals NHS Trust,23,10,1,12,52
 University Hospitals Dorset NHS Foundation Trust,22,10,0,12,55
 Cornwall Council,22,6,1,15,68
 North West Ambulance Service NHS Trust,21,10,1,10,48
@@ -1278,7 +1278,7 @@ Cumbria Clinical Commissioning Group,1,1,0,0,0
 Normanton Village View Nursing Home,1,1,0,0,0
 Norfolk Police,1,1,0,0,0
 Atrumed Ltd,1,0,0,1,100
-Atlantic Reach Limited,1,0,1,0,0
+Atlantic Reach Limited,1,1,0,0,0
 Athena Care Homes (UK) Limited,1,1,0,0,0
 Aston University,1,1,0,0,0
 Association of Train Operating Companies,1,1,0,0,0
