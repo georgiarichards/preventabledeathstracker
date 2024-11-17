@@ -1,25 +1,25 @@
 coroner_area,count
-Greater Manchester South,453
-London Inner North,278
-Surrey,170
-"West Sussex, Brighton and Hove",167
+Greater Manchester South,454
+London Inner North,279
+Surrey,171
+"West Sussex, Brighton and Hove",169
 Birmingham and Solihull,165
 London East,159
-London Inner South,134
+London Inner South,135
 South Wales Central,126
 Greater Manchester North,124
-Staffordshire and Stoke-on-Trent,117
+Staffordshire and Stoke-on-Trent,118
 Nottinghamshire,115
 Norfolk,112
+Greater Manchester West,112
 Cornwall and the Isles of Scilly,112
 Yorkshire West Eastern,111
-Greater Manchester West,111
 "County of Devon, Plymouth & Torbay",102
-North Wales (East & Central),97
-Avon,95
+North Wales (East & Central),98
+Avon,96
 County Durham and Darlington,94
 Yorkshire South West,90
-"Hampshire, Portsmouth and Southampton",88
+"Hampshire, Portsmouth and Southampton",89
 The Black Country Jurisdiction,85
 Yorkshire West Western,82
 Essex,78
@@ -36,19 +36,19 @@ Worcestershire,64
 London North,64
 Liverpool and the Wirral,63
 Kent Mid and Medway,61
-Berkshire,60
-Derby and Derbyshire,56
+Berkshire,61
+Derby and Derbyshire,58
 Wiltshire and Swindon,54
 London West,54
 Lancashire and Blackburn with Darwen,53
+Blackpool and Fylde,50
 Cheshire,50
 Yorkshire South East,50
-Blackpool and Fylde,49
 Cambridgeshire and Peterborough,45
 Sunderland,43
 London South,42
 Gwent,41
-Warwickshire,40
+Warwickshire,41
 Gloucestershire,36
 Newcastle and North Tyneside,35
 East Riding of Yorkshire and Kingston-upon-Hull,33
@@ -56,7 +56,7 @@ Northamptonshire,33
 Hertfordshire,31
 Kent Central and South East,30
 North Yorkshire and York,29
-Oxfordshire,27
+Oxfordshire,28
 Swansea and Neath Port Talbot,27
 Somerset,25
 East Sussex,25
