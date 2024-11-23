@@ -40,6 +40,7 @@ Sussex Community NHS Foundation Trust,2,100.0
 Swansea Council,2,100.0
 The Financial Conduct Authority,2,100.0
 The Rotherham NHS Foundation Trust,2,100.0
+The Royal Orthopaedic Hospital NHS Foundation Trust,2,100.0
 University Hospitals of Morecambe Bay NHS Foundation Trust,2,100.0
 University of Exeter,2,100.0
 Wychavon District Council,2,100.0
@@ -484,7 +485,6 @@ Roundwell Medical Centre,1,100.0
 Royal Air Force,1,100.0
 Royal Borough of Kensington and Chelsea,1,100.0
 Royal Life Saving Society UK,1,100.0
-Royal National Orthopaedic Hospital NHS Trust,1,100.0
 Rush Court Nursing Home,1,100.0
 SC Johnson and Son,1,100.0
 SERCO Group Plc,1,100.0
@@ -562,7 +562,6 @@ The Priory Group Ltd,1,100.0
 The Professional Association of Diving Instructors,1,100.0
 The RAC Motorsports Association,1,100.0
 The Range UK,1,100.0
-The Royal Orthopaedic Hospital NHS Foundation Trust,1,100.0
 The Wallich Centre,1,100.0
 Thomas Cook,1,100.0
 Totally PLC,1,100.0
@@ -629,8 +628,8 @@ Zinnia Healthcare Limited,1,100.0
 Leeds City Council,10,91.0
 Food Standards Agency,7,88.0
 Leicestershire Partnership NHS Trust,13,87.0
+University Hospitals of Leicester NHS Trust,13,87.0
 Mersey Care NHS Foundation Trust,12,86.0
-University Hospitals of Leicester NHS Trust,12,86.0
 Guy's and St Thomas' NHS Foundation Trust,6,86.0
 Leeds and York Partnership NHS Foundation Trust,5,83.0
 NHS Lancashire and South Cumbria Integrated Care Board,5,83.0
@@ -655,6 +654,7 @@ West Hertfordshire Teaching Hospitals NHS Trust,3,75.0
 Devon Partnership NHS Trust,14,74.0
 Birmingham and Solihull Mental Health NHS Foundation Trust,24,73.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,11,73.0
+Nottingham University Hospitals NHS Trust,8,73.0
 Betsi Cadwaladr University Health Board,52,72.0
 East of England Ambulance Service NHS Trust,13,72.0
 Civil Aviation Authority,12,71.0
@@ -695,7 +695,6 @@ Liverpool Heart and Chest Hospital NHS Foundation Trust,2,67.0
 Merseyside Police,2,67.0
 NHS Humber and North Yorkshire Integrated Care Board,2,67.0
 North Lincolnshire Council,2,67.0
-Nottingham University Hospitals NHS Trust,2,67.0
 Oxfordshire County Council,2,67.0
 Portsmouth City Council,2,67.0
 Rhondda Cynon Taf County Borough Council,2,67.0
@@ -713,7 +712,6 @@ Cornwall Council,14,64.0
 Cornwall Partnership NHS Foundation Trust,7,64.0
 Devon and Cornwall Police,7,64.0
 Norfolk County Council,7,64.0
-Oxford University Hospitals NHS Foundation Trust,7,64.0
 Sandwell and West Birmingham Hospitals NHS Trust,7,64.0
 Network Rail,26,63.0
 University Hospitals of North Midlands NHS Trust,15,62.0
@@ -721,6 +719,7 @@ North West Ambulance Service NHS Trust,13,62.0
 Milton Keynes University Hospital NHS Foundation Trust,10,62.0
 Bolton NHS Foundation Trust,8,62.0
 North Bristol NHS Trust,8,62.0
+Oxford University Hospitals NHS Foundation Trust,8,62.0
 Worcestershire Acute Hospitals NHS Trust,8,62.0
 Gloucestershire Hospital NHS Foundation Trust,5,62.0
 Resuscitation Council UK,5,62.0
@@ -745,7 +744,6 @@ West Mercia Police,3,60.0
 NHS Greater Manchester Integrated Care Board,57,59.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,19,59.0
 University Hospitals Dorset NHS Foundation Trust,13,59.0
-Liverpool University Hospitals NHS Foundation Trust,10,59.0
 Midlands Partnership University NHS Foundation Trust,15,58.0
 Blackpool Teaching Hospitals NHS Foundation Trust,14,58.0
 Great Western Hospitals NHS Foundation Trust,7,58.0
@@ -874,6 +872,7 @@ Islands Roads,1,50.0
 Jigsaw Homes Group,1,50.0
 Kent Police,1,50.0
 Leicestershire County Council,1,50.0
+Liverpool University Hospitals NHS Foundation Trust,1,50.0
 London Borough of Havering,1,50.0
 Luton Borough Council,1,50.0
 Monmouthshire County Council,1,50.0
@@ -956,9 +955,9 @@ Portsmouth Hospitals University NHS Trust,5,42.0
 Sheffield Teaching Hospitals NHS Foundation Trust,5,42.0
 HM Prison and Probation Service,63,41.0
 Health and Safety Executive,22,41.0
-Manchester University NHS Foundation Trust,16,41.0
 Kent and Medway NHS and Social Care Partnership Trust,7,41.0
 Greater Manchester Mental Health NHS Foundation Trust,18,40.0
+Manchester University NHS Foundation Trust,16,40.0
 King’s College Hospital NHS Foundation Trust,6,40.0
 Calderdale Council,4,40.0
 Canal and River Trust,4,40.0
@@ -972,7 +971,6 @@ Cygnet Health Care,2,40.0
 Derbyshire County Council,2,40.0
 Derbyshire Healthcare NHS Foundation Trust,2,40.0
 Hackney Council,2,40.0
-Homerton Healthcare NHS Foundation Trust,2,40.0
 NHS Cheshire and Merseyside Integrated Care Board,2,40.0
 NHS Hampshire and Isle of Wight Integrated Care Board,2,40.0
 NHS Kent and Medway Integrated Care Board,2,40.0
@@ -1001,6 +999,7 @@ NHS Cornwall and Isles of Scilly Integrated Care Board,5,38.0
 Royal Cornwall Hospitals NHS Trust,5,38.0
 Chief Fire Officers Association,3,38.0
 Hampshire and Isle of Wight Constabulary,3,38.0
+Homerton Healthcare NHS Foundation Trust,3,38.0
 Isle of Wight Council,3,38.0
 Royal Berkshire NHS Foundation Trust,3,38.0
 The Royal Wolverhampton NHS Trust,3,38.0
