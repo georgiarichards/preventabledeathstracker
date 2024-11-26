@@ -22,8 +22,8 @@
 
 ["coroners' society"]
 "no. names in society" = 936
-"names in society with reports" = [ 483.0, 51.6,]
-"names in society without reports" = [ 453.0, 48.4,]
+"names in society with reports" = [ 482.0, 51.5,]
+"names in society without reports" = [ 454.0, 48.5,]
 "coroners in society male" = [ 349.0, 37.3,]
 "coroners in society female" = [ 325.0, 34.7,]
 "coroners in society unknown" = [ 262.0, 28.0,]
@@ -33,7 +33,7 @@
 "reports from female coroners" = [ 2204.0, 40.8,]
 "reports from unknown coroners" = [ 781.0, 14.5,]
 "no. reports parsed" = 5400
-"no. coroner names in reports" = 504
+"no. coroner names in reports" = 503
 "reports from top 30 names" = [ 1965.0, 36.4,]
 "mean per name" = 10.7
 "median per name" = 4.0
@@ -52,7 +52,7 @@
 "reports completed" = [ 3042.0, 56.3,]
 
 ["requests for response"]
-"no. recipients with requests" = 2030
+"no. recipients with requests" = 2029
 "no. requests for response" = 8745
 "requests pending" = [ 202.0, 2.3,]
 "requests received" = [ 4187.0, 47.9,]
