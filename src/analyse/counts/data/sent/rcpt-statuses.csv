@@ -1,11 +1,11 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
 Department of Health and Social Care,710,1669,1111,389,173,127,21
-NHS England,491,1323,790,228,132,109,22
+NHS England,491,1323,790,228,133,109,21
 Care Quality Commission,168,477,263,58,60,46,4
 HM Prison and Probation Service,152,346,180,63,46,41,2
 Ministry of Justice,103,270,129,25,43,32,3
 Home Office,101,325,227,39,40,17,5
-National Institute for Health and Care Excellence,97,268,157,37,25,30,5
+National Institute for Health and Care Excellence,97,268,157,37,26,30,4
 NHS Greater Manchester Integrated Care Board,97,236,149,57,18,21,1
 Department for Transport,95,249,148,42,26,23,4
 Betsi Cadwaladr University Health Board,72,97,63,52,3,17,0
@@ -70,7 +70,7 @@ East Midlands Ambulance Service NHS Trust,21,49,28,10,8,3,0
 Royal College of Psychiatrists,21,92,53,6,11,4,0
 North West Ambulance Service NHS Trust,21,68,47,13,3,4,1
 West Midlands Police,20,64,58,11,7,1,1
-East Kent Hospitals University NHS Foundation Trust,20,33,11,9,0,10,1
+East Kent Hospitals University NHS Foundation Trust,20,33,11,9,1,10,0
 NHS Derby and Derbyshire Integrated Care Board,20,54,21,6,7,6,1
 Herefordshire and Worcestershire Health and Care NHS Trust,20,28,19,11,4,4,1
 South London and Maudsley NHS Foundation Trust,20,34,19,9,5,6,0
@@ -117,7 +117,7 @@ East Lancashire Hospitals NHS Trust,13,14,6,6,0,7,0
 G4S,13,44,24,5,6,2,0
 North Bristol NHS Trust,13,16,10,8,2,3,0
 Oxford University Hospitals NHS Foundation Trust,13,16,11,8,2,3,0
-University College London Hospitals NHS Foundation Trust,13,18,7,6,1,5,1
+University College London Hospitals NHS Foundation Trust,13,18,7,6,1,6,0
 Sussex Police,13,39,23,6,3,4,0
 "Foreign, Commonwealth and Development Office",13,25,7,5,1,7,0
 NHS Cornwall and Isles of Scilly Integrated Care Board,13,30,15,5,4,4,0
