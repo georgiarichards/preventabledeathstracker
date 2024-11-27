@@ -1,16 +1,17 @@
 sent_to,no. pending responses
-Department of Health and Social Care,21
-NHS England,21
+Department of Health and Social Care,20
+NHS England,20
 Home Office,5
 Care Quality Commission,4
-Department for Transport,4
 National Institute for Health and Care Excellence,4
 University Hospitals Birmingham NHS Foundation Trust,4
+Department for Education,3
+Department for Transport,3
 Ministry of Justice,3
 Coventry and Warwickshire Partnership NHS Trust,2
-Department for Education,2
 East Riding of Yorkshire Council,2
 HM Prison and Probation Service,2
+NHS Derby and Derbyshire Integrated Care Board,2
 North London Mental Health Partnership,2
 Royal College of General Practitioners,2
 Royal College of Pathologists,2
@@ -54,7 +55,6 @@ George Eliot Hospital NHS Trust,1
 Greater Manchester Mental Health NHS Foundation Trust,1
 Greater Manchester Police,1
 HM Prison Ranby,1
-HM Prison Wandsworth,1
 Hackney Council,1
 Herefordshire Council,1
 Herefordshire and Worcestershire Health and Care NHS Trust,1
@@ -73,8 +73,6 @@ Midlands Partnership University NHS Foundation Trust,1
 Ministry of Defence,1
 "Ministry of Housing, Communities and Local Government",1
 NHS Cambridgeshire and Peterborough Integrated Care Board,1
-NHS Derby & Derbyshire Integrated Care Board,1
-NHS Derby and Derbyshire Integrated Care Board,1
 NHS Greater Manchester Integrated Care Board,1
 NHS Suffolk and North East Essex Integrated Care Board,1
 National Ambulance Services Medical Directors,1
@@ -102,8 +100,6 @@ South East Coast Ambulance Service NHS Foundation Trust,1
 South Tees Hospitals NHS Foundation Trust,1
 South West Regional Midwife,1
 Steps2Recovery,1
-Stockport Council,1
-Stockport NHS Foundation Trust,1
 Suffolk County Council,1
 Surrey and Borders Partnership NHS Foundation Trust,1
 Sussex Partnership NHS Foundation Trust,1
@@ -111,7 +107,6 @@ Swansea Bay University Health Board,1
 "Tees, Esk and Wear Valley NHS Foundation Trust",1
 The Brinnington Surgery,1
 The Children's Trust,1
-The Department for Education,1
 The Manor House Care Home,1
 The Yacht Harbour Association Ltd,1
 Trafford Council,1
