@@ -1,10 +1,10 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,710,1669,1111,389,173,128,20
-NHS England,491,1323,790,228,133,110,20
-Care Quality Commission,168,477,263,58,60,46,4
+Department of Health and Social Care,710,1669,1111,389,173,129,19
+NHS England,491,1323,790,228,133,112,18
+Care Quality Commission,168,477,263,58,60,47,3
 HM Prison and Probation Service,152,346,180,63,46,41,2
 Ministry of Justice,103,270,129,25,43,32,3
-Home Office,101,325,227,39,40,17,5
+Home Office,101,325,227,39,40,19,3
 NHS Greater Manchester Integrated Care Board,99,243,152,58,19,21,1
 National Institute for Health and Care Excellence,97,268,157,37,26,30,4
 Department for Transport,95,249,148,42,26,24,3
@@ -20,18 +20,18 @@ Health and Safety Executive,54,156,78,22,16,16,0
 Pennine Care NHS Foundation Trust,48,116,57,21,13,14,0
 Department for Education,47,138,83,18,15,11,3
 Welsh Ambulance Services University NHS Trust,47,94,52,26,7,12,2
-Greater Manchester Mental Health NHS Foundation Trust,45,133,52,18,12,14,1
+Greater Manchester Mental Health NHS Foundation Trust,45,133,52,18,12,15,0
 Sussex Partnership NHS Foundation Trust,44,73,43,25,7,11,1
 Northern Care Alliance NHS Foundation Trust,41,80,40,21,9,10,1
 Network Rail,41,61,42,26,5,10,0
 Manchester University NHS Foundation Trust,40,75,31,16,6,18,0
-College of Policing,38,140,126,15,16,6,1
+College of Policing,38,140,126,15,16,7,0
 East London NHS Foundation Trust,37,58,36,20,4,12,1
 Norfolk and Suffolk NHS Foundation Trust,37,57,41,25,4,7,1
 "Ministry of Housing, Communities and Local Government",36,95,51,20,7,8,1
 General Medical Council,35,129,71,9,16,10,0
 Stockport NHS Foundation Trust,34,50,24,18,2,14,0
-Greater Manchester Police,34,109,73,18,11,4,1
+Greater Manchester Police,34,109,73,18,11,5,0
 Association of Ambulance Chief Executives,34,137,85,7,19,7,1
 Birmingham and Solihull Mental Health NHS Foundation Trust,33,94,77,24,7,2,0
 Cwm Taf Morgannwg University Health Board,33,65,27,14,5,14,0
@@ -53,7 +53,7 @@ Surrey and Borders Partnership NHS Foundation Trust,24,51,27,9,6,8,1
 Care UK,24,57,32,9,14,1,0
 Blackpool Teaching Hospitals NHS Foundation Trust,24,38,22,14,1,9,0
 Royal College of Obstetricians and Gynaecologists,24,68,31,6,11,6,1
-University Hospitals of North Midlands NHS Trust,24,32,22,15,1,6,2
+University Hospitals of North Midlands NHS Trust,24,32,22,15,1,7,1
 Swansea Bay University Health Board,24,53,31,9,9,5,1
 Royal College of General Practitioners,24,93,57,10,8,4,2
 Camden and Islington NHS Foundation Trust,23,38,24,13,4,6,0
@@ -67,7 +67,7 @@ Cornwall Council,22,42,28,14,3,5,0
 East Midlands Ambulance Service NHS Trust,21,49,28,10,8,3,0
 NHS Derby and Derbyshire Integrated Care Board,21,55,21,6,7,6,2
 NHS Birmingham and Solihull Integrated Care Board,21,64,50,16,3,2,0
-North West Ambulance Service NHS Trust,21,68,47,13,3,4,1
+North West Ambulance Service NHS Trust,21,68,47,13,3,5,0
 Royal College of Psychiatrists,21,92,53,6,11,4,0
 Avon and Wiltshire Mental Health Partnership NHS Trust,21,42,26,9,7,5,0
 West Midlands Police,20,64,58,11,7,1,1
@@ -93,7 +93,7 @@ South Central Ambulance Service NHS Foundation Trust,16,34,19,6,4,6,0
 North East Ambulance Service NHS Foundation Trust,16,28,14,7,2,7,0
 St George’s University Hospitals NHS Foundation Trust,16,32,14,3,6,7,0
 Leicestershire Partnership NHS Trust,15,20,18,13,0,2,0
-University Hospitals of Derby and Burton NHS Foundation Trust,15,27,14,7,4,3,1
+University Hospitals of Derby and Burton NHS Foundation Trust,15,27,14,7,4,4,0
 King’s College Hospital NHS Foundation Trust,15,26,12,6,3,6,0
 Bedfordshire Hospitals NHS Foundation Trust,15,20,16,10,1,4,0
 NHS Digital,15,48,35,8,5,2,0
@@ -162,7 +162,7 @@ Devon and Cornwall Police,11,24,19,7,3,1,0
 West London NHS Trust,11,15,6,5,0,6,0
 Royal Free London NHS Foundation Trust,11,16,10,6,0,5,0
 British Medical Association,11,50,20,2,5,4,0
-Trafford Council,10,40,15,2,5,2,1
+Trafford Council,10,40,15,2,5,3,0
 Cyngor Sir Powys County Council,10,15,6,2,2,6,0
 South Tyneside and Sunderland NHS Foundation Trust,10,19,8,6,0,4,0
 Royal United Hospitals Bath NHS Foundation Trust,10,21,9,5,2,3,0
