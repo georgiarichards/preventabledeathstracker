@@ -1,5 +1,5 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,710,282,19,409,58
+Department of Health and Social Care,710,284,17,409,58
 NHS England,491,191,18,282,57
 Care Quality Commission,168,104,3,61,36
 HM Prison and Probation Service,152,84,2,66,43
@@ -314,7 +314,7 @@ South Western Railway,5,3,0,2,40
 Bolton Council,5,3,0,2,40
 Rochdale Borough Council,5,3,0,2,40
 Change Grow Live,5,4,0,1,20
-London Fire Brigade,5,0,1,4,80
+London Fire Brigade,5,1,0,4,80
 South Yorkshire Police,5,2,0,3,60
 Greater Manchester Combined Authority,5,4,0,1,20
 NHS Kent and Medway Integrated Care Board,5,4,0,1,20
@@ -326,7 +326,7 @@ Lancashire County Council,5,1,0,4,80
 NHS South Yorkshire Integrated Care Board,4,3,0,1,25
 NHS South West London Integrated Care Board,4,3,0,1,25
 National Patient Safety Agency,4,4,0,0,0
-Newham Council,4,1,1,2,50
+Newham Council,4,2,0,2,50
 Royal Yachting Association,4,2,1,1,25
 Royal Surrey NHS Foundation Trust,4,4,0,0,0
 NHS North East London Integrated Care Board,4,2,0,2,50
