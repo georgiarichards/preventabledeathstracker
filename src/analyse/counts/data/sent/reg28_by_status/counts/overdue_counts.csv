@@ -580,6 +580,7 @@ Royal Free London NHS Foundation Trust,5,45.0
 South West London and St George’s Mental Health NHS Trust,5,45.0
 North East Ambulance Service NHS Foundation Trust,7,44.0
 St George’s University Hospitals NHS Foundation Trust,7,44.0
+Leeds Teaching Hospitals NHS Trust,10,43.0
 Cheshire and Wirral Partnership NHS Foundation Trust,3,43.0
 Northumbria Police,3,43.0
 Office of Rail and Road,3,43.0
@@ -610,7 +611,6 @@ South Tees Hospitals NHS Foundation Trust,2,40.0
 South Western Railway,2,40.0
 West Suffolk NHS Foundation Trust,2,40.0
 Wiltshire Police,2,40.0
-Leeds Teaching Hospitals NHS Trust,9,39.0
 Nursing and Midwifery Council,7,39.0
 Public Health England,7,39.0
 Essex Partnership University NHS Foundation Trust,12,38.0
@@ -623,10 +623,12 @@ Gloucestershire Hospital NHS Foundation Trust,3,38.0
 Health Services Safety Investigations Body,3,38.0
 Isle of Wight Council,3,38.0
 Resuscitation Council UK,3,38.0
+Sheffield Health and Social Care NHS Foundation Trust,3,38.0
 University Hospitals Bristol and Weston NHS Foundation Trust,3,38.0
 Hywel Dda University Health Board,5,36.0
 British Medical Association,4,36.0
 South Western Ambulance Service NHS Foundation Trust,4,36.0
+Nottinghamshire Healthcare NHS Foundation Trust,9,35.0
 Kent and Medway NHS and Social Care Partnership Trust,6,35.0
 REDACTED,22,33.0
 Greater Manchester Mental Health NHS Foundation Trust,15,33.0
@@ -690,7 +692,6 @@ University Hospitals Dorset NHS Foundation Trust,7,32.0
 Ministry of Justice,32,31.0
 National Institute for Health and Care Excellence,30,31.0
 Medicines and Healthcare Products Regulatory Agency,18,31.0
-Nottinghamshire Healthcare NHS Foundation Trust,8,31.0
 Priory Group,5,31.0
 NHS Cornwall and Isles of Scilly Integrated Care Board,4,31.0
 Sussex Police,4,31.0
@@ -741,7 +742,6 @@ Homerton Healthcare NHS Foundation Trust,2,25.0
 NHS Wales,2,25.0
 Royal Berkshire NHS Foundation Trust,2,25.0
 Royal Devon University Healthcare NHS Foundation Trust,2,25.0
-Sheffield Health and Social Care NHS Foundation Trust,2,25.0
 Suffolk County Council,2,25.0
 Avon and Somerset Constabulary,1,25.0
 Barnsley Hospital NHS Foundation Trust,1,25.0
