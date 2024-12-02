@@ -1,24 +1,26 @@
 sent_to,no. pending responses
-NHS England,18
-Department of Health and Social Care,17
-National Institute for Health and Care Excellence,4
+Department of Health and Social Care,20
+NHS England,20
+Department for Transport,5
+National Institute for Health and Care Excellence,5
 University Hospitals Birmingham NHS Foundation Trust,4
 Care Quality Commission,3
 Department for Education,3
-Department for Transport,3
 Home Office,3
 Ministry of Justice,3
+NHS Derby and Derbyshire Integrated Care Board,3
+Royal College of Surgeons,3
 Coventry and Warwickshire Partnership NHS Trust,2
 East Riding of Yorkshire Council,2
 HM Prison and Probation Service,2
-NHS Derby and Derbyshire Integrated Care Board,2
+Norfolk and Suffolk NHS Foundation Trust,2
 North London Mental Health Partnership,2
 Royal College of General Practitioners,2
 Royal College of Pathologists,2
 Royal College of Radiologists,2
-Royal College of Surgeons,2
 Surrey County Council,2
 UK Kidney Association,2
+Veterinary Medicines Directorate,2
 Welsh Ambulance Services University NHS Trust,2
 York and Scarborough Teaching Hospitals NHS Foundation Trust,2
 A&B Healthcare Ltd,1
@@ -29,6 +31,7 @@ Avery Healthcare,1
 "Barnet, Enfield and Haringey Mental Health NHS Trust",1
 Barts Health NHS Trust,1
 Bay Boats Limited,1
+Bolton NHS Foundation Trust,1
 British Marine,1
 British Ports Association,1
 British Society of Gastroenterology,1
@@ -42,43 +45,53 @@ Chief Midwife,1
 Clough Williams-Ellis Trust,1
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",1
 Cyngor Gwynedd Council,1
+Daynight Pharmacy,1
 Department for Business and Trade,1
 "Department for Culture, Media and Sport",1
 Department for Work and Pensions,1
 Derbyshire Constabulary,1
 Driver Vehicle Standards Agency,1
+Driver and Vehicle Licensing Agency,1
+Driving Standards Agency,1
 East London NHS Foundation Trust,1
 GTD Healthcare,1
 George Eliot Hospital NHS Trust,1
 HM Prison Ranby,1
 Hackney Council,1
+Hampshire and Isle of Wight Healthcare NHS Foundation Trust,1
+Harbour Healthcare Ltd,1
+Health and Safety Executive,1
 Herefordshire Council,1
 Herefordshire and Worcestershire Health and Care NHS Trust,1
 Homerton Healthcare NHS Foundation Trust,1
 Independent Office for Police Conduct,1
 Kingkabs,1
 Leicestershire County Council,1
+Macklin Street Surgery,1
 Maritime and Coastguard Agency,1
 Medical Research Council,1
 Medical Schools Council,1
 Medicines and Healthcare Products Regulatory Agency,1
 Metropolitan Police Service,1
+Mid and West Wales Fire and Rescue Service,1
 Midlands Partnership University NHS Foundation Trust,1
 Ministry of Defence,1
 "Ministry of Housing, Communities and Local Government",1
 NHS Cambridgeshire and Peterborough Integrated Care Board,1
+NHS Dorset Integrated Care Board,1
 NHS Greater Manchester Integrated Care Board,1
 NHS Suffolk and North East Essex Integrated Care Board,1
 National Ambulance Services Medical Directors,1
 National Institute for Health and Care Research,1
-Norfolk and Suffolk NHS Foundation Trust,1
 North East London NHS Foundation Trust,1
 Northern Care Alliance NHS Foundation Trust,1
 Northumbria Police,1
 Ofcom,1
 Office for Product Safety and Standards,1
+Oxford Health NHS Foundation Trust,1
 Oxfordshire County Council,1
 Prime Life Limited,1
+Priory Group,1
 REDACTED,1
 Radis Community Care,1
 Royal College of Obstetricians and Gynaecologists,1
@@ -95,9 +108,12 @@ Surrey and Borders Partnership NHS Foundation Trust,1
 Sussex Partnership NHS Foundation Trust,1
 Swansea Bay University Health Board,1
 "Tees, Esk and Wear Valley NHS Foundation Trust",1
+The Agricultural Engineers Association,1
 The Brinnington Surgery,1
+The British Agricultural and Garden Machinery Association,1
 The Children's Trust,1
 The Manor House Care Home,1
+The National Farmers Union,1
 The Yacht Harbour Association Ltd,1
 UK Harbour Master’s Association,1
 UK Health Security Agency,1
@@ -105,8 +121,8 @@ UK Major Ports Group,1
 University Hospitals Bristol and Weston NHS Foundation Trust,1
 University Hospitals Sussex NHS Foundation Trust,1
 University Hospitals of North Midlands NHS Trust,1
-Veterinary Medicines Directorate,1
 Welsh Government,1
+Welsh Parliament,1
 West Midlands Police,1
 West Suffolk NHS Foundation Trust,1
 West Yorkshire Police,1
