@@ -1,12 +1,12 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,50,48,46,65,78,98,116,711,57,402,168,121,20
-NHS England,6,25,22,33,27,37,45,27,42,46,86,99,495,48,240,130,103,22
+Department of Health and Social Care,19,60,54,46,31,50,48,46,65,78,98,116,711,57,402,168,123,18
+NHS England,6,25,22,33,27,37,45,27,42,46,86,99,495,48,240,130,104,21
 Care Quality Commission,11,13,10,15,20,13,14,10,18,11,12,21,168,36,61,61,43,3
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,20,152,42,64,46,40,2
 Ministry of Justice,1,12,6,8,1,8,13,0,14,11,11,19,104,25,26,44,31,3
 Home Office,2,8,10,5,4,5,12,8,13,11,11,12,101,41,41,38,19,3
 NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,16,12,20,11,10,13,100,61,61,19,19,1
-National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,5,17,20,98,41,40,24,29,5
+National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,5,17,20,98,41,40,24,30,4
 Department for Transport,1,13,6,12,9,5,6,8,7,7,11,13,98,43,42,27,24,5
 Betsi Cadwaladr University Health Board,1,9,8,4,9,2,2,1,4,4,21,9,74,72,53,3,18,0
 REDACTED,3,26,9,0,3,1,2,0,0,4,6,17,71,18,13,33,24,1
@@ -40,7 +40,7 @@ Tameside and Glossop Integrated Care NHS Foundation Trust,0,3,2,3,3,1,4,3,2,5,3,
 Essex Partnership University NHS Foundation Trust,0,1,3,4,4,2,0,3,2,3,4,6,32,44,14,6,12,0
 University Hospitals Birmingham NHS Foundation Trust,1,0,4,2,2,2,4,1,2,0,3,10,31,58,18,5,4,4
 Ministry of Defence,1,5,8,0,1,2,3,1,2,1,3,3,30,63,19,5,5,1
-North East London NHS Foundation Trust,0,0,1,3,0,1,5,2,5,3,7,2,29,45,13,4,11,1
+North East London NHS Foundation Trust,0,0,1,3,0,1,5,2,5,3,7,2,29,45,13,4,12,0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",2,2,3,0,3,0,1,2,3,3,7,3,29,45,13,3,12,1
 Nottinghamshire Healthcare NHS Foundation Trust,0,1,3,4,2,0,0,0,2,3,6,5,26,54,14,3,9,0
 "Tees, Esk and Wear Valley NHS Foundation Trust",3,7,0,2,2,0,0,1,1,2,5,3,26,58,15,6,4,1
@@ -170,7 +170,7 @@ Trafford Council,1,0,2,2,0,2,0,2,0,0,0,1,10,20,2,5,3,0
 Walsall Healthcare NHS Trust,0,1,1,2,1,1,0,3,1,0,0,0,10,60,6,1,3,0
 South Tyneside and Sunderland NHS Foundation Trust,0,4,2,0,1,1,1,0,1,0,0,0,10,60,6,0,4,0
 Canal and River Trust,0,2,0,3,1,0,1,0,1,2,0,0,10,40,4,1,5,0
-Office for Product Safety and Standards,0,0,0,0,0,1,1,1,0,0,3,4,10,50,5,3,1,1
+Office for Product Safety and Standards,0,0,0,0,0,1,1,1,0,0,3,4,10,50,5,3,2,0
 Royal United Hospitals Bath NHS Foundation Trust,0,1,1,1,1,0,3,0,0,0,3,0,10,50,5,2,3,0
 Calderdale Council,0,0,0,0,0,4,2,1,1,1,0,1,10,40,4,1,5,0
 Frimley Health NHS Foundation Trust,1,3,0,1,0,0,0,0,1,1,1,2,10,50,5,3,2,0
@@ -320,7 +320,7 @@ Mitie Group,0,0,0,1,0,0,2,0,1,0,0,1,5,20,1,0,4,0
 Bolton Council,1,0,1,0,1,0,0,1,1,0,0,0,5,40,2,0,3,0
 Cygnet Health Care,0,1,0,0,0,0,0,0,0,1,0,3,5,40,2,2,1,0
 Virgin Care,0,1,1,0,0,3,0,0,0,0,0,0,5,20,1,1,3,0
-Department for Business and Trade,0,1,1,0,0,0,0,1,0,0,0,2,5,0,0,2,2,1
+Department for Business and Trade,0,1,1,0,0,0,0,1,0,0,0,2,5,0,0,2,3,0
 Lewisham Council,0,0,0,1,0,1,1,1,1,0,0,0,5,0,0,4,1,0
 Birmingham Community Healthcare NHS Foundation Trust,0,0,1,0,1,1,1,0,0,0,1,0,5,40,2,3,0,0
 Wiltshire Police,0,1,0,0,0,1,1,1,0,0,1,0,5,40,2,1,2,0
@@ -1720,8 +1720,8 @@ NHS Black Country Pathological Service,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
 Ministry of Defence Police,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
 Cambridge University Hospitals NHS Foundation Trust,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
 Medical Protection Society,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-Medical Research Council,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
-Medical Schools Council,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Medical Research Council,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+Medical Schools Council,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Medicines and Health Regulatory Authority,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Medico Legal Manager,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
 Medicspro,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
@@ -1851,7 +1851,7 @@ British Maternal and Fetal Medicine Society,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
 British Mountaineering Council,0,0,0,1,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 National Infusion and Vascular Access Society,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 National Institute for Cardiovascular Outcomes Research,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
-National Institute for Health and Care Research,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+National Institute for Health and Care Research,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 National Open College Network,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
 National Pharmaceutical Association,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
 National Pharmacy Association,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
