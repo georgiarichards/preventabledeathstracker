@@ -608,6 +608,7 @@ Health Services Safety Investigations Body,3,38.0
 Isle of Wight Council,3,38.0
 Resuscitation Council UK,3,38.0
 Sheffield Health and Social Care NHS Foundation Trust,3,38.0
+Suffolk County Council,3,38.0
 University Hospitals Bristol and Weston NHS Foundation Trust,3,38.0
 Hywel Dda University Health Board,5,36.0
 British Medical Association,4,36.0
@@ -717,7 +718,6 @@ Homerton Healthcare NHS Foundation Trust,2,25.0
 NHS Wales,2,25.0
 Royal Berkshire NHS Foundation Trust,2,25.0
 Royal Devon University Healthcare NHS Foundation Trust,2,25.0
-Suffolk County Council,2,25.0
 Avon and Somerset Constabulary,1,25.0
 Barnsley Hospital NHS Foundation Trust,1,25.0
 British Association of Perinatal Medicine,1,25.0
@@ -753,7 +753,8 @@ Sussex Police,3,23.0
 Oxleas NHS Foundation Trust,5,22.0
 HC One,2,22.0
 Lincolnshire County Council,2,22.0
-NHS England,104,21.0
+NHS England,105,21.0
+Norfolk and Suffolk NHS Foundation Trust,8,21.0
 Swansea Bay University Health Board,5,21.0
 Welsh Government,4,21.0
 Birmingham City Council,3,21.0
@@ -790,7 +791,6 @@ Department for Education,9,19.0
 "Ministry of Housing, Communities and Local Government",7,19.0
 Royal College of Psychiatrists,4,19.0
 College of Policing,7,18.0
-Norfolk and Suffolk NHS Foundation Trust,7,18.0
 Association of Ambulance Chief Executives,6,18.0
 Civil Aviation Authority,3,18.0
 "Department for Environment, Food and Rural Affairs",2,18.0
@@ -798,7 +798,7 @@ Civil Aviation Authority,3,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
-Department of Health and Social Care,123,17.0
+Department of Health and Social Care,124,17.0
 Ministry of Defence,5,17.0
 Cardiff and Vale University Health Board,4,17.0
 Cornwall Council,4,17.0

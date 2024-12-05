@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,711,1674,1135,402,168,123,18
-NHS England,495,1330,822,240,130,104,21
+Department of Health and Social Care,711,1674,1135,402,168,124,17
+NHS England,495,1330,822,240,130,105,20
 Care Quality Commission,168,477,274,61,61,43,3
 HM Prison and Probation Service,152,346,182,64,46,40,2
 Ministry of Justice,104,273,133,26,44,31,3
@@ -26,7 +26,7 @@ Northern Care Alliance NHS Foundation Trust,41,80,40,21,9,10,1
 Network Rail,41,61,42,26,5,10,0
 Manchester University NHS Foundation Trust,40,75,31,16,6,18,0
 College of Policing,38,140,126,15,16,7,0
-Norfolk and Suffolk NHS Foundation Trust,38,59,42,26,3,7,2
+Norfolk and Suffolk NHS Foundation Trust,38,59,42,26,3,8,1
 Cwm Taf Morgannwg University Health Board,37,78,29,16,5,16,0
 East London NHS Foundation Trust,37,58,37,21,4,11,1
 "Ministry of Housing, Communities and Local Government",36,95,52,20,8,7,1
@@ -187,7 +187,7 @@ NHS West Yorkshire Integrated Care Board,9,32,11,3,3,3,0
 Royal College of Pathologists,9,40,16,1,3,3,2
 Staffordshire County Council,9,12,6,5,1,3,0
 "Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust",8,15,11,5,2,1,0
-Suffolk County Council,8,16,10,5,0,2,1
+Suffolk County Council,8,16,10,5,0,3,0
 Gloucestershire Hospital NHS Foundation Trust,8,9,5,5,0,3,0
 The Royal Wolverhampton NHS Trust,8,11,4,3,1,4,0
 University Hospitals Bristol and Weston NHS Foundation Trust,8,17,6,3,1,3,1

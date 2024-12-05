@@ -46,17 +46,17 @@
 "reports without recipients" = [ 1.0, 0.0,]
 "reports failed" = [ -1.0, -0.0,]
 "reports no sent_to" = 0
-"reports pending" = [ 109.0, 2.0,]
-"reports overdue" = [ 1476.0, 27.2,]
+"reports pending" = [ 107.0, 2.0,]
+"reports overdue" = [ 1478.0, 27.3,]
 "reports partial" = [ 740.0, 13.7,]
 "reports completed" = [ 3093.0, 57.1,]
 
 ["requests for response"]
 "no. recipients with requests" = 2039
 "no. requests for response" = 8799
-"requests pending" = [ 203.0, 2.3,]
+"requests pending" = [ 199.0, 2.3,]
 "requests received" = [ 4288.0, 48.7,]
-"requests overdue" = [ 4308.0, 49.0,]
+"requests overdue" = [ 4312.0, 49.0,]
 "mean no. requests per recipient" = 4.3
 "median no. requests per recipient" = 1.0
 "IQR of requests per recipients" = [ 1.0, 2.0,]
