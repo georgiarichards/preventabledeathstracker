@@ -47,7 +47,7 @@ Nottinghamshire Healthcare NHS Foundation Trust,26,48,27,14,3,9,0
 London Ambulance Service NHS Trust,26,87,58,9,10,7,0
 Royal College of Paediatrics and Child Health,26,105,60,10,11,4,1
 Aneurin Bevan University Health Board,26,47,25,15,3,8,0
-Midlands Partnership University NHS Foundation Trust,26,48,35,16,3,6,1
+Midlands Partnership University NHS Foundation Trust,26,48,35,16,3,7,0
 Swansea Bay University Health Board,24,53,31,9,9,5,1
 Care UK,24,57,32,9,14,1,0
 Royal College of Obstetricians and Gynaecologists,24,68,31,6,11,6,1
@@ -184,7 +184,7 @@ Warwickshire County Council,9,9,4,4,0,5,0
 Lincolnshire County Council,9,16,10,5,2,2,0
 Maidstone and Tunbridge Wells NHS Trust,9,13,11,7,1,1,0
 NHS West Yorkshire Integrated Care Board,9,32,11,3,3,3,0
-Royal College of Pathologists,9,40,16,1,3,3,2
+Royal College of Pathologists,9,40,16,1,3,4,1
 Staffordshire County Council,9,12,6,5,1,3,0
 "Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust",8,15,11,5,2,1,0
 Suffolk County Council,8,16,10,5,0,3,0
@@ -196,11 +196,11 @@ Dorset Council,8,19,21,8,0,0,0
 Hampshire and Isle of Wight Constabulary,8,20,7,3,1,4,0
 Chief Fire Officers Association,8,30,11,3,1,4,0
 Health Services Safety Investigations Body,8,23,15,2,3,3,0
-Royal College of Radiologists,8,27,14,3,3,0,2
+Royal College of Radiologists,8,27,14,3,3,1,1
 Isle of Wight Council,8,15,7,3,2,3,0
 Hampshire County Council,8,15,11,4,3,1,0
 Sheffield Health and Social Care NHS Foundation Trust,8,11,9,5,0,3,0
-Homerton Healthcare NHS Foundation Trust,8,15,7,3,2,2,1
+Homerton Healthcare NHS Foundation Trust,8,15,7,3,2,3,0
 Royal Berkshire NHS Foundation Trust,8,19,13,3,3,2,0
 Camden Council,8,14,10,4,2,2,0
 Royal Devon University Healthcare NHS Foundation Trust,8,14,11,4,2,2,0
@@ -264,7 +264,7 @@ Sheffield City Council,6,9,5,4,1,1,0
 Sheffield Children’s NHS Foundation Trust,6,12,9,4,2,0,0
 National Trust,6,17,11,2,4,0,0
 Guy's and St Thomas' NHS Foundation Trust,6,10,10,5,1,0,0
-British Society of Gastroenterology,6,26,11,2,2,1,1
+British Society of Gastroenterology,6,26,11,2,2,2,0
 Wye Valley NHS Trust,6,6,6,5,0,1,0
 Essex County Council,6,7,5,3,0,3,0
 Tameside Metropolitan Borough Council,6,22,11,1,5,0,0
