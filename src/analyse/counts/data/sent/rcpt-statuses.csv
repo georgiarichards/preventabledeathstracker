@@ -1,9 +1,9 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,714,1681,1135,402,168,124,20
-NHS England,498,1335,823,241,130,105,22
-Care Quality Commission,168,477,274,61,61,43,3
-HM Prison and Probation Service,153,347,182,64,46,40,3
-Ministry of Justice,104,273,133,26,44,31,3
+Department of Health and Social Care,714,1681,1135,402,168,125,19
+NHS England,498,1335,823,241,130,106,21
+Care Quality Commission,168,477,274,61,61,44,2
+HM Prison and Probation Service,153,347,182,64,46,41,2
+Ministry of Justice,104,273,133,26,44,32,2
 Home Office,101,325,230,41,38,19,3
 NHS Greater Manchester Integrated Care Board,100,249,157,61,19,19,1
 National Institute for Health and Care Excellence,98,271,165,40,24,30,4
@@ -19,7 +19,7 @@ Health and Safety Executive,55,163,78,21,17,16,1
 National Police Chiefs’ Council,55,194,140,17,29,9,0
 Pennine Care NHS Foundation Trust,48,116,62,24,12,12,0
 Welsh Ambulance Services University NHS Trust,47,94,53,27,7,11,2
-Department for Education,47,138,85,18,17,10,2
+Department for Education,47,138,85,18,17,11,1
 Greater Manchester Mental Health NHS Foundation Trust,45,133,52,18,12,15,0
 Sussex Partnership NHS Foundation Trust,44,73,46,26,7,10,1
 Northern Care Alliance NHS Foundation Trust,41,80,40,21,9,10,1
@@ -38,17 +38,17 @@ Birmingham and Solihull Mental Health NHS Foundation Trust,33,94,77,24,7,2,0
 Central and North West London NHS Foundation Trust,32,66,35,13,10,9,0
 Tameside and Glossop Integrated Care NHS Foundation Trust,32,47,34,19,5,8,0
 Essex Partnership University NHS Foundation Trust,32,59,33,14,6,12,0
-Ministry of Defence,31,53,35,19,5,5,2
+Ministry of Defence,31,53,35,19,5,6,1
 University Hospitals Birmingham NHS Foundation Trust,31,47,32,18,5,4,4
 "Barking, Havering and Redbridge University Hospitals NHS Trust",29,46,25,13,3,12,1
 North East London NHS Foundation Trust,28,43,24,12,4,12,0
 Royal College of Paediatrics and Child Health,26,105,60,10,11,4,1
 London Ambulance Service NHS Trust,26,87,58,9,10,7,0
 Aneurin Bevan University Health Board,26,47,25,15,3,8,0
-"Tees, Esk and Wear Valley NHS Foundation Trust",26,55,40,15,6,4,1
+"Tees, Esk and Wear Valley NHS Foundation Trust",26,55,40,15,6,5,0
 Nottinghamshire Healthcare NHS Foundation Trust,26,48,27,14,3,9,0
 Midlands Partnership University NHS Foundation Trust,26,48,35,16,3,7,0
-Surrey and Borders Partnership NHS Foundation Trust,25,52,34,12,6,6,1
+Surrey and Borders Partnership NHS Foundation Trust,25,52,34,12,6,7,0
 Royal College of General Practitioners,24,93,60,10,9,3,2
 Swansea Bay University Health Board,24,53,31,9,9,5,1
 University Hospitals of North Midlands NHS Trust,24,32,22,15,1,7,1
@@ -56,7 +56,7 @@ Care UK,24,57,32,9,14,1,0
 Royal College of Obstetricians and Gynaecologists,24,68,31,6,11,6,1
 Blackpool Teaching Hospitals NHS Foundation Trust,24,38,22,14,1,9,0
 Camden and Islington NHS Foundation Trust,23,38,24,13,4,6,0
-Cardiff and Vale University Health Board,23,45,27,10,8,4,1
+Cardiff and Vale University Health Board,23,45,27,10,8,5,0
 Cornwall Council,23,45,32,15,4,4,0
 Oxleas NHS Foundation Trust,23,47,34,11,7,5,0
 Leeds Teaching Hospitals NHS Trust,23,32,20,13,1,9,0
@@ -74,9 +74,9 @@ North West Ambulance Service NHS Trust,21,68,47,13,3,5,0
 South London and Maudsley NHS Foundation Trust,20,34,19,9,5,6,0
 East Kent Hospitals University NHS Foundation Trust,20,32,12,9,1,10,0
 East of England Ambulance Service NHS Trust,20,42,33,13,2,5,0
-Herefordshire and Worcestershire Health and Care NHS Trust,20,28,19,11,4,4,1
+Herefordshire and Worcestershire Health and Care NHS Trust,20,28,19,11,4,5,0
 Welsh Government,19,48,32,7,7,4,1
-Surrey County Council,19,40,25,6,8,3,2
+Surrey County Council,19,40,25,6,8,4,1
 Devon Partnership NHS Trust,19,38,27,14,3,2,0
 Public Health England,18,58,28,4,7,7,0
 The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,18,30,22,12,4,2,0
@@ -474,7 +474,7 @@ Addaction,2,5,4,1,1,0,0
 West Yorkshire Fire and Rescue Service,2,6,1,0,1,1,0
 Dartford and Gravesend NHS Trust,2,3,1,0,1,1,0
 Wychavon District Council,2,3,3,2,0,0,0
-York and Scarborough Teaching Hospitals NHS Foundation Trust,2,3,0,0,0,0,2
+York and Scarborough Teaching Hospitals NHS Foundation Trust,2,3,0,0,0,2,0
 Waste Industry Safety and Health Forum,2,3,2,1,1,0,0
 Weightmans LLP,2,5,2,0,2,0,0
 Welsh Cycling,2,4,2,1,1,0,0
@@ -507,7 +507,7 @@ Cumberland Council,2,2,2,2,0,0,0
 Cumbria Constabulary,2,15,13,1,0,1,0
 Devon Local Medical Committee,2,7,5,0,2,0,0
 The Manor House North Walsham Care Home,2,4,2,0,1,0,1
-The Children's Trust,2,9,4,0,1,0,1
+The Children's Trust,2,9,4,0,1,1,0
 The Financial Conduct Authority,2,2,2,2,0,0,0
 Taff's Well Medical Centre,2,5,1,1,0,1,0
 Takeda UK Ltd,2,4,3,1,1,0,0
@@ -1126,7 +1126,7 @@ Care Agency,1,2,2,1,0,0,0
 Care First Class UK Limited,1,2,2,1,0,0,0
 Care First Homes,1,1,0,0,0,1,0
 Care Inn Limited,1,3,1,0,1,0,0
-Caremark Limited,1,1,0,0,0,0,1
+Caremark Limited,1,1,0,0,0,1,0
 Carewatch,1,1,0,0,0,1,0
 First Class Care,1,1,1,1,0,0,0
 First Essex Buses,1,1,1,1,0,0,0
