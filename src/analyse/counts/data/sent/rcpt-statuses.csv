@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,714,1681,1135,402,168,125,19
-NHS England,498,1335,823,241,130,106,21
+Department of Health and Social Care,714,1681,1135,402,168,127,17
+NHS England,498,1335,823,241,130,107,20
 Care Quality Commission,168,477,274,61,61,44,2
 HM Prison and Probation Service,153,347,182,64,46,41,2
 Ministry of Justice,104,273,133,26,44,32,2
@@ -14,7 +14,7 @@ Barts Health NHS Trust,66,103,65,34,13,18,1
 National Highways,65,105,59,30,8,26,1
 Metropolitan Police Service,62,149,107,33,15,12,2
 Medicines and Healthcare Products Regulatory Agency,59,171,91,21,20,17,1
-University Hospitals Sussex NHS Foundation Trust,59,97,56,29,13,16,1
+University Hospitals Sussex NHS Foundation Trust,59,97,56,29,13,17,0
 Health and Safety Executive,55,163,78,21,17,16,1
 National Police Chiefs’ Council,55,194,140,17,29,9,0
 Pennine Care NHS Foundation Trust,48,116,62,24,12,12,0
@@ -62,7 +62,7 @@ Cornwall Council,23,45,32,15,4,4,0
 Cardiff and Vale University Health Board,23,45,27,10,8,5,0
 University Hospitals Dorset NHS Foundation Trust,22,29,17,13,2,7,0
 Transport for London,22,53,43,11,6,5,0
-NHS Derby and Derbyshire Integrated Care Board,22,59,21,6,7,6,3
+NHS Derby and Derbyshire Integrated Care Board,22,59,21,6,7,7,2
 NHS Birmingham and Solihull Integrated Care Board,22,66,50,16,3,3,0
 "Department for Culture, Media and Sport",22,82,59,10,8,3,1
 Avon and Wiltshire Mental Health Partnership NHS Trust,21,42,26,9,7,5,0

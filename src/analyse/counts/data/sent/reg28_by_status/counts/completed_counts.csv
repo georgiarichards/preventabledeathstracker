@@ -77,7 +77,6 @@ Atlantic Reach Limited,1,100.0
 Atrumed Ltd,1,100.0
 Audlem Medical Practice,1,100.0
 Avon Care Home Limited,1,100.0
-Avon and Salisbury Constabulary,1,100.0
 Axminster Medical Practice,1,100.0
 B & D Civil Engineering Limited,1,100.0
 BMJ Group,1,100.0
@@ -760,7 +759,6 @@ Great Western Hospitals NHS Foundation Trust,7,58.0
 Mid Yorkshire Teaching NHS Trust,7,58.0
 West Midlands Ambulance Service University NHS Foundation Trust,7,58.0
 Welsh Ambulance Services University NHS Trust,27,57.0
-Camden and Islington NHS Foundation Trust,13,57.0
 Leeds Teaching Hospitals NHS Trust,13,57.0
 Bolton NHS Foundation Trust,8,57.0
 County Durham and Darlington NHS Foundation Trust,8,57.0
@@ -798,6 +796,7 @@ Barts Health NHS Trust,34,52.0
 University Hospitals Plymouth NHS Trust,11,52.0
 West Midlands Police,11,52.0
 Northern Care Alliance NHS Foundation Trust,21,51.0
+North London NHS Foundation Trust,18,51.0
 Pennine Care NHS Foundation Trust,24,50.0
 Transport for London,11,50.0
 "Department for Business, Energy and Industrial Strategy",7,50.0
@@ -826,7 +825,6 @@ HM Prison Exeter,2,50.0
 HM Prison Leeds,2,50.0
 Leicester City Council,2,50.0
 NHS North East London Integrated Care Board,2,50.0
-North London NHS Foundation Trust,2,50.0
 Reading Borough Council,2,50.0
 Road Haulage Association,2,50.0
 South Tyneside Council,2,50.0
@@ -978,6 +976,7 @@ Berkshire Healthcare NHS Foundation Trust,4,40.0
 Calderdale Council,4,40.0
 Canal and River Trust,4,40.0
 Avon Fire and Rescue Services,2,40.0
+Avon and Somerset Police,2,40.0
 Birmingham Community Healthcare NHS Foundation Trust,2,40.0
 Bolton Council,2,40.0
 British National Formulary,2,40.0
@@ -986,7 +985,6 @@ Cygnet Health Care,2,40.0
 Derbyshire County Council,2,40.0
 Derbyshire Healthcare NHS Foundation Trust,2,40.0
 Hackney Council,2,40.0
-NHS Kent and Medway Integrated Care Board,2,40.0
 Newham Council,2,40.0
 North Middlesex University Hospital NHS Trust,2,40.0
 North West Anglia NHS Foundation Trust,2,40.0
@@ -1006,7 +1004,6 @@ Surrey Police,6,38.0
 G4S,5,38.0
 Lancashire and South Cumbria NHS Foundation Trust,5,38.0
 NHS Cornwall and Isles of Scilly Integrated Care Board,5,38.0
-"Barnet, Enfield and Haringey Mental Health NHS Trust",3,38.0
 Chief Fire Officers Association,3,38.0
 Hampshire and Isle of Wight Constabulary,3,38.0
 Homerton Healthcare NHS Foundation Trust,3,38.0
@@ -1028,6 +1025,7 @@ NHS West Yorkshire Integrated Care Board,3,33.0
 The Royal Wolverhampton NHS Trust,3,33.0
 British Society of Gastroenterology,2,33.0
 NHS Cheshire and Merseyside Integrated Care Board,2,33.0
+NHS Kent and Medway Integrated Care Board,2,33.0
 National Trust,2,33.0
 Oldham Council,2,33.0
 Sandwell Council,2,33.0
@@ -1081,7 +1079,6 @@ Ministry of Justice,26,25.0
 Royal College of Obstetricians and Gynaecologists,6,25.0
 Health Services Safety Investigations Body,2,25.0
 Association of Directors of Adult Social Services,1,25.0
-Avon and Somerset Constabulary,1,25.0
 Barnsley Hospital NHS Foundation Trust,1,25.0
 British Association of Perinatal Medicine,1,25.0
 Chelsea and Westminster Hospital NHS Foundation Trust,1,25.0
