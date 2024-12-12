@@ -5,7 +5,7 @@ Care Quality Commission,168,102,2,64,38
 HM Prison and Probation Service,153,84,2,67,44
 Ministry of Justice,104,77,2,25,24
 Home Office,101,42,3,56,55
-NHS Greater Manchester Integrated Care Board,100,44,1,55,55
+NHS Greater Manchester Integrated Care Board,100,45,0,55,55
 National Institute for Health and Care Excellence,98,55,4,39,40
 Department for Transport,98,42,5,51,52
 Betsi Cadwaladr University Health Board,74,21,0,53,72
@@ -50,11 +50,11 @@ Midlands Partnership University NHS Foundation Trust,26,10,0,16,62
 London Ambulance Service NHS Trust,26,14,0,12,46
 Aneurin Bevan University Health Board,26,11,0,15,58
 Surrey and Borders Partnership NHS Foundation Trust,25,12,0,13,52
-University Hospitals of North Midlands NHS Trust,24,9,1,14,58
+University Hospitals of North Midlands NHS Trust,24,10,0,14,58
 Swansea Bay University Health Board,24,13,1,10,42
 Care UK,24,4,0,20,83
 Blackpool Teaching Hospitals NHS Foundation Trust,24,11,0,13,54
-Royal College of General Practitioners,24,10,2,12,50
+Royal College of General Practitioners,24,11,1,12,50
 Royal College of Obstetricians and Gynaecologists,24,15,1,8,33
 Oxleas NHS Foundation Trust,23,12,0,11,48
 Leeds Teaching Hospitals NHS Trust,23,10,0,13,57
@@ -1197,7 +1197,7 @@ NHS Hertfordshire and West Essex Integrated Care Board,1,0,0,1,100
 Ministry of Defence Police,1,1,0,0,0
 Mirus Wales,1,0,0,1,100
 Monarch Healthcare Ltd,1,0,0,1,100
-Darnall Grange Care Home,1,0,1,0,0
+Darnall Grange Care Home,1,0,0,1,100
 Darwin Medical Practice,1,0,0,1,100
 David Ake & Co Solicitors,1,0,0,1,100
 Davyhulme Medical Centre,1,0,0,1,100
