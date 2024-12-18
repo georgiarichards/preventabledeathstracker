@@ -18,7 +18,7 @@ Medicines and Healthcare Products Regulatory Agency,59,40,1,18,31
 National Police Chiefs’ Council,55,40,0,15,27
 Health and Safety Executive,55,30,1,24,44
 Pennine Care NHS Foundation Trust,48,27,0,21,44
-Welsh Ambulance Services University NHS Trust,47,18,2,27,57
+Welsh Ambulance Services University NHS Trust,47,19,1,27,57
 Department for Education,47,20,1,26,55
 Greater Manchester Mental Health NHS Foundation Trust,45,28,0,17,38
 Sussex Partnership NHS Foundation Trust,44,20,1,23,52
@@ -40,7 +40,7 @@ Central and North West London NHS Foundation Trust,32,19,0,13,41
 Essex Partnership University NHS Foundation Trust,32,18,0,14,44
 Tameside and Glossop Integrated Care NHS Foundation Trust,32,14,0,18,56
 Ministry of Defence,31,9,1,21,68
-University Hospitals Birmingham NHS Foundation Trust,31,9,4,18,58
+University Hospitals Birmingham NHS Foundation Trust,31,11,2,18,58
 "Barking, Havering and Redbridge University Hospitals NHS Trust",29,15,1,13,45
 North East London NHS Foundation Trust,29,17,1,11,38
 London Ambulance Service NHS Trust,26,14,0,12,46
@@ -51,7 +51,7 @@ Aneurin Bevan University Health Board,26,11,0,15,58
 "Tees, Esk and Wear Valley NHS Foundation Trust",26,16,0,10,38
 Surrey and Borders Partnership NHS Foundation Trust,25,12,0,13,52
 University Hospitals of North Midlands NHS Trust,24,10,0,14,58
-Swansea Bay University Health Board,24,13,1,10,42
+Swansea Bay University Health Board,24,14,0,10,42
 Care UK,24,4,0,20,83
 Royal College of General Practitioners,24,11,1,12,50
 Royal College of Obstetricians and Gynaecologists,24,15,1,8,33
@@ -84,7 +84,7 @@ Public Health England,18,10,0,8,44
 Civil Aviation Authority,17,5,0,12,71
 NHS Sussex Integrated Care Board,17,10,0,7,41
 Medway NHS Foundation Trust,17,8,0,9,53
-Welsh Parliament,17,13,1,3,18
+Welsh Parliament,17,14,0,3,18
 Kent and Medway NHS and Social Care Partnership Trust,17,10,0,7,41
 Priory Group,17,7,1,9,53
 St George’s University Hospitals NHS Foundation Trust,16,13,0,3,19

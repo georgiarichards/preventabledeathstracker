@@ -18,7 +18,7 @@ Medicines and Healthcare Products Regulatory Agency,59,171,91,21,20,17,1
 National Police Chiefs’ Council,55,194,140,17,29,9,0
 Health and Safety Executive,55,163,78,21,17,16,1
 Pennine Care NHS Foundation Trust,48,116,62,24,12,12,0
-Welsh Ambulance Services University NHS Trust,47,94,53,27,7,11,2
+Welsh Ambulance Services University NHS Trust,47,94,53,27,7,12,1
 Department for Education,47,138,85,18,17,11,1
 Greater Manchester Mental Health NHS Foundation Trust,45,133,52,18,12,15,0
 Sussex Partnership NHS Foundation Trust,44,73,46,26,7,10,1
@@ -40,7 +40,7 @@ Central and North West London NHS Foundation Trust,32,66,35,13,10,9,0
 Essex Partnership University NHS Foundation Trust,32,59,33,14,6,12,0
 Tameside and Glossop Integrated Care NHS Foundation Trust,32,47,34,19,5,8,0
 Ministry of Defence,31,53,35,19,5,6,1
-University Hospitals Birmingham NHS Foundation Trust,31,47,32,18,5,4,4
+University Hospitals Birmingham NHS Foundation Trust,31,47,32,18,5,6,2
 "Barking, Havering and Redbridge University Hospitals NHS Trust",29,46,25,13,3,12,1
 North East London NHS Foundation Trust,29,44,24,12,4,12,1
 London Ambulance Service NHS Trust,26,87,58,9,10,7,0
@@ -51,7 +51,7 @@ Aneurin Bevan University Health Board,26,47,25,15,3,8,0
 "Tees, Esk and Wear Valley NHS Foundation Trust",26,55,40,15,6,5,0
 Surrey and Borders Partnership NHS Foundation Trust,25,52,34,12,6,7,0
 University Hospitals of North Midlands NHS Trust,24,32,22,15,1,8,0
-Swansea Bay University Health Board,24,53,31,9,9,5,1
+Swansea Bay University Health Board,24,53,31,9,9,6,0
 Care UK,24,57,32,9,14,1,0
 Royal College of General Practitioners,24,93,60,10,9,4,1
 Royal College of Obstetricians and Gynaecologists,24,68,31,6,11,6,1
@@ -84,7 +84,7 @@ Public Health England,18,58,28,4,7,7,0
 Civil Aviation Authority,17,30,22,12,2,3,0
 NHS Sussex Integrated Care Board,17,45,33,9,7,1,0
 Medway NHS Foundation Trust,17,21,12,9,0,8,0
-Welsh Parliament,17,50,10,3,6,7,1
+Welsh Parliament,17,50,10,3,6,8,0
 Kent and Medway NHS and Social Care Partnership Trust,17,29,13,7,3,7,0
 Priory Group,17,38,19,9,3,4,1
 St George’s University Hospitals NHS Foundation Trust,16,32,14,3,6,7,0
