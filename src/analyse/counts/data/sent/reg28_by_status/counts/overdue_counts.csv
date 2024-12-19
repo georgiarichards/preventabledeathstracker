@@ -418,6 +418,7 @@ HM Prison Wormwood Scrubs,3,75.0
 Harbour Healthcare Limited,3,75.0
 Lancashire Teaching Hospitals NHS Foundation Trust,3,75.0
 Lincolnshire Police,3,75.0
+NHS Cambridgeshire and Peterborough Integrated Care Board,3,75.0
 North Wales Local Authorities,3,75.0
 Sutton Council,3,75.0
 Birmingham Women's and Children's NHS Foundation Trust,5,71.0
@@ -452,6 +453,7 @@ Rochdale Borough Council,3,60.0
 Virgin Care,3,60.0
 Advisory Council on the Misuse of Drugs,4,57.0
 Joint Royal Colleges Ambulance Liaison Committee,4,57.0
+Northumbria Police,4,57.0
 Circle Health Group,5,56.0
 Warwickshire County Council,5,56.0
 West London NHS Trust,6,55.0
@@ -473,7 +475,6 @@ Rotherham Doncaster and South Humber NHS Foundation Trust,3,50.0
 Association of Directors of Adult Social Services,2,50.0
 City of Wolverhampton Council,2,50.0
 HM Inspectorate of Prisons,2,50.0
-NHS Cambridgeshire and Peterborough Integrated Care Board,2,50.0
 NHS Frimley Integrated Care Board,2,50.0
 Prisons and Probation Ombudsman,2,50.0
 Royal Yachting Association,2,50.0
@@ -566,7 +567,6 @@ The Royal Wolverhampton NHS Trust,4,44.0
 Cwm Taf Morgannwg University Health Board,16,43.0
 Driver and Vehicle Licensing Agency,6,43.0
 Cheshire and Wirral Partnership NHS Foundation Trust,3,43.0
-Northumbria Police,3,43.0
 Office of Rail and Road,3,43.0
 Shrewsbury and Telford Hospital NHS Trust,3,43.0
 South Wales Police,3,43.0
@@ -716,6 +716,7 @@ Swansea Bay University Health Board,6,25.0
 East of England Ambulance Service NHS Trust,5,25.0
 Herefordshire and Worcestershire Health and Care NHS Trust,5,25.0
 Milton Keynes University Hospital NHS Foundation Trust,4,25.0
+"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",3,25.0
 Mid Yorkshire Teaching NHS Trust,3,25.0
 NHS Nottingham and Nottinghamshire Integrated Care Board,3,25.0
 Norfolk and Norwich University Hospitals NHS Foundation Trust,3,25.0
@@ -756,7 +757,7 @@ HM Prison Pentonville,3,23.0
 North Bristol NHS Trust,3,23.0
 Oxford University Hospitals NHS Foundation Trust,3,23.0
 Sussex Police,3,23.0
-NHS England,108,22.0
+NHS England,109,22.0
 Cardiff and Vale University Health Board,5,22.0
 Oxleas NHS Foundation Trust,5,22.0
 HC One,2,22.0
@@ -799,7 +800,7 @@ Ministry of Defence,6,19.0
 University Hospitals Birmingham NHS Foundation Trust,6,19.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",5,19.0
 Royal College of Psychiatrists,4,19.0
-Department of Health and Social Care,129,18.0
+Department of Health and Social Care,130,18.0
 College of Policing,7,18.0
 Association of Ambulance Chief Executives,6,18.0
 Civil Aviation Authority,3,18.0
@@ -810,7 +811,6 @@ Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
 Cornwall Council,4,17.0
 Royal College of General Practitioners,4,17.0
-"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",2,17.0
 North Cumbria Integrated Care NHS Foundation Trust,2,17.0
 Portsmouth Hospitals University NHS Trust,2,17.0
 James Paget University Hospitals NHS Foundation Trust,1,17.0

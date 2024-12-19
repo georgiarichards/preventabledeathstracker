@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,716,1683,1135,402,168,129,17
-NHS England,498,1335,823,241,130,108,19
+Department of Health and Social Care,716,1683,1135,402,168,130,16
+NHS England,498,1335,823,241,130,109,18
 Care Quality Commission,168,477,274,61,61,44,2
 HM Prison and Probation Service,153,347,182,64,46,41,2
 Ministry of Justice,105,277,133,26,44,32,3
@@ -132,7 +132,7 @@ Sussex Police,13,39,26,7,3,3,0
 G4S,13,44,24,5,6,2,0
 General Pharmaceutical Council,13,48,35,6,5,2,0
 Cornwall Partnership NHS Foundation Trust,12,21,12,7,3,1,1
-"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",12,18,12,9,0,2,1
+"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",12,18,12,9,0,3,0
 Sheffield Teaching Hospitals NHS Foundation Trust,12,20,6,5,1,6,0
 NHS Nottingham and Nottinghamshire Integrated Care Board,12,57,18,1,8,3,0
 Coventry and Warwickshire Partnership NHS Trust,12,20,9,6,0,4,2
@@ -220,7 +220,7 @@ Hull University Teaching Hospitals NHS Trust,7,18,11,3,1,2,1
 Sherwood Forest Hospitals NHS Foundation Trust,7,10,10,6,1,0,0
 Birmingham Women's and Children's NHS Foundation Trust,7,18,4,0,2,5,0
 Stockport Council,7,13,9,4,1,2,0
-Northumbria Police,7,16,5,2,1,3,1
+Northumbria Police,7,16,5,2,1,4,0
 Cheshire and Wirral Partnership NHS Foundation Trust,7,13,7,3,1,3,0
 Tower Hamlets Council,7,17,12,3,1,3,0
 Cheshire East Council,7,13,13,7,0,0,0
@@ -362,7 +362,7 @@ Swindon Borough Council,4,5,3,2,0,2,0
 Chelsea and Westminster Hospital NHS Foundation Trust,4,6,2,1,1,1,1
 Sunderland City Council,4,4,2,2,0,2,0
 NHS North East London Integrated Care Board,4,10,7,2,2,0,0
-NHS Cambridgeshire and Peterborough Integrated Care Board,4,13,3,1,0,2,1
+NHS Cambridgeshire and Peterborough Integrated Care Board,4,13,3,1,0,3,0
 Serco,4,16,2,0,2,2,0
 Association of Directors of Adult Social Services,4,10,3,1,1,2,0
 National Patient Safety Agency,4,10,0,0,0,4,0
