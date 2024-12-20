@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,716,1683,1135,402,168,130,16
-NHS England,498,1335,823,241,130,109,18
+Department of Health and Social Care,716,1683,1135,402,168,131,15
+NHS England,498,1335,823,241,130,111,16
 Care Quality Commission,168,477,274,61,61,44,2
 HM Prison and Probation Service,153,347,182,64,46,41,2
 Ministry of Justice,105,277,133,26,44,32,3
@@ -32,7 +32,7 @@ Cwm Taf Morgannwg University Health Board,37,78,29,16,5,16,0
 "Ministry of Housing, Communities and Local Government",36,95,52,20,8,7,1
 North London NHS Foundation Trust,35,60,36,18,6,8,3
 General Medical Council,35,129,72,9,16,10,0
-Association of Ambulance Chief Executives,34,137,89,8,19,6,1
+Association of Ambulance Chief Executives,34,137,89,8,19,7,0
 Greater Manchester Police,34,109,74,19,10,5,0
 Stockport NHS Foundation Trust,34,50,24,18,2,14,0
 Birmingham and Solihull Mental Health NHS Foundation Trust,33,94,77,24,7,2,0
@@ -268,7 +268,7 @@ Guy's and St Thomas' NHS Foundation Trust,6,10,10,5,1,0,0
 HM Prison Belmarsh,6,19,11,1,5,0,0
 NHS South Yorkshire Integrated Care Board,6,16,8,1,3,2,0
 NHS Cheshire and Merseyside Integrated Care Board,6,28,18,2,3,1,0
-UK Health Security Agency,6,19,14,3,1,1,1
+UK Health Security Agency,6,19,14,3,1,2,0
 University Hospitals Coventry and Warwickshire NHS Trust,6,11,5,2,0,4,0
 Ofcom,5,20,8,1,2,1,1
 Birmingham Community Healthcare NHS Foundation Trust,5,14,6,2,3,0,0
@@ -445,7 +445,7 @@ Doncaster Council,3,4,4,3,0,0,0
 Disclosure and Barring Service,3,5,2,1,1,1,0
 Chief Medical Officer for Wales,3,11,3,1,1,1,0
 National Crime Agency,3,7,6,2,0,1,0
-National Ambulance Services Medical Directors,3,13,7,0,2,0,1
+National Ambulance Services Medical Directors,3,13,7,0,2,1,0
 Somerset NHS Foundation Trust,3,6,4,2,0,1,0
 NHS South East London Integrated Care Board,3,8,4,1,2,0,0
 Lincolnshire Community Health Service NHS Trust,3,11,1,1,0,2,0

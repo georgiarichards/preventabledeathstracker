@@ -633,6 +633,7 @@ North Yorkshire County Council,2,33.0
 Oldham Council,2,33.0
 Sandwell Council,2,33.0
 South Western Railway,2,33.0
+UK Health Security Agency,2,33.0
 Apple,1,33.0
 Association of British Insurers,1,33.0
 Cheshire Constabulary,1,33.0
@@ -656,6 +657,7 @@ HM Prison Wakefield,1,33.0
 Hampshire Hospitals NHS Foundation Trust,1,33.0
 Hertfordshire Constabulary,1,33.0
 Islington Council,1,33.0
+National Ambulance Services Medical Directors,1,33.0
 National Crime Agency,1,33.0
 Newcastle City Council,1,33.0
 North Lincolnshire Council,1,33.0
@@ -757,12 +759,13 @@ HM Prison Pentonville,3,23.0
 North Bristol NHS Trust,3,23.0
 Oxford University Hospitals NHS Foundation Trust,3,23.0
 Sussex Police,3,23.0
-NHS England,109,22.0
+NHS England,111,22.0
 Cardiff and Vale University Health Board,5,22.0
 Oxleas NHS Foundation Trust,5,22.0
 HC One,2,22.0
 Lincolnshire County Council,2,22.0
 Norfolk and Suffolk NHS Foundation Trust,8,21.0
+Association of Ambulance Chief Executives,7,21.0
 Surrey County Council,4,21.0
 Welsh Government,4,21.0
 Birmingham City Council,3,21.0
@@ -800,9 +803,8 @@ Ministry of Defence,6,19.0
 University Hospitals Birmingham NHS Foundation Trust,6,19.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",5,19.0
 Royal College of Psychiatrists,4,19.0
-Department of Health and Social Care,130,18.0
+Department of Health and Social Care,131,18.0
 College of Policing,7,18.0
-Association of Ambulance Chief Executives,6,18.0
 Civil Aviation Authority,3,18.0
 "Department for Environment, Food and Rural Affairs",2,18.0
 "NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",2,18.0
@@ -818,7 +820,6 @@ NHS Cheshire and Merseyside Integrated Care Board,1,17.0
 Oxford Health NHS Foundation Trust,1,17.0
 Royal Society for the Prevention of Accidents,1,17.0
 Sheffield City Council,1,17.0
-UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
 National Police Chiefs’ Council,9,16.0
 Greater Manchester Police,5,15.0
