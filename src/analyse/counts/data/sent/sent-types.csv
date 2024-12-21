@@ -1,10 +1,10 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,716,280,15,421,59
+Department of Health and Social Care,716,281,14,421,59
 NHS England,498,183,16,299,60
 Care Quality Commission,168,102,2,64,38
 HM Prison and Probation Service,153,84,2,67,44
 Ministry of Justice,105,77,3,25,24
-Home Office,102,42,4,56,55
+Home Office,102,43,3,56,55
 NHS Greater Manchester Integrated Care Board,100,45,0,55,55
 Department for Transport,98,43,4,51,52
 National Institute for Health and Care Excellence,98,56,3,39,40
@@ -12,7 +12,7 @@ Betsi Cadwaladr University Health Board,74,21,0,53,72
 REDACTED,71,57,1,13,18
 Barts Health NHS Trust,66,25,1,40,61
 National Highways,65,36,1,28,43
-Metropolitan Police Service,62,30,2,30,48
+Metropolitan Police Service,62,31,1,30,48
 University Hospitals Sussex NHS Foundation Trust,59,32,0,27,46
 Medicines and Healthcare Products Regulatory Agency,59,40,1,18,31
 National Police Chiefs’ Council,55,40,0,15,27
@@ -30,7 +30,7 @@ East London NHS Foundation Trust,38,14,1,23,61
 Norfolk and Suffolk NHS Foundation Trust,38,11,1,26,68
 Cwm Taf Morgannwg University Health Board,37,21,0,16,43
 "Ministry of Housing, Communities and Local Government",36,19,1,16,44
-North London NHS Foundation Trust,35,14,3,18,51
+North London NHS Foundation Trust,35,15,2,18,51
 General Medical Council,35,22,0,13,37
 Association of Ambulance Chief Executives,34,19,0,15,44
 Greater Manchester Police,34,8,0,26,76
@@ -41,7 +41,7 @@ Essex Partnership University NHS Foundation Trust,32,18,0,14,44
 Tameside and Glossop Integrated Care NHS Foundation Trust,32,14,0,18,56
 Ministry of Defence,31,9,1,21,68
 University Hospitals Birmingham NHS Foundation Trust,31,11,2,18,58
-"Barking, Havering and Redbridge University Hospitals NHS Trust",29,15,1,13,45
+"Barking, Havering and Redbridge University Hospitals NHS Trust",29,16,0,13,45
 North East London NHS Foundation Trust,29,17,1,11,38
 London Ambulance Service NHS Trust,26,14,0,12,46
 Royal College of Paediatrics and Child Health,26,13,1,12,46
@@ -75,7 +75,7 @@ South London and Maudsley NHS Foundation Trust,20,11,0,9,45
 Herefordshire and Worcestershire Health and Care NHS Trust,20,9,0,11,55
 East of England Ambulance Service NHS Trust,20,10,0,10,50
 East Kent Hospitals University NHS Foundation Trust,20,11,0,9,45
-Surrey County Council,19,10,1,8,42
+Surrey County Council,19,11,0,8,42
 Devon Partnership NHS Trust,19,6,0,13,68
 Welsh Government,19,7,1,11,58
 Nursing and Midwifery Council,18,9,0,9,50
@@ -215,7 +215,7 @@ Shrewsbury and Telford Hospital NHS Trust,7,3,0,4,57
 "NHS Leicester, Leicestershire and Rutland Integrated Care Board",7,5,0,2,29
 NHS Lancashire and South Cumbria Integrated Care Board,7,3,0,4,57
 South Wales Police,7,3,0,4,57
-West Yorkshire Police,7,2,1,4,57
+West Yorkshire Police,7,3,0,4,57
 Hull University Teaching Hospitals NHS Trust,7,3,1,3,43
 Sherwood Forest Hospitals NHS Foundation Trust,7,3,0,4,57
 Birmingham Women's and Children's NHS Foundation Trust,7,7,0,0,0
@@ -234,7 +234,7 @@ Epsom and St Helier University Hospitals NHS Trust,7,3,0,4,57
 Joint Royal Colleges Ambulance Liaison Committee,7,7,0,0,0
 Cambridgeshire County Council,7,2,0,5,71
 Calderdale and Huddersfield NHS Foundation Trust,7,5,0,2,29
-Independent Office for Police Conduct,7,4,1,2,29
+Independent Office for Police Conduct,7,5,0,2,29
 Royal College of Nursing,7,4,0,3,43
 Milton Keynes City Council,7,1,0,6,86
 Greater London Authority,7,4,0,3,43
@@ -354,7 +354,7 @@ Spire Healthcare Limited,4,2,0,2,50
 South Tyneside Council,4,2,0,2,50
 HM Prison Birmingham,4,2,0,2,50
 HM Prison Exeter,4,2,0,2,50
-Derbyshire Constabulary,4,1,1,2,50
+Derbyshire Constabulary,4,2,0,2,50
 The Phoenix Partnership,4,1,0,3,75
 HM Prison Durham,4,1,0,3,75
 HM Inspectorate of Prisons,4,3,0,1,25
@@ -463,7 +463,7 @@ Turning Point,3,0,0,3,100
 Universities and Colleges Admissions Service,3,1,0,2,67
 Gloucestershire County Council,3,1,0,2,67
 Bradford Council,3,2,0,1,33
-Herefordshire Council,3,0,1,2,67
+Herefordshire Council,3,1,0,2,67
 Cyngor Gwynedd Council,3,1,0,2,67
 Croydon Health Services NHS Trust,3,1,0,2,67
 Apple,3,1,0,2,67
@@ -556,7 +556,7 @@ One Stockport Health and Care Board,2,0,0,2,100
 Oracle,2,0,0,2,100
 Castle Rock Group,2,1,0,1,50
 Office of Product Safety Standards,2,0,2,0,0
-Prime Life Limited,2,1,1,0,0
+Prime Life Limited,2,2,0,0,0
 Pembrokeshire County Council,2,2,0,0,0
 Cardiff Council,2,1,0,1,50
 Cardiff University,2,0,0,2,100
@@ -626,7 +626,7 @@ HM Prison Norwich,2,0,0,2,100
 HM Prison Nottingham,2,2,0,0,0
 HM Prison Portland,2,1,0,1,50
 HM Prison Preston,2,2,0,0,0
-HM Prison Ranby,2,1,1,0,0
+HM Prison Ranby,2,2,0,0,0
 HM Prison Rye Hill,2,2,0,0,0
 HM Prison Fosse Way,2,1,0,1,50
 HM Prison Garth,2,1,0,1,50
@@ -649,7 +649,7 @@ Ashley Gardens Care Home,2,1,0,1,50
 Association of Anaesthetists,2,1,0,1,50
 Association of British Neurologists,2,0,0,2,100
 Amey PLC,2,2,0,0,0
-Avery Healthcare,2,0,1,1,50
+Avery Healthcare,2,1,0,1,50
 Transport Research Laboratory,2,2,0,0,0
 University of Birmingham,2,1,0,1,50
 University of Bristol,2,1,0,1,50
