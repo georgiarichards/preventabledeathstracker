@@ -619,6 +619,7 @@ British Medical Association,4,36.0
 South Western Ambulance Service NHS Foundation Trust,4,36.0
 Nottinghamshire Healthcare NHS Foundation Trust,9,35.0
 REDACTED,24,34.0
+East London NHS Foundation Trust,13,34.0
 Greater Manchester Mental Health NHS Foundation Trust,15,33.0
 University Hospitals of North Midlands NHS Trust,8,33.0
 Nursing and Midwifery Council,6,33.0
@@ -676,7 +677,6 @@ Wakefield Council,1,33.0
 Wandsworth Council,1,33.0
 Wigan Council,1,33.0
 National Institute for Health and Care Excellence,31,32.0
-East London NHS Foundation Trust,12,32.0
 NHS Derby and Derbyshire Integrated Care Board,7,32.0
 University Hospitals Dorset NHS Foundation Trust,7,32.0
 Aneurin Bevan University Health Board,8,31.0
@@ -689,6 +689,7 @@ Royal College of Surgeons,3,30.0
 Royal United Hospitals Bath NHS Foundation Trust,3,30.0
 Trafford Council,3,30.0
 Walsall Healthcare NHS Trust,3,30.0
+Barts Health NHS Trust,19,29.0
 Medicines and Healthcare Products Regulatory Agency,17,29.0
 University Hospitals Sussex NHS Foundation Trust,17,29.0
 Health and Safety Executive,16,29.0
@@ -700,10 +701,10 @@ Independent Office for Police Conduct,2,29.0
 Nottinghamshire County Council,2,29.0
 Stockport Council,2,29.0
 West Yorkshire Police,2,29.0
+Welsh Ambulance Services University NHS Trust,13,28.0
 Central and North West London NHS Foundation Trust,9,28.0
 Surrey and Borders Partnership NHS Foundation Trust,7,28.0
 HM Prison and Probation Service,41,27.0
-Barts Health NHS Trust,18,27.0
 London Ambulance Service NHS Trust,7,27.0
 Midlands Partnership University NHS Foundation Trust,7,27.0
 Bedfordshire Hospitals NHS Foundation Trust,4,27.0
@@ -716,7 +717,6 @@ South West London and St George’s Mental Health NHS Trust,3,27.0
 South West Yorkshire Partnership NHS Foundation Trust,3,27.0
 Care Quality Commission,44,26.0
 Department for Transport,25,26.0
-Welsh Ambulance Services University NHS Trust,12,26.0
 North London NHS Foundation Trust,9,26.0
 Surrey County Council,5,26.0
 Pennine Care NHS Foundation Trust,12,25.0
@@ -802,12 +802,12 @@ Sainsbury's,1,20.0
 Staffordshire Police,1,20.0
 The Princess Alexandra Hospital NHS Trust,1,20.0
 West Mercia Police,1,20.0
+Department of Health and Social Care,133,19.0
 "Ministry of Housing, Communities and Local Government",7,19.0
 Ministry of Defence,6,19.0
 University Hospitals Birmingham NHS Foundation Trust,6,19.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",5,19.0
 Royal College of Psychiatrists,4,19.0
-Department of Health and Social Care,132,18.0
 College of Policing,7,18.0
 Civil Aviation Authority,3,18.0
 "Department for Environment, Food and Rural Affairs",2,18.0
@@ -818,6 +818,7 @@ Royal Pharmaceutical Society,2,18.0
 Cornwall Council,4,17.0
 Royal College of General Practitioners,4,17.0
 North Cumbria Integrated Care NHS Foundation Trust,2,17.0
+Yorkshire Ambulance Service NHS Trust,2,17.0
 James Paget University Hospitals NHS Foundation Trust,1,17.0
 NHS Cheshire and Merseyside Integrated Care Board,1,17.0
 Oxford Health NHS Foundation Trust,1,17.0
@@ -862,7 +863,6 @@ Leeds City Council,1,9.0
 Sandwell and West Birmingham Hospitals NHS Trust,1,9.0
 Whittington Health NHS Trust,1,9.0
 Cornwall Partnership NHS Foundation Trust,1,8.0
-Yorkshire Ambulance Service NHS Trust,1,8.0
 Maritime and Coastguard Agency,1,7.0
 Royal College of Anaesthetists,1,7.0
 University Hospitals of Leicester NHS Trust,1,7.0
