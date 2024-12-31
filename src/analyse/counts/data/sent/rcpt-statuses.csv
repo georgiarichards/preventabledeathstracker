@@ -1,7 +1,7 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,722,1697,1135,402,168,134,18
-NHS England,504,1348,823,241,130,113,20
-Care Quality Commission,168,477,274,61,61,44,2
+Department of Health and Social Care,722,1697,1135,402,168,135,17
+NHS England,504,1348,823,241,130,115,18
+Care Quality Commission,168,477,274,61,61,45,1
 HM Prison and Probation Service,154,350,182,64,46,41,3
 Ministry of Justice,106,280,133,26,44,33,3
 Home Office,102,334,230,41,38,20,3
@@ -9,7 +9,7 @@ NHS Greater Manchester Integrated Care Board,100,249,157,61,19,20,0
 Department for Transport,99,264,150,42,27,25,5
 National Institute for Health and Care Excellence,98,271,165,40,24,31,3
 Betsi Cadwaladr University Health Board,75,100,65,54,3,18,0
-REDACTED,71,240,76,13,33,24,1
+REDACTED,71,240,76,13,33,25,0
 Barts Health NHS Trust,66,103,65,34,13,19,0
 National Highways,65,105,59,30,8,26,1
 Metropolitan Police Service,62,149,107,33,15,13,1
@@ -145,7 +145,7 @@ Royal Free London NHS Foundation Trust,12,17,10,6,0,5,1
 NHS Nottingham and Nottinghamshire Integrated Care Board,12,57,18,1,8,3,0
 Norfolk and Norwich University Hospitals NHS Foundation Trust,12,22,15,5,4,3,0
 Cornwall Partnership NHS Foundation Trust,12,21,12,7,3,1,1
-Coventry and Warwickshire Partnership NHS Trust,12,20,9,6,0,4,2
+Coventry and Warwickshire Partnership NHS Trust,12,20,9,6,0,5,1
 Nottingham University Hospitals NHS Trust,11,16,15,8,1,2,0
 Mid and South Essex NHS Foundation Trust,11,18,14,6,0,5,0
 South West Yorkshire Partnership NHS Foundation Trust,11,20,11,4,4,3,0
@@ -407,7 +407,7 @@ GEOAmey,3,13,7,1,2,0,0
 Mid & South Essex NHS Trust,3,4,0,0,0,0,3
 Newcastle City Council,3,6,3,1,1,1,0
 Merseyside Police,3,17,16,2,1,0,0
-Oxfordshire County Council,3,4,3,2,0,0,1
+Oxfordshire County Council,3,4,3,2,0,1,0
 General Dental Council,3,12,6,1,1,1,0
 Gloucestershire County Council,3,4,2,2,0,1,0
 Forward Trust,3,8,2,0,2,1,0
@@ -423,7 +423,7 @@ HM Prison Swansea,3,6,3,1,1,1,0
 HM Prison Swaleside,3,4,2,2,0,1,0
 HM Prison Stoke Heath,3,6,3,1,1,1,0
 HM Prison Rochester,3,5,3,1,2,0,0
-East Riding of Yorkshire Council,3,7,0,0,0,0,3
+East Riding of Yorkshire Council,3,7,0,0,0,2,1
 Royal College of Midwives,3,9,2,1,0,2,0
 East Sussex County Council,3,4,4,3,0,0,0
 East Sussex Healthcare NHS Trust,3,6,2,1,1,1,0
@@ -789,7 +789,7 @@ Neasham Road Surgery,1,3,2,0,1,0,0
 Newark and Sherwood District Council,1,7,2,0,1,0,0
 National Open College Network,1,6,5,0,1,0,0
 National Institute for Health and Care Research,1,6,0,0,0,1,0
-A&B Healthcare Ltd,1,3,0,0,0,0,1
+A&B Healthcare Ltd,1,3,0,0,0,1,0
 National Institute for Cardiovascular Outcomes Research,1,4,1,0,1,0,0
 A2Dominion of The Point,1,1,1,1,0,0,0
 National Infusion and Vascular Access Society,1,5,4,1,0,0,0

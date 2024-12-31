@@ -1,7 +1,7 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,722,283,18,421,58
-NHS England,504,185,20,299,59
-Care Quality Commission,168,102,2,64,38
+Department of Health and Social Care,722,284,17,421,58
+NHS England,504,187,18,299,59
+Care Quality Commission,168,103,1,64,38
 HM Prison and Probation Service,154,84,3,67,44
 Ministry of Justice,106,78,3,25,24
 Home Office,102,43,3,56,55
@@ -9,7 +9,7 @@ NHS Greater Manchester Integrated Care Board,100,45,0,55,55
 Department for Transport,99,43,5,51,52
 National Institute for Health and Care Excellence,98,56,3,39,40
 Betsi Cadwaladr University Health Board,75,21,0,54,72
-REDACTED,71,57,1,13,18
+REDACTED,71,58,0,13,18
 Barts Health NHS Trust,66,26,0,40,61
 National Highways,65,36,1,28,43
 Metropolitan Police Service,62,31,1,30,48
@@ -145,7 +145,7 @@ Royal Free London NHS Foundation Trust,12,5,1,6,50
 NHS Nottingham and Nottinghamshire Integrated Care Board,12,11,0,1,8
 Norfolk and Norwich University Hospitals NHS Foundation Trust,12,8,0,4,33
 Cornwall Partnership NHS Foundation Trust,12,4,1,7,58
-Coventry and Warwickshire Partnership NHS Trust,12,4,2,6,50
+Coventry and Warwickshire Partnership NHS Trust,12,5,1,6,50
 Nottingham University Hospitals NHS Trust,11,4,0,7,64
 Mid and South Essex NHS Foundation Trust,11,5,0,6,55
 South West Yorkshire Partnership NHS Foundation Trust,11,7,0,4,36
@@ -407,7 +407,7 @@ GEOAmey,3,2,0,1,33
 Mid & South Essex NHS Trust,3,0,3,0,0
 Newcastle City Council,3,2,0,1,33
 Merseyside Police,3,1,0,2,67
-Oxfordshire County Council,3,0,1,2,67
+Oxfordshire County Council,3,1,0,2,67
 General Dental Council,3,1,0,2,67
 Gloucestershire County Council,3,1,0,2,67
 Forward Trust,3,2,0,1,33
@@ -423,7 +423,7 @@ HM Prison Swansea,3,2,0,1,33
 HM Prison Swaleside,3,1,0,2,67
 HM Prison Stoke Heath,3,2,0,1,33
 HM Prison Rochester,3,2,0,1,33
-East Riding of Yorkshire Council,3,0,3,0,0
+East Riding of Yorkshire Council,3,2,1,0,0
 Royal College of Midwives,3,2,0,1,33
 East Sussex County Council,3,0,0,3,100
 East Sussex Healthcare NHS Trust,3,1,0,2,67
@@ -789,7 +789,7 @@ Neasham Road Surgery,1,1,0,0,0
 Newark and Sherwood District Council,1,1,0,0,0
 National Open College Network,1,1,0,0,0
 National Institute for Health and Care Research,1,1,0,0,0
-A&B Healthcare Ltd,1,0,1,0,0
+A&B Healthcare Ltd,1,1,0,0,0
 National Institute for Cardiovascular Outcomes Research,1,1,0,0,0
 A2Dominion of The Point,1,0,0,1,100
 National Infusion and Vascular Access Society,1,0,0,1,100

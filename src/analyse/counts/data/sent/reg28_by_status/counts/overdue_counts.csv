@@ -23,6 +23,7 @@ Sodexo,2,100.0
 Tandridge District Council,2,100.0
 Trading Standards,2,100.0
 York and Scarborough Teaching Hospitals NHS Foundation Trust,2,100.0
+A&B Healthcare Ltd,1,100.0
 AGCO Ltd,1,100.0
 Abbey Court Independent Hospital,1,100.0
 Abbey Wood Lodge Care Home,1,100.0
@@ -433,6 +434,7 @@ Bradford Council,2,67.0
 British Marine,2,67.0
 Casualty Reduction Team,2,67.0
 Derbyshire Community Health Services NHS Foundation Trust,2,67.0
+East Riding of Yorkshire Council,2,67.0
 HM Prison Bedford,2,67.0
 Healthcare Inspectorate Wales,2,67.0
 Intensive Care Society,2,67.0
@@ -574,6 +576,7 @@ Shrewsbury and Telford Hospital NHS Trust,3,43.0
 South Wales Police,3,43.0
 Tower Hamlets Council,3,43.0
 Wiltshire Council,3,43.0
+Coventry and Warwickshire Partnership NHS Trust,5,42.0
 Royal Free London NHS Foundation Trust,5,42.0
 Stockport NHS Foundation Trust,14,41.0
 North East London NHS Foundation Trust,12,41.0
@@ -616,12 +619,11 @@ University Hospitals Bristol and Weston NHS Foundation Trust,3,38.0
 Hywel Dda University Health Board,5,36.0
 British Medical Association,4,36.0
 South Western Ambulance Service NHS Foundation Trust,4,36.0
+REDACTED,25,35.0
 Nottinghamshire Healthcare NHS Foundation Trust,9,35.0
-REDACTED,24,34.0
 East London NHS Foundation Trust,13,34.0
 Greater Manchester Mental Health NHS Foundation Trust,15,33.0
 Nursing and Midwifery Council,6,33.0
-Coventry and Warwickshire Partnership NHS Trust,4,33.0
 Great Western Hospitals NHS Foundation Trust,4,33.0
 NHS Devon Integrated Care Board,3,33.0
 NHS West Yorkshire Integrated Care Board,3,33.0
@@ -665,6 +667,7 @@ National Ambulance Services Medical Directors,1,33.0
 National Crime Agency,1,33.0
 Newcastle City Council,1,33.0
 North Lincolnshire Council,1,33.0
+Oxfordshire County Council,1,33.0
 Rhondda Cynon Taf County Borough Council,1,33.0
 Rotherham Metropolitan Borough Council,1,33.0
 Shropshire Community Health NHS Trust,1,33.0
@@ -704,6 +707,7 @@ West Yorkshire Police,2,29.0
 Welsh Ambulance Services University NHS Trust,13,28.0
 Central and North West London NHS Foundation Trust,9,28.0
 Surrey and Borders Partnership NHS Foundation Trust,7,28.0
+Care Quality Commission,45,27.0
 HM Prison and Probation Service,41,27.0
 London Ambulance Service NHS Trust,7,27.0
 Midlands Partnership University NHS Foundation Trust,7,27.0
@@ -715,7 +719,6 @@ Driver and Vehicle Standards Agency,3,27.0
 Kent County Council,3,27.0
 South West London and St George’s Mental Health NHS Trust,3,27.0
 South West Yorkshire Partnership NHS Foundation Trust,3,27.0
-Care Quality Commission,44,26.0
 North London NHS Foundation Trust,9,26.0
 Surrey County Council,5,26.0
 Department for Transport,25,25.0
@@ -758,6 +761,7 @@ Northern Care Alliance NHS Foundation Trust,10,24.0
 Royal College of Obstetricians and Gynaecologists,6,24.0
 North West Ambulance Service NHS Trust,5,24.0
 Priory Group,4,24.0
+NHS England,115,23.0
 Department for Education,11,23.0
 University Hospitals Birmingham NHS Foundation Trust,7,23.0
 Avon and Wiltshire Mental Health Partnership NHS Trust,5,23.0
@@ -766,7 +770,6 @@ HM Prison Pentonville,3,23.0
 North Bristol NHS Trust,3,23.0
 Oxford University Hospitals NHS Foundation Trust,3,23.0
 Sussex Police,3,23.0
-NHS England,113,22.0
 Cardiff and Vale University Health Board,5,22.0
 Oxleas NHS Foundation Trust,5,22.0
 HC One,2,22.0
@@ -802,7 +805,7 @@ Sainsbury's,1,20.0
 Staffordshire Police,1,20.0
 The Princess Alexandra Hospital NHS Trust,1,20.0
 West Mercia Police,1,20.0
-Department of Health and Social Care,134,19.0
+Department of Health and Social Care,135,19.0
 "Ministry of Housing, Communities and Local Government",7,19.0
 Ministry of Defence,6,19.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",5,19.0
