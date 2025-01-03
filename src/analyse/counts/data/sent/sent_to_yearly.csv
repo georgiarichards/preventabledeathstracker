@@ -6,7 +6,7 @@ HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,154,42,64,46,41,
 Ministry of Justice,1,12,6,8,1,8,13,0,14,11,11,21,106,25,26,44,34,2
 Home Office,2,8,10,5,4,5,12,8,13,11,11,12,101,41,41,39,19,2
 NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,16,12,20,11,10,13,100,63,63,19,18,0
-Department for Transport,1,13,6,12,9,5,6,8,7,7,11,14,99,43,43,28,23,5
+Department for Transport,1,13,6,12,9,5,6,8,7,7,11,14,99,43,43,28,24,4
 National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,5,17,20,98,44,43,25,29,1
 Betsi Cadwaladr University Health Board,1,9,8,4,9,2,2,1,4,4,21,10,75,72,54,3,18,0
 REDACTED,3,26,9,0,3,1,2,0,0,4,6,17,71,18,13,33,25,0
@@ -158,7 +158,7 @@ Sandwell and West Birmingham Hospitals NHS Trust,0,0,0,3,1,2,0,0,2,0,2,1,11,64,7
 Royal Pharmaceutical Society,0,1,1,2,0,0,1,1,1,1,1,2,11,55,6,2,2,1
 Norfolk County Council,0,4,2,1,0,0,1,0,2,0,0,1,11,64,7,2,2,0
 "Department for Environment, Food and Rural Affairs",0,3,0,0,0,1,3,1,1,0,2,0,11,18,2,7,2,0
-Driver and Vehicle Standards Agency,1,2,0,0,1,0,2,2,0,0,0,3,11,18,2,4,3,2
+Driver and Vehicle Standards Agency,1,2,0,0,1,0,2,2,0,0,0,3,11,18,2,4,4,1
 British Medical Association,0,1,0,2,0,1,3,0,1,1,0,2,11,27,3,4,4,0
 Devon and Cornwall Police,0,2,1,1,1,0,0,2,1,1,1,1,11,64,7,3,1,0
 Leeds City Council,0,2,1,0,0,2,1,0,2,0,2,1,11,91,10,0,1,0
@@ -262,7 +262,7 @@ UK Health Security Agency,0,0,0,0,0,0,0,0,0,1,3,2,6,50,3,2,1,0
 Oxford Health NHS Foundation Trust,0,0,0,0,0,0,0,0,1,1,2,2,6,67,4,0,1,1
 Rail Safety and Standards Board,1,0,2,1,1,0,0,0,1,0,0,0,6,17,1,1,4,0
 Rotherham Doncaster and South Humber NHS Foundation Trust,0,1,1,2,0,0,1,0,0,0,0,1,6,50,3,0,3,0
-Royal Society for the Prevention of Accidents,0,2,0,0,1,0,0,0,0,0,1,2,6,17,1,3,1,1
+Royal Society for the Prevention of Accidents,0,2,0,0,1,0,0,0,0,0,1,2,6,17,1,3,2,0
 Sandwell Council,0,2,0,0,1,1,1,0,0,0,0,1,6,33,2,2,2,0
 Sheffield City Council,0,0,0,2,1,2,0,0,0,0,0,1,6,67,4,1,1,0
 Sheffield Children’s NHS Foundation Trust,0,0,1,0,0,0,2,0,0,0,2,1,6,67,4,2,0,0

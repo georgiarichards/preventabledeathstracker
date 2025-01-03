@@ -6,7 +6,7 @@ HM Prison and Probation Service,154,350,182,64,46,41,3
 Ministry of Justice,106,280,133,26,44,34,2
 Home Office,101,322,236,41,39,19,2
 NHS Greater Manchester Integrated Care Board,100,249,162,63,19,18,0
-Department for Transport,99,264,154,43,28,23,5
+Department for Transport,99,264,154,43,28,24,4
 National Institute for Health and Care Excellence,98,271,173,43,25,29,1
 Betsi Cadwaladr University Health Board,75,100,65,54,3,18,0
 REDACTED,71,240,76,13,33,25,0
@@ -158,7 +158,7 @@ Sandwell and West Birmingham Hospitals NHS Trust,11,21,12,7,3,1,0
 Royal Pharmaceutical Society,11,35,18,6,2,2,1
 Norfolk County Council,11,21,14,7,2,2,0
 "Department for Environment, Food and Rural Affairs",11,47,27,2,7,2,0
-Driver and Vehicle Standards Agency,11,31,6,2,4,3,2
+Driver and Vehicle Standards Agency,11,31,6,2,4,4,1
 British Medical Association,11,50,22,3,4,4,0
 Devon and Cornwall Police,11,24,19,7,3,1,0
 Leeds City Council,11,20,16,10,0,1,0
@@ -262,7 +262,7 @@ UK Health Security Agency,6,19,16,3,2,1,0
 Oxford Health NHS Foundation Trust,6,13,11,4,0,1,1
 Rail Safety and Standards Board,6,14,10,1,1,4,0
 Rotherham Doncaster and South Humber NHS Foundation Trust,6,7,4,3,0,3,0
-Royal Society for the Prevention of Accidents,6,23,9,1,3,1,1
+Royal Society for the Prevention of Accidents,6,23,9,1,3,2,0
 Sandwell Council,6,9,5,2,2,2,0
 Sheffield City Council,6,9,5,4,1,1,0
 Sheffield Children’s NHS Foundation Trust,6,12,9,4,2,0,0

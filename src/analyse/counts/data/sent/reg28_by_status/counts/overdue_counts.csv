@@ -602,6 +602,7 @@ Resuscitation Council UK,3,38.0
 University Hospitals Bristol and Weston NHS Foundation Trust,3,38.0
 Hywel Dda University Health Board,5,36.0
 British Medical Association,4,36.0
+Driver and Vehicle Standards Agency,4,36.0
 South Western Ambulance Service NHS Foundation Trust,4,36.0
 REDACTED,25,35.0
 Nursing and Midwifery Council,6,33.0
@@ -616,6 +617,7 @@ National Fire Chiefs Council,2,33.0
 North West Anglia NHS Foundation Trust,2,33.0
 North Yorkshire County Council,2,33.0
 Oldham Council,2,33.0
+Royal Society for the Prevention of Accidents,2,33.0
 Sandwell Council,2,33.0
 South Western Railway,2,33.0
 The Phoenix Partnership,2,33.0
@@ -687,7 +689,6 @@ London Ambulance Service NHS Trust,7,27.0
 Bedfordshire Hospitals NHS Foundation Trust,4,27.0
 Black Country Healthcare NHS Foundation Trust,4,27.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,4,27.0
-Driver and Vehicle Standards Agency,3,27.0
 Kent County Council,3,27.0
 South West London and St George’s Mental Health NHS Trust,3,27.0
 South West Yorkshire Partnership NHS Foundation Trust,3,27.0
@@ -727,6 +728,7 @@ Royal Surrey NHS Foundation Trust,1,25.0
 Traffic Commissioners for Great Britain,1,25.0
 West Hertfordshire Teaching Hospitals NHS Trust,1,25.0
 Youth Justice Board,1,25.0
+Department for Transport,24,24.0
 Betsi Cadwaladr University Health Board,18,24.0
 Network Rail,10,24.0
 Northern Care Alliance NHS Foundation Trust,10,24.0
@@ -734,7 +736,6 @@ Royal College of Obstetricians and Gynaecologists,6,24.0
 Surrey and Borders Partnership NHS Foundation Trust,6,24.0
 University Hospitals of North Midlands NHS Trust,6,24.0
 Priory Group,4,24.0
-Department for Transport,23,23.0
 Welsh Ambulance Services University NHS Trust,11,23.0
 Sussex Partnership NHS Foundation Trust,10,23.0
 North London NHS Foundation Trust,8,23.0
@@ -803,7 +804,6 @@ British Society of Gastroenterology,1,17.0
 James Paget University Hospitals NHS Foundation Trust,1,17.0
 NHS Cheshire and Merseyside Integrated Care Board,1,17.0
 Oxford Health NHS Foundation Trust,1,17.0
-Royal Society for the Prevention of Accidents,1,17.0
 Sheffield City Council,1,17.0
 UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
