@@ -557,7 +557,6 @@ The Oaks and Woodcroft Care Home,1,100.0
 The Park Surgery Heanor,1,100.0
 The Peak District National Park Authority,1,100.0
 The Pipeline Industries Guild,1,100.0
-The Priory Group Ltd,1,100.0
 The Professional Association of Diving Instructors,1,100.0
 The RAC Motorsports Association,1,100.0
 The Range UK,1,100.0
@@ -586,7 +585,6 @@ UPS,1,100.0
 URBN UK Ltd,1,100.0
 Ultra Events Ltd,1,100.0
 United Children’s Services,1,100.0
-University Hospitals Bristol NHS Trust,1,100.0
 University of Hertfordshire,1,100.0
 University of Oxford,1,100.0
 University of South Wales,1,100.0
@@ -783,6 +781,7 @@ South Wales Police,4,57.0
 West Yorkshire Police,4,57.0
 Greater Manchester Police,19,56.0
 Stockport NHS Foundation Trust,19,56.0
+Priory Group Limited,10,56.0
 Cumbria County Council,9,56.0
 HC One,5,56.0
 Lincolnshire County Council,5,56.0
@@ -798,15 +797,14 @@ Sussex Police,7,54.0
 Barts Health NHS Trust,35,53.0
 Medway NHS Foundation Trust,9,53.0
 NHS Sussex Integrated Care Board,9,53.0
-Priory Group,9,53.0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,8,53.0
 NHS Digital,8,53.0
 Royal College of Anaesthetists,8,53.0
 Surrey and Borders Partnership NHS Foundation Trust,13,52.0
-University Hospitals Plymouth NHS Trust,11,52.0
 Northern Care Alliance NHS Foundation Trust,21,51.0
 Pennine Care NHS Foundation Trust,24,50.0
 Transport for London,11,50.0
+University Hospitals Plymouth NHS Trust,10,50.0
 "Department for Business, Energy and Industrial Strategy",7,50.0
 Department for Work and Pensions,7,50.0
 Coventry and Warwickshire Partnership NHS Trust,6,50.0
@@ -982,6 +980,7 @@ King’s College Hospital NHS Foundation Trust,6,40.0
 Berkshire Healthcare NHS Foundation Trust,4,40.0
 Calderdale Council,4,40.0
 Canal and River Trust,4,40.0
+University Hospitals Bristol and Weston NHS Foundation Trust,4,40.0
 Avon Fire and Rescue Services,2,40.0
 Avon and Somerset Police,2,40.0
 Birmingham Community Healthcare NHS Foundation Trust,2,40.0
@@ -1015,7 +1014,6 @@ Homerton Healthcare NHS Foundation Trust,3,38.0
 Isle of Wight Council,3,38.0
 Royal Berkshire NHS Foundation Trust,3,38.0
 Royal College of Radiologists,3,38.0
-University Hospitals Bristol and Weston NHS Foundation Trust,3,38.0
 Medicines and Healthcare Products Regulatory Agency,22,37.0
 Welsh Government,7,37.0
 Birmingham City Council,5,36.0

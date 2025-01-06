@@ -169,6 +169,7 @@ HM Revenue and Customs,1,100.0
 Hackney Alcohol Recovery Centre,1,100.0
 Hainault Surgery,1,100.0
 Halfords Group PLC,1,100.0
+Harbour Healthcare Limited,1,100.0
 Harrogate and District NHS Foundation Trust,1,100.0
 Haulage Contractors Limited,1,100.0
 Hawthorn Green Care Home,1,100.0
@@ -409,7 +410,6 @@ Mitie Group,4,80.0
 Plymouth City Council,4,80.0
 Gateshead Health NHS Foundation Trust,3,75.0
 HM Prison Wormwood Scrubs,3,75.0
-Harbour Healthcare Limited,3,75.0
 Lancashire Teaching Hospitals NHS Foundation Trust,3,75.0
 Lincolnshire Police,3,75.0
 North Wales Local Authorities,3,75.0
@@ -468,6 +468,7 @@ Rotherham Doncaster and South Humber NHS Foundation Trust,3,50.0
 Association of Directors of Adult Social Services,2,50.0
 City of Wolverhampton Council,2,50.0
 HM Inspectorate of Prisons,2,50.0
+Harbour Healthcare Ltd,2,50.0
 NHS Cambridgeshire and Peterborough Integrated Care Board,2,50.0
 NHS Frimley Integrated Care Board,2,50.0
 Prisons and Probation Ombudsman,2,50.0
@@ -569,9 +570,11 @@ North East London NHS Foundation Trust,12,41.0
 Kent and Medway NHS and Social Care Partnership Trust,7,41.0
 Welsh Parliament,7,41.0
 National Highways,26,40.0
+University Hospitals Plymouth NHS Trust,8,40.0
 King’s College Hospital NHS Foundation Trust,6,40.0
 Royal College of Surgeons,4,40.0
 South Tyneside and Sunderland NHS Foundation Trust,4,40.0
+University Hospitals Bristol and Weston NHS Foundation Trust,4,40.0
 British National Formulary,2,40.0
 Department for Business and Trade,2,40.0
 Derbyshire County Council,2,40.0
@@ -592,7 +595,6 @@ Public Health England,7,39.0
 Stockport NHS Foundation Trust,13,38.0
 Essex Partnership University NHS Foundation Trust,12,38.0
 Blackpool Teaching Hospitals NHS Foundation Trust,9,38.0
-University Hospitals Plymouth NHS Trust,8,38.0
 Cumbria County Council,6,38.0
 North East Ambulance Service NHS Foundation Trust,6,38.0
 South Central Ambulance Service NHS Foundation Trust,6,38.0
@@ -600,7 +602,6 @@ Gloucestershire Hospital NHS Foundation Trust,3,38.0
 Health Services Safety Investigations Body,3,38.0
 Isle of Wight Council,3,38.0
 Resuscitation Council UK,3,38.0
-University Hospitals Bristol and Weston NHS Foundation Trust,3,38.0
 Hywel Dda University Health Board,5,36.0
 British Medical Association,4,36.0
 Driver and Vehicle Standards Agency,4,36.0
@@ -735,7 +736,6 @@ Network Rail,10,24.0
 Royal College of Obstetricians and Gynaecologists,6,24.0
 Surrey and Borders Partnership NHS Foundation Trust,6,24.0
 University Hospitals of North Midlands NHS Trust,6,24.0
-Priory Group,4,24.0
 Department for Education,11,23.0
 Welsh Ambulance Services University NHS Trust,11,23.0
 Sussex Partnership NHS Foundation Trust,10,23.0
@@ -750,6 +750,7 @@ Sussex Police,3,23.0
 NHS England,110,22.0
 Cardiff and Vale University Health Board,5,22.0
 Oxleas NHS Foundation Trust,5,22.0
+Priory Group Limited,4,22.0
 HC One,2,22.0
 Lincolnshire County Council,2,22.0
 Metropolitan Police Service,13,21.0
