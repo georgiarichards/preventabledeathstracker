@@ -1,8 +1,8 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
 Department of Health and Social Care,722,1696,1169,408,176,122,16
-NHS England,505,1352,847,242,137,110,16
+NHS England,505,1352,847,242,137,111,15
 Care Quality Commission,168,476,286,63,62,42,1
-HM Prison and Probation Service,154,350,182,64,46,41,3
+HM Prison and Probation Service,154,350,182,64,46,42,2
 Ministry of Justice,106,280,133,26,44,34,2
 Home Office,101,322,236,41,39,19,2
 NHS Greater Manchester Integrated Care Board,100,249,162,63,19,18,0
@@ -50,7 +50,7 @@ Aneurin Bevan University Health Board,26,47,25,15,3,8,0
 Midlands Partnership University NHS Foundation Trust,26,48,36,17,3,6,0
 Nottinghamshire Healthcare NHS Foundation Trust,26,48,28,15,3,8,0
 Surrey and Borders Partnership NHS Foundation Trust,25,52,35,13,6,6,0
-Royal College of Obstetricians and Gynaecologists,25,70,31,6,11,6,2
+Royal College of Obstetricians and Gynaecologists,25,70,31,6,11,7,1
 University Hospitals of North Midlands NHS Trust,25,33,25,16,2,6,1
 Royal College of General Practitioners,24,93,62,11,9,4,0
 Care UK,24,57,32,9,14,1,0
@@ -64,7 +64,7 @@ University Hospitals Dorset NHS Foundation Trust,22,29,17,13,2,7,0
 Transport for London,22,53,43,11,6,5,0
 "Department for Culture, Media and Sport",22,82,59,10,8,3,1
 Avon and Wiltshire Mental Health Partnership NHS Trust,22,46,26,9,7,5,1
-NHS Derby and Derbyshire Integrated Care Board,22,59,21,6,7,7,2
+NHS Derby and Derbyshire Integrated Care Board,22,59,21,6,7,8,1
 NHS Birmingham and Solihull Integrated Care Board,22,66,50,16,3,3,0
 East Midlands Ambulance Service NHS Trust,21,49,28,10,8,3,0
 West Midlands Police,21,66,60,12,8,1,0
@@ -173,12 +173,12 @@ Canal and River Trust,10,17,9,4,1,5,0
 Cyngor Sir Powys County Council,10,15,6,2,2,6,0
 Berkshire Healthcare NHS Foundation Trust,10,26,18,4,3,3,0
 Egton Medical Information Systems,10,29,25,7,1,2,0
-University Hospitals Bristol and Weston NHS Foundation Trust,10,19,7,4,1,4,1
+University Hospitals Bristol and Weston NHS Foundation Trust,10,19,7,4,1,5,0
 Trafford Council,10,39,21,2,6,2,0
 Walsall Healthcare NHS Trust,10,12,9,6,1,3,0
 Frimley Health NHS Foundation Trust,10,18,14,5,3,2,0
 The Dudley Group NHS Foundation Trust,9,13,9,7,1,1,0
-Royal College of Pathologists,9,40,18,1,4,3,1
+Royal College of Pathologists,9,40,18,1,4,4,0
 NHS West Yorkshire Integrated Care Board,9,32,11,3,3,3,0
 Warwickshire County Council,9,9,4,4,0,5,0
 HC One,9,14,9,5,2,2,0
@@ -532,7 +532,7 @@ NHS Mid and South Essex Integrated Care Board,2,6,3,0,1,1,0
 NHS,2,6,2,0,2,0,0
 London Borough of Havering,2,2,2,1,0,1,0
 Leeds Community Healthcare NHS Trust,2,7,0,0,0,2,0
-Leicestershire County Council,2,2,1,1,0,0,1
+Leicestershire County Council,2,2,1,1,0,1,0
 Conwy County Council,2,6,2,1,1,0,0
 Cole Valley Care Limited,2,2,2,2,0,0,0
 College of Emergency Medicine,2,6,4,1,0,1,0
@@ -1253,7 +1253,7 @@ Cleveland Police,1,2,1,0,1,0,0
 Cleveland Police Roads Policing Unit,1,3,1,0,1,0,0
 Clevermed Limited,1,1,1,1,0,0,0
 Chief Coroner of England and Wales,1,2,1,0,1,0,0
-Chief Midwifery Officer,1,5,0,0,0,0,1
+Chief Midwifery Officer,1,5,0,0,0,1,0
 Children’s Commissioner for Wales,1,9,7,0,1,0,0
 Chilton Care Centre,1,1,0,0,0,1,0
 Christian Congregation of Jehova’s Witnesses,1,1,1,1,0,0,0
@@ -1697,7 +1697,7 @@ Staffordshire Moorlands District Council,1,1,1,1,0,0,0
 Stamford Quarter Shopping Centre,1,1,0,0,0,1,0
 Stanley Park Care Centre,1,1,1,1,0,0,0
 Steadplan Ltd,1,4,1,0,1,0,0
-Steps 2 Recovery,1,2,0,0,0,0,1
+Steps 2 Recovery,1,2,0,0,0,1,0
 StockXS Limited,1,3,1,0,1,0,0
 Stockport Homes,1,2,2,1,0,0,0
 Stockton Care Limited,1,1,1,1,0,0,0
