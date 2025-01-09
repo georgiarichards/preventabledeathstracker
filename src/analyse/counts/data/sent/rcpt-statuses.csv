@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
 Department of Health and Social Care,722,1696,1169,408,176,122,16
-NHS England,505,1352,847,242,137,112,14
+NHS England,505,1352,847,242,137,113,13
 Care Quality Commission,168,476,286,63,62,42,1
 HM Prison and Probation Service,154,350,182,64,46,42,2
 Ministry of Justice,106,280,133,26,44,34,2
@@ -92,7 +92,7 @@ Surrey Police,16,49,22,6,5,5,0
 Cumbria County Council,16,20,16,9,1,6,0
 United Lincolnshire Hospitals NHS Trust,16,25,7,7,1,8,0
 South Central Ambulance Service NHS Foundation Trust,16,34,19,6,4,6,0
-South East Coast Ambulance Service NHS Foundation Trust,16,32,17,11,0,4,1
+South East Coast Ambulance Service NHS Foundation Trust,16,32,17,11,0,5,0
 North East Ambulance Service NHS Foundation Trust,16,28,17,7,3,6,0
 Milton Keynes University Hospital NHS Foundation Trust,16,23,17,10,2,4,0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,15,18,11,11,0,4,0
@@ -989,7 +989,7 @@ Kockey Road Medical Centre,1,1,1,1,0,0,0
 Knowle House Surgery,1,1,2,1,0,0,0
 Kirby Road Surgery,1,1,0,0,0,1,0
 Kingston and Richmond NHS Foundation Trust,1,2,1,0,1,0,0
-Kingkabs Limited,1,1,0,0,0,0,1
+Kingkabs Limited,1,1,0,0,0,1,0
 King's Road Medical Centre,1,2,0,0,0,1,0
 King Street Medical Centre,1,1,0,0,0,1,0
 Kindandental,1,2,2,1,0,0,0
