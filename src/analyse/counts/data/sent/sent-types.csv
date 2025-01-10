@@ -1,10 +1,10 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,722,279,16,427,59
+Department of Health and Social Care,722,280,15,427,59
 NHS England,505,190,13,302,60
 Care Quality Commission,168,101,1,66,39
 HM Prison and Probation Service,154,85,2,67,44
 Ministry of Justice,106,79,2,25,24
-Home Office,101,42,2,57,56
+Home Office,101,43,1,57,56
 NHS Greater Manchester Integrated Care Board,100,43,0,57,57
 Department for Transport,99,43,4,52,53
 National Institute for Health and Care Excellence,98,55,1,42,43
@@ -65,7 +65,7 @@ Avon and Wiltshire Mental Health Partnership NHS Trust,22,12,1,9,41
 Transport for London,22,7,0,15,68
 NHS Derby and Derbyshire Integrated Care Board,22,16,1,5,23
 NHS Birmingham and Solihull Integrated Care Board,22,6,0,16,73
-"Department for Culture, Media and Sport",22,15,1,6,27
+"Department for Culture, Media and Sport",22,16,0,6,27
 East Midlands Ambulance Service NHS Trust,21,9,0,12,57
 Royal College of Psychiatrists,21,17,0,4,19
 West Midlands Police,21,7,0,14,67
@@ -117,7 +117,7 @@ Bolton NHS Foundation Trust,14,5,1,8,57
 Royal Cornwall Hospitals NHS Trust,14,7,1,6,43
 Durham County Council,14,3,0,11,79
 Dorset Healthcare University NHS Foundation Trust,14,13,0,1,7
-Worcestershire Acute Hospitals NHS Trust,14,3,1,10,71
+Worcestershire Acute Hospitals NHS Trust,14,4,0,10,71
 County Durham and Darlington NHS Foundation Trust,14,6,0,8,57
 Driver and Vehicle Licensing Agency,14,11,1,2,14
 General Pharmaceutical Council,13,4,0,9,69
@@ -294,7 +294,7 @@ Ofsted,5,2,0,3,60
 Plymouth City Council,5,4,1,0,0
 NHS South West London Integrated Care Board,5,4,0,1,20
 Brighton and Hove City Council,5,5,0,0,0
-Ofcom,5,2,1,2,40
+Ofcom,5,3,0,2,40
 Northumbria Healthcare NHS Foundation Trust,5,2,0,3,60
 British Society for Allergy and Clinical Immunology,5,3,0,2,40
 The Princess Alexandra Hospital NHS Trust,5,2,0,3,60
@@ -481,7 +481,7 @@ Welsh Cycling,2,1,0,1,50
 Airedale NHS Foundation Trust,2,1,1,0,0
 Weightmans LLP,2,2,0,0,0
 Waste Industry Safety and Health Forum,2,1,0,1,50
-Veterinary Medicines Directorate,2,0,2,0,0
+Veterinary Medicines Directorate,2,1,1,0,0
 Various,2,2,0,0,0
 University of Surrey,2,0,0,2,100
 University of Exeter,2,0,0,2,100
@@ -536,7 +536,7 @@ Scotia Gas Network,2,2,0,0,0
 Salford City Council,2,0,0,2,100
 Rugby Football Union,2,0,0,2,100
 Rugby Football League,2,0,0,2,100
-Royal College of Veterinary Surgeons,2,0,2,0,0
+Royal College of Veterinary Surgeons,2,1,1,0,0
 Edmiston London Heliport,2,2,0,0,0
 Ebay UK Ltd,2,1,0,1,50
 East Cheshire NHS Trust,2,1,0,1,50
@@ -1417,7 +1417,7 @@ Pelican Partners Ltd,1,1,0,0,0
 Pelham House,1,0,0,1,100
 Peel Medical Practice,1,0,0,1,100
 Brisdoc,1,1,0,0,0
-Brinnington Surgery,1,0,1,0,0
+Brinnington Surgery,1,1,0,0,0
 Brindaavan Care Home Limited,1,1,0,0,0
 Brighton and Hove Integrated Care Service,1,1,0,0,0
 Brighton and Hove Health and Adult Social Care,1,1,0,0,0
@@ -1840,7 +1840,7 @@ Thornton and Ross Ltd,1,1,0,0,0
 Thornton Heath Medical Practice,1,1,0,0,0
 Thomas Cook Group,1,1,0,0,0
 Thomas Cook,1,0,0,1,100
-The Yacht Harbour Association,1,0,1,0,0
+The Yacht Harbour Association,1,1,0,0,0
 The Waterfield Practice,1,1,0,0,0
 The Wallich Centre,1,0,0,1,100
 The Village Medical Centre,1,1,0,0,0
