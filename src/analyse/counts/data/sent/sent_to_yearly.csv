@@ -1,19 +1,19 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,50,48,46,65,78,98,127,722,57,408,176,123,15
-NHS England,6,25,22,33,27,37,45,27,42,46,86,109,505,48,242,137,113,13
-Care Quality Commission,11,13,10,15,20,13,14,10,18,11,12,21,168,38,63,62,42,1
+Department of Health and Social Care,19,60,54,46,31,50,48,46,65,78,98,127,722,57,408,176,124,14
+NHS England,6,25,22,33,27,37,45,27,42,46,86,109,505,48,242,137,114,12
+Care Quality Commission,11,13,10,15,20,13,14,10,18,11,12,21,168,38,63,62,43,0
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,154,42,64,46,42,2
 Ministry of Justice,1,12,6,8,1,8,13,0,14,11,11,21,106,25,26,44,34,2
 Home Office,2,8,10,5,4,5,12,8,13,11,11,12,101,41,41,39,20,1
 NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,16,12,20,11,10,13,100,63,63,19,18,0
-Department for Transport,1,13,6,12,9,5,6,8,7,7,11,14,99,43,43,28,24,4
+Department for Transport,1,13,6,12,9,5,6,8,7,7,11,14,99,43,43,28,25,3
 National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,5,17,20,98,44,43,25,29,1
 Betsi Cadwaladr University Health Board,1,9,8,4,9,2,2,1,4,4,21,10,75,72,54,3,18,0
 REDACTED,3,26,9,0,3,1,2,0,0,4,6,17,71,18,13,33,25,0
 Barts Health NHS Trust,0,5,5,6,5,7,9,8,2,6,8,5,66,53,35,13,18,0
 National Highways,1,7,8,4,7,1,9,4,4,7,7,6,65,46,30,8,26,1
 Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,6,5,61,54,33,15,13,0
-Medicines and Healthcare Products Regulatory Agency,1,9,4,6,3,5,6,5,3,3,7,8,60,38,23,19,16,2
+Medicines and Healthcare Products Regulatory Agency,1,9,4,6,3,5,6,5,3,3,7,8,60,38,23,19,17,1
 University Hospitals Sussex NHS Foundation Trust,1,11,5,11,6,6,6,1,4,2,3,3,59,49,29,14,16,0
 Health and Safety Executive,4,3,3,4,5,5,9,1,4,3,9,5,55,38,21,17,16,1
 National Police Chiefs’ Council,1,3,5,2,2,2,8,2,11,3,10,6,55,31,17,29,9,0
@@ -39,7 +39,7 @@ Birmingham and Solihull Mental Health NHS Foundation Trust,0,1,1,2,1,3,7,1,1,3,8
 Essex Partnership University NHS Foundation Trust,0,1,3,4,4,2,0,3,2,3,4,6,32,44,14,6,12,0
 Central and North West London NHS Foundation Trust,0,2,2,2,2,2,6,2,5,3,2,4,32,41,13,10,9,0
 Tameside and Glossop Integrated Care NHS Foundation Trust,0,3,2,3,3,1,4,3,2,5,3,3,32,59,19,5,8,0
-University Hospitals Birmingham NHS Foundation Trust,1,0,4,2,2,2,4,1,2,0,3,10,31,68,21,5,4,1
+University Hospitals Birmingham NHS Foundation Trust,1,0,4,2,2,2,4,1,2,0,3,10,31,68,21,5,5,0
 Ministry of Defence,1,5,8,0,1,2,3,1,2,1,3,4,31,61,19,5,6,1
 "Barking, Havering and Redbridge University Hospitals NHS Trust",2,2,3,0,3,0,1,2,3,3,7,3,29,45,13,4,12,0
 North East London NHS Foundation Trust,0,0,1,3,0,1,5,2,5,3,6,3,29,41,12,4,12,1
@@ -109,7 +109,7 @@ Hywel Dda University Health Board,0,3,1,3,0,1,4,0,0,1,0,1,14,57,8,1,5,0
 "Department for Business, Energy and Industrial Strategy",1,5,2,1,3,0,0,0,1,0,1,0,14,50,7,4,3,0
 Royal College of Physicians,0,3,0,1,0,1,1,1,2,0,2,3,14,29,4,7,3,0
 Mersey Care NHS Foundation Trust,2,3,1,2,3,0,1,1,0,1,0,0,14,86,12,0,2,0
-Maritime and Coastguard Agency,0,2,0,3,1,1,0,4,0,0,2,1,14,36,5,7,1,1
+Maritime and Coastguard Agency,0,2,0,3,1,1,0,4,0,0,2,1,14,36,5,7,2,0
 Mid and South Essex NHS Foundation Trust,0,4,0,1,1,0,0,1,0,0,2,5,14,43,6,0,5,3
 Department for Work and Pensions,0,1,0,2,1,1,1,0,3,1,2,2,14,50,7,4,2,1
 Birmingham City Council,0,1,2,2,2,1,3,0,0,1,1,1,14,36,5,6,3,0
@@ -207,7 +207,7 @@ Royal Berkshire NHS Foundation Trust,0,1,2,0,0,1,0,0,0,1,2,1,8,38,3,3,2,0
 Royal Devon University Healthcare NHS Foundation Trust,0,2,3,0,1,0,1,0,0,0,1,0,8,50,4,2,2,0
 Camden Council,0,2,0,1,0,1,1,2,0,0,0,1,8,50,4,2,2,0
 Resuscitation Council UK,0,0,0,3,0,0,0,1,2,1,1,0,8,62,5,0,3,0
-British Standards Institution,0,2,0,0,0,0,0,1,0,2,0,3,8,50,4,1,1,2
+British Standards Institution,0,2,0,0,0,0,0,1,0,2,0,3,8,50,4,1,2,1
 NHS Wales,0,0,3,2,0,0,1,0,0,0,0,2,8,50,4,2,2,0
 "Bournemouth, Christchurch and Poole Council",0,0,0,0,0,0,1,2,1,1,1,2,8,62,5,1,1,1
 Devon County Council,1,0,1,2,0,1,0,0,2,0,1,0,8,50,4,0,4,0
@@ -298,7 +298,7 @@ Ofcom,0,0,0,0,0,0,0,0,0,0,2,3,5,20,1,2,2,0
 Northumbria Healthcare NHS Foundation Trust,0,0,1,0,0,0,2,0,1,0,0,1,5,60,3,2,0,0
 British Society for Allergy and Clinical Immunology,0,0,0,0,1,0,2,0,0,1,0,1,5,40,2,3,0,0
 The Princess Alexandra Hospital NHS Trust,0,0,0,1,0,1,0,1,0,0,0,2,5,80,4,0,1,0
-South Tees Hospitals NHS Foundation Trust,0,1,0,1,0,0,1,0,0,0,0,2,5,40,2,0,2,1
+South Tees Hospitals NHS Foundation Trust,0,1,0,1,0,0,1,0,0,0,0,2,5,40,2,0,3,0
 South Warwickshire University NHS Foundation Trust,0,0,0,0,0,0,1,1,1,0,1,1,5,100,5,0,0,0
 HM Prison Wandsworth,0,0,0,0,2,0,0,0,0,0,0,3,5,20,1,1,3,0
 HM Prison Winchester,1,1,1,1,0,0,1,0,0,0,0,0,5,0,0,2,3,0
@@ -317,7 +317,7 @@ Hertfordshire County Council,0,1,0,1,1,0,0,0,0,0,2,0,5,60,3,0,2,0
 Avon and Somerset Police,1,0,1,0,1,0,0,1,1,0,0,0,5,40,2,2,1,0
 Staffordshire Police,0,1,1,0,0,1,0,0,2,0,0,0,5,20,1,3,1,0
 Avon Fire and Rescue Services,0,0,0,3,0,0,0,0,0,0,2,0,5,40,2,2,1,0
-Royal Yachting Association,0,0,0,3,0,0,0,0,0,0,0,2,5,20,1,0,2,2
+Royal Yachting Association,0,0,0,3,0,0,0,0,0,0,0,2,5,20,1,0,3,1
 Lewisham Council,0,0,0,1,0,1,1,1,1,0,0,0,5,0,0,4,1,0
 Sainsbury's,0,0,2,1,0,0,0,0,0,0,1,1,5,60,3,1,1,0
 Chesterfield Royal Hospital NHS Foundation Trust,0,1,0,1,1,0,0,1,0,0,1,0,5,20,1,1,3,0
@@ -407,7 +407,7 @@ Intensive Care Society,0,2,1,0,0,0,0,0,0,0,0,0,3,0,0,1,2,0
 Derbyshire Community Health Services NHS Foundation Trust,0,0,0,0,1,0,0,0,0,1,1,0,3,0,0,1,2,0
 "Department for Science, Innovation and Technology",0,0,0,0,0,0,0,0,0,0,0,3,3,33,1,1,0,1
 Newcastle City Council,0,0,0,0,0,0,1,1,0,0,0,1,3,33,1,1,1,0
-British Marine,0,0,0,2,0,0,0,0,0,0,0,1,3,0,0,0,2,1
+British Marine,0,0,0,2,0,0,0,0,0,0,0,1,3,0,0,0,3,0
 Rhondda Cynon Taf County Borough Council,0,2,0,0,0,0,0,0,0,1,0,0,3,67,2,0,1,0
 Bondcare Limited,0,0,0,0,1,0,1,0,1,0,0,0,3,33,1,0,2,0
 Royal College of Midwives,0,0,0,0,1,0,0,0,0,1,1,0,3,33,1,0,2,0
@@ -1293,7 +1293,7 @@ Next Stage,0,0,0,1,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 British Retail Consortium,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 British Psychological Society,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
 British Precast Concrete Federation,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
-British Ports Association,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+British Ports Association,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 British Oxygen,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 British Obesity and Metabolic Surgery Society,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 British Mountaineering Council,0,0,0,1,0,0,0,0,0,0,0,0,1,100,1,0,0,0
@@ -1468,7 +1468,7 @@ Regard Care,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Reed Specialist Recruitment Limited,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
 Redningsselskapet,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Red House Surgery,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
-Red Bay Boats Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Red Bay Boats Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Recovery Steps Cumbria,0,0,0,0,0,0,0,0,0,0,0,1,1,100,1,0,0,0
 Reckitt Benckiser Healthcare UK Ltd,0,0,0,1,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Ranc Care Home Ltd,0,0,0,1,0,0,0,0,0,0,0,0,1,100,1,0,0,0
@@ -1826,7 +1826,7 @@ The Range UK,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 The RAC Motorsports Association,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 The Professional Association of Diving Instructors,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 The Pipeline Industries Guild,0,0,0,0,0,0,0,0,0,0,0,1,1,100,1,0,0,0
-Associated British Ports,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Associated British Ports,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Ashlea Medical Practice,0,0,0,0,0,0,0,0,0,0,0,1,1,100,1,0,0,0
 Ashgate House Nursing Home,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
 Ashford Borough Council,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
@@ -1867,7 +1867,7 @@ Tonic Construction Ltd,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
 UK Tram,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
 UK Sport,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 UK National Screening Committee,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-UK Major Ports Group,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+UK Major Ports Group,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 UK Foundation Programme,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
 UK Fatal Anaphylaxis Registry,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
 UK Cleaning Product Industry Association,0,0,0,0,0,0,0,0,0,0,0,1,1,100,1,0,0,0
@@ -1886,7 +1886,7 @@ Unity MAT,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
 Unity Insurance Services,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
 United Response,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 United Pharmacy,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-United Kingdom Harbour Masters' Association,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+United Kingdom Harbour Masters' Association,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 United Children’s Services,0,0,0,0,0,0,0,0,0,0,0,1,1,100,1,0,0,0
 United Care (North) Limited,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Unilink Software Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
