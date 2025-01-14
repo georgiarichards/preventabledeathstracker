@@ -31,7 +31,7 @@ College of Policing,38,13,0,25,66
 Cwm Taf Morgannwg University Health Board,37,21,0,16,43
 "Ministry of Housing, Communities and Local Government",36,19,0,17,47
 General Medical Council,35,22,0,13,37
-North London NHS Foundation Trust,35,14,2,19,54
+North London NHS Foundation Trust,35,16,0,19,54
 Association of Ambulance Chief Executives,35,20,0,15,43
 Stockport NHS Foundation Trust,34,16,0,18,53
 Greater Manchester Police,34,8,0,26,76
@@ -78,7 +78,7 @@ University Hospitals Plymouth NHS Trust,20,9,1,10,50
 Devon Partnership NHS Trust,19,6,0,13,68
 Surrey County Council,19,11,0,8,42
 Welsh Government,19,7,1,11,58
-Priory Group Limited,18,7,1,10,56
+Priory Group Limited,18,8,0,10,56
 The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,18,6,0,12,67
 Nursing and Midwifery Council,18,9,0,9,50
 Public Health England,18,10,0,8,44
@@ -110,7 +110,7 @@ King’s College Hospital NHS Foundation Trust,15,11,0,4,27
 Driver and Vehicle Licensing Agency,14,11,1,2,14
 "Department for Business, Energy and Industrial Strategy",14,8,0,6,43
 Worcestershire Acute Hospitals NHS Trust,14,4,0,10,71
-Department for Work and Pensions,14,6,1,7,50
+Department for Work and Pensions,14,7,0,7,50
 Dorset Healthcare University NHS Foundation Trust,14,13,0,1,7
 Durham County Council,14,3,0,11,79
 General Pharmaceutical Council,14,4,1,9,64
@@ -622,7 +622,7 @@ The Scout Association,2,1,0,1,50
 The Security Service,2,2,0,0,0
 The Pavilions (Surrey) Management Company Limited,2,1,0,1,50
 The Practice PLC,2,2,0,0,0
-The Manor House North Walsham Care Home,2,1,1,0,0
+The Manor House North Walsham Care Home,2,2,0,0,0
 The Children's Trust,2,2,0,0,0
 Tandridge District Council,2,2,0,0,0
 Tanglewood Care Services Limited,2,1,0,1,50

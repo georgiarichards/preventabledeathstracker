@@ -559,6 +559,7 @@ Slough Borough Council,1,50.0
 SubCPartner,1,50.0
 Taff's Well Medical Centre,1,50.0
 Tanglewood Care Services Limited,1,50.0
+The Manor House North Walsham Care Home,1,50.0
 The Practice PLC,1,50.0
 Torbay Council,1,50.0
 Tredegar Practice,1,50.0
@@ -694,6 +695,7 @@ Walsall Healthcare NHS Trust,3,30.0
 National Institute for Health and Care Excellence,29,29.0
 Health and Safety Executive,16,29.0
 General Medical Council,10,29.0
+North London NHS Foundation Trust,10,29.0
 County Durham and Darlington NHS Foundation Trust,4,29.0
 Bupa,2,29.0
 Cambridgeshire County Council,2,29.0
@@ -703,6 +705,7 @@ North Yorkshire Council,2,29.0
 Nottinghamshire County Council,2,29.0
 Medicines and Healthcare Products Regulatory Agency,17,28.0
 Central and North West London NHS Foundation Trust,9,28.0
+Priory Group Limited,5,28.0
 HM Prison and Probation Service,42,27.0
 Barts Health NHS Trust,18,27.0
 University Hospitals Sussex NHS Foundation Trust,16,27.0
@@ -758,7 +761,6 @@ Surrey and Borders Partnership NHS Foundation Trust,6,24.0
 University Hospitals of North Midlands NHS Trust,6,24.0
 Department for Education,11,23.0
 Welsh Ambulance Services University NHS Trust,11,23.0
-North London NHS Foundation Trust,8,23.0
 Midlands Partnership University NHS Foundation Trust,6,23.0
 Avon and Wiltshire Mental Health Partnership NHS Trust,5,23.0
 Transport for London,5,23.0
@@ -770,7 +772,6 @@ NHS England,114,22.0
 Sussex Partnership NHS Foundation Trust,10,22.0
 Cardiff and Vale University Health Board,5,22.0
 Oxleas NHS Foundation Trust,5,22.0
-Priory Group Limited,4,22.0
 HC One,2,22.0
 Lincolnshire County Council,2,22.0
 Metropolitan Police Service,13,21.0
@@ -778,6 +779,7 @@ Swansea Bay University Health Board,5,21.0
 Welsh Government,4,21.0
 Birmingham City Council,3,21.0
 "Department for Business, Energy and Industrial Strategy",3,21.0
+Department for Work and Pensions,3,21.0
 Royal College of Physicians,3,21.0
 Worcestershire Acute Hospitals NHS Trust,3,21.0
 Home Office,20,20.0
@@ -840,7 +842,6 @@ Royal College of Emergency Medicine,2,15.0
 East Midlands Ambulance Service NHS Trust,3,14.0
 NHS Birmingham and Solihull Integrated Care Board,3,14.0
 Bolton NHS Foundation Trust,2,14.0
-Department for Work and Pensions,2,14.0
 Durham County Council,2,14.0
 General Pharmaceutical Council,2,14.0
 Maritime and Coastguard Agency,2,14.0
