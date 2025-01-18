@@ -242,6 +242,7 @@ Medway Community Healthcare,1,100.0
 Mental Health Care Newton House Limited,1,100.0
 Merlin Entertainment Limited,1,100.0
 Merseytravel,1,100.0
+Mid and West Wales Fire and Rescue Service,1,100.0
 Mildmay Medical Practice,1,100.0
 Milestones Trust,1,100.0
 Milford House Care Home,1,100.0
@@ -688,11 +689,11 @@ South East Coast Ambulance Service NHS Foundation Trust,5,31.0
 Surrey Police,5,31.0
 NHS Cornwall and Isles of Scilly Integrated Care Board,4,31.0
 University College London Hospitals NHS Foundation Trust,4,31.0
+National Institute for Health and Care Excellence,30,30.0
 South London and Maudsley NHS Foundation Trust,6,30.0
 Berkshire Healthcare NHS Foundation Trust,3,30.0
 Royal United Hospitals Bath NHS Foundation Trust,3,30.0
 Walsall Healthcare NHS Trust,3,30.0
-National Institute for Health and Care Excellence,29,29.0
 Health and Safety Executive,16,29.0
 General Medical Council,10,29.0
 North London NHS Foundation Trust,10,29.0
@@ -720,6 +721,7 @@ South West Yorkshire Partnership NHS Foundation Trust,3,27.0
 Care Quality Commission,43,26.0
 Department for Transport,26,26.0
 Surrey County Council,5,26.0
+Welsh Government,5,26.0
 Pennine Care NHS Foundation Trust,12,25.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,8,25.0
 East of England Ambulance Service NHS Trust,5,25.0
@@ -759,6 +761,7 @@ Betsi Cadwaladr University Health Board,18,24.0
 Network Rail,10,24.0
 Surrey and Borders Partnership NHS Foundation Trust,6,24.0
 University Hospitals of North Midlands NHS Trust,6,24.0
+NHS England,115,23.0
 Department for Education,11,23.0
 Welsh Ambulance Services University NHS Trust,11,23.0
 Midlands Partnership University NHS Foundation Trust,6,23.0
@@ -768,7 +771,6 @@ HM Prison Pentonville,3,23.0
 North Bristol NHS Trust,3,23.0
 Oxford University Hospitals NHS Foundation Trust,3,23.0
 Sussex Police,3,23.0
-NHS England,114,22.0
 Sussex Partnership NHS Foundation Trust,10,22.0
 Cardiff and Vale University Health Board,5,22.0
 Oxleas NHS Foundation Trust,5,22.0
@@ -776,7 +778,6 @@ HC One,2,22.0
 Lincolnshire County Council,2,22.0
 Metropolitan Police Service,13,21.0
 Swansea Bay University Health Board,5,21.0
-Welsh Government,4,21.0
 Birmingham City Council,3,21.0
 Bolton NHS Foundation Trust,3,21.0
 "Department for Business, Energy and Industrial Strategy",3,21.0
@@ -821,7 +822,7 @@ Civil Aviation Authority,3,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
-Department of Health and Social Care,124,17.0
+Department of Health and Social Care,125,17.0
 Cornwall Council,4,17.0
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",2,17.0
 North Cumbria Integrated Care NHS Foundation Trust,2,17.0
