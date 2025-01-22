@@ -1,10 +1,10 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,50,48,46,65,78,98,127,5,727,56,408,176,126,17
-NHS England,6,25,22,33,27,37,45,27,42,46,86,109,5,510,47,242,137,116,15
+Department of Health and Social Care,19,60,54,46,31,50,48,46,65,78,98,127,5,727,56,408,176,127,16
+NHS England,6,25,22,33,27,37,45,27,42,46,86,109,5,510,47,242,137,117,14
 Care Quality Commission,11,13,10,15,20,13,14,10,18,11,12,21,0,168,38,63,62,43,0
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,0,154,42,64,46,43,1
 Ministry of Justice,1,12,6,8,1,8,13,0,14,11,11,21,1,107,24,26,44,34,3
-Department for Transport,1,13,6,12,9,5,6,8,7,7,11,15,3,103,42,43,28,26,6
+Department for Transport,1,13,6,12,9,5,6,8,7,7,11,15,3,103,42,43,28,27,5
 Home Office,2,8,10,5,4,5,12,8,13,11,11,12,0,101,41,41,39,20,1
 NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,16,12,20,11,10,13,0,100,63,63,19,18,0
 National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,5,17,20,1,99,43,43,25,30,1
@@ -16,7 +16,7 @@ Medicines and Healthcare Products Regulatory Agency,1,9,4,6,3,5,6,5,3,3,7,8,1,61
 Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,6,5,0,61,54,33,15,13,0
 University Hospitals Sussex NHS Foundation Trust,1,11,5,11,6,6,6,1,4,2,3,3,1,60,48,29,14,16,1
 National Police Chiefs’ Council,1,3,5,2,2,2,8,2,11,3,10,6,2,57,30,17,29,9,2
-Health and Safety Executive,4,3,3,4,5,5,9,1,4,3,9,5,0,55,38,21,17,16,1
+Health and Safety Executive,4,3,3,4,5,5,9,1,4,3,9,5,0,55,38,21,17,17,0
 Pennine Care NHS Foundation Trust,2,2,4,4,5,7,8,5,1,2,5,3,0,48,50,24,12,12,0
 Welsh Ambulance Services University NHS Trust,2,0,1,5,4,7,6,2,0,6,9,5,0,47,62,29,7,11,0
 Department for Education,1,3,3,4,1,3,8,1,4,4,5,10,0,47,40,19,17,11,0
@@ -27,7 +27,7 @@ Network Rail,0,6,2,4,5,7,5,2,4,2,3,1,0,41,63,26,5,10,0
 Manchester University NHS Foundation Trust,0,5,3,9,1,6,6,3,1,2,1,3,0,40,42,17,6,17,0
 College of Policing,0,1,1,1,0,1,7,3,5,5,9,5,2,40,38,15,17,6,2
 East London NHS Foundation Trust,0,2,0,3,11,1,2,1,1,6,5,6,0,38,58,22,4,12,0
-Norfolk and Suffolk NHS Foundation Trust,1,4,4,0,4,2,7,1,3,5,0,7,0,38,71,27,3,7,1
+Norfolk and Suffolk NHS Foundation Trust,1,4,4,0,4,2,7,1,3,5,0,7,0,38,71,27,3,8,0
 Cwm Taf Morgannwg University Health Board,0,6,7,1,4,4,7,1,2,2,0,3,0,37,43,16,5,16,0
 "Ministry of Housing, Communities and Local Government",1,3,4,1,2,1,4,4,2,2,3,9,0,36,58,21,8,7,0
 General Medical Council,2,5,4,1,1,3,3,3,6,2,4,1,0,35,26,9,16,10,0
@@ -163,7 +163,7 @@ Kent County Council,0,0,1,0,1,0,1,2,4,2,0,0,0,11,55,6,2,3,0
 South Western Ambulance Service NHS Foundation Trust,0,1,2,1,2,1,0,1,0,0,2,1,0,11,36,4,3,4,0
 South West Yorkshire Partnership NHS Foundation Trust,1,0,0,0,1,2,0,0,3,3,0,1,0,11,36,4,4,3,0
 Sandwell and West Birmingham Hospitals NHS Trust,0,0,0,3,1,2,0,0,2,0,2,1,0,11,64,7,3,1,0
-Driver and Vehicle Standards Agency,1,2,0,0,1,0,2,2,0,0,0,3,0,11,18,2,4,4,1
+Driver and Vehicle Standards Agency,1,2,0,0,1,0,2,2,0,0,0,3,0,11,18,2,4,5,0
 "Department for Environment, Food and Rural Affairs",0,3,0,0,0,1,3,1,1,0,2,0,0,11,18,2,7,2,0
 Royal United Hospitals Bath NHS Foundation Trust,0,1,1,1,1,0,3,0,0,0,3,0,0,10,50,5,2,3,0
 Trafford Council,1,0,2,2,0,2,0,2,0,0,0,1,0,10,20,2,6,2,0
@@ -299,7 +299,7 @@ HM Prison Long Lartin,0,1,0,0,1,0,1,0,2,0,0,0,0,5,60,3,0,2,0
 HM Prison Wandsworth,0,0,0,0,2,0,0,0,0,0,0,3,0,5,20,1,1,3,0
 Northumbria Healthcare NHS Foundation Trust,0,0,1,0,0,0,2,0,1,0,0,1,0,5,60,3,2,0,0
 Mitie Group,0,0,0,1,0,0,2,0,1,0,0,1,0,5,20,1,0,4,0
-Plymouth City Council,0,1,2,0,0,0,0,0,0,1,0,1,0,5,0,0,0,4,1
+Plymouth City Council,0,1,2,0,0,0,0,0,0,1,0,1,0,5,0,0,0,5,0
 North Middlesex University Hospital NHS Trust,1,0,0,2,0,0,1,0,0,0,0,1,0,5,40,2,1,2,0
 Ofcom,0,0,0,0,0,0,0,0,0,0,2,3,0,5,20,1,2,2,0
 ABTA – The Travel Association,0,1,2,0,1,0,0,0,0,0,1,0,0,5,20,1,1,3,0
@@ -320,7 +320,7 @@ South Tees Hospitals NHS Foundation Trust,0,1,0,1,0,0,1,0,0,0,0,2,0,5,40,2,0,3,0
 HM Prison Woodhill,0,0,0,1,2,0,2,0,0,0,0,0,0,5,20,1,2,2,0
 South Warwickshire University NHS Foundation Trust,0,0,0,0,0,0,1,1,1,0,1,1,0,5,100,5,0,0,0
 Hackney Council,0,0,0,1,0,1,0,0,0,0,0,3,0,5,60,3,2,0,0
-Harbour Healthcare Ltd,0,1,0,0,1,1,0,0,0,0,0,1,1,5,0,0,1,2,2
+Harbour Healthcare Ltd,0,1,0,0,1,1,0,0,0,0,0,1,1,5,0,0,1,3,1
 NHS Surrey Heartlands Integrated Care Board,0,1,0,1,0,0,1,0,0,2,0,0,0,5,20,1,3,1,0
 Derbyshire Healthcare NHS Foundation Trust,1,0,1,0,0,0,0,0,0,0,1,2,0,5,40,2,2,1,0
 Newham Council,0,0,1,0,0,0,0,0,0,0,0,4,0,5,60,3,0,1,1
@@ -341,7 +341,7 @@ Chelsea and Westminster Hospital NHS Foundation Trust,0,0,0,1,0,1,0,0,0,0,1,1,0,
 West Hertfordshire Teaching Hospitals NHS Trust,0,1,0,0,1,0,0,1,0,0,0,1,0,4,75,3,0,1,0
 National Ambulance Services Medical Directors,0,0,0,0,0,0,1,0,0,0,0,3,0,4,0,0,3,1,0
 Denbighshire County Council,0,1,1,0,1,0,0,0,0,0,1,0,0,4,50,2,1,1,0
-NHS Dorset Integrated Care Board,0,0,0,0,0,1,0,0,0,1,1,1,0,4,75,3,0,0,1
+NHS Dorset Integrated Care Board,0,0,0,0,0,1,0,0,0,1,1,1,0,4,75,3,0,1,0
 NHS North East London Integrated Care Board,0,0,0,1,0,0,0,2,0,0,0,1,0,4,50,2,2,0,0
 Derbyshire Constabulary,1,0,0,0,0,0,0,0,0,0,1,2,0,4,75,3,0,1,0
 NHS Frimley Integrated Care Board,0,1,0,0,0,0,1,0,0,0,1,1,0,4,0,0,2,2,0
@@ -908,7 +908,7 @@ Rosehill House Care Home,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
 Britannia Hotels Group Ltd,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
 Britannia Jinky Jersey Ltd,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
 Britannia Pharmaceutical Ltd,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
-British Agricultural and Garden Machinery Association,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+British Agricultural and Garden Machinery Association,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
 British Airways,0,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Premier League,0,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
 Premier Rescue Ambulance Services,0,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
@@ -1064,7 +1064,7 @@ Whitepost Healthcare Group,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
 "Advisory, Conciliation and Arbitration Service",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 West Timperley Medical Centre,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100,1,0,0,0
 Abbey Dale House Ltd,1,0,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
-Abbey Healthcare Homes Limited,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+Abbey Healthcare Homes Limited,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
 Worcestershire Safeguarding Children’s Board,0,1,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Worthing Homes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
 Wychall Lane Surgery,0,0,0,1,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
@@ -1111,7 +1111,7 @@ University of South Wales,0,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
 Village Nursing and Care Home,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Affinity Healthcare Ltd,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Agrade Community Care Services,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-Agricultural Engineers Association,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+Agricultural Engineers Association,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
 Air Balloon Surgery,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
 Air Liquide,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Al Hijrah School,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
@@ -1840,7 +1840,7 @@ Abbey Court Independent Hospital,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 "National Union of Rail, Maritime and Transport Workers",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 National Diving and Activity Centre,0,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
 National Express West Midlands,0,0,0,0,0,1,0,0,0,0,0,0,0,1,100,1,0,0,0
-National Farmers Union,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+National Farmers Union,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
 British Skydiving,0,0,0,1,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 British Society for Dermatological Surgery,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 NSL Care Services,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
