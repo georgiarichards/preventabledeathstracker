@@ -151,7 +151,7 @@ Mid Yorkshire Teaching NHS Trust,0,0,2,0,2,1,1,1,3,0,2,0,0,12,58,7,2,3,0
 "NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",0,3,0,0,0,3,2,0,0,0,3,0,0,11,64,7,2,2,0
 British Medical Association,0,1,0,2,0,1,3,0,1,1,0,2,0,11,27,3,4,4,0
 Nottingham University Hospitals NHS Trust,1,1,1,0,1,0,1,1,2,2,1,0,0,11,73,8,1,2,0
-Royal Pharmaceutical Society,0,1,1,2,0,0,1,1,1,1,1,2,0,11,55,6,2,2,1
+Royal Pharmaceutical Society,0,1,1,2,0,0,1,1,1,1,1,2,0,11,55,6,2,3,0
 Leeds City Council,0,2,1,0,0,2,1,0,2,0,2,1,0,11,91,10,0,1,0
 Whittington Health NHS Trust,1,1,3,0,2,1,1,0,1,1,0,0,0,11,55,6,4,1,0
 Devon and Cornwall Police,0,2,1,1,1,0,0,2,1,1,1,1,0,11,64,7,3,1,0
@@ -814,7 +814,7 @@ Parkdeane Holidays,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Parkhill Group of Companies,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Parkview Practice,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
 Parkway Health Centre,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
-Pharmacy2U Limited,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+Pharmacy2U Limited,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
 British Army,0,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
 British Association of Aesthetic Plastic Surgeons,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
 British Association of Dermatologists,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
@@ -1480,7 +1480,7 @@ City and Hackney GP Confederation,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 City of Westminster,0,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 City of York Council,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Clacton Community Practices,0,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
-Clare House Surgery,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+Clare House Surgery,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
 Hands of Light Academy,0,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
 Harrogate and District NHS Foundation Trust,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Harry Sotnick House,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
