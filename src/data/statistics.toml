@@ -1,40 +1,40 @@
 [year]
-"no. reports parsed" = 5504
+"no. reports parsed" = 5517
 "no. years covered" = 11.5
-"mean per year" = 478.6
+"mean per year" = 479.7
 "median per year" = 450.0
 "IQR of years" = [ 419.0, 527.0,]
 
 ["death categories"]
-"no. reports parsed" = 5504
-"no. categories in reports" = 7466
+"no. reports parsed" = 5517
+"no. categories in reports" = 7489
 "no. categories" = 17
-"mean per category" = 439.2
+"mean per category" = 440.5
 "median per category" = 365.0
-"IQR of categories" = [ 125.0, 547.0,]
+"IQR of categories" = [ 125.0, 548.0,]
 
 ["coroner areas"]
-"no. parsed reports" = 5504
+"no. parsed reports" = 5517
 "no. areas" = 78
-"mean per area" = 70.6
+"mean per area" = 70.7
 "median per area" = 58.0
 "IQR of areas" = [ 28.25, 91.75,]
 
 ["coroners' society"]
-"no. names in society" = 929
-"names in society with reports" = [ 485.0, 52.2,]
-"names in society without reports" = [ 444.0, 47.8,]
-"coroners in society male" = [ 346.0, 37.2,]
-"coroners in society female" = [ 321.0, 34.6,]
-"coroners in society unknown" = [ 262.0, 28.2,]
+"no. names in society" = 941
+"names in society with reports" = [ 489.0, 52.0,]
+"names in society without reports" = [ 452.0, 48.0,]
+"coroners in society male" = [ 353.0, 37.5,]
+"coroners in society female" = [ 326.0, 34.6,]
+"coroners in society unknown" = [ 262.0, 27.8,]
 
 ["coroners in reports"]
-"reports from male coroners" = [ 2458.0, 44.7,]
-"reports from female coroners" = [ 2253.0, 40.9,]
-"reports from unknown coroners" = [ 793.0, 14.4,]
-"no. reports parsed" = 5504
-"no. coroner names in reports" = 510
-"reports from top 30 names" = [ 1993.0, 36.2,]
+"reports from male coroners" = [ 2469.0, 44.8,]
+"reports from female coroners" = [ 2259.0, 40.9,]
+"reports from unknown coroners" = [ 789.0, 14.3,]
+"no. reports parsed" = 5517
+"no. coroner names in reports" = 509
+"reports from top 30 names" = [ 1998.0, 36.2,]
 "mean per name" = 10.8
 "median per name" = 4.0
 "IQR of names" = [ 2.0, 12.0,]
@@ -42,21 +42,21 @@
 "reports from top 10 names" = [ 916.0, 19.0,]
 
 ["this report is sent to"]
-"reports parsed" = [ 5504.0, 100.0,]
+"reports parsed" = [ 5517.0, 100.0,]
 "reports without recipients" = [ 1.0, 0.0,]
 "reports failed" = [ -1.0, -0.0,]
 "reports no sent_to" = 0
-"reports pending" = [ 79.0, 1.4,]
-"reports overdue" = [ 1533.0, 27.9,]
-"reports partial" = [ 753.0, 13.7,]
-"reports completed" = [ 3139.0, 57.0,]
+"reports pending" = [ 92.0, 1.7,]
+"reports overdue" = [ 1533.0, 27.8,]
+"reports partial" = [ 753.0, 13.6,]
+"reports completed" = [ 3139.0, 56.9,]
 
 ["requests for response"]
-"no. recipients with requests" = 2038
-"no. requests for response" = 8937
-"requests pending" = [ 128.0, 1.4,]
-"requests received" = [ 4359.0, 48.8,]
-"requests overdue" = [ 4450.0, 49.8,]
+"no. recipients with requests" = 2040
+"no. requests for response" = 8957
+"requests pending" = [ 148.0, 1.7,]
+"requests received" = [ 4359.0, 48.7,]
+"requests overdue" = [ 4450.0, 49.7,]
 "mean no. requests per recipient" = 4.4
 "median no. requests per recipient" = 1.0
 "IQR of requests per recipients" = [ 1.0, 2.0,]
