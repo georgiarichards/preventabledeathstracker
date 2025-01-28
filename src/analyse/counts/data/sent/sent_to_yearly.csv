@@ -1,6 +1,6 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,50,48,46,65,78,98,127,5,727,56,408,176,127,16
-NHS England,6,25,22,33,27,37,45,27,42,46,86,110,5,511,47,242,137,117,15
+Department of Health and Social Care,19,60,54,46,31,50,48,46,65,78,98,127,5,727,56,408,176,128,15
+NHS England,6,25,22,33,27,37,45,27,42,46,86,110,5,511,47,242,137,119,13
 Care Quality Commission,11,13,10,15,20,13,14,10,18,11,12,22,0,169,37,63,62,43,1
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,0,154,42,64,46,43,1
 Ministry of Justice,1,12,6,8,1,8,13,0,14,11,11,21,2,108,24,26,44,34,4
@@ -72,7 +72,7 @@ West Midlands Police,0,3,0,1,1,1,4,1,2,2,2,4,0,21,57,12,8,1,0
 Royal College of Psychiatrists,0,3,0,1,1,2,1,0,2,6,4,1,0,21,29,6,11,4,0
 East Kent Hospitals University NHS Foundation Trust,0,5,2,1,4,0,1,1,1,3,1,1,0,20,45,9,1,10,0
 South London and Maudsley NHS Foundation Trust,1,6,1,2,2,4,0,2,0,0,0,2,0,20,45,9,5,6,0
-University Hospitals Plymouth NHS Trust,2,2,2,2,0,2,5,1,1,1,1,1,0,20,50,10,1,8,1
+University Hospitals Plymouth NHS Trust,2,2,2,2,0,2,5,1,1,1,1,1,0,20,50,10,1,9,0
 Herefordshire and Worcestershire Health and Care NHS Trust,2,0,4,3,0,1,1,1,0,3,2,3,0,20,55,11,4,5,0
 Welsh Government,1,1,0,2,3,2,2,0,1,0,2,5,1,20,35,7,7,5,1
 East of England Ambulance Service NHS Trust,0,2,2,1,0,1,5,0,1,2,4,2,0,20,65,13,2,5,0
@@ -103,7 +103,7 @@ University Hospitals of Derby and Burton NHS Foundation Trust,1,1,1,0,0,0,2,3,0,
 Driver and Vehicle Licensing Agency,1,0,2,1,2,2,0,0,3,0,1,3,0,15,13,2,5,7,1
 King’s College Hospital NHS Foundation Trust,1,3,2,1,3,0,1,0,1,3,0,0,0,15,40,6,3,6,0
 Mid and South Essex NHS Foundation Trust,0,4,0,1,1,0,0,1,0,0,2,6,0,15,40,6,0,5,4
-Royal Cornwall Hospitals NHS Trust,1,3,0,1,0,1,0,1,0,0,4,4,0,15,33,5,1,7,2
+Royal Cornwall Hospitals NHS Trust,1,3,0,1,0,1,0,1,0,0,4,4,0,15,33,5,1,8,1
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,0,1,1,3,1,2,2,0,1,0,3,1,0,15,53,8,3,4,0
 Leicestershire Partnership NHS Trust,1,2,4,3,1,1,0,0,0,0,1,2,0,15,87,13,0,2,0
 Royal College of Anaesthetists,0,2,1,0,2,1,0,0,2,1,1,5,0,15,53,8,6,1,0
@@ -139,7 +139,7 @@ Surrey and Sussex Healthcare NHS Trust,0,2,2,0,0,0,0,2,0,2,3,1,0,12,50,6,3,3,0
 Yorkshire Ambulance Service NHS Trust,0,1,1,1,4,0,1,1,0,0,1,2,0,12,75,9,2,1,0
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",0,0,0,0,0,0,2,0,2,1,3,4,0,12,83,10,0,2,0
 NHS Nottingham and Nottinghamshire Integrated Care Board,1,0,1,0,2,0,0,6,2,0,0,0,0,12,8,1,8,3,0
-Cornwall Partnership NHS Foundation Trust,0,0,0,3,0,2,2,0,1,0,2,2,0,12,58,7,3,1,1
+Cornwall Partnership NHS Foundation Trust,0,0,0,3,0,2,2,0,1,0,2,2,0,12,58,7,3,2,0
 Norfolk and Norwich University Hospitals NHS Foundation Trust,0,2,2,0,0,0,2,1,3,1,0,1,0,12,42,5,4,3,0
 West Midlands Ambulance Service University NHS Foundation Trust,0,2,0,0,1,0,1,2,1,0,3,2,0,12,58,7,2,3,0
 Mid Yorkshire Teaching NHS Trust,0,0,2,0,2,1,1,1,3,0,2,0,0,12,58,7,2,3,0
@@ -344,7 +344,7 @@ Swindon Borough Council,0,1,0,0,1,2,0,0,0,0,0,0,0,4,50,2,0,2,0
 Tesco PLC,0,1,0,1,0,0,0,0,0,1,0,1,0,4,50,2,0,2,0
 City of Wolverhampton Council,0,0,0,0,0,1,1,1,0,1,0,0,0,4,25,1,1,2,0
 HM Prison Wormwood Scrubs,0,1,1,0,0,1,1,0,0,0,0,0,0,4,25,1,0,3,0
-Chelsea and Westminster Hospital NHS Foundation Trust,0,0,0,1,0,1,0,0,0,0,1,1,0,4,25,1,1,1,1
+Chelsea and Westminster Hospital NHS Foundation Trust,0,0,0,1,0,1,0,0,0,0,1,1,0,4,25,1,1,2,0
 Derbyshire Constabulary,1,0,0,0,0,0,0,0,0,0,1,2,0,4,75,3,0,1,0
 Denbighshire County Council,0,1,1,0,1,0,0,0,0,0,1,0,0,4,50,2,1,1,0
 Barnsley Hospital NHS Foundation Trust,0,0,0,1,0,0,0,1,0,2,0,0,0,4,25,1,2,1,0
@@ -630,7 +630,7 @@ British Transplantation Society,0,0,0,0,0,0,1,0,0,0,0,1,0,2,0,0,1,1,0
 British Vehicle Rental and Leasing Association,0,0,0,0,0,1,1,0,0,0,0,0,0,2,0,0,2,0,0
 Cegedim,0,0,0,0,1,0,0,0,0,0,0,1,0,2,50,1,1,0,0
 Central London Community Healthcare NHS Trust,0,0,0,0,0,0,0,1,0,1,0,0,0,2,100,2,0,0,0
-Airedale NHS Foundation Trust,0,0,0,0,0,1,0,0,0,0,0,1,0,2,50,1,0,0,1
+Airedale NHS Foundation Trust,0,0,0,0,0,1,0,0,0,0,0,1,0,2,50,1,0,1,0
 Tredegar Practice,0,1,0,0,0,0,0,0,0,0,0,1,0,2,50,1,0,1,0
 TomTom,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,2,0,0
 Torbay Council,0,0,1,1,0,0,0,0,0,0,0,0,0,2,50,1,0,1,0
@@ -1052,7 +1052,7 @@ Leyden Delta Ltd,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 Lifeshield Medical Services Limited,0,0,0,0,1,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Lifeskills,0,0,0,1,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Lifestyle Care PLC,0,1,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
-Lifeway Care Ltd,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+Lifeway Care Ltd,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
 Liftmaster Ltd,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Lightwater Quarries Limited,1,0,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Lime Tree Surgery,0,0,0,1,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
