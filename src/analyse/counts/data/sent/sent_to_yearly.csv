@@ -10,7 +10,7 @@ NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,16,12,20,11,10,13,0,100
 National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,5,17,20,1,99,43,43,25,30,1
 Betsi Cadwaladr University Health Board,1,9,8,4,9,2,2,1,4,4,21,10,0,75,72,54,3,18,0
 REDACTED,3,26,9,0,3,1,2,0,0,4,6,17,2,73,18,13,33,25,2
-National Highways,1,7,8,4,7,1,9,4,4,7,7,7,1,67,45,30,8,26,3
+National Highways,1,7,8,4,7,1,9,4,4,7,7,7,1,67,45,30,8,27,2
 Barts Health NHS Trust,0,5,5,6,5,7,9,8,2,6,8,5,0,66,53,35,13,18,0
 Medicines and Healthcare Products Regulatory Agency,1,9,4,6,3,5,6,5,3,3,7,8,1,61,38,23,19,17,2
 Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,6,5,0,61,54,33,15,13,0
@@ -134,7 +134,7 @@ G4S,0,1,4,1,1,1,4,0,0,0,0,1,0,13,38,5,6,2,0
 Royal College of Emergency Medicine,0,1,0,0,2,0,0,1,1,0,4,4,0,13,15,2,9,2,0
 Portsmouth Hospitals University NHS Trust,0,2,0,2,2,0,3,0,0,1,1,2,0,13,38,5,5,2,1
 Lancashire and South Cumbria NHS Foundation Trust,1,1,2,2,2,1,0,1,1,1,1,0,0,13,38,5,1,7,0
-Royal Free London NHS Foundation Trust,0,3,1,1,1,1,0,1,2,0,0,2,0,12,50,6,0,5,1
+Royal Free London NHS Foundation Trust,0,3,1,1,1,1,0,1,2,0,0,2,0,12,50,6,0,6,0
 Surrey and Sussex Healthcare NHS Trust,0,2,2,0,0,0,0,2,0,2,3,1,0,12,50,6,3,3,0
 Yorkshire Ambulance Service NHS Trust,0,1,1,1,4,0,1,1,0,0,1,2,0,12,75,9,2,1,0
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",0,0,0,0,0,0,2,0,2,1,3,4,0,12,83,10,0,2,0
@@ -617,7 +617,7 @@ Islands Roads,0,1,1,0,0,0,0,0,0,0,0,0,0,2,50,1,0,1,0
 Incommunities,0,0,0,2,0,0,0,0,0,0,0,0,0,2,50,1,0,1,0
 Independent Advisory Panel on Deaths in Custody,0,0,0,0,0,1,1,0,0,0,0,0,0,2,0,0,0,2,0
 Hounslow Council,0,0,0,1,1,0,0,0,0,0,0,0,0,2,50,1,1,0,0
-Hull City Council,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,1,0,1
+Hull City Council,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,1,1,0
 Heaton Moor Medical Group,0,0,0,1,0,0,1,0,0,0,0,0,0,2,0,0,1,1,0
 Hertfordshire Partnership University NHS Foundation Trust,0,0,0,1,0,0,0,0,1,0,0,0,0,2,50,1,0,1,0
 Heathview Medical Practice,0,0,0,1,0,0,0,0,0,1,0,0,0,2,50,1,1,0,0
