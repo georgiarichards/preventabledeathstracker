@@ -1,9 +1,9 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,50,48,46,65,78,98,127,5,727,56,408,176,128,15
-NHS England,6,25,22,33,27,37,45,27,42,46,86,110,5,511,47,242,137,119,13
+Department of Health and Social Care,19,60,54,46,31,50,48,46,65,78,98,127,5,727,56,408,176,129,14
+NHS England,6,25,22,33,27,37,45,27,42,46,86,110,5,511,47,242,137,120,12
 Care Quality Commission,11,13,10,15,20,13,14,10,18,11,12,22,0,169,37,63,62,43,1
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,0,154,42,64,46,43,1
-Ministry of Justice,1,12,6,8,1,8,13,0,14,11,11,21,2,108,24,26,44,34,4
+Ministry of Justice,1,12,6,8,1,8,13,0,14,11,11,21,2,108,24,26,44,35,3
 Department for Transport,1,13,6,12,9,5,6,8,7,7,11,15,3,103,42,43,28,27,5
 Home Office,2,8,10,5,4,5,12,8,13,11,11,12,0,101,41,41,39,20,1
 NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,16,12,20,11,10,13,0,100,63,63,19,18,0
@@ -41,7 +41,7 @@ Tameside and Glossop Integrated Care NHS Foundation Trust,0,3,2,3,3,1,4,3,2,5,3,
 Essex Partnership University NHS Foundation Trust,0,1,3,4,4,2,0,3,2,3,4,6,0,32,44,14,6,12,0
 Ministry of Defence,1,5,8,0,1,2,3,1,2,1,3,4,0,31,61,19,5,7,0
 University Hospitals Birmingham NHS Foundation Trust,1,0,4,2,2,2,4,1,2,0,3,10,0,31,68,21,5,5,0
-North East London NHS Foundation Trust,0,0,1,3,0,1,5,2,5,3,6,3,0,29,41,12,4,12,1
+North East London NHS Foundation Trust,0,0,1,3,0,1,5,2,5,3,6,3,0,29,41,12,4,13,0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",2,2,3,0,3,0,1,2,3,3,7,3,0,29,45,13,4,12,0
 London Ambulance Service NHS Trust,2,2,4,2,2,3,4,3,3,0,1,0,0,26,35,9,10,7,0
 Royal College of Obstetricians and Gynaecologists,1,2,3,3,2,1,1,4,1,1,4,3,0,26,23,6,11,8,1
@@ -62,7 +62,7 @@ Cornwall Council,0,1,2,4,0,1,3,0,4,3,2,3,0,23,65,15,4,4,0
 Oxleas NHS Foundation Trust,0,1,0,2,1,5,2,4,1,3,2,2,0,23,48,11,7,5,0
 Transport for London,1,0,2,2,6,3,2,3,1,2,0,0,0,22,50,11,6,5,0
 NHS Derby and Derbyshire Integrated Care Board,1,5,0,4,1,3,0,2,2,1,0,3,0,22,27,6,7,9,0
-Avon and Wiltshire Mental Health Partnership NHS Trust,1,0,8,4,2,1,3,0,1,1,0,1,0,22,41,9,7,5,1
+Avon and Wiltshire Mental Health Partnership NHS Trust,1,0,8,4,2,1,3,0,1,1,0,1,0,22,41,9,7,6,0
 University Hospitals Dorset NHS Foundation Trust,2,10,3,5,1,0,0,0,0,1,0,0,0,22,59,13,2,7,0
 NHS Birmingham and Solihull Integrated Care Board,0,1,0,1,1,7,5,0,2,1,2,2,0,22,73,16,3,3,0
 "Department for Culture, Media and Sport",0,0,1,0,0,1,3,1,2,3,6,5,0,22,45,10,8,4,0
@@ -145,7 +145,7 @@ West Midlands Ambulance Service University NHS Foundation Trust,0,2,0,0,1,0,1,2,
 Mid Yorkshire Teaching NHS Trust,0,0,2,0,2,1,1,1,3,0,2,0,0,12,58,7,2,3,0
 Great Western Hospitals NHS Foundation Trust,0,1,1,1,5,0,0,1,0,1,2,0,0,12,58,7,1,4,0
 Sheffield Teaching Hospitals NHS Foundation Trust,0,2,1,0,0,0,1,1,2,3,0,2,0,12,42,5,1,6,0
-Practice Plus Group,0,0,0,0,1,1,0,0,2,3,3,2,0,12,42,5,6,0,1
+Practice Plus Group,0,0,0,0,1,1,0,0,2,3,3,2,0,12,42,5,6,1,0
 North Cumbria Integrated Care NHS Foundation Trust,1,0,0,0,2,1,1,1,0,2,1,3,0,12,67,8,2,2,0
 Coventry and Warwickshire Partnership NHS Trust,0,2,1,0,3,0,0,1,1,1,0,3,0,12,50,6,0,6,0
 Devon and Cornwall Police,0,2,1,1,1,0,0,2,1,1,1,1,0,11,64,7,3,1,0
@@ -747,7 +747,7 @@ Care Inn Limited,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
 HM Prison Dartmoor,0,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
 HM Prison Doncaster,0,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 HM Prison Downview,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-HM Prison Eastwood Park,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+HM Prison Eastwood Park,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
 Grosvenor Park Care Home,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Guest Medical,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Guinness Care,0,0,0,0,0,1,0,0,0,0,0,0,0,1,100,1,0,0,0
