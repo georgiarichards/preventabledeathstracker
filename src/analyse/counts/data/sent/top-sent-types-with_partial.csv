@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,727,130,13,408,176,56
-NHS England,511,120,12,242,137,47
-Care Quality Commission,169,43,1,63,62,37
-HM Prison and Probation Service,154,43,1,64,46,42
-Ministry of Justice,108,35,3,26,44,24
-Department for Transport,103,27,5,43,28,42
-Home Office,101,20,1,41,39,41
-NHS Greater Manchester Integrated Care Board,100,18,0,63,19,63
-National Institute for Health and Care Excellence,99,30,1,43,25,43
+Department of Health and Social Care,732,122,16,414,180,57
+NHS England,507,107,14,248,138,49
+Care Quality Commission,168,42,1,63,62,38
+HM Prison and Probation Service,155,40,2,65,48,42
+Ministry of Justice,108,32,3,25,48,23
+Department for Transport,105,25,5,46,29,44
+Home Office,102,19,0,40,43,39
+National Institute for Health and Care Excellence,99,29,1,46,23,46
+NHS Greater Manchester Integrated Care Board,97,16,0,62,19,64
 Betsi Cadwaladr University Health Board,75,18,0,54,3,72
-REDACTED,73,25,2,13,33,18
-National Highways,67,27,2,30,8,45
+REDACTED,74,24,2,14,34,19
 Barts Health NHS Trust,66,18,0,35,13,53
-Medicines and Healthcare Products Regulatory Agency,61,17,2,23,19,38
-Metropolitan Police Service,61,13,0,33,15,54
-University Hospitals Sussex NHS Foundation Trust,60,16,1,29,14,48
-National Police Chiefs’ Council,57,9,2,17,29,30
-Health and Safety Executive,55,17,0,21,17,38
+Metropolitan Police Service,63,12,0,34,17,54
+National Highways,63,24,2,29,8,46
+University Hospitals Sussex NHS Foundation Trust,61,16,1,31,13,51
+Medicines and Healthcare Products Regulatory Agency,61,16,3,25,17,41
+Health and Safety Executive,58,18,1,20,19,34
+National Police Chiefs’ Council,57,9,2,15,31,26
 Pennine Care NHS Foundation Trust,48,12,0,24,12,50
-Department for Education,47,11,0,19,17,40
 Welsh Ambulance Services University NHS Trust,47,11,0,29,7,62
+Department for Education,47,9,0,20,18,43
 Sussex Partnership NHS Foundation Trust,46,10,2,27,7,59
 Greater Manchester Mental Health NHS Foundation Trust,45,14,0,18,13,40
+College of Policing,41,6,2,14,19,34
 Network Rail,41,10,0,26,5,63
 Northern Care Alliance NHS Foundation Trust,41,11,0,21,9,51
-College of Policing,40,6,2,15,17,38
-Manchester University NHS Foundation Trust,40,17,0,17,6,42
-Norfolk and Suffolk NHS Foundation Trust,38,8,0,27,3,71
+Manchester University NHS Foundation Trust,40,17,0,16,7,40
 East London NHS Foundation Trust,38,12,0,22,4,58
+"Ministry of Housing, Communities and Local Government",38,6,1,22,9,58
 Cwm Taf Morgannwg University Health Board,38,16,1,16,5,42
