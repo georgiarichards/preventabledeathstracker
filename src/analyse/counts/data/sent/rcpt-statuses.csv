@@ -1,5 +1,5 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,732,1738,1201,414,180,122,16
+Department of Health and Social Care,732,1738,1201,414,180,124,14
 NHS England,507,1362,864,248,138,107,14
 Care Quality Commission,168,485,290,63,62,42,1
 HM Prison and Probation Service,155,354,185,65,48,40,2
@@ -248,7 +248,7 @@ Isle of Wight NHS Trust,6,10,1,1,0,5,0
 James Paget University Hospitals NHS Foundation Trust,6,14,10,3,2,1,0
 Sandwell Council,6,8,5,3,1,2,0
 Lewisham Council,6,27,17,0,4,1,1
-Bolton Council,6,11,5,2,0,3,1
+Bolton Council,6,11,5,2,0,4,0
 NHS South Yorkshire Integrated Care Board,6,16,8,1,3,2,0
 NHS Lincolnshire Integrated Care Board,6,16,4,1,1,4,0
 Rail Safety and Standards Board,6,14,10,1,1,4,0
@@ -1066,7 +1066,7 @@ Carillion,1,2,3,1,0,0,0
 Careworld London Limited,1,2,2,1,0,0,0
 Carewatch,1,1,0,0,0,1,0
 Caremark Limited,1,1,1,1,0,0,0
-Care4U Healthcare,1,1,0,0,0,0,1
+Care4U Healthcare,1,1,0,0,0,1,0
 Lifeskills,1,2,2,1,0,0,0
 Lifeshield Medical Services Limited,1,1,1,1,0,0,0
 Leyden Delta Ltd,1,4,4,1,0,0,0
