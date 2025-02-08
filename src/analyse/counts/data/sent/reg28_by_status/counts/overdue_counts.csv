@@ -47,6 +47,7 @@ Ashgate House Nursing Home,1,100.0
 Association of Conservative Clubs,1,100.0
 Association of Independent Gas Transporters,1,100.0
 Athena Care Homes (UK) Limited,1,100.0
+BSI Group,1,100.0
 BUPA UK Provision,1,100.0
 Bamford Grange Nursing Home,1,100.0
 Banes Highways,1,100.0
@@ -590,6 +591,7 @@ University of Bristol,1,50.0
 West Yorkshire Fire and Rescue Service,1,50.0
 Yorkshire Water,1,50.0
 Medway NHS Foundation Trust,8,47.0
+Mid and South Essex NHS Foundation Trust,7,47.0
 University Hospitals Plymouth NHS Trust,9,45.0
 Ashford and St Peter’s Hospitals NHS Foundation Trust,5,45.0
 Driver and Vehicle Standards Agency,5,45.0
@@ -613,7 +615,6 @@ Welsh Parliament,7,41.0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",12,40.0
 Driver and Vehicle Licensing Agency,6,40.0
 King’s College Hospital NHS Foundation Trust,6,40.0
-Mid and South Essex NHS Foundation Trust,6,40.0
 Canal and River Trust,4,40.0
 Royal College of Surgeons,4,40.0
 South Tyneside and Sunderland NHS Foundation Trust,4,40.0
@@ -649,6 +650,7 @@ Blackpool Teaching Hospitals NHS Foundation Trust,9,36.0
 Hywel Dda University Health Board,5,36.0
 British Medical Association,4,36.0
 South Western Ambulance Service NHS Foundation Trust,4,36.0
+Royal College of Obstetricians and Gynaecologists,9,35.0
 South Central Ambulance Service NHS Foundation Trust,6,35.0
 Nursing and Midwifery Council,6,33.0
 Great Western Hospitals NHS Foundation Trust,4,33.0
@@ -701,9 +703,9 @@ Health and Safety Executive,18,31.0
 Greater Manchester Mental Health NHS Foundation Trust,14,31.0
 Aneurin Bevan University Health Board,8,31.0
 Nottinghamshire Healthcare NHS Foundation Trust,8,31.0
-Royal College of Obstetricians and Gynaecologists,8,31.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,31.0
 Surrey Police,5,31.0
+Office for Product Safety and Standards,4,31.0
 University College London Hospitals NHS Foundation Trust,4,31.0
 Ministry of Justice,32,30.0
 University Hospitals Dorset NHS Foundation Trust,7,30.0
@@ -782,14 +784,14 @@ Surrey and Borders Partnership NHS Foundation Trust,6,23.0
 Avon and Wiltshire Mental Health Partnership NHS Trust,5,23.0
 HM Prison Pentonville,3,23.0
 North Bristol NHS Trust,3,23.0
-Office for Product Safety and Standards,3,23.0
 Oxford University Hospitals NHS Foundation Trust,3,23.0
+Portsmouth Hospitals University NHS Trust,3,23.0
 Sussex Police,3,23.0
 Sussex Partnership NHS Foundation Trust,10,22.0
 Cardiff and Vale University Health Board,5,22.0
 Oxleas NHS Foundation Trust,5,22.0
 HC One,2,22.0
-NHS England,107,21.0
+NHS England,108,21.0
 Swansea Bay University Health Board,5,21.0
 Priory Group Limited,4,21.0
 Birmingham City Council,3,21.0
@@ -832,7 +834,7 @@ Transport for London,4,18.0
 "Department for Environment, Food and Rural Affairs",2,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
-Department of Health and Social Care,124,17.0
+Department of Health and Social Care,126,17.0
 Cornwall Council,4,17.0
 "Department for Culture, Media and Sport",4,17.0
 Cornwall Partnership NHS Foundation Trust,2,17.0
@@ -854,7 +856,6 @@ Ministry of Defence,5,15.0
 Royal College of General Practitioners,4,15.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",4,15.0
 G4S,2,15.0
-Portsmouth Hospitals University NHS Trust,2,15.0
 Royal College of Emergency Medicine,2,15.0
 East Midlands Ambulance Service NHS Trust,3,14.0
 Department for Work and Pensions,2,14.0

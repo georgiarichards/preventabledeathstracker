@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,732,1738,1201,414,180,124,14
-NHS England,507,1362,864,248,138,107,14
+Department of Health and Social Care,732,1738,1201,414,180,126,12
+NHS England,507,1362,864,248,138,108,13
 Care Quality Commission,168,485,290,63,62,42,1
 HM Prison and Probation Service,155,354,185,65,48,40,2
 Ministry of Justice,108,289,139,25,48,32,3
@@ -43,7 +43,7 @@ Essex Partnership University NHS Foundation Trust,32,59,33,14,6,12,0
 University Hospitals Birmingham NHS Foundation Trust,31,47,36,22,5,4,0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",30,48,28,14,4,12,0
 North East London NHS Foundation Trust,29,45,25,13,4,12,0
-Royal College of Obstetricians and Gynaecologists,26,73,31,6,11,8,1
+Royal College of Obstetricians and Gynaecologists,26,73,31,6,11,9,0
 Midlands Partnership University NHS Foundation Trust,26,48,36,17,3,6,0
 Royal College of Paediatrics and Child Health,26,106,60,10,11,5,0
 "Tees, Esk and Wear Valley NHS Foundation Trust",26,54,42,16,6,4,0
@@ -107,7 +107,7 @@ Bedfordshire Hospitals NHS Foundation Trust,15,20,16,10,1,4,0
 Driver and Vehicle Licensing Agency,15,28,10,3,5,6,1
 Black Country Healthcare NHS Foundation Trust,15,29,19,7,4,4,0
 Royal Cornwall Hospitals NHS Trust,15,24,8,5,1,8,1
-Mid and South Essex NHS Foundation Trust,15,23,14,6,0,6,3
+Mid and South Essex NHS Foundation Trust,15,23,14,6,0,7,2
 Royal College of Anaesthetists,15,52,41,8,6,1,0
 Royal College of Physicians,14,63,44,4,7,3,0
 Birmingham City Council,14,41,22,4,7,3,0
@@ -131,8 +131,8 @@ East Lancashire Hospitals NHS Trust,13,14,6,6,0,7,0
 North Bristol NHS Trust,13,16,10,8,2,3,0
 Royal College of Emergency Medicine,13,46,29,3,8,2,0
 Oxford University Hospitals NHS Foundation Trust,13,16,11,8,2,3,0
-Office for Product Safety and Standards,13,35,15,5,4,3,1
-Portsmouth Hospitals University NHS Trust,13,23,15,5,5,2,1
+Office for Product Safety and Standards,13,35,15,5,4,4,0
+Portsmouth Hospitals University NHS Trust,13,23,15,5,5,3,0
 Lancashire and South Cumbria NHS Foundation Trust,13,19,8,5,1,7,0
 West Midlands Ambulance Service University NHS Foundation Trust,12,30,23,8,1,3,0
 Sheffield Teaching Hospitals NHS Foundation Trust,12,20,6,5,1,6,0
@@ -1792,7 +1792,7 @@ Sunrise Medical Limited,1,1,1,1,0,0,0
 Sunnyside Nursing Home,1,2,2,1,0,0,0
 Sunlight Care Group,1,4,4,1,0,0,0
 Suffolk Safeguarding Partnership,1,2,2,1,0,0,0
-BSI Group,1,4,0,0,0,0,1
+BSI Group,1,4,0,0,0,1,0
 BOC Limited,1,1,1,1,0,0,0
 BMJ Group,1,3,3,1,0,0,0
 B & D Civil Engineering Limited,1,2,2,1,0,0,0
