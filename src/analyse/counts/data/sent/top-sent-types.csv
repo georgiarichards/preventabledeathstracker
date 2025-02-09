@@ -1,20 +1,20 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,732,284,12,436,60
-NHS England,507,185,13,309,61
+Department of Health and Social Care,735,285,14,436,59
+NHS England,509,185,15,309,61
 Care Quality Commission,168,100,1,67,40
 HM Prison and Probation Service,155,85,2,68,44
+Department for Transport,108,44,6,58,54
 Ministry of Justice,108,81,3,24,22
-Department for Transport,105,44,5,56,53
 Home Office,102,44,0,58,57
 National Institute for Health and Care Excellence,99,53,1,45,45
 NHS Greater Manchester Integrated Care Board,97,41,0,56,58
+REDACTED,76,58,4,14,18
 Betsi Cadwaladr University Health Board,75,21,0,54,72
-REDACTED,74,58,2,14,19
 Barts Health NHS Trust,66,25,0,41,62
-Metropolitan Police Service,63,31,0,32,51
 National Highways,63,33,2,28,44
-University Hospitals Sussex NHS Foundation Trust,61,32,1,28,46
+Metropolitan Police Service,63,31,0,32,51
 Medicines and Healthcare Products Regulatory Agency,61,34,3,24,39
+University Hospitals Sussex NHS Foundation Trust,61,32,1,28,46
 Health and Safety Executive,58,34,1,23,40
 National Police Chiefs’ Council,57,42,2,13,23
 Pennine Care NHS Foundation Trust,48,27,0,21,44
@@ -26,6 +26,6 @@ College of Policing,41,14,2,25,61
 Network Rail,41,11,0,30,73
 Northern Care Alliance NHS Foundation Trust,41,22,0,19,46
 Manchester University NHS Foundation Trust,40,23,0,17,42
-East London NHS Foundation Trust,38,14,0,24,63
 "Ministry of Housing, Communities and Local Government",38,19,1,18,47
 Cwm Taf Morgannwg University Health Board,38,21,1,16,42
+East London NHS Foundation Trust,38,14,0,24,63
