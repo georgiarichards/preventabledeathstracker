@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,735,1744,1202,414,181,126,14
-NHS England,509,1366,864,248,138,108,15
+Department of Health and Social Care,735,1744,1202,414,181,127,13
+NHS England,509,1366,864,248,138,109,14
 Care Quality Commission,168,485,290,63,62,42,1
 HM Prison and Probation Service,155,354,185,65,48,40,2
 Department for Transport,108,282,172,47,30,25,6
@@ -52,7 +52,7 @@ Royal College of General Practitioners,26,102,66,11,10,4,1
 London Ambulance Service NHS Trust,26,87,58,9,10,7,0
 Midlands Partnership University NHS Foundation Trust,26,48,36,17,3,6,0
 "Tees, Esk and Wear Valley NHS Foundation Trust",26,54,42,16,6,4,0
-University Hospitals of North Midlands NHS Trust,25,33,25,16,2,6,1
+University Hospitals of North Midlands NHS Trust,25,33,25,16,2,7,0
 Blackpool Teaching Hospitals NHS Foundation Trust,25,39,22,14,1,9,1
 Care UK,25,58,32,9,14,1,1
 "Department for Culture, Media and Sport",24,89,64,10,9,4,1
@@ -78,7 +78,7 @@ Herefordshire and Worcestershire Health and Care NHS Trust,20,28,20,12,4,4,0
 East of England Ambulance Service NHS Trust,20,42,33,13,2,5,0
 Priory Group Limited,19,41,23,12,3,4,0
 Surrey County Council,19,41,28,7,10,2,0
-NHS Sussex Integrated Care Board,19,50,35,9,7,1,2
+NHS Sussex Integrated Care Board,19,50,35,9,7,2,1
 Nursing and Midwifery Council,18,65,42,8,4,6,0
 Public Health England,18,58,28,4,7,7,0
 The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,18,30,22,12,4,2,0
