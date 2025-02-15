@@ -148,6 +148,7 @@ Farnham Medical Centre,1,100.0
 Federation of British Tour Operators,1,100.0
 Fell Runners Association,1,100.0
 Fentons Solicitors,1,100.0
+Festimed,1,100.0
 First Aid Cover Limited,1,100.0
 Fitness First,1,100.0
 Floron Residential Home,1,100.0
@@ -175,6 +176,7 @@ HM Prison North Sea Camp,1,100.0
 HM Prison Parc,1,100.0
 HM Prison The Mount,1,100.0
 HM Revenue and Customs,1,100.0
+HMP Coldingley,1,100.0
 Hackney Alcohol Recovery Centre,1,100.0
 Hainault Surgery,1,100.0
 Halfords Group PLC,1,100.0
@@ -476,6 +478,7 @@ Chesterfield Royal Hospital NHS Foundation Trust,3,60.0
 HM Prison Wandsworth,3,60.0
 HM Prison Winchester,3,60.0
 Rochdale Borough Council,3,60.0
+Royal Yachting Association,3,60.0
 South Tees Hospitals NHS Foundation Trust,3,60.0
 Virgin Care,3,60.0
 Advisory Council on the Misuse of Drugs,4,57.0
@@ -630,7 +633,6 @@ Milton Keynes Clinical Commissioning Group,2,40.0
 Newham Council,2,40.0
 North Middlesex University Hospital NHS Trust,2,40.0
 Ofsted,2,40.0
-Royal Yachting Association,2,40.0
 The Phoenix Partnership,2,40.0
 West Suffolk NHS Foundation Trust,2,40.0
 Wiltshire Police,2,40.0
@@ -667,10 +669,12 @@ South Western Railway,2,33.0
 Apple,1,33.0
 Chief Medical Officer for Wales,1,33.0
 Croydon Health Services NHS Trust,1,33.0
+"Department for Science, Innovation and Technology",1,33.0
 Disclosure and Barring Service,1,33.0
 East Sussex Healthcare NHS Trust,1,33.0
 Elysium Healthcare,1,33.0
 Environment Agency,1,33.0
+Financial Conduct Authority,1,33.0
 Forward Trust,1,33.0
 Four Seasons Health Care,1,33.0
 General Dental Council,1,33.0
@@ -699,13 +703,13 @@ Wandsworth Council,1,33.0
 Wigan Council,1,33.0
 REDACTED,24,32.0
 East London NHS Foundation Trust,12,32.0
+Ministry of Justice,33,31.0
 Health and Safety Executive,18,31.0
 Greater Manchester Mental Health NHS Foundation Trust,14,31.0
 Nottinghamshire Healthcare NHS Foundation Trust,8,31.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,31.0
 Surrey Police,5,31.0
 University College London Hospitals NHS Foundation Trust,4,31.0
-Ministry of Justice,32,30.0
 Aneurin Bevan University Health Board,8,30.0
 University Hospitals Dorset NHS Foundation Trust,7,30.0
 Royal United Hospitals Bath NHS Foundation Trust,3,30.0
@@ -721,6 +725,7 @@ Office for Product Safety and Standards,4,29.0
 Bupa,2,29.0
 Nottinghamshire County Council,2,29.0
 Tower Hamlets Council,2,29.0
+Medicines and Healthcare Products Regulatory Agency,17,28.0
 Central and North West London NHS Foundation Trust,9,28.0
 University Hospitals of North Midlands NHS Trust,7,28.0
 Barts Health NHS Trust,18,27.0
@@ -732,8 +737,7 @@ Berkshire Healthcare NHS Foundation Trust,3,27.0
 Royal Pharmaceutical Society,3,27.0
 South West London and St George’s Mental Health NHS Trust,3,27.0
 South West Yorkshire Partnership NHS Foundation Trust,3,27.0
-HM Prison and Probation Service,40,26.0
-Medicines and Healthcare Products Regulatory Agency,16,26.0
+HM Prison and Probation Service,41,26.0
 University Hospitals Sussex NHS Foundation Trust,16,26.0
 General Medical Council,9,26.0
 Care Quality Commission,42,25.0
@@ -775,10 +779,10 @@ Somerset NHS Foundation Trust,1,25.0
 Traffic Commissioners for Great Britain,1,25.0
 West Hertfordshire Teaching Hospitals NHS Trust,1,25.0
 Youth Justice Board,1,25.0
+Department for Transport,26,24.0
 Betsi Cadwaladr University Health Board,18,24.0
 Network Rail,10,24.0
 North London NHS Foundation Trust,8,24.0
-Department for Transport,25,23.0
 Welsh Ambulance Services University NHS Trust,11,23.0
 Midlands Partnership University NHS Foundation Trust,6,23.0
 Surrey and Borders Partnership NHS Foundation Trust,6,23.0
@@ -788,7 +792,7 @@ North Bristol NHS Trust,3,23.0
 Oxford University Hospitals NHS Foundation Trust,3,23.0
 Portsmouth Hospitals University NHS Trust,3,23.0
 Sussex Police,3,23.0
-NHS England,111,22.0
+NHS England,113,22.0
 Sussex Partnership NHS Foundation Trust,10,22.0
 Cardiff and Vale University Health Board,5,22.0
 Oxleas NHS Foundation Trust,5,22.0
@@ -829,12 +833,12 @@ Department for Education,9,19.0
 Royal College of Paediatrics and Child Health,5,19.0
 North West Ambulance Service NHS Trust,4,19.0
 Royal College of Psychiatrists,4,19.0
+Department of Health and Social Care,130,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
 Association of Ambulance Chief Executives,6,18.0
 Transport for London,4,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
-Department of Health and Social Care,128,17.0
 Cornwall Council,4,17.0
 "Department for Culture, Media and Sport",4,17.0
 Cornwall Partnership NHS Foundation Trust,2,17.0
@@ -893,6 +897,7 @@ Devon and Cornwall Police,1,9.0
 Leeds City Council,1,9.0
 Sandwell and West Birmingham Hospitals NHS Trust,1,9.0
 Whittington Health NHS Trust,1,9.0
+Care UK,2,8.0
 Yorkshire Ambulance Service NHS Trust,1,8.0
 Durham County Council,1,7.0
 Maritime and Coastguard Agency,1,7.0
@@ -900,4 +905,3 @@ Royal College of Anaesthetists,1,7.0
 University Hospitals of Leicester NHS Trust,1,7.0
 Birmingham and Solihull Mental Health NHS Foundation Trust,2,6.0
 West Midlands Police,1,5.0
-Care UK,1,4.0

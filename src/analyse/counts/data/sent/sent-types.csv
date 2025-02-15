@@ -1,10 +1,10 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,735,287,12,436,59
-NHS England,509,188,12,309,61
+Department of Health and Social Care,735,289,10,436,59
+NHS England,509,190,10,309,61
 Care Quality Commission,168,100,1,67,40
-HM Prison and Probation Service,155,85,2,68,44
-Department for Transport,108,44,6,58,54
-Ministry of Justice,108,81,3,24,22
+HM Prison and Probation Service,155,86,1,68,44
+Department for Transport,108,45,5,58,54
+Ministry of Justice,108,82,2,24,22
 Home Office,102,44,0,58,57
 National Institute for Health and Care Excellence,99,53,1,45,45
 NHS Greater Manchester Integrated Care Board,97,41,0,56,58
@@ -13,7 +13,7 @@ Betsi Cadwaladr University Health Board,75,21,0,54,72
 Barts Health NHS Trust,66,25,0,41,62
 National Highways,63,33,2,28,44
 Metropolitan Police Service,63,31,0,32,51
-Medicines and Healthcare Products Regulatory Agency,61,34,3,24,39
+Medicines and Healthcare Products Regulatory Agency,61,35,2,24,39
 University Hospitals Sussex NHS Foundation Trust,61,32,1,28,46
 Health and Safety Executive,58,34,1,23,40
 National Police Chiefs’ Council,57,42,2,13,23
@@ -54,7 +54,7 @@ Midlands Partnership University NHS Foundation Trust,26,9,0,17,65
 "Tees, Esk and Wear Valley NHS Foundation Trust",26,16,0,10,38
 University Hospitals of North Midlands NHS Trust,25,10,0,15,60
 Blackpool Teaching Hospitals NHS Foundation Trust,25,11,1,13,52
-Care UK,25,4,1,20,80
+Care UK,25,5,0,20,80
 "Department for Culture, Media and Sport",24,15,1,8,33
 NHS Derby and Derbyshire Integrated Care Board,24,17,0,7,29
 Swansea Bay University Health Board,24,13,0,11,46
@@ -300,7 +300,7 @@ Avon Fire and Rescue Services,5,3,0,2,40
 The Princess Alexandra Hospital NHS Trust,5,2,0,3,60
 The Phoenix Partnership,5,2,0,3,60
 HM Prison Long Lartin,5,3,0,2,40
-Royal Yachting Association,5,2,1,2,40
+Royal Yachting Association,5,3,0,2,40
 Sainsbury's,5,2,0,3,60
 Ofcom,5,2,0,3,60
 Essex Police,5,3,0,2,40
@@ -447,8 +447,8 @@ Derbyshire Community Health Services NHS Foundation Trust,3,3,0,0,0
 NHS Hampshire and Isle of Wight Integrated Care Board,3,0,0,3,100
 Four Seasons Health Care,3,2,0,1,33
 Forward Trust,3,2,0,1,33
-"Department for Science, Innovation and Technology",3,1,1,1,33
-Financial Conduct Authority,3,0,1,2,67
+"Department for Science, Innovation and Technology",3,2,0,1,33
+Financial Conduct Authority,3,1,0,2,67
 Bradford Council,3,2,0,1,33
 BT,3,3,0,0,0
 Barchester Healthcare,3,0,0,3,100
@@ -774,7 +774,7 @@ First Class Care,1,0,0,1,100
 First Aid Cover Limited,1,1,0,0,0
 Fire and Rescue Oxfordshire,1,0,0,1,100
 Finchale Abbey Farm,1,1,0,0,0
-Festimed,1,0,1,0,0
+Festimed,1,1,0,0,0
 Fernlea Nursing Home,1,0,0,1,100
 Fern House Surgery,1,1,0,0,0
 Fentons Solicitors,1,1,0,0,0
@@ -843,7 +843,7 @@ Hackney Alcohol Recovery Centre,1,1,0,0,0
 HSB Engineering Insurance Services Limited,1,1,0,0,0
 HR Healthcare Ltd,1,1,0,0,0
 HMP YOI Portland,1,0,0,1,100
-HMP Coldingley,1,0,1,0,0
+HMP Coldingley,1,1,0,0,0
 HM Revenue and Customs,1,1,0,0,0
 European Care,1,1,0,0,0
 European Aviation Authority,1,0,0,1,100

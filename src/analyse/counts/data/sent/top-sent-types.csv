@@ -1,10 +1,10 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,735,287,12,436,59
-NHS England,509,188,12,309,61
+Department of Health and Social Care,735,289,10,436,59
+NHS England,509,190,10,309,61
 Care Quality Commission,168,100,1,67,40
-HM Prison and Probation Service,155,85,2,68,44
-Department for Transport,108,44,6,58,54
-Ministry of Justice,108,81,3,24,22
+HM Prison and Probation Service,155,86,1,68,44
+Department for Transport,108,45,5,58,54
+Ministry of Justice,108,82,2,24,22
 Home Office,102,44,0,58,57
 National Institute for Health and Care Excellence,99,53,1,45,45
 NHS Greater Manchester Integrated Care Board,97,41,0,56,58
@@ -13,7 +13,7 @@ Betsi Cadwaladr University Health Board,75,21,0,54,72
 Barts Health NHS Trust,66,25,0,41,62
 National Highways,63,33,2,28,44
 Metropolitan Police Service,63,31,0,32,51
-Medicines and Healthcare Products Regulatory Agency,61,34,3,24,39
+Medicines and Healthcare Products Regulatory Agency,61,35,2,24,39
 University Hospitals Sussex NHS Foundation Trust,61,32,1,28,46
 Health and Safety Executive,58,34,1,23,40
 National Police Chiefs’ Council,57,42,2,13,23
