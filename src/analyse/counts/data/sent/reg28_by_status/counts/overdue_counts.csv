@@ -286,7 +286,6 @@ Newport City Council,1,100.0
 Norfolk Police,1,100.0
 Normanton Village View Nursing Home,1,100.0
 North of England Care System Support,1,100.0
-Northampton General Hospital NHS Trust,1,100.0
 Northamptonshire County Council,1,100.0
 Northern Care Limited,1,100.0
 Northern Gas Network,1,100.0
@@ -510,7 +509,6 @@ Department for Business and Trade,2,50.0
 NHS Cambridgeshire and Peterborough Integrated Care Board,2,50.0
 NHS Frimley Integrated Care Board,2,50.0
 Prisons and Probation Ombudsman,2,50.0
-Serco,2,50.0
 South Tyneside Council,2,50.0
 Suffolk Constabulary,2,50.0
 Sunderland City Council,2,50.0
@@ -572,6 +570,7 @@ National Police Air Service,1,50.0
 New Lodge Nursing Home,1,50.0
 North Laine Medical Centre,1,50.0
 North Yorkshire Police,1,50.0
+Northampton General Hospital NHS Trust,1,50.0
 Northamptonshire Healthcare NHS Foundation Trust,1,50.0
 Not Listed,1,50.0
 Nuffield Health,1,50.0
@@ -582,7 +581,6 @@ Road Transport Industry Training Board,1,50.0
 Scotia Gas Network,1,50.0
 Sirona Care & Health,1,50.0
 Slough Borough Council,1,50.0
-Sodexo,1,50.0
 SubCPartner,1,50.0
 Taff's Well Medical Centre,1,50.0
 Tanglewood Care Services Limited,1,50.0
@@ -610,12 +608,10 @@ South Wales Police,3,43.0
 Wiltshire Council,3,43.0
 Manchester University NHS Foundation Trust,17,42.0
 Cwm Taf Morgannwg University Health Board,16,42.0
-Royal Free London NHS Foundation Trust,5,42.0
 North East London NHS Foundation Trust,12,41.0
 Kent and Medway NHS and Social Care Partnership Trust,7,41.0
 Welsh Parliament,7,41.0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",12,40.0
-Driver and Vehicle Licensing Agency,6,40.0
 King’s College Hospital NHS Foundation Trust,6,40.0
 Canal and River Trust,4,40.0
 Royal College of Surgeons,4,40.0
@@ -633,6 +629,7 @@ Milton Keynes Clinical Commissioning Group,2,40.0
 Newham Council,2,40.0
 North Middlesex University Hospital NHS Trust,2,40.0
 Ofsted,2,40.0
+Serco,2,40.0
 The Phoenix Partnership,2,40.0
 West Suffolk NHS Foundation Trust,2,40.0
 Wiltshire Police,2,40.0
@@ -641,6 +638,8 @@ Public Health England,7,39.0
 National Highways,24,38.0
 Stockport NHS Foundation Trust,13,38.0
 Essex Partnership University NHS Foundation Trust,12,38.0
+Driver and Vehicle Licensing Agency,6,38.0
+Royal Free London NHS Foundation Trust,5,38.0
 Gloucestershire Hospital NHS Foundation Trust,3,38.0
 Health Services Safety Investigations Body,3,38.0
 Hull University Teaching Hospitals NHS Trust,3,38.0
@@ -695,6 +694,7 @@ Newcastle City Council,1,33.0
 North Lincolnshire Council,1,33.0
 Rotherham Metropolitan Borough Council,1,33.0
 Shropshire Community Health NHS Trust,1,33.0
+Sodexo,1,33.0
 Staffordshire Fire and Rescue Service,1,33.0
 Sunrise Senior Living,1,33.0
 Torbay and South Devon NHS Foundation Trust,1,33.0
@@ -706,11 +706,11 @@ East London NHS Foundation Trust,12,32.0
 Ministry of Justice,33,31.0
 Health and Safety Executive,18,31.0
 Greater Manchester Mental Health NHS Foundation Trust,14,31.0
-Nottinghamshire Healthcare NHS Foundation Trust,8,31.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,31.0
 Surrey Police,5,31.0
 University College London Hospitals NHS Foundation Trust,4,31.0
 Aneurin Bevan University Health Board,8,30.0
+Nottinghamshire Healthcare NHS Foundation Trust,8,30.0
 University Hospitals Dorset NHS Foundation Trust,7,30.0
 Royal United Hospitals Bath NHS Foundation Trust,3,30.0
 Walsall Healthcare NHS Trust,3,30.0
@@ -803,8 +803,6 @@ Birmingham City Council,3,21.0
 Bolton NHS Foundation Trust,3,21.0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3,21.0
 Royal College of Physicians,3,21.0
-Herefordshire and Worcestershire Health and Care NHS Trust,4,20.0
-Welsh Government,4,20.0
 "Department for Business, Energy and Industrial Strategy",3,20.0
 University Hospitals of Derby and Burton NHS Foundation Trust,3,20.0
 Egton Medical Information Systems,2,20.0
@@ -831,11 +829,13 @@ Home Office,19,19.0
 Metropolitan Police Service,12,19.0
 Department for Education,9,19.0
 Royal College of Paediatrics and Child Health,5,19.0
+Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 North West Ambulance Service NHS Trust,4,19.0
-Royal College of Psychiatrists,4,19.0
+Welsh Government,4,19.0
 Department of Health and Social Care,130,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
 Association of Ambulance Chief Executives,6,18.0
+Royal College of Psychiatrists,4,18.0
 Transport for London,4,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
@@ -878,10 +878,10 @@ Stockport Council,1,14.0
 University Hospitals Birmingham NHS Foundation Trust,4,13.0
 Department for Work and Pensions,2,13.0
 Leicestershire Partnership NHS Trust,2,13.0
-Worcestershire Acute Hospitals NHS Trust,2,13.0
 Greater Manchester Police,4,12.0
 Civil Aviation Authority,2,12.0
 NHS Birmingham and Solihull Integrated Care Board,2,12.0
+Worcestershire Acute Hospitals NHS Trust,2,12.0
 Hampshire County Council,1,12.0
 West Yorkshire Police,1,12.0
 NHS Sussex Integrated Care Board,2,11.0
