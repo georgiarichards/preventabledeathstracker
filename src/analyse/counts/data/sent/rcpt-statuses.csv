@@ -1,7 +1,7 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
 Department of Health and Social Care,735,1744,1202,414,181,130,10
-NHS England,511,1375,864,248,138,113,12
-Care Quality Commission,168,485,290,63,62,42,1
+NHS England,511,1375,864,248,138,114,11
+Care Quality Commission,168,485,290,63,62,43,0
 HM Prison and Probation Service,156,359,185,65,48,41,2
 Department for Transport,109,284,172,47,30,26,6
 Ministry of Justice,108,289,139,25,48,33,2
@@ -12,7 +12,7 @@ REDACTED,76,252,78,14,34,24,4
 Betsi Cadwaladr University Health Board,75,100,65,54,3,18,0
 Barts Health NHS Trust,66,103,66,35,13,18,0
 Metropolitan Police Service,63,153,114,34,17,12,0
-National Highways,63,101,57,29,8,24,2
+National Highways,63,101,57,29,8,25,1
 University Hospitals Sussex NHS Foundation Trust,61,104,65,31,13,16,1
 Medicines and Healthcare Products Regulatory Agency,61,178,100,25,17,17,2
 Health and Safety Executive,58,175,79,20,19,18,1
@@ -102,7 +102,7 @@ King’s College Hospital NHS Foundation Trust,15,28,12,6,3,6,0
 Durham County Council,15,17,15,12,2,1,0
 Leicestershire Partnership NHS Trust,15,20,18,13,0,2,0
 Department for Work and Pensions,15,41,18,8,4,2,1
-Mid and South Essex NHS Foundation Trust,15,23,14,6,0,8,1
+Mid and South Essex NHS Foundation Trust,15,23,14,6,0,9,0
 "Department for Business, Energy and Industrial Strategy",15,43,20,7,5,3,0
 University Hospitals of Leicester NHS Trust,15,21,20,13,1,1,0
 University Hospitals of Derby and Burton NHS Foundation Trust,15,27,16,7,5,3,0
@@ -198,7 +198,7 @@ NHS West Yorkshire Integrated Care Board,8,29,9,3,2,3,0
 Devon County Council,8,14,5,4,0,4,0
 Sheffield Health and Social Care NHS Foundation Trust,8,11,10,6,0,2,0
 Homerton Healthcare NHS Foundation Trust,8,15,11,4,2,2,0
-Hull University Teaching Hospitals NHS Trust,8,21,11,3,1,3,1
+Hull University Teaching Hospitals NHS Trust,8,21,11,3,1,4,0
 "Bournemouth, Christchurch and Poole Council",8,22,23,7,1,0,0
 Isle of Wight Council,8,15,7,3,2,3,0
 Birmingham Women's and Children's NHS Foundation Trust,8,20,4,0,2,5,1
