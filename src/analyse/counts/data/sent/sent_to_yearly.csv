@@ -89,7 +89,7 @@ Civil Aviation Authority,0,0,2,5,1,1,2,1,2,0,2,1,0,17,76,13,2,2,0
 Cumbria County Council,2,3,1,3,2,0,2,1,1,2,0,0,0,17,59,10,2,5,0
 Medway NHS Foundation Trust,0,0,1,4,1,2,1,0,6,2,0,0,0,17,53,9,0,8,0
 Kent and Medway NHS and Social Care Partnership Trust,1,3,1,1,2,1,1,0,3,2,1,1,0,17,41,7,3,7,0
-Driver and Vehicle Licensing Agency,1,0,2,1,2,2,0,0,3,0,1,3,1,16,19,3,5,6,2
+Driver and Vehicle Licensing Agency,1,0,2,1,2,2,0,0,3,0,1,3,1,16,19,3,5,7,1
 United Lincolnshire Hospitals NHS Trust,2,2,2,1,3,1,1,1,1,1,1,0,0,16,44,7,1,8,0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,1,1,1,3,2,3,1,0,2,1,0,1,0,16,69,11,0,5,0
 Milton Keynes University Hospital NHS Foundation Trust,0,2,1,0,1,0,2,1,3,2,4,0,0,16,62,10,2,4,0
@@ -106,7 +106,7 @@ University Hospitals of Leicester NHS Trust,0,3,6,1,1,1,1,0,0,0,1,1,0,15,87,13,1
 "Department for Business, Energy and Industrial Strategy",1,5,2,1,3,0,0,1,1,0,1,0,0,15,47,7,5,3,0
 University Hospitals of Derby and Burton NHS Foundation Trust,1,1,1,0,0,0,2,3,0,1,3,3,0,15,47,7,5,3,0
 Department for Work and Pensions,0,1,0,2,1,1,1,0,3,1,2,2,1,15,53,8,4,2,1
-Royal Cornwall Hospitals NHS Trust,1,3,0,1,0,1,0,1,0,0,4,4,0,15,33,5,1,8,1
+Royal Cornwall Hospitals NHS Trust,1,3,0,1,0,1,0,1,0,0,4,4,0,15,33,5,1,9,0
 Royal College of Anaesthetists,0,2,1,0,2,1,0,0,2,1,1,5,0,15,53,8,6,1,0
 Bedfordshire Hospitals NHS Foundation Trust,0,4,1,2,2,1,3,1,0,1,0,0,0,15,67,10,1,4,0
 Black Country Healthcare NHS Foundation Trust,0,3,0,2,2,2,3,0,1,0,0,2,0,15,47,7,4,4,0
@@ -279,7 +279,7 @@ Isle of Wight NHS Trust,0,2,0,1,2,1,0,0,0,0,0,0,0,6,17,1,0,5,0
 HCA Healthcare UK,0,0,0,0,2,0,1,0,1,0,0,1,0,5,60,3,2,0,0
 Plymouth City Council,0,1,2,0,0,0,0,0,0,1,0,1,0,5,20,1,0,4,0
 Ofsted,0,1,0,0,2,0,0,0,1,0,1,0,0,5,60,3,0,2,0
-East Suffolk and North Essex NHS Foundation Trust,0,0,1,0,0,0,0,1,0,0,0,3,0,5,60,3,0,1,1
+East Suffolk and North Essex NHS Foundation Trust,0,0,1,0,0,0,0,1,0,0,0,3,0,5,60,3,0,2,0
 Brighton and Hove City Council,0,1,0,0,0,0,1,2,1,0,0,0,0,5,0,0,4,1,0
 Virgin Care,0,1,1,0,0,3,0,0,0,0,0,0,0,5,20,1,1,3,0
 South Yorkshire Police,0,1,1,0,1,0,0,1,0,0,0,1,0,5,60,3,2,0,0
