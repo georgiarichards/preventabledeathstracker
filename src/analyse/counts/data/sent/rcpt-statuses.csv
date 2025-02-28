@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,737,1748,1202,414,181,130,12
-NHS England,513,1380,864,248,138,114,13
+Department of Health and Social Care,737,1748,1202,414,181,131,11
+NHS England,513,1380,864,248,138,118,9
 Care Quality Commission,168,485,290,63,62,43,0
 HM Prison and Probation Service,156,359,185,65,48,41,2
 Department for Transport,109,284,172,47,30,27,5
@@ -20,7 +20,7 @@ National Police Chiefs’ Council,57,204,144,15,31,9,2
 Pennine Care NHS Foundation Trust,48,116,62,24,12,12,0
 Department for Education,47,141,88,20,18,9,0
 Welsh Ambulance Services University NHS Trust,47,94,57,29,7,11,0
-Sussex Partnership NHS Foundation Trust,46,76,47,27,7,10,2
+Sussex Partnership NHS Foundation Trust,46,76,47,27,7,11,1
 Greater Manchester Mental Health NHS Foundation Trust,45,132,59,18,13,14,0
 Northern Care Alliance NHS Foundation Trust,41,80,40,21,9,11,0
 College of Policing,41,148,134,14,19,6,2
@@ -182,7 +182,7 @@ Kent County Council,9,13,6,4,2,3,0
 The Royal Wolverhampton NHS Trust,9,13,6,4,1,4,0
 Warwickshire County Council,9,9,4,4,0,5,0
 British Standards Institution,9,41,24,4,2,3,0
-Royal College of Radiologists,9,29,18,4,3,1,1
+Royal College of Radiologists,9,29,18,4,3,2,0
 The Dudley Group NHS Foundation Trust,9,13,9,7,1,1,0
 British Transport Police,9,36,30,4,4,1,0
 Maidstone and Tunbridge Wells NHS Trust,9,13,11,7,1,1,0
@@ -321,7 +321,7 @@ HM Prison Winchester,5,13,3,0,2,3,0
 Essex Police,5,10,5,1,2,2,0
 Serco,5,21,2,0,2,2,1
 HM Prison Wandsworth,5,9,2,1,1,3,0
-Harbour Healthcare Ltd,5,8,2,1,1,2,1
+Harbour Healthcare Ltd,5,8,2,1,1,3,0
 HM Prison Long Lartin,5,5,4,3,0,2,0
 Hackney Council,5,8,6,3,2,0,0
 Rochdale Borough Council,5,13,2,2,0,3,0
@@ -894,7 +894,7 @@ Heathcotes Group,1,2,1,0,1,0,0
 Heathrow Airport,1,1,1,1,0,0,0
 Heaton Medical Centre,1,1,0,0,0,1,0
 Heaton Norris Health Centre,1,3,1,0,1,0,0
-Henning Hall Nursing Home,1,2,0,0,0,0,1
+Henning Hall Nursing Home,1,2,0,0,0,1,0
 Hereford Medical Group,1,1,1,1,0,0,0
 Heritage Attractions Ltd,1,3,0,0,0,1,0
 Herries Lodge Care Home,1,1,0,0,0,1,0
@@ -1716,7 +1716,7 @@ Bradford District Care NHS Foundation Trust,1,1,1,1,0,0,0
 Bradford Teaching Hospitals NHS Foundation Trust,1,1,1,1,0,0,0
 Brainwaves,1,5,3,0,1,0,0
 Brancaster Care,1,1,1,1,0,0,0
-Springcare Care Homes Ltd,1,2,0,0,0,0,1
+Springcare Care Homes Ltd,1,2,0,0,0,1,0
 Springfield Care Home,1,1,0,0,0,1,0
 Springfield Healthcare,1,2,1,0,1,0,0
 Springfield House Care Home,1,3,0,0,0,1,0
