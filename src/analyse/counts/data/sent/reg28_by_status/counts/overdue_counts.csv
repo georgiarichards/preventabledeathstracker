@@ -149,6 +149,7 @@ Fitness First,1,100.0
 Floron Residential Home,1,100.0
 Four Season’s Healthcare Home,1,100.0
 Fremantle Trust,1,100.0
+Fresh Student Living,1,100.0
 Friendship Care and Housing Limited,1,100.0
 Frome Nursing Home,1,100.0
 GP,1,100.0
@@ -201,6 +202,7 @@ House of Commons,1,100.0
 Hull City Council,1,100.0
 Human Resources,1,100.0
 Humankind Charity,1,100.0
+Humber Teaching NHS Foundation Trust,1,100.0
 Hurst Hall Care Centre,1,100.0
 Hylton View Care Home,1,100.0
 Ideal Care Home Ltd,1,100.0
@@ -412,6 +414,7 @@ Unilink Software Ltd,1,100.0
 United Care (North) Limited,1,100.0
 United Response,1,100.0
 Unity MAT,1,100.0
+University of Arts London,1,100.0
 University of Southampton,1,100.0
 Unusual Rigging Ltd,1,100.0
 Upwell Street Surgery,1,100.0
@@ -713,8 +716,10 @@ NHS Cornwall and Isles of Scilly Integrated Care Board,4,29.0
 Bupa,2,29.0
 North Yorkshire Council,2,29.0
 Nottinghamshire County Council,2,29.0
+Oxford Health NHS Foundation Trust,2,29.0
 Tower Hamlets Council,2,29.0
 Medicines and Healthcare Products Regulatory Agency,17,28.0
+University Hospitals Sussex NHS Foundation Trust,17,28.0
 Central and North West London NHS Foundation Trust,9,28.0
 Barts Health NHS Trust,18,27.0
 London Ambulance Service NHS Trust,7,27.0
@@ -726,7 +731,6 @@ Royal Pharmaceutical Society,3,27.0
 South West London and St George’s Mental Health NHS Trust,3,27.0
 South West Yorkshire Partnership NHS Foundation Trust,3,27.0
 HM Prison and Probation Service,40,26.0
-University Hospitals Sussex NHS Foundation Trust,16,26.0
 Care Quality Commission,43,25.0
 Pennine Care NHS Foundation Trust,12,25.0
 General Medical Council,9,25.0
@@ -828,7 +832,7 @@ Royal College of Psychiatrists,4,18.0
 Transport for London,4,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
-Department of Health and Social Care,125,17.0
+Department of Health and Social Care,126,17.0
 Home Office,18,17.0
 College of Policing,7,17.0
 Cornwall Council,4,17.0
@@ -863,7 +867,6 @@ Cambridgeshire County Council,1,14.0
 Epsom and St Helier University Hospitals NHS Trust,1,14.0
 Independent Office for Police Conduct,1,14.0
 Milton Keynes City Council,1,14.0
-Oxford Health NHS Foundation Trust,1,14.0
 Royal College of Nursing,1,14.0
 Stockport Council,1,14.0
 "Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust",1,14.0

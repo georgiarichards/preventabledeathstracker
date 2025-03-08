@@ -1,5 +1,5 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,14,739,57,421,181,125,12
+Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,14,739,57,421,181,126,11
 NHS England,6,25,22,33,27,36,45,27,42,42,85,110,15,515,50,260,138,106,11
 Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,3,171,37,64,61,43,3
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,2,156,42,66,48,40,2
@@ -13,7 +13,7 @@ Betsi Cadwaladr University Health Board,1,9,8,4,9,2,2,1,4,4,21,10,1,76,71,54,3,1
 Barts Health NHS Trust,0,5,5,6,5,7,9,8,2,6,8,5,0,66,53,35,13,18,0
 Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,7,6,2,65,52,34,17,12,2
 National Highways,1,7,8,4,7,1,9,4,4,5,6,6,2,64,47,30,8,24,2
-University Hospitals Sussex NHS Foundation Trust,1,11,5,11,6,6,6,1,4,2,4,3,1,61,51,31,13,16,1
+University Hospitals Sussex NHS Foundation Trust,1,11,5,11,6,6,6,1,4,2,4,3,1,61,51,31,13,17,0
 Medicines and Healthcare Products Regulatory Agency,1,9,4,5,3,4,5,5,4,4,7,8,2,61,43,26,17,17,1
 Health and Safety Executive,4,3,3,5,6,5,9,1,4,3,9,5,1,58,34,20,19,18,1
 National Police Chiefs’ Council,1,3,5,2,2,2,8,2,11,3,10,6,2,57,26,15,31,10,1
@@ -226,7 +226,7 @@ Royal College of Nursing,1,0,0,0,0,0,1,2,0,1,0,2,0,7,43,3,3,1,0
 North Yorkshire Council,1,0,0,1,0,1,0,0,1,1,1,1,0,7,57,4,1,2,0
 Calderdale and Huddersfield NHS Foundation Trust,0,0,3,1,0,0,2,0,0,1,0,0,0,7,29,2,0,5,0
 Stockport Council,0,0,1,1,0,0,1,1,1,0,0,2,0,7,71,5,1,1,0
-Oxford Health NHS Foundation Trust,0,0,0,0,0,0,0,0,1,1,2,2,1,7,71,5,0,1,1
+Oxford Health NHS Foundation Trust,0,0,0,0,0,0,0,0,1,1,2,2,1,7,71,5,0,2,0
 Cambridgeshire County Council,0,1,0,0,0,0,0,0,1,1,3,1,0,7,86,6,0,1,0
 Bedfordshire Police,0,0,0,1,1,1,1,0,1,0,1,1,0,7,43,3,3,1,0
 Bupa,0,2,0,1,1,1,0,0,0,1,1,0,0,7,71,5,0,2,0
@@ -754,7 +754,7 @@ Greater Manchester Neurorehabilitation Integrated Stroke Delivery Network,0,0,0,
 Free the Way,0,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
 Fremantle Trust,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Fremington Medical Centre,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-Fresh Student Living,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Fresh Student Living,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Friendship Care and Housing Limited,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
 Finchale Abbey Farm,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Fire and Rescue Oxfordshire,0,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
@@ -922,7 +922,7 @@ Hilltops Medical Centre,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
 Hilton Hotel,0,0,0,1,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Himalayan Encounters,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Hindley Health Centre Pharmacy,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-Humber Teaching NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Humber Teaching NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Humberside Police,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 Hunters Lodge Care Home,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100,1,0,0,0
 Hurst Hall Care Centre,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
@@ -2021,7 +2021,7 @@ Upwell Street Surgery,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
 Urban Housing Services,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100,1,0,0,0
 Urgent Health UK,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
 Vale of Glamorgan Council,0,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
-University of Arts London,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+University of Arts London,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 University of Cambridge,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
 University of Hertfordshire,0,0,0,0,1,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 UPS,0,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0

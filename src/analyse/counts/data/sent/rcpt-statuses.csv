@@ -1,5 +1,5 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,739,1762,1217,421,181,125,12
+Department of Health and Social Care,739,1762,1217,421,181,126,11
 NHS England,515,1394,892,260,138,106,11
 Care Quality Commission,171,501,292,64,61,43,3
 HM Prison and Probation Service,156,359,187,66,48,40,2
@@ -13,7 +13,7 @@ Betsi Cadwaladr University Health Board,76,101,65,54,3,18,1
 Barts Health NHS Trust,66,103,66,35,13,18,0
 Metropolitan Police Service,65,157,114,34,17,12,2
 National Highways,64,102,58,30,8,24,2
-University Hospitals Sussex NHS Foundation Trust,61,104,65,31,13,16,1
+University Hospitals Sussex NHS Foundation Trust,61,104,65,31,13,17,0
 Medicines and Healthcare Products Regulatory Agency,61,178,103,26,17,17,1
 Health and Safety Executive,58,175,79,20,19,18,1
 National Police Chiefs’ Council,57,204,144,15,31,10,1
@@ -226,7 +226,7 @@ Royal College of Nursing,7,18,11,3,3,1,0
 North Yorkshire Council,7,16,14,4,1,2,0
 Calderdale and Huddersfield NHS Foundation Trust,7,9,3,2,0,5,0
 Stockport Council,7,13,11,5,1,1,0
-Oxford Health NHS Foundation Trust,7,14,12,5,0,1,1
+Oxford Health NHS Foundation Trust,7,14,12,5,0,2,0
 Cambridgeshire County Council,7,11,10,6,0,1,0
 Bedfordshire Police,7,12,10,3,3,1,0
 Bupa,7,11,7,5,0,2,0
@@ -754,7 +754,7 @@ Greater Manchester Neurorehabilitation Integrated Stroke Delivery Network,1,2,0,
 Free the Way,1,1,1,1,0,0,0
 Fremantle Trust,1,1,0,0,0,1,0
 Fremington Medical Centre,1,5,4,0,1,0,0
-Fresh Student Living,1,2,0,0,0,0,1
+Fresh Student Living,1,2,0,0,0,1,0
 Friendship Care and Housing Limited,1,1,0,0,0,1,0
 Finchale Abbey Farm,1,2,1,0,1,0,0
 Fire and Rescue Oxfordshire,1,1,1,1,0,0,0
@@ -922,7 +922,7 @@ Hilltops Medical Centre,1,3,2,0,1,0,0
 Hilton Hotel,1,2,2,1,0,0,0
 Himalayan Encounters,1,5,1,0,1,0,0
 Hindley Health Centre Pharmacy,1,2,1,0,1,0,0
-Humber Teaching NHS Foundation Trust,1,1,0,0,0,0,1
+Humber Teaching NHS Foundation Trust,1,1,0,0,0,1,0
 Humberside Police,1,1,1,1,0,0,0
 Hunters Lodge Care Home,1,1,1,1,0,0,0
 Hurst Hall Care Centre,1,1,0,0,0,1,0
@@ -2021,7 +2021,7 @@ Upwell Street Surgery,1,4,0,0,0,1,0
 Urban Housing Services,1,3,3,1,0,0,0
 Urgent Health UK,1,4,2,0,1,0,0
 Vale of Glamorgan Council,1,1,1,1,0,0,0
-University of Arts London,1,2,0,0,0,0,1
+University of Arts London,1,2,0,0,0,1,0
 University of Cambridge,1,10,9,0,1,0,0
 University of Hertfordshire,1,1,3,1,0,0,0
 UPS,1,2,2,1,0,0,0
