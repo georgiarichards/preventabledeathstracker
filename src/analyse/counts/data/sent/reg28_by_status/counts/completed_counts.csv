@@ -718,7 +718,6 @@ Oxford Health NHS Foundation Trust,5,71.0
 Stockport Council,5,71.0
 "Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust",5,71.0
 Egton Medical Information Systems,7,70.0
-Birmingham and Solihull Mental Health NHS Foundation Trust,22,67.0
 Devon Partnership NHS Trust,14,67.0
 The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,12,67.0
 Bedfordshire Hospitals NHS Foundation Trust,10,67.0
@@ -760,6 +759,7 @@ The Lakes Care Centre,2,67.0
 Universities and Colleges Admissions Service,2,67.0
 Whirlpool UK,2,67.0
 Wrexham County Borough Council,2,67.0
+Birmingham and Solihull Mental Health NHS Foundation Trust,22,65.0
 Midlands Partnership University NHS Foundation Trust,17,65.0
 University Hospitals of North Midlands NHS Trust,17,65.0
 Cornwall Council,15,65.0
@@ -798,7 +798,6 @@ South Yorkshire Police,3,60.0
 Stoke on Trent City Council,3,60.0
 The Phoenix Partnership,3,60.0
 West Mercia Police,3,60.0
-Greater Manchester Police,20,59.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,19,59.0
 Aneurin Bevan University Health Board,16,59.0
 Cumbria County Council,10,59.0
@@ -809,6 +808,7 @@ Cornwall Partnership NHS Foundation Trust,7,58.0
 Great Western Hospitals NHS Foundation Trust,7,58.0
 Mid Yorkshire Teaching NHS Trust,7,58.0
 Department of Health and Social Care,421,57.0
+Greater Manchester Police,20,57.0
 Leeds Teaching Hospitals NHS Trust,13,57.0
 University Hospitals Dorset NHS Foundation Trust,13,57.0
 Herefordshire and Worcestershire Health and Care NHS Trust,12,57.0
@@ -816,7 +816,6 @@ County Durham and Darlington NHS Foundation Trust,8,57.0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,8,57.0
 Hywel Dda University Health Board,8,57.0
 North Yorkshire Council,4,57.0
-Shrewsbury and Telford Hospital NHS Trust,4,57.0
 South Wales Police,4,57.0
 Tower Hamlets Council,4,57.0
 North London NHS Foundation Trust,20,56.0
@@ -829,7 +828,6 @@ HC One,5,56.0
 Royal College of Radiologists,5,56.0
 Staffordshire County Council,5,56.0
 Transport for London,12,55.0
-Devon and Cornwall Police,6,55.0
 South West London and St George’s Mental Health NHS Trust,6,55.0
 Whittington Health NHS Trust,6,55.0
 Northern Care Alliance NHS Foundation Trust,22,54.0
@@ -851,7 +849,7 @@ University Hospitals Plymouth NHS Trust,10,50.0
 Royal College of Anaesthetists,8,50.0
 Office for Product Safety and Standards,7,50.0
 Royal Free London NHS Foundation Trust,7,50.0
-Coventry and Warwickshire Partnership NHS Trust,6,50.0
+Devon and Cornwall Police,6,50.0
 Frimley Health NHS Foundation Trust,5,50.0
 Royal United Hospitals Bath NHS Foundation Trust,5,50.0
 South Tyneside and Sunderland NHS Foundation Trust,5,50.0
@@ -863,6 +861,7 @@ Hull University Teaching Hospitals NHS Trust,4,50.0
 Lewisham and Greenwich NHS Trust,4,50.0
 NHS Wales,4,50.0
 Royal Devon University Healthcare NHS Foundation Trust,4,50.0
+Shrewsbury and Telford Hospital NHS Trust,4,50.0
 Suffolk County Council,4,50.0
 West Yorkshire Police,4,50.0
 Bolton Council,3,50.0
@@ -980,15 +979,16 @@ University of Bristol,1,50.0
 Veterinary Medicines Directorate,1,50.0
 Waste Industry Safety and Health Forum,1,50.0
 Welsh Cycling,1,50.0
-National Institute for Health and Care Excellence,48,48.0
 North East London NHS Foundation Trust,14,48.0
 East Midlands Ambulance Service NHS Trust,10,48.0
+National Institute for Health and Care Excellence,48,47.0
 National Highways,30,47.0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",14,47.0
 North East Ambulance Service NHS Foundation Trust,8,47.0
 Black Country Healthcare NHS Foundation Trust,7,47.0
 "Department for Business, Energy and Industrial Strategy",7,47.0
 University Hospitals of Derby and Burton NHS Foundation Trust,7,47.0
+Coventry and Warwickshire Partnership NHS Trust,6,46.0
 East Lancashire Hospitals NHS Trust,6,46.0
 Portsmouth Hospitals University NHS Trust,6,46.0
 Department for Transport,50,45.0
@@ -1002,7 +1002,6 @@ British Transport Police,4,44.0
 Kent County Council,4,44.0
 The Royal Wolverhampton NHS Trust,4,44.0
 Warwickshire County Council,4,44.0
-Medicines and Healthcare Products Regulatory Agency,26,43.0
 Department for Education,20,43.0
 Cardiff and Vale University Health Board,10,43.0
 South London and Maudsley NHS Foundation Trust,9,43.0
@@ -1021,8 +1020,8 @@ Nottinghamshire County Council,3,43.0
 Royal College of Nursing,3,43.0
 Wiltshire Council,3,43.0
 HM Prison and Probation Service,66,42.0
+Medicines and Healthcare Products Regulatory Agency,26,42.0
 Greater Manchester Mental Health NHS Foundation Trust,19,42.0
-Cwm Taf Morgannwg University Health Board,16,42.0
 Essex Partnership University NHS Foundation Trust,14,42.0
 "Department for Culture, Media and Sport",10,42.0
 NHS Derby and Derbyshire Integrated Care Board,10,42.0
@@ -1030,6 +1029,7 @@ Norfolk and Norwich University Hospitals NHS Foundation Trust,5,42.0
 Practice Plus Group,5,42.0
 Sheffield Teaching Hospitals NHS Foundation Trust,5,42.0
 Home Office,42,41.0
+Cwm Taf Morgannwg University Health Board,16,41.0
 Central and North West London NHS Foundation Trust,13,41.0
 Royal College of Paediatrics and Child Health,11,41.0
 Avon and Wiltshire Mental Health Partnership NHS Trust,9,41.0
@@ -1066,8 +1066,8 @@ Isle of Wight Council,3,38.0
 NHS West Yorkshire Integrated Care Board,3,38.0
 Royal Berkshire NHS Foundation Trust,3,38.0
 Care Quality Commission,64,37.0
-College of Policing,15,37.0
 Surrey County Council,7,37.0
+College of Policing,15,36.0
 Care UK,9,36.0
 General Pharmaceutical Council,5,36.0
 Maritime and Coastguard Agency,5,36.0
@@ -1075,7 +1075,6 @@ South West Yorkshire Partnership NHS Foundation Trust,4,36.0
 London Ambulance Service NHS Trust,9,35.0
 Health and Safety Executive,20,34.0
 South Central Ambulance Service NHS Foundation Trust,6,33.0
-South Western Ambulance Service NHS Foundation Trust,4,33.0
 NHS Devon Integrated Care Board,3,33.0
 NHS Cheshire and Merseyside Integrated Care Board,2,33.0
 NHS Kent and Medway Integrated Care Board,2,33.0
@@ -1117,16 +1116,17 @@ Somerset County Council,1,33.0
 Torbay and South Devon NHS Foundation Trust,1,33.0
 Wakefield Council,1,33.0
 Wigan Council,1,33.0
+South Western Ambulance Service NHS Foundation Trust,4,31.0
 Trafford Council,3,30.0
-Birmingham City Council,4,29.0
 Calderdale and Huddersfield NHS Foundation Trust,2,29.0
 Royal National Lifeboat Institution,2,29.0
 Association of Ambulance Chief Executives,9,27.0
 Royal College of Obstetricians and Gynaecologists,7,27.0
-Royal College of Psychiatrists,6,27.0
-Royal College of Physicians,4,27.0
+Birmingham City Council,4,27.0
 British Medical Association,3,27.0
 National Police Chiefs’ Council,15,26.0
+Royal College of Psychiatrists,6,26.0
+Royal College of Physicians,4,25.0
 Health Services Safety Investigations Body,2,25.0
 Association of Directors of Adult Social Services,1,25.0
 Barnsley Hospital NHS Foundation Trust,1,25.0
