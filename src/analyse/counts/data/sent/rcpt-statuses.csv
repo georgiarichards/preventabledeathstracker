@@ -1,10 +1,10 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,742,1769,1217,421,181,126,14
+Department of Health and Social Care,742,1769,1217,421,181,127,13
 NHS England,517,1401,892,260,138,106,13
 Care Quality Commission,172,506,292,64,61,43,4
 HM Prison and Probation Service,156,359,187,66,48,40,2
 Ministry of Justice,110,293,140,26,47,34,3
-Department for Transport,110,288,175,50,28,26,6
+Department for Transport,110,288,175,50,28,29,3
 Home Office,103,337,252,42,42,18,1
 National Institute for Health and Care Excellence,102,281,177,48,22,29,3
 NHS Greater Manchester Integrated Care Board,97,238,159,62,19,16,0
@@ -13,7 +13,7 @@ REDACTED,76,252,78,14,34,24,4
 Barts Health NHS Trust,66,103,66,35,13,18,0
 Metropolitan Police Service,65,157,114,34,17,12,2
 National Highways,64,102,58,30,8,24,2
-Medicines and Healthcare Products Regulatory Agency,62,183,103,26,17,17,2
+Medicines and Healthcare Products Regulatory Agency,62,183,103,26,17,18,1
 University Hospitals Sussex NHS Foundation Trust,61,104,65,31,13,17,0
 Health and Safety Executive,58,175,79,20,19,18,1
 National Police Chiefs’ Council,58,206,144,15,31,10,2
@@ -206,7 +206,7 @@ Devon County Council,8,14,5,4,0,4,0
 Homerton Healthcare NHS Foundation Trust,8,15,11,4,2,2,0
 NHS Wales,8,22,13,4,2,2,0
 Royal Devon University Healthcare NHS Foundation Trust,8,14,11,4,2,2,0
-Birmingham Women's and Children's NHS Foundation Trust,8,20,4,0,2,5,1
+Birmingham Women's and Children's NHS Foundation Trust,8,20,4,0,2,6,0
 NHS West Yorkshire Integrated Care Board,8,29,9,3,2,3,0
 Chief Fire Officers Association,8,30,11,3,1,4,0
 Hampshire and Isle of Wight Constabulary,8,20,7,3,1,4,0
@@ -785,7 +785,7 @@ Stoneham Bass,1,1,1,1,0,0,0
 The Difficult Airway Society,1,4,3,0,1,0,0
 The Cotswold Hunt,1,2,1,0,1,0,0
 Viatris UK Healthcare Ltd,1,4,4,1,0,0,0
-Victoria Residential Home,1,1,0,0,0,0,1
+Victoria Residential Home,1,1,0,0,0,1,0
 Old Bridge Surgery,1,2,2,1,0,0,0
 The Clatterbridge Cancer Centre NHS Foundation Trust,1,1,1,1,0,0,0
 Orchard Surgery,1,4,0,0,0,1,0
@@ -1741,7 +1741,7 @@ Locala,1,9,5,0,1,0,0
 Local Health Board,1,3,4,1,0,0,0
 Livewell Southwest,1,1,1,1,0,0,0
 Liverpool Womens Hospital NHS Foundation Trust,1,1,1,1,0,0,0
-LivaNova UK Limited,1,1,0,0,0,0,1
+LivaNova UK Limited,1,1,0,0,0,1,0
 Littleborough Care Home,1,4,0,0,0,1,0
 Little Trethew Horningtops,1,2,2,1,0,0,0
 Litch Care for Action,1,2,1,0,1,0,0

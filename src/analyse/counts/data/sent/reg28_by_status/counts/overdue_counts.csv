@@ -231,6 +231,7 @@ Leeds Martial Arts College,1,100.0
 Liftmaster Servicing,1,100.0
 Linden Medical Group – Stapleford Care Centre,1,100.0
 Littleborough Care Home,1,100.0
+LivaNova UK Limited,1,100.0
 Lodge Road Surgery,1,100.0
 London Borough of Ealing,1,100.0
 London Borough of Harrow,1,100.0
@@ -418,6 +419,7 @@ University of Arts London,1,100.0
 University of Southampton,1,100.0
 Unusual Rigging Ltd,1,100.0
 Upwell Street Surgery,1,100.0
+Victoria Residential Home,1,100.0
 Village Nursing and Care Home,1,100.0
 Volvo Car Corporation,1,100.0
 Voyage Care,1,100.0
@@ -438,6 +440,7 @@ Zelltec Limited,1,100.0
 Isle of Wight NHS Trust,5,83.0
 Mitie Group,4,80.0
 Plymouth City Council,4,80.0
+Birmingham Women's and Children's NHS Foundation Trust,6,75.0
 Gateshead Health NHS Foundation Trust,3,75.0
 Lancashire Teaching Hospitals NHS Foundation Trust,3,75.0
 Lincolnshire Police,3,75.0
@@ -466,7 +469,6 @@ Ofgem,2,67.0
 Royal College of Midwives,2,67.0
 Somerset County Council,2,67.0
 Dorset Healthcare University NHS Foundation Trust,9,64.0
-Birmingham Women's and Children's NHS Foundation Trust,5,62.0
 ABTA – The Travel Association,3,60.0
 Chesterfield Royal Hospital NHS Foundation Trust,3,60.0
 HM Prison Wandsworth,3,60.0
@@ -705,6 +707,7 @@ University Hospitals Dorset NHS Foundation Trust,7,30.0
 Royal College of Surgeons,3,30.0
 Royal United Hospitals Bath NHS Foundation Trust,3,30.0
 Walsall Healthcare NHS Trust,3,30.0
+Medicines and Healthcare Products Regulatory Agency,18,29.0
 South London and Maudsley NHS Foundation Trust,6,29.0
 Cumbria County Council,5,29.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,29.0
@@ -721,7 +724,6 @@ National Institute for Health and Care Excellence,29,28.0
 University Hospitals Sussex NHS Foundation Trust,17,28.0
 Central and North West London NHS Foundation Trust,9,28.0
 Barts Health NHS Trust,18,27.0
-Medicines and Healthcare Products Regulatory Agency,17,27.0
 London Ambulance Service NHS Trust,7,27.0
 Royal College of Obstetricians and Gynaecologists,7,27.0
 Bedfordshire Hospitals NHS Foundation Trust,4,27.0
@@ -731,6 +733,7 @@ Royal Pharmaceutical Society,3,27.0
 South West London and St George’s Mental Health NHS Trust,3,27.0
 South West Yorkshire Partnership NHS Foundation Trust,3,27.0
 HM Prison and Probation Service,40,26.0
+Department for Transport,29,26.0
 Care Quality Commission,43,25.0
 Pennine Care NHS Foundation Trust,12,25.0
 General Medical Council,9,25.0
@@ -770,7 +773,6 @@ Somerset NHS Foundation Trust,1,25.0
 Traffic Commissioners for Great Britain,1,25.0
 West Hertfordshire Teaching Hospitals NHS Trust,1,25.0
 Youth Justice Board,1,25.0
-Department for Transport,26,24.0
 Betsi Cadwaladr University Health Board,18,24.0
 Network Rail,10,24.0
 Northern Care Alliance NHS Foundation Trust,10,24.0
@@ -830,7 +832,7 @@ Association of Ambulance Chief Executives,6,18.0
 Transport for London,4,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
-Department of Health and Social Care,126,17.0
+Department of Health and Social Care,127,17.0
 Home Office,18,17.0
 National Police Chiefs’ Council,10,17.0
 College of Policing,7,17.0

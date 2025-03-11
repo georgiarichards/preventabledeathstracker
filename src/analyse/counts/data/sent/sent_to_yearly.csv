@@ -1,10 +1,10 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,17,742,57,421,181,126,14
+Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,17,742,57,421,181,127,13
 NHS England,6,25,22,33,27,36,45,27,42,42,85,110,17,517,50,260,138,106,13
 Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,4,172,37,64,61,43,4
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,2,156,42,66,48,40,2
 Ministry of Justice,1,12,6,8,2,8,13,0,12,11,11,22,4,110,24,26,47,34,3
-Department for Transport,1,13,6,12,9,6,6,8,7,8,12,16,6,110,45,50,28,26,6
+Department for Transport,1,13,6,12,9,6,6,8,7,8,12,16,6,110,45,50,28,29,3
 Home Office,2,8,10,5,4,5,12,8,13,10,12,13,1,103,41,42,42,18,1
 National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,6,16,20,4,102,47,48,22,29,3
 NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,13,12,20,11,10,13,0,97,64,62,19,16,0
@@ -13,7 +13,7 @@ REDACTED,3,26,9,0,3,1,2,0,0,5,6,17,4,76,18,14,34,24,4
 Barts Health NHS Trust,0,5,5,6,5,7,9,8,2,6,8,5,0,66,53,35,13,18,0
 Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,7,6,2,65,52,34,17,12,2
 National Highways,1,7,8,4,7,1,9,4,4,5,6,6,2,64,47,30,8,24,2
-Medicines and Healthcare Products Regulatory Agency,1,9,4,5,3,4,5,5,4,4,7,8,3,62,42,26,17,17,2
+Medicines and Healthcare Products Regulatory Agency,1,9,4,5,3,4,5,5,4,4,7,8,3,62,42,26,17,18,1
 University Hospitals Sussex NHS Foundation Trust,1,11,5,11,6,6,6,1,4,2,4,3,1,61,51,31,13,17,0
 Health and Safety Executive,4,3,3,5,6,5,9,1,4,3,9,5,1,58,34,20,19,18,1
 National Police Chiefs’ Council,1,3,5,2,2,2,8,2,11,3,10,6,3,58,26,15,31,10,2
@@ -206,7 +206,7 @@ Devon County Council,1,0,1,2,0,1,0,0,2,0,1,0,0,8,50,4,0,4,0
 Homerton Healthcare NHS Foundation Trust,0,0,0,1,2,2,0,0,1,0,1,1,0,8,50,4,2,2,0
 NHS Wales,0,0,3,2,0,0,1,0,0,0,0,2,0,8,50,4,2,2,0
 Royal Devon University Healthcare NHS Foundation Trust,0,2,3,0,1,0,1,0,0,0,1,0,0,8,50,4,2,2,0
-Birmingham Women's and Children's NHS Foundation Trust,1,0,1,0,1,2,1,0,0,1,0,0,1,8,0,0,2,5,1
+Birmingham Women's and Children's NHS Foundation Trust,1,0,1,0,1,2,1,0,0,1,0,0,1,8,0,0,2,6,0
 NHS West Yorkshire Integrated Care Board,0,1,1,0,0,0,0,0,0,0,3,3,0,8,38,3,2,3,0
 Chief Fire Officers Association,1,1,0,2,4,0,0,0,0,0,0,0,0,8,38,3,1,4,0
 Hampshire and Isle of Wight Constabulary,0,1,0,1,0,0,4,0,0,0,1,1,0,8,38,3,1,4,0
@@ -785,7 +785,7 @@ Stoneham Bass,0,0,0,0,1,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 The Difficult Airway Society,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 The Cotswold Hunt,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Viatris UK Healthcare Ltd,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
-Victoria Residential Home,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Victoria Residential Home,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Old Bridge Surgery,0,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 The Clatterbridge Cancer Centre NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 Orchard Surgery,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
@@ -1741,7 +1741,7 @@ Locala,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Local Health Board,0,0,0,0,1,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Livewell Southwest,0,0,0,0,0,1,0,0,0,0,0,0,0,1,100,1,0,0,0
 Liverpool Womens Hospital NHS Foundation Trust,1,0,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
-LivaNova UK Limited,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+LivaNova UK Limited,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Littleborough Care Home,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Little Trethew Horningtops,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 Litch Care for Action,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
