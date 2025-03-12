@@ -751,6 +751,7 @@ Royal Berkshire NHS Foundation Trust,2,25.0
 Royal Devon University Healthcare NHS Foundation Trust,2,25.0
 Sheffield Health and Social Care NHS Foundation Trust,2,25.0
 Suffolk County Council,2,25.0
+West Yorkshire Police,2,25.0
 Barnsley Hospital NHS Foundation Trust,1,25.0
 British Association of Perinatal Medicine,1,25.0
 Chelsea and Westminster Hospital NHS Foundation Trust,1,25.0
@@ -821,7 +822,9 @@ Sainsbury's,1,20.0
 Staffordshire Police,1,20.0
 The Princess Alexandra Hospital NHS Trust,1,20.0
 West Mercia Police,1,20.0
+National Police Chiefs’ Council,11,19.0
 Department for Education,9,19.0
+College of Policing,8,19.0
 Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 North West Ambulance Service NHS Trust,4,19.0
 Royal College of Physicians,3,19.0
@@ -834,8 +837,6 @@ Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 Department of Health and Social Care,127,17.0
 Home Office,18,17.0
-National Police Chiefs’ Council,10,17.0
-College of Policing,7,17.0
 Cornwall Council,4,17.0
 "Department for Culture, Media and Sport",4,17.0
 Royal College of Psychiatrists,4,17.0
@@ -881,7 +882,6 @@ Civil Aviation Authority,2,12.0
 NHS Birmingham and Solihull Integrated Care Board,2,12.0
 Worcestershire Acute Hospitals NHS Trust,2,12.0
 Hampshire County Council,1,12.0
-West Yorkshire Police,1,12.0
 Greater Manchester Police,4,11.0
 Surrey County Council,2,11.0
 The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,2,11.0
