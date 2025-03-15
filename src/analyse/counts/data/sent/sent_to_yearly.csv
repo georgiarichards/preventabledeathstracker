@@ -26,7 +26,7 @@ College of Policing,0,1,1,1,0,1,7,3,5,5,9,6,3,42,36,15,18,8,1
 Network Rail,0,6,2,4,5,7,5,2,4,2,3,1,0,41,63,26,5,10,0
 Northern Care Alliance NHS Foundation Trust,3,1,6,2,8,5,9,0,4,0,1,2,0,41,54,22,9,10,0
 Manchester University NHS Foundation Trust,0,5,3,9,1,6,6,3,1,2,1,3,0,40,40,16,7,17,0
-Cwm Taf Morgannwg University Health Board,0,6,7,1,4,4,7,1,2,2,0,3,2,39,41,16,5,16,2
+Cwm Taf Morgannwg University Health Board,0,6,7,1,4,4,7,1,2,2,0,3,2,39,41,16,5,17,1
 Norfolk and Suffolk NHS Foundation Trust,1,4,4,0,4,2,7,1,3,5,0,7,0,38,71,27,4,7,0
 "Ministry of Housing, Communities and Local Government",1,3,4,1,2,1,4,4,2,3,3,9,1,38,58,22,9,6,1
 East London NHS Foundation Trust,0,2,0,3,11,1,2,1,1,6,5,6,0,38,58,22,4,12,0
@@ -66,7 +66,7 @@ Cornwall Council,0,1,2,4,0,1,3,0,4,3,2,3,0,23,65,15,4,4,0
 University Hospitals Dorset NHS Foundation Trust,2,10,3,5,1,0,0,0,0,1,1,0,0,23,57,13,3,7,0
 Transport for London,1,0,2,2,6,3,2,3,1,2,0,0,0,22,55,12,6,4,0
 Avon and Wiltshire Mental Health Partnership NHS Trust,1,0,8,4,2,1,3,0,1,1,0,1,0,22,41,9,8,5,0
-Welsh Government,1,1,0,2,3,2,2,0,1,0,2,5,2,21,43,9,7,3,2
+Welsh Government,1,1,0,2,3,2,2,0,1,0,2,5,2,21,43,9,7,4,1
 Herefordshire and Worcestershire Health and Care NHS Trust,2,0,4,3,0,1,1,1,0,3,2,3,1,21,57,12,4,4,1
 East Midlands Ambulance Service NHS Trust,0,1,4,3,1,2,4,1,1,1,1,2,0,21,48,10,8,3,0
 West Midlands Police,0,3,0,1,1,1,4,1,2,2,2,4,0,21,52,11,9,1,0
@@ -93,7 +93,7 @@ Civil Aviation Authority,0,0,2,5,1,1,2,1,2,0,2,1,0,17,76,13,2,2,0
 Mid and South Essex NHS Foundation Trust,0,4,0,1,1,0,0,1,0,0,2,6,2,17,59,10,0,5,2
 Royal College of Anaesthetists,0,2,1,0,2,1,0,0,2,1,1,5,1,16,50,8,6,1,1
 St George’s University Hospitals NHS Foundation Trust,0,1,1,5,2,2,1,2,1,1,0,0,0,16,19,3,6,7,0
-Worcestershire Acute Hospitals NHS Trust,0,0,3,0,1,0,0,0,1,1,2,6,2,16,75,12,0,2,2
+Worcestershire Acute Hospitals NHS Trust,0,0,3,0,1,0,0,0,1,1,2,6,2,16,75,12,0,3,1
 Royal College of Physicians,0,3,0,1,0,1,1,1,2,0,2,3,2,16,25,4,7,3,2
 Driver and Vehicle Licensing Agency,1,0,2,1,2,2,0,0,3,0,1,3,1,16,19,3,5,7,1
 South East Coast Ambulance Service NHS Foundation Trust,0,0,0,0,1,2,4,1,2,0,3,3,0,16,81,13,0,3,0
@@ -636,7 +636,7 @@ One Stockport Health and Care Board,0,0,0,0,0,0,0,0,0,0,2,0,0,2,100,2,0,0,0
 Oracle,0,0,0,0,0,0,0,0,0,0,0,2,0,2,100,2,0,0,0
 Beko Plc,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,1,1,0
 Leeds Community Healthcare NHS Trust,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0
-Cyngor Bwrdeistref Sirol Pen-y-Bont ar Ogwr,0,0,0,0,1,0,0,0,0,0,0,0,1,2,50,1,0,0,1
+Cyngor Bwrdeistref Sirol Pen-y-Bont ar Ogwr,0,0,0,0,1,0,0,0,0,0,0,0,1,2,50,1,0,1,0
 Construction Industry Council,0,0,0,0,0,1,0,0,0,1,0,0,0,2,100,2,0,0,0
 Conwy County Council,0,1,0,0,1,0,0,0,0,0,0,0,0,2,50,1,1,0,0
 Southeastern Railway,0,0,0,0,1,0,0,1,0,0,0,0,0,2,50,1,1,0,0

@@ -26,7 +26,7 @@ College of Policing,42,16,1,25,60
 Network Rail,41,11,0,30,73
 Northern Care Alliance NHS Foundation Trust,41,21,0,20,49
 Manchester University NHS Foundation Trust,40,23,0,17,42
-Cwm Taf Morgannwg University Health Board,39,21,2,16,41
+Cwm Taf Morgannwg University Health Board,39,22,1,16,41
 Norfolk and Suffolk NHS Foundation Trust,38,11,0,27,71
 "Ministry of Housing, Communities and Local Government",38,19,1,18,47
 East London NHS Foundation Trust,38,14,0,24,63
@@ -66,7 +66,7 @@ Cornwall Council,23,7,0,16,70
 University Hospitals Dorset NHS Foundation Trust,23,11,0,12,52
 Transport for London,22,6,0,16,73
 Avon and Wiltshire Mental Health Partnership NHS Trust,22,13,0,9,41
-Welsh Government,21,6,2,13,62
+Welsh Government,21,7,1,13,62
 Herefordshire and Worcestershire Health and Care NHS Trust,21,8,1,12,57
 East Midlands Ambulance Service NHS Trust,21,9,0,12,57
 West Midlands Police,21,7,0,14,67
@@ -93,7 +93,7 @@ Civil Aviation Authority,17,4,0,13,76
 Mid and South Essex NHS Foundation Trust,17,5,2,10,59
 Royal College of Anaesthetists,16,8,1,7,44
 St George’s University Hospitals NHS Foundation Trust,16,13,0,3,19
-Worcestershire Acute Hospitals NHS Trust,16,2,2,12,75
+Worcestershire Acute Hospitals NHS Trust,16,3,1,12,75
 Royal College of Physicians,16,9,2,5,31
 Driver and Vehicle Licensing Agency,16,12,1,3,19
 South East Coast Ambulance Service NHS Foundation Trust,16,4,0,12,75
@@ -636,7 +636,7 @@ One Stockport Health and Care Board,2,0,0,2,100
 Oracle,2,0,0,2,100
 Beko Plc,2,2,0,0,0
 Leeds Community Healthcare NHS Trust,2,2,0,0,0
-Cyngor Bwrdeistref Sirol Pen-y-Bont ar Ogwr,2,0,1,1,50
+Cyngor Bwrdeistref Sirol Pen-y-Bont ar Ogwr,2,1,0,1,50
 Construction Industry Council,2,0,0,2,100
 Conwy County Council,2,1,0,1,50
 Southeastern Railway,2,1,0,1,50
