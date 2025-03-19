@@ -29,7 +29,7 @@ Manchester University NHS Foundation Trust,40,23,0,17,42
 Cwm Taf Morgannwg University Health Board,39,22,1,16,41
 East London NHS Foundation Trust,38,14,0,24,63
 Norfolk and Suffolk NHS Foundation Trust,38,11,0,27,71
-"Ministry of Housing, Communities and Local Government",38,19,1,18,47
+"Ministry of Housing, Communities and Local Government",38,20,0,18,47
 General Medical Council,36,22,2,12,33
 North London NHS Foundation Trust,36,14,2,20,56
 Greater Manchester Police,35,7,1,27,77
@@ -336,7 +336,7 @@ Ofsted,5,2,0,3,60
 Birmingham Community Healthcare NHS Foundation Trust,5,3,0,2,40
 Avon and Somerset Police,5,2,0,3,60
 Barnsley Hospital NHS Foundation Trust,4,3,0,1,25
-Cheshire Constabulary,4,1,1,2,50
+Cheshire Constabulary,4,2,0,2,50
 Redbridge Council,4,3,0,1,25
 Somerset NHS Foundation Trust,4,1,1,2,50
 Southampton City Council,4,4,0,0,0
@@ -1785,7 +1785,7 @@ Anastasia Boat,1,0,0,1,100
 Springfield Healthcare,1,1,0,0,0
 Stoneham Bass,1,0,0,1,100
 Stretton Medical Centre,1,1,0,0,0
-Stryker (UK) Ltd,1,0,1,0,0
+Stryker (UK) Ltd,1,1,0,0,0
 St Edward’s School,1,1,0,0,0
 St Giles Care Home,1,1,0,0,0
 St Giles Nursing Home,1,0,0,1,100
@@ -1853,7 +1853,7 @@ The Bexley Medical Group,1,0,0,1,100
 The Black Country Family Practice,1,1,0,0,0
 The Borchardt Medical Centre,1,1,0,0,0
 The British Army,1,1,0,0,0
-The British Orthopaedic Association,1,0,1,0,0
+The British Orthopaedic Association,1,1,0,0,0
 The British Retail Consortium,1,1,0,0,0
 TPP Group Limited,1,0,0,1,100
 TUI Group,1,1,0,0,0
