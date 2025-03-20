@@ -4,12 +4,12 @@ NHS England,520,182,15,323,62
 Care Quality Commission,172,100,4,68,40
 HM Prison and Probation Service,158,85,4,69,44
 Department for Transport,110,47,3,60,55
-Ministry of Justice,110,82,3,25,23
+Ministry of Justice,110,83,2,25,23
 Home Office,103,43,1,59,57
 National Institute for Health and Care Excellence,102,52,3,47,46
 NHS Greater Manchester Integrated Care Board,97,41,0,56,58
 Betsi Cadwaladr University Health Board,76,21,1,54,71
-REDACTED,76,58,4,14,18
+REDACTED,76,60,2,14,18
 Barts Health NHS Trust,66,25,0,41,62
 Metropolitan Police Service,65,31,2,32,49
 National Highways,64,34,1,29,45
@@ -30,7 +30,7 @@ Cwm Taf Morgannwg University Health Board,39,22,1,16,41
 East London NHS Foundation Trust,38,14,0,24,63
 Norfolk and Suffolk NHS Foundation Trust,38,11,0,27,71
 "Ministry of Housing, Communities and Local Government",38,20,0,18,47
-General Medical Council,36,22,2,12,33
+General Medical Council,36,23,1,12,33
 North London NHS Foundation Trust,36,14,2,20,56
 Greater Manchester Police,35,7,1,27,77
 Stockport NHS Foundation Trust,34,16,0,18,53
@@ -86,7 +86,7 @@ Civil Aviation Authority,18,4,1,13,72
 Public Health England,18,10,0,8,44
 South Central Ambulance Service NHS Foundation Trust,18,12,1,5,28
 Medway NHS Foundation Trust,17,8,0,9,53
-North East Ambulance Service NHS Foundation Trust,17,8,1,8,47
+North East Ambulance Service NHS Foundation Trust,17,9,0,8,47
 Mid and South Essex NHS Foundation Trust,17,5,2,10,59
 Kent and Medway NHS and Social Care Partnership Trust,17,10,0,7,41
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,17,5,1,11,65
@@ -680,7 +680,7 @@ GTD Healthcare,2,1,0,1,50
 GBUK Enteral,2,2,0,0,0
 Football Association,2,2,0,0,0
 Gateshead Council,2,1,0,1,50
-General Chiropractic Council,2,1,1,0,0
+General Chiropractic Council,2,2,0,0,0
 General Midwifery Council,2,1,0,1,50
 York and Scarborough Teaching Hospitals NHS Foundation Trust,2,0,0,2,100
 A ONE+,2,2,0,0,0

@@ -4,12 +4,12 @@ NHS England,520,1410,892,260,138,107,15
 Care Quality Commission,172,506,292,64,61,43,4
 HM Prison and Probation Service,158,365,187,66,48,40,4
 Department for Transport,110,288,175,50,28,29,3
-Ministry of Justice,110,293,140,26,47,34,3
+Ministry of Justice,110,293,140,26,47,35,2
 Home Office,103,337,252,42,42,18,1
 National Institute for Health and Care Excellence,102,281,177,48,22,29,3
 NHS Greater Manchester Integrated Care Board,97,238,159,62,19,16,0
 Betsi Cadwaladr University Health Board,76,101,65,54,3,18,1
-REDACTED,76,252,78,14,34,24,4
+REDACTED,76,252,78,14,34,26,2
 Barts Health NHS Trust,66,103,66,35,13,18,0
 Metropolitan Police Service,65,157,114,34,17,12,2
 National Highways,64,102,58,30,8,25,1
@@ -30,7 +30,7 @@ Cwm Taf Morgannwg University Health Board,39,80,29,16,5,17,1
 East London NHS Foundation Trust,38,61,38,22,4,12,0
 Norfolk and Suffolk NHS Foundation Trust,38,60,47,27,4,7,0
 "Ministry of Housing, Communities and Local Government",38,98,56,22,9,7,0
-General Medical Council,36,140,72,8,17,9,2
+General Medical Council,36,140,72,8,17,10,1
 North London NHS Foundation Trust,36,60,38,20,6,8,2
 Greater Manchester Police,35,110,83,20,10,4,1
 Stockport NHS Foundation Trust,34,50,27,19,2,13,0
@@ -86,7 +86,7 @@ Civil Aviation Authority,18,32,23,13,2,2,1
 Public Health England,18,58,28,4,7,7,0
 South Central Ambulance Service NHS Foundation Trust,18,39,21,6,5,6,1
 Medway NHS Foundation Trust,17,21,12,9,0,8,0
-North East Ambulance Service NHS Foundation Trust,17,31,18,8,3,5,1
+North East Ambulance Service NHS Foundation Trust,17,31,18,8,3,6,0
 Mid and South Essex NHS Foundation Trust,17,26,19,10,0,5,2
 Kent and Medway NHS and Social Care Partnership Trust,17,29,13,7,3,7,0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,17,21,11,11,0,5,1
@@ -680,7 +680,7 @@ GTD Healthcare,2,4,3,1,1,0,0
 GBUK Enteral,2,4,8,2,0,0,0
 Football Association,2,22,23,1,1,0,0
 Gateshead Council,2,2,1,1,0,1,0
-General Chiropractic Council,2,4,0,0,0,1,1
+General Chiropractic Council,2,4,0,0,0,2,0
 General Midwifery Council,2,7,6,1,1,0,0
 York and Scarborough Teaching Hospitals NHS Foundation Trust,2,3,3,2,0,0,0
 A ONE+,2,6,1,0,1,1,0
