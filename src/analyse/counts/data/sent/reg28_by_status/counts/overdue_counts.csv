@@ -46,6 +46,7 @@ Ashgate House Nursing Home,1,100.0
 Association of Conservative Clubs,1,100.0
 Association of Independent Gas Transporters,1,100.0
 Athena Care Homes (UK) Limited,1,100.0
+BARDOC,1,100.0
 BSI Group,1,100.0
 BUPA UK Provision,1,100.0
 Bamford Grange Nursing Home,1,100.0
@@ -508,6 +509,7 @@ Department for Business and Trade,2,50.0
 NHS Cambridgeshire and Peterborough Integrated Care Board,2,50.0
 NHS Frimley Integrated Care Board,2,50.0
 Prisons and Probation Ombudsman,2,50.0
+Somerset NHS Foundation Trust,2,50.0
 South Tyneside Council,2,50.0
 Suffolk Constabulary,2,50.0
 Sunderland City Council,2,50.0
@@ -648,6 +650,7 @@ British Medical Association,4,36.0
 South Tyneside and Sunderland NHS Foundation Trust,4,36.0
 North East Ambulance Service NHS Foundation Trust,6,35.0
 REDACTED,26,34.0
+Health and Safety Executive,19,33.0
 Nursing and Midwifery Council,6,33.0
 South Central Ambulance Service NHS Foundation Trust,6,33.0
 Great Western Hospitals NHS Foundation Trust,4,33.0
@@ -701,7 +704,6 @@ Wakefield Council,1,33.0
 Wigan Council,1,33.0
 Ministry of Justice,35,32.0
 East London NHS Foundation Trust,12,32.0
-Health and Safety Executive,18,31.0
 Greater Manchester Mental Health NHS Foundation Trust,14,31.0
 Surrey Police,5,31.0
 South Western Ambulance Service NHS Foundation Trust,4,31.0
@@ -775,7 +777,6 @@ Reading Borough Council,1,25.0
 Redbridge Council,1,25.0
 Rhondda Cynon Taf County Borough Council,1,25.0
 Royal Surrey NHS Foundation Trust,1,25.0
-Somerset NHS Foundation Trust,1,25.0
 Traffic Commissioners for Great Britain,1,25.0
 Wandsworth Council,1,25.0
 West Hertfordshire Teaching Hospitals NHS Trust,1,25.0
@@ -797,7 +798,7 @@ Cardiff and Vale University Health Board,5,22.0
 British Standards Institution,2,22.0
 HC One,2,22.0
 Royal Devon University Healthcare NHS Foundation Trust,2,22.0
-NHS England,107,21.0
+NHS England,108,21.0
 NHS Derby and Derbyshire Integrated Care Board,5,21.0
 Oxleas NHS Foundation Trust,5,21.0
 Priory Group Limited,4,21.0
@@ -833,6 +834,7 @@ Swansea Bay University Health Board,5,19.0
 Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 North West Ambulance Service NHS Trust,4,19.0
 Welsh Government,4,19.0
+NHS Birmingham and Solihull Integrated Care Board,3,19.0
 Royal College of Physicians,3,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
 Worcestershire Acute Hospitals NHS Trust,3,19.0
@@ -843,7 +845,7 @@ Association of Ambulance Chief Executives,6,18.0
 Transport for London,4,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
-Department of Health and Social Care,128,17.0
+Department of Health and Social Care,129,17.0
 Home Office,18,17.0
 Cornwall Council,4,17.0
 "Department for Culture, Media and Sport",4,17.0
@@ -885,7 +887,6 @@ Department for Work and Pensions,2,13.0
 Leicestershire Partnership NHS Trust,2,13.0
 Ministry of Defence,4,12.0
 Royal College of General Practitioners,3,12.0
-NHS Birmingham and Solihull Integrated Care Board,2,12.0
 Hampshire County Council,1,12.0
 Greater Manchester Police,4,11.0
 Civil Aviation Authority,2,11.0

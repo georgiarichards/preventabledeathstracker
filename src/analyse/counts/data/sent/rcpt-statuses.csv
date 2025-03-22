@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,742,1769,1217,421,181,128,12
-NHS England,520,1410,892,260,138,107,15
+Department of Health and Social Care,742,1769,1217,421,181,129,11
+NHS England,520,1410,892,260,138,108,14
 Care Quality Commission,172,506,292,64,61,43,4
 HM Prison and Probation Service,158,365,187,66,48,40,4
 Department for Transport,110,288,175,50,28,29,3
@@ -16,7 +16,7 @@ National Highways,64,102,58,30,8,25,1
 Medicines and Healthcare Products Regulatory Agency,62,183,103,26,17,18,1
 University Hospitals Sussex NHS Foundation Trust,62,106,65,31,13,17,1
 National Police Chiefs’ Council,59,211,144,15,31,11,2
-Health and Safety Executive,58,175,79,20,19,18,1
+Health and Safety Executive,58,175,79,20,19,19,0
 Pennine Care NHS Foundation Trust,48,116,62,24,12,12,0
 Welsh Ambulance Services University NHS Trust,47,94,57,29,7,11,0
 Department for Education,47,141,88,20,18,9,0
@@ -100,7 +100,7 @@ Royal College of Anaesthetists,16,62,41,8,6,1,1
 Worcestershire Acute Hospitals NHS Trust,16,23,18,12,0,3,1
 Royal College of Physicians,16,75,44,4,7,3,2
 Milton Keynes University Hospital NHS Foundation Trust,16,23,17,10,2,4,0
-NHS Birmingham and Solihull Integrated Care Board,16,55,40,9,4,2,1
+NHS Birmingham and Solihull Integrated Care Board,16,55,40,9,4,3,0
 Department for Work and Pensions,15,41,18,8,4,2,1
 "Department for Business, Energy and Industrial Strategy",15,43,20,7,5,3,0
 University Hospitals of Derby and Burton NHS Foundation Trust,15,27,16,7,5,3,0
@@ -338,7 +338,7 @@ Avon and Somerset Police,5,15,7,2,2,1,0
 Barnsley Hospital NHS Foundation Trust,4,6,3,1,2,1,0
 Cheshire Constabulary,4,21,14,1,1,2,0
 Redbridge Council,4,14,7,0,3,1,0
-Somerset NHS Foundation Trust,4,7,4,2,0,1,1
+Somerset NHS Foundation Trust,4,7,4,2,0,2,0
 Southampton City Council,4,7,1,0,1,3,0
 South Tyneside Council,4,6,3,2,0,2,0
 Association of Directors of Adult Social Services,4,11,3,1,1,2,0
@@ -1633,7 +1633,7 @@ Roseberry Care Centres,1,1,1,1,0,0,0
 Rosedale Care Home,1,1,1,1,0,0,0
 Rosedale Surgery Lowestoft,1,4,3,0,1,0,0
 Rosehill House Care Home,1,1,0,0,0,1,0
-BARDOC,1,2,0,0,0,0,1
+BARDOC,1,2,0,0,0,1,0
 BMJ Group,1,3,3,1,0,0,0
 BOC Limited,1,1,1,1,0,0,0
 BSI Group,1,4,0,0,0,1,0

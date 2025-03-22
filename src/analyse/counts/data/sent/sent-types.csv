@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,742,287,12,443,60
-NHS England,520,182,15,323,62
+Department of Health and Social Care,742,288,11,443,60
+NHS England,520,183,14,323,62
 Care Quality Commission,172,100,4,68,40
 HM Prison and Probation Service,158,85,4,69,44
 Department for Transport,110,47,3,60,55
@@ -16,7 +16,7 @@ National Highways,64,34,1,29,45
 Medicines and Healthcare Products Regulatory Agency,62,36,1,25,40
 University Hospitals Sussex NHS Foundation Trust,62,33,1,28,45
 National Police Chiefs’ Council,59,44,2,13,22
-Health and Safety Executive,58,34,1,23,40
+Health and Safety Executive,58,35,0,23,40
 Pennine Care NHS Foundation Trust,48,27,0,21,44
 Welsh Ambulance Services University NHS Trust,47,18,0,29,62
 Department for Education,47,19,0,28,60
@@ -100,7 +100,7 @@ Royal College of Anaesthetists,16,8,1,7,44
 Worcestershire Acute Hospitals NHS Trust,16,3,1,12,75
 Royal College of Physicians,16,9,2,5,31
 Milton Keynes University Hospital NHS Foundation Trust,16,7,0,9,56
-NHS Birmingham and Solihull Integrated Care Board,16,6,1,9,56
+NHS Birmingham and Solihull Integrated Care Board,16,7,0,9,56
 Department for Work and Pensions,15,6,1,8,53
 "Department for Business, Energy and Industrial Strategy",15,9,0,6,40
 University Hospitals of Derby and Burton NHS Foundation Trust,15,8,0,7,47
@@ -338,7 +338,7 @@ Avon and Somerset Police,5,2,0,3,60
 Barnsley Hospital NHS Foundation Trust,4,3,0,1,25
 Cheshire Constabulary,4,2,0,2,50
 Redbridge Council,4,3,0,1,25
-Somerset NHS Foundation Trust,4,1,1,2,50
+Somerset NHS Foundation Trust,4,2,0,2,50
 Southampton City Council,4,4,0,0,0
 South Tyneside Council,4,2,0,2,50
 Association of Directors of Adult Social Services,4,3,0,1,25
@@ -1633,7 +1633,7 @@ Roseberry Care Centres,1,0,0,1,100
 Rosedale Care Home,1,0,0,1,100
 Rosedale Surgery Lowestoft,1,1,0,0,0
 Rosehill House Care Home,1,1,0,0,0
-BARDOC,1,0,1,0,0
+BARDOC,1,1,0,0,0
 BMJ Group,1,0,0,1,100
 BOC Limited,1,0,0,1,100
 BSI Group,1,1,0,0,0
