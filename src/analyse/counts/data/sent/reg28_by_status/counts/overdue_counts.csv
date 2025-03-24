@@ -643,16 +643,16 @@ Isle of Wight Council,3,38.0
 NHS West Yorkshire Integrated Care Board,3,38.0
 Resuscitation Council UK,3,38.0
 Shrewsbury and Telford Hospital NHS Trust,3,38.0
-Essex Partnership University NHS Foundation Trust,12,36.0
 Hywel Dda University Health Board,5,36.0
-Royal Free London NHS Foundation Trust,5,36.0
 British Medical Association,4,36.0
 South Tyneside and Sunderland NHS Foundation Trust,4,36.0
+Essex Partnership University NHS Foundation Trust,12,35.0
 North East Ambulance Service NHS Foundation Trust,6,35.0
 REDACTED,26,34.0
 Health and Safety Executive,19,33.0
 Nursing and Midwifery Council,6,33.0
 South Central Ambulance Service NHS Foundation Trust,6,33.0
+Royal Free London NHS Foundation Trust,5,33.0
 Great Western Hospitals NHS Foundation Trust,4,33.0
 Kent County Council,3,33.0
 NHS Devon Integrated Care Board,3,33.0
@@ -794,11 +794,11 @@ Oxford University Hospitals NHS Foundation Trust,3,23.0
 Sussex Police,3,23.0
 North London NHS Foundation Trust,8,22.0
 University Hospitals of North Midlands NHS Trust,6,22.0
-Cardiff and Vale University Health Board,5,22.0
 British Standards Institution,2,22.0
 HC One,2,22.0
 Royal Devon University Healthcare NHS Foundation Trust,2,22.0
 NHS England,108,21.0
+Cardiff and Vale University Health Board,5,21.0
 NHS Derby and Derbyshire Integrated Care Board,5,21.0
 Oxleas NHS Foundation Trust,5,21.0
 Priory Group Limited,4,21.0
@@ -848,7 +848,6 @@ Nottingham University Hospitals NHS Trust,2,18.0
 Department of Health and Social Care,129,17.0
 Home Office,18,17.0
 Cornwall Council,4,17.0
-"Department for Culture, Media and Sport",4,17.0
 Royal College of Psychiatrists,4,17.0
 Cornwall Partnership NHS Foundation Trust,2,17.0
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",2,17.0
@@ -863,16 +862,16 @@ Sheffield City Council,1,17.0
 UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
 NHS Greater Manchester Integrated Care Board,16,16.0
-Royal College of Paediatrics and Child Health,4,15.0
+"Department for Culture, Media and Sport",4,16.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",4,15.0
 G4S,2,15.0
 Portsmouth Hospitals University NHS Trust,2,15.0
+Royal College of Paediatrics and Child Health,4,14.0
 East Midlands Ambulance Service NHS Trust,3,14.0
 Bolton NHS Foundation Trust,2,14.0
 Mersey Care NHS Foundation Trust,2,14.0
 NHS Digital,2,14.0
 Office for Product Safety and Standards,2,14.0
-Royal College of Emergency Medicine,2,14.0
 Bedfordshire Police,1,14.0
 Cambridgeshire County Council,1,14.0
 Epsom and St Helier University Hospitals NHS Trust,1,14.0
@@ -885,6 +884,7 @@ Stockport Council,1,14.0
 University Hospitals Birmingham NHS Foundation Trust,4,13.0
 Department for Work and Pensions,2,13.0
 Leicestershire Partnership NHS Trust,2,13.0
+Royal College of Emergency Medicine,2,13.0
 Ministry of Defence,4,12.0
 Royal College of General Practitioners,3,12.0
 Hampshire County Council,1,12.0

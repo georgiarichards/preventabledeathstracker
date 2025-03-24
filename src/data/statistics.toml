@@ -1,7 +1,7 @@
 [year]
 "no. reports parsed" = 5618
-"no. years covered" = 11.6
-"mean per year" = 484.3
+"no. years covered" = 11.7
+"mean per year" = 480.2
 "median per year" = 450.0
 "IQR of years" = [ 419.0, 527.0,]
 
@@ -21,12 +21,12 @@
 "IQR of areas" = [ 29.25, 92.5,]
 
 ["coroners' society"]
-"no. names in society" = 944
-"names in society with reports" = [ 490.0, 51.9,]
-"names in society without reports" = [ 454.0, 48.1,]
-"coroners in society male" = [ 354.0, 37.5,]
-"coroners in society female" = [ 328.0, 34.7,]
-"coroners in society unknown" = [ 262.0, 27.8,]
+"no. names in society" = 929
+"names in society with reports" = [ 487.0, 52.4,]
+"names in society without reports" = [ 442.0, 47.6,]
+"coroners in society male" = [ 346.0, 37.2,]
+"coroners in society female" = [ 321.0, 34.6,]
+"coroners in society unknown" = [ 262.0, 28.2,]
 
 ["coroners in reports"]
 "reports from male coroners" = [ 2513.0, 44.7,]
