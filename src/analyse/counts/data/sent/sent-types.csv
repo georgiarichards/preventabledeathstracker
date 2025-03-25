@@ -2,7 +2,7 @@ sent_to,no. PFDs,overdue,pending,received,% received
 Department of Health and Social Care,742,288,11,443,60
 NHS England,520,183,14,323,62
 Care Quality Commission,172,100,4,68,40
-HM Prison and Probation Service,158,85,4,69,44
+HM Prison and Probation Service,158,86,3,69,44
 Department for Transport,111,47,4,60,54
 Ministry of Justice,110,83,2,25,23
 Home Office,103,43,1,59,57
@@ -70,7 +70,7 @@ Herefordshire and Worcestershire Health and Care NHS Trust,21,8,1,12,57
 West Midlands Police,21,7,0,14,67
 North West Ambulance Service NHS Trust,21,10,0,11,52
 Welsh Government,21,7,1,13,62
-Devon Partnership NHS Trust,21,6,2,13,62
+Devon Partnership NHS Trust,21,7,1,13,62
 East Midlands Ambulance Service NHS Trust,21,9,0,12,57
 South London and Maudsley NHS Foundation Trust,21,11,0,10,48
 University Hospitals Plymouth NHS Trust,20,10,0,10,50
@@ -461,7 +461,7 @@ Gloucestershire County Council,3,1,0,2,67
 HM Prison Guys Marsh,3,1,0,2,67
 HM Prison Wakefield,3,3,0,0,0
 HM Prison Swaleside,3,1,0,2,67
-HM Prison Wymott,3,2,1,0,0
+HM Prison Wymott,3,3,0,0,0
 HM Prison Stoke Heath,3,2,0,1,33
 HM Prison Swansea,3,2,0,1,33
 HM Prison Bedford,3,3,0,0,0
@@ -1176,7 +1176,7 @@ Manchester Medical Service,1,1,0,0,0
 Manchester United Football Club,1,0,0,1,100
 London Central and West Unscheduled Care Collaborative,1,1,0,0,0
 Medical Schools Council,1,1,0,0,0
-Medicines and Healthcare Projects Regulation Authority,1,0,1,0,0
+Medicines and Healthcare Projects Regulation Authority,1,1,0,0,0
 Medico Legal Manager,1,1,0,0,0
 Medicspro,1,1,0,0,0
 Mandeville Grange Nursing Home,1,1,0,0,0
@@ -1704,7 +1704,7 @@ Athena Care Homes (UK) Limited,1,1,0,0,0
 Atlantic Reach Limited,1,0,0,1,100
 Atrumed Ltd,1,0,0,1,100
 Derwent Students,1,0,0,1,100
-Devon ICB,1,0,1,0,0
+Devon ICB,1,1,0,0,0
 Difficult Airway Society,1,0,1,0,0
 Digital,1,0,0,1,100
 Digsafe Suction Excavations Limited,1,1,0,0,0
@@ -1937,7 +1937,7 @@ The Timber Packaging and Pallet Confederation,1,1,0,0,0
 The Unite Group plc,1,1,0,0,0
 The Peak District National Park Authority,1,0,0,1,100
 The Peligoni Club,1,1,0,0,0
-The Pembroke Medical Practice,1,0,1,0,0
+The Pembroke Medical Practice,1,1,0,0,0
 The Petroleum Enforcement Liaison Group,1,0,1,0,0
 The Pipeline Industries Guild,1,0,0,1,100
 The Professional Association of Diving Instructors,1,0,0,1,100

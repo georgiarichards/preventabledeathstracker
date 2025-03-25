@@ -2,7 +2,7 @@ Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,To
 Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,17,742,57,421,181,129,11
 NHS England,6,25,22,33,27,36,45,27,42,42,85,110,20,520,50,260,138,108,14
 Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,4,172,37,64,61,43,4
-HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,4,158,42,66,48,40,4
+HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,4,158,42,66,49,40,3
 Department for Transport,1,13,6,12,9,6,6,8,7,8,12,16,7,111,45,50,28,29,4
 Ministry of Justice,1,12,6,8,2,8,13,0,12,11,11,22,4,110,24,26,47,35,2
 Home Office,2,8,10,5,4,5,12,8,13,10,12,13,1,103,41,42,42,18,1
@@ -70,7 +70,7 @@ Herefordshire and Worcestershire Health and Care NHS Trust,2,0,4,3,0,1,1,1,0,3,2
 West Midlands Police,0,3,0,1,1,1,4,1,2,2,2,4,0,21,52,11,9,1,0
 North West Ambulance Service NHS Trust,1,3,2,2,2,1,3,1,1,1,2,2,0,21,62,13,4,4,0
 Welsh Government,1,1,0,2,3,2,2,0,1,0,2,5,2,21,43,9,7,4,1
-Devon Partnership NHS Trust,0,2,3,2,3,1,0,2,2,1,3,0,2,21,67,14,3,2,2
+Devon Partnership NHS Trust,0,2,3,2,3,1,0,2,2,1,3,0,2,21,67,14,3,3,1
 East Midlands Ambulance Service NHS Trust,0,1,4,3,1,2,4,1,1,1,1,2,0,21,48,10,8,3,0
 South London and Maudsley NHS Foundation Trust,1,6,1,2,2,4,0,2,0,0,1,2,0,21,43,9,6,6,0
 University Hospitals Plymouth NHS Trust,2,2,2,2,0,2,5,1,1,1,1,1,0,20,50,10,1,9,0
@@ -461,7 +461,7 @@ Gloucestershire County Council,0,0,0,1,0,0,2,0,0,0,0,0,0,3,67,2,0,1,0
 HM Prison Guys Marsh,0,0,0,0,0,0,0,0,0,1,1,1,0,3,67,2,0,1,0
 HM Prison Wakefield,0,0,0,0,0,0,0,0,1,1,1,0,0,3,0,0,2,1,0
 HM Prison Swaleside,0,0,1,0,0,0,0,0,0,1,0,1,0,3,67,2,0,1,0
-HM Prison Wymott,0,0,0,0,0,1,0,1,0,0,0,0,1,3,33,1,0,1,1
+HM Prison Wymott,0,0,0,0,0,1,0,1,0,0,0,0,1,3,33,1,1,1,0
 HM Prison Stoke Heath,0,0,0,1,0,1,0,0,0,0,0,1,0,3,33,1,1,1,0
 HM Prison Swansea,0,1,0,0,0,0,0,0,0,2,0,0,0,3,33,1,1,1,0
 HM Prison Bedford,0,0,0,0,1,1,0,0,0,1,0,0,0,3,0,0,1,2,0
@@ -1176,7 +1176,7 @@ Manchester Medical Service,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Manchester United Football Club,0,0,0,0,0,1,0,0,0,0,0,0,0,1,100,1,0,0,0
 London Central and West Unscheduled Care Collaborative,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
 Medical Schools Council,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
-Medicines and Healthcare Projects Regulation Authority,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Medicines and Healthcare Projects Regulation Authority,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Medico Legal Manager,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
 Medicspro,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Mandeville Grange Nursing Home,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
@@ -1704,7 +1704,7 @@ Athena Care Homes (UK) Limited,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
 Atlantic Reach Limited,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 Atrumed Ltd,0,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
 Derwent Students,0,0,0,0,0,1,0,0,0,0,0,0,0,1,100,1,0,0,0
-Devon ICB,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Devon ICB,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Difficult Airway Society,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
 Digital,0,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 Digsafe Suction Excavations Limited,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
@@ -1937,7 +1937,7 @@ The Timber Packaging and Pallet Confederation,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,
 The Unite Group plc,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 The Peak District National Park Authority,1,0,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 The Peligoni Club,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
-The Pembroke Medical Practice,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+The Pembroke Medical Practice,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 The Petroleum Enforcement Liaison Group,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
 The Pipeline Industries Guild,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 The Professional Association of Diving Instructors,0,1,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
