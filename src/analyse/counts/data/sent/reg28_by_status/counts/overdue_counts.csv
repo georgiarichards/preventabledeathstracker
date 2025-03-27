@@ -725,6 +725,7 @@ Mid and South Essex NHS Foundation Trust,5,29.0
 County Durham and Darlington NHS Foundation Trust,4,29.0
 NHS Cornwall and Isles of Scilly Integrated Care Board,4,29.0
 Bupa,2,29.0
+Lewisham Council,2,29.0
 National Fire Chiefs Council,2,29.0
 North Yorkshire Council,2,29.0
 Nottinghamshire County Council,2,29.0
@@ -841,6 +842,7 @@ NHS Birmingham and Solihull Integrated Care Board,3,19.0
 Royal College of Physicians,3,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
 Worcestershire Acute Hospitals NHS Trust,3,19.0
+Department of Health and Social Care,130,18.0
 Metropolitan Police Service,12,18.0
 "Ministry of Housing, Communities and Local Government",7,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
@@ -848,7 +850,6 @@ Association of Ambulance Chief Executives,6,18.0
 Transport for London,4,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
-Department of Health and Social Care,129,17.0
 Home Office,18,17.0
 Cornwall Council,4,17.0
 Royal College of Psychiatrists,4,17.0
@@ -880,7 +881,6 @@ Bedfordshire Police,1,14.0
 Cambridgeshire County Council,1,14.0
 Epsom and St Helier University Hospitals NHS Trust,1,14.0
 Independent Office for Police Conduct,1,14.0
-Lewisham Council,1,14.0
 Milton Keynes City Council,1,14.0
 Royal College of Nursing,1,14.0
 Stockport Council,1,14.0
@@ -892,6 +892,7 @@ Royal College of Emergency Medicine,2,13.0
 Ministry of Defence,4,12.0
 Royal College of General Practitioners,3,12.0
 Hampshire County Council,1,12.0
+Lewisham and Greenwich NHS Trust,1,12.0
 Greater Manchester Police,4,11.0
 Civil Aviation Authority,2,11.0
 Surrey County Council,2,11.0
