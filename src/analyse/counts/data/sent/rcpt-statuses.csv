@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,742,1769,1217,421,181,130,10
-NHS England,520,1410,892,260,138,108,14
+Department of Health and Social Care,742,1769,1217,421,181,132,8
+NHS England,520,1410,892,260,138,109,13
 Care Quality Commission,172,506,292,64,61,43,4
 HM Prison and Probation Service,158,365,187,66,49,40,3
 Department for Transport,111,289,175,50,28,29,4
@@ -35,7 +35,7 @@ North London NHS Foundation Trust,36,60,38,20,6,8,2
 Greater Manchester Police,35,110,83,20,10,4,1
 Birmingham and Solihull Mental Health NHS Foundation Trust,34,100,77,22,9,2,1
 Essex Partnership University NHS Foundation Trust,34,62,33,14,6,12,2
-Ministry of Defence,34,56,40,24,5,4,1
+Ministry of Defence,34,56,40,24,5,5,0
 Stockport NHS Foundation Trust,34,50,27,19,2,13,0
 Association of Ambulance Chief Executives,33,131,85,9,18,6,0
 Central and North West London NHS Foundation Trust,32,67,36,13,10,9,0
@@ -70,7 +70,7 @@ Herefordshire and Worcestershire Health and Care NHS Trust,21,30,20,12,4,4,1
 West Midlands Police,21,68,60,11,9,1,0
 North West Ambulance Service NHS Trust,21,69,56,13,4,4,0
 Welsh Government,21,52,35,9,7,4,1
-Devon Partnership NHS Trust,21,45,27,14,3,3,1
+Devon Partnership NHS Trust,21,45,27,14,3,4,0
 East Midlands Ambulance Service NHS Trust,21,50,28,10,8,3,0
 South London and Maudsley NHS Foundation Trust,21,39,22,9,6,6,0
 University Hospitals Plymouth NHS Trust,20,28,16,10,1,9,0
@@ -156,7 +156,7 @@ Ashford and St Peter’s Hospitals NHS Foundation Trust,11,19,9,5,1,5,0
 Royal Pharmaceutical Society,11,36,18,5,3,3,0
 South Tyneside and Sunderland NHS Foundation Trust,11,21,8,5,1,4,1
 South West Yorkshire Partnership NHS Foundation Trust,11,20,11,4,4,3,0
-Berkshire Healthcare NHS Foundation Trust,11,29,19,5,2,3,1
+Berkshire Healthcare NHS Foundation Trust,11,29,19,5,2,4,0
 Leeds City Council,11,21,16,10,0,1,0
 Driver and Vehicle Standards Agency,11,31,6,2,4,5,0
 South West London and St George’s Mental Health NHS Trust,11,27,14,6,2,3,0
@@ -1677,7 +1677,7 @@ Avenue House Nursing and Care Home,1,4,1,0,1,0,0
 Arboricultural Association,1,3,3,1,0,0,0
 Arden Court Nursing Home,1,1,1,1,0,0,0
 ArjoHuntleigh,1,9,5,0,1,0,0
-Arts University Bournemouth,1,3,0,0,0,0,1
+Arts University Bournemouth,1,3,0,0,0,1,0
 Ashfield Surgery Sutton Coldfield,1,4,4,1,0,0,0
 Ashford Borough Council,1,2,0,0,0,1,0
 Ashgate House Nursing Home,1,2,0,0,0,1,0

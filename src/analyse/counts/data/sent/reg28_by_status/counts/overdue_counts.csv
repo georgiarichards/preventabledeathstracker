@@ -41,6 +41,7 @@ Amphenol Thermometrics UK Ltd,1,100.0
 Angel Solutions UK Limited,1,100.0
 Anglian Community Enterprise,1,100.0
 Appleton Lodge Care Home,1,100.0
+Arts University Bournemouth,1,100.0
 Ashford Borough Council,1,100.0
 Ashgate House Nursing Home,1,100.0
 Association of Conservative Clubs,1,100.0
@@ -667,6 +668,7 @@ Resuscitation Council UK,3,38.0
 Shrewsbury and Telford Hospital NHS Trust,3,38.0
 Tower Hamlets Council,3,38.0
 Hywel Dda University Health Board,5,36.0
+Berkshire Healthcare NHS Foundation Trust,4,36.0
 British Medical Association,4,36.0
 South Tyneside and Sunderland NHS Foundation Trust,4,36.0
 Essex Partnership University NHS Foundation Trust,12,35.0
@@ -756,7 +758,6 @@ Royal College of Obstetricians and Gynaecologists,7,27.0
 Surrey and Borders Partnership NHS Foundation Trust,7,27.0
 Bedfordshire Hospitals NHS Foundation Trust,4,27.0
 Black Country Healthcare NHS Foundation Trust,4,27.0
-Berkshire Healthcare NHS Foundation Trust,3,27.0
 Royal Pharmaceutical Society,3,27.0
 South West London and St George’s Mental Health NHS Trust,3,27.0
 South West Yorkshire Partnership NHS Foundation Trust,3,27.0
@@ -817,7 +818,7 @@ University Hospitals of North Midlands NHS Trust,6,22.0
 British Standards Institution,2,22.0
 HC One,2,22.0
 Royal Devon University Healthcare NHS Foundation Trust,2,22.0
-NHS England,108,21.0
+NHS England,109,21.0
 Cardiff and Vale University Health Board,5,21.0
 NHS Derby and Derbyshire Integrated Care Board,5,21.0
 Oxleas NHS Foundation Trust,5,21.0
@@ -851,6 +852,7 @@ National Police Chiefs’ Council,11,19.0
 Department for Education,9,19.0
 College of Policing,8,19.0
 Swansea Bay University Health Board,5,19.0
+Devon Partnership NHS Trust,4,19.0
 Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 North West Ambulance Service NHS Trust,4,19.0
 Welsh Government,4,19.0
@@ -858,7 +860,7 @@ NHS Birmingham and Solihull Integrated Care Board,3,19.0
 Royal College of Physicians,3,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
 Worcestershire Acute Hospitals NHS Trust,3,19.0
-Department of Health and Social Care,130,18.0
+Department of Health and Social Care,132,18.0
 Metropolitan Police Service,12,18.0
 "Ministry of Housing, Communities and Local Government",7,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
@@ -883,11 +885,11 @@ UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
 NHS Greater Manchester Integrated Care Board,16,16.0
 "Department for Culture, Media and Sport",4,16.0
+Ministry of Defence,5,15.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",4,15.0
 G4S,2,15.0
 Portsmouth Hospitals University NHS Trust,2,15.0
 Royal College of Paediatrics and Child Health,4,14.0
-Devon Partnership NHS Trust,3,14.0
 East Midlands Ambulance Service NHS Trust,3,14.0
 Bolton NHS Foundation Trust,2,14.0
 Mersey Care NHS Foundation Trust,2,14.0
@@ -905,7 +907,6 @@ University Hospitals Birmingham NHS Foundation Trust,4,13.0
 Department for Work and Pensions,2,13.0
 Leicestershire Partnership NHS Trust,2,13.0
 Royal College of Emergency Medicine,2,13.0
-Ministry of Defence,4,12.0
 Royal College of General Practitioners,3,12.0
 Hampshire County Council,1,12.0
 Lewisham and Greenwich NHS Trust,1,12.0

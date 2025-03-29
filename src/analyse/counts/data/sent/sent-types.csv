@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,742,289,10,443,60
-NHS England,520,183,14,323,62
+Department of Health and Social Care,742,291,8,443,60
+NHS England,520,184,13,323,62
 Care Quality Commission,172,100,4,68,40
 HM Prison and Probation Service,158,86,3,69,44
 Department for Transport,111,47,4,60,54
@@ -35,7 +35,7 @@ North London NHS Foundation Trust,36,14,2,20,56
 Greater Manchester Police,35,7,1,27,77
 Birmingham and Solihull Mental Health NHS Foundation Trust,34,13,1,20,59
 Essex Partnership University NHS Foundation Trust,34,18,2,14,41
-Ministry of Defence,34,7,1,26,76
+Ministry of Defence,34,8,0,26,76
 Stockport NHS Foundation Trust,34,16,0,18,53
 Association of Ambulance Chief Executives,33,17,0,16,48
 Central and North West London NHS Foundation Trust,32,19,0,13,41
@@ -70,7 +70,7 @@ Herefordshire and Worcestershire Health and Care NHS Trust,21,8,1,12,57
 West Midlands Police,21,7,0,14,67
 North West Ambulance Service NHS Trust,21,10,0,11,52
 Welsh Government,21,7,1,13,62
-Devon Partnership NHS Trust,21,7,1,13,62
+Devon Partnership NHS Trust,21,8,0,13,62
 East Midlands Ambulance Service NHS Trust,21,9,0,12,57
 South London and Maudsley NHS Foundation Trust,21,11,0,10,48
 University Hospitals Plymouth NHS Trust,20,10,0,10,50
@@ -156,7 +156,7 @@ Ashford and St Peter’s Hospitals NHS Foundation Trust,11,6,0,5,45
 Royal Pharmaceutical Society,11,4,0,7,64
 South Tyneside and Sunderland NHS Foundation Trust,11,5,1,5,45
 South West Yorkshire Partnership NHS Foundation Trust,11,7,0,4,36
-Berkshire Healthcare NHS Foundation Trust,11,5,1,5,45
+Berkshire Healthcare NHS Foundation Trust,11,6,0,5,45
 Leeds City Council,11,1,0,10,91
 Driver and Vehicle Standards Agency,11,9,0,2,18
 South West London and St George’s Mental Health NHS Trust,11,5,0,6,55
@@ -1677,7 +1677,7 @@ Avenue House Nursing and Care Home,1,1,0,0,0
 Arboricultural Association,1,0,0,1,100
 Arden Court Nursing Home,1,0,0,1,100
 ArjoHuntleigh,1,1,0,0,0
-Arts University Bournemouth,1,0,1,0,0
+Arts University Bournemouth,1,1,0,0,0
 Ashfield Surgery Sutton Coldfield,1,0,0,1,100
 Ashford Borough Council,1,1,0,0,0
 Ashgate House Nursing Home,1,1,0,0,0
