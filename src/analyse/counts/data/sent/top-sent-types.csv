@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,742,291,8,443,60
-NHS England,520,184,13,323,62
+Department of Health and Social Care,747,291,13,443,59
+NHS England,523,184,16,323,62
 Care Quality Commission,172,100,4,68,40
 HM Prison and Probation Service,158,86,3,69,44
 Department for Transport,111,47,4,60,54
 Ministry of Justice,110,83,2,25,23
 Home Office,103,43,1,59,57
-National Institute for Health and Care Excellence,102,52,3,47,46
-NHS Greater Manchester Integrated Care Board,97,41,0,56,58
-Betsi Cadwaladr University Health Board,76,21,1,54,71
+National Institute for Health and Care Excellence,103,52,4,47,46
+NHS Greater Manchester Integrated Care Board,98,41,1,56,57
+Betsi Cadwaladr University Health Board,77,21,2,54,70
 REDACTED,76,60,2,14,18
 Barts Health NHS Trust,66,25,0,41,62
-Metropolitan Police Service,65,31,2,32,49
+Metropolitan Police Service,66,31,3,32,48
 National Highways,64,34,1,29,45
-University Hospitals Sussex NHS Foundation Trust,62,33,1,28,45
 Medicines and Healthcare Products Regulatory Agency,62,36,1,25,40
+University Hospitals Sussex NHS Foundation Trust,62,33,1,28,45
 National Police Chiefs’ Council,59,44,2,13,22
-Health and Safety Executive,58,35,0,23,40
+Health and Safety Executive,59,35,1,23,39
 Pennine Care NHS Foundation Trust,48,27,0,21,44
 Welsh Ambulance Services University NHS Trust,47,18,0,29,62
 Department for Education,47,19,0,28,60
 Sussex Partnership NHS Foundation Trust,46,21,0,25,54
 Greater Manchester Mental Health NHS Foundation Trust,45,27,0,18,40
-College of Policing,43,16,2,25,58
-Northern Care Alliance NHS Foundation Trust,41,21,0,20,49
+College of Policing,44,16,3,25,57
+Northern Care Alliance NHS Foundation Trust,42,21,1,20,48
 Network Rail,41,11,0,30,73
 Manchester University NHS Foundation Trust,40,23,0,17,42
 Cwm Taf Morgannwg University Health Board,39,22,1,16,41
-Norfolk and Suffolk NHS Foundation Trust,38,11,0,27,71
 "Ministry of Housing, Communities and Local Government",38,20,0,18,47
+Norfolk and Suffolk NHS Foundation Trust,38,11,0,27,71
