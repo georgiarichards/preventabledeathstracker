@@ -249,6 +249,7 @@ Medway Community Healthcare,1,100.0
 Mental Health Care Newton House Limited,1,100.0
 Merlin Entertainment Limited,1,100.0
 Merseytravel,1,100.0
+Metropolitan Police Service (MPS),1,100.0
 Mildmay Medical Practice,1,100.0
 Milestones Trust,1,100.0
 Milford House Care Home,1,100.0
@@ -727,6 +728,7 @@ General Medical Council,9,25.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,8,25.0
 East of England Ambulance Service NHS Trust,5,25.0
 Milton Keynes University Hospital NHS Foundation Trust,4,25.0
+"Department for Environment, Food and Rural Affairs",3,25.0
 Mid Yorkshire Teaching NHS Trust,3,25.0
 NHS Nottingham and Nottinghamshire Integrated Care Board,3,25.0
 Norfolk and Norwich University Hospitals NHS Foundation Trust,3,25.0
@@ -788,7 +790,7 @@ County Durham and Darlington NHS Foundation Trust,3,21.0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3,21.0
 Oxford University Hospitals NHS Foundation Trust,3,21.0
 Surrey and Sussex Healthcare NHS Trust,3,21.0
-NHS England,102,20.0
+NHS England,103,20.0
 Birmingham City Council,3,20.0
 "Department for Business, Energy and Industrial Strategy",3,20.0
 Department for Work and Pensions,3,20.0
@@ -834,7 +836,6 @@ Cornwall Council,4,17.0
 Royal College of Psychiatrists,4,17.0
 Cornwall Partnership NHS Foundation Trust,2,17.0
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",2,17.0
-"Department for Environment, Food and Rural Affairs",2,17.0
 North Cumbria Integrated Care NHS Foundation Trust,2,17.0
 James Paget University Hospitals NHS Foundation Trust,1,17.0
 NHS Cheshire and Merseyside Integrated Care Board,1,17.0
@@ -844,7 +845,7 @@ Royal Society for the Prevention of Accidents,1,17.0
 Sheffield City Council,1,17.0
 UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
-Department of Health and Social Care,121,16.0
+Department of Health and Social Care,122,16.0
 NHS Greater Manchester Integrated Care Board,16,16.0
 College of Policing,7,16.0
 "Department for Culture, Media and Sport",4,16.0
@@ -859,6 +860,7 @@ Bolton NHS Foundation Trust,2,14.0
 General Pharmaceutical Council,2,14.0
 Mersey Care NHS Foundation Trust,2,14.0
 NHS Digital,2,14.0
+Office for Product Safety and Standards,2,14.0
 Bedfordshire Police,1,14.0
 British Society of Gastroenterology,1,14.0
 Cambridgeshire County Council,1,14.0
@@ -894,7 +896,6 @@ Care UK,2,8.0
 Devon and Cornwall Police,1,8.0
 Yorkshire Ambulance Service NHS Trust,1,8.0
 Maritime and Coastguard Agency,1,7.0
-Office for Product Safety and Standards,1,7.0
 University Hospitals of Leicester NHS Trust,1,7.0
 Birmingham and Solihull Mental Health NHS Foundation Trust,2,6.0
 Royal College of Anaesthetists,1,6.0
