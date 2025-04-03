@@ -16,6 +16,7 @@ Mid Cheshire Hospitals NHS Foundation Trust,2,100.0
 NHS Coventry and Warwickshire Integrated Care Board,2,100.0
 NHS Gloucestershire Integrated Care Board,2,100.0
 NHS Lothian Scotland,2,100.0
+Northampton General Hospital NHS Trust,2,100.0
 Oldham Clinical Commissioning Group,2,100.0
 Pembrokeshire County Council,2,100.0
 Tandridge District Council,2,100.0
@@ -89,6 +90,7 @@ Cherry Orchard Nursing Home,1,100.0
 Cheshire Fire and Rescue Service,1,100.0
 Chilton Care Centre,1,100.0
 Churchers Solicitors,1,100.0
+Circle Healthgroup Ltd,1,100.0
 City of York Council,1,100.0
 Clevedon Medical Centre,1,100.0
 Clinisys UK,1,100.0
@@ -560,7 +562,6 @@ NHS Wales Shared Services Partnership,1,50.0
 New Lodge Nursing Home,1,50.0
 North Laine Medical Centre,1,50.0
 North Yorkshire Police,1,50.0
-Northampton General Hospital NHS Trust,1,50.0
 Northamptonshire Healthcare NHS Foundation Trust,1,50.0
 Not Listed,1,50.0
 Nuffield Health,1,50.0
@@ -767,6 +768,7 @@ Care Quality Commission,42,24.0
 HM Prison and Probation Service,38,24.0
 Network Rail,10,24.0
 Northern Care Alliance NHS Foundation Trust,10,24.0
+Department for Transport,25,23.0
 Betsi Cadwaladr University Health Board,18,23.0
 Welsh Ambulance Services University NHS Trust,11,23.0
 Surrey and Borders Partnership NHS Foundation Trust,6,23.0
@@ -774,7 +776,6 @@ Avon and Wiltshire Mental Health Partnership NHS Trust,5,23.0
 HM Prison Pentonville,3,23.0
 North Bristol NHS Trust,3,23.0
 Sussex Police,3,23.0
-Department for Transport,24,22.0
 Sussex Partnership NHS Foundation Trust,10,22.0
 North London NHS Foundation Trust,8,22.0
 Midlands Partnership University NHS Foundation Trust,6,22.0
@@ -790,7 +791,8 @@ County Durham and Darlington NHS Foundation Trust,3,21.0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3,21.0
 Oxford University Hospitals NHS Foundation Trust,3,21.0
 Surrey and Sussex Healthcare NHS Trust,3,21.0
-NHS England,103,20.0
+NHS England,104,20.0
+"Department for Culture, Media and Sport",5,20.0
 Birmingham City Council,3,20.0
 "Department for Business, Energy and Industrial Strategy",3,20.0
 Department for Work and Pensions,3,20.0
@@ -848,7 +850,6 @@ Wye Valley NHS Trust,1,17.0
 Department of Health and Social Care,122,16.0
 NHS Greater Manchester Integrated Care Board,16,16.0
 College of Policing,7,16.0
-"Department for Culture, Media and Sport",4,16.0
 Ministry of Defence,5,15.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",4,15.0
 G4S,2,15.0
@@ -881,6 +882,7 @@ Hampshire County Council,1,12.0
 Lewisham and Greenwich NHS Trust,1,12.0
 Greater Manchester Police,4,11.0
 Civil Aviation Authority,2,11.0
+NHS Sussex Integrated Care Board,2,11.0
 Surrey County Council,2,11.0
 The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,2,11.0
 British Transport Police,1,11.0
@@ -899,5 +901,4 @@ Maritime and Coastguard Agency,1,7.0
 University Hospitals of Leicester NHS Trust,1,7.0
 Birmingham and Solihull Mental Health NHS Foundation Trust,2,6.0
 Royal College of Anaesthetists,1,6.0
-NHS Sussex Integrated Care Board,1,5.0
 West Midlands Police,1,5.0
