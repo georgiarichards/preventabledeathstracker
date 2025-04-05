@@ -1,11 +1,11 @@
 sent_to,no. PFDs,overdue,pending,received,% received
 Department of Health and Social Care,747,281,12,454,61
-NHS England,523,177,14,332,63
+NHS England,523,179,12,332,63
 Care Quality Commission,172,99,4,69,40
-HM Prison and Probation Service,158,86,3,69,44
-Department for Transport,111,43,3,65,59
+HM Prison and Probation Service,158,87,2,69,44
+Department for Transport,111,44,2,65,59
 Ministry of Justice,110,83,2,25,23
-National Institute for Health and Care Excellence,103,51,4,48,47
+National Institute for Health and Care Excellence,103,53,2,48,47
 Home Office,103,42,1,60,58
 NHS Greater Manchester Integrated Care Board,98,41,1,56,57
 Betsi Cadwaladr University Health Board,77,21,2,54,70
@@ -46,7 +46,7 @@ North East London NHS Foundation Trust,29,16,0,13,45
 Royal College of Paediatrics and Child Health,28,13,2,13,46
 University Hospitals of North Midlands NHS Trust,27,8,2,17,63
 Aneurin Bevan University Health Board,27,11,0,16,59
-Nottinghamshire Healthcare NHS Foundation Trust,27,11,1,15,56
+Nottinghamshire Healthcare NHS Foundation Trust,27,12,0,15,56
 Royal College of Obstetricians and Gynaecologists,27,16,1,10,37
 Midlands Partnership University NHS Foundation Trust,27,9,1,17,63
 "Tees, Esk and Wear Valley NHS Foundation Trust",26,16,0,10,38
@@ -72,7 +72,7 @@ Herefordshire and Worcestershire Health and Care NHS Trust,21,9,0,12,57
 Devon Partnership NHS Trust,21,8,0,13,62
 West Midlands Police,21,7,0,14,67
 East Midlands Ambulance Service NHS Trust,21,9,0,12,57
-Welsh Government,21,7,1,13,62
+Welsh Government,21,8,0,13,62
 East of England Ambulance Service NHS Trust,20,10,0,10,50
 East Kent Hospitals University NHS Foundation Trust,20,10,0,10,50
 University Hospitals Plymouth NHS Trust,20,10,0,10,50
@@ -96,7 +96,7 @@ United Lincolnshire Hospitals NHS Trust,16,8,0,8,50
 Worcestershire Acute Hospitals NHS Trust,16,3,0,13,81
 South East Coast Ambulance Service NHS Foundation Trust,16,4,0,12,75
 St George’s University Hospitals NHS Foundation Trust,16,13,0,3,19
-Driver and Vehicle Licensing Agency,16,12,1,3,19
+Driver and Vehicle Licensing Agency,16,13,0,3,19
 Milton Keynes University Hospital NHS Foundation Trust,16,7,0,9,56
 NHS Birmingham and Solihull Integrated Care Board,16,6,0,10,62
 Royal College of Physicians,16,9,2,5,31
@@ -331,7 +331,7 @@ Lancashire County Council,5,1,0,4,80
 Royal Yachting Association,5,2,0,3,60
 Derbyshire County Council,5,3,0,2,40
 Ofsted,5,2,0,3,60
-Serco,5,4,1,0,0
+Serco,5,5,0,0,0
 Hackney Council,5,2,0,3,60
 Milton Keynes Clinical Commissioning Group,5,2,0,3,60
 Hertfordshire County Council,5,2,0,3,60
@@ -442,7 +442,7 @@ Bondcare Limited,3,2,0,1,33
 Inmind Healthcare Group,3,2,0,1,33
 Somerset County Council,3,2,0,1,33
 Southwark Council,3,1,0,2,67
-Sodexo,3,1,1,1,33
+Sodexo,3,2,0,1,33
 Kettering General Hospital NHS Foundation Trust,3,2,0,1,33
 Lancashire Constabulary,3,0,0,3,100
 Manchester City Council,3,1,0,2,67
@@ -1597,7 +1597,7 @@ British Psychological Society,1,0,0,1,100
 British Retail Consortium,1,0,0,1,100
 British Skydiving,1,0,0,1,100
 British Society for Dermatological Surgery,1,0,0,1,100
-British Society for Haematology (BSH),1,0,1,0,0
+British Society for Haematology (BSH),1,1,0,0,0
 Rope Green Medical Centre,1,0,0,1,100
 Rose Builders and Contractors Ltd,1,1,0,0,0
 Roseberry Care Centres,1,0,0,1,100
@@ -1785,7 +1785,7 @@ St Mary’s Nursing Home,1,1,0,0,0
 St Mungo’s,1,0,0,1,100
 St Stephens Gate Medical Practice,1,0,0,1,100
 Staffordshire Clinical Commissioning Group,1,0,0,1,100
-Staffordshire Highways,1,0,1,0,0
+Staffordshire Highways,1,1,0,0,0
 Staffordshire Moorlands District Council,1,0,0,1,100
 "Staffordshire, Shropshire and Black Country Newborn Network",1,0,0,1,100
 Stamford Quarter Shopping Centre,1,1,0,0,0

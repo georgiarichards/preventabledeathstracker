@@ -1,11 +1,11 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
 Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,22,747,58,433,180,122,12
-NHS England,6,25,22,33,27,36,45,27,42,42,85,110,23,523,51,269,136,104,14
+NHS England,6,25,22,33,27,36,45,27,42,42,85,110,23,523,51,269,136,106,12
 Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,4,172,38,65,61,42,4
-HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,4,158,42,66,51,38,3
-Department for Transport,1,13,6,12,9,6,6,8,7,8,12,16,7,111,48,53,30,25,3
+HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,4,158,42,66,51,39,2
+Department for Transport,1,13,6,12,9,6,6,8,7,8,12,16,7,111,48,53,30,26,2
 Ministry of Justice,1,12,6,8,2,8,13,0,12,11,11,22,4,110,24,26,48,34,2
-National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,6,16,20,5,103,49,50,20,29,4
+National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,6,16,20,5,103,49,50,20,31,2
 Home Office,2,8,10,5,4,5,12,8,13,10,12,13,1,103,42,43,42,17,1
 NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,13,12,20,11,10,13,1,98,63,62,19,16,1
 Betsi Cadwaladr University Health Board,1,9,8,4,9,2,2,1,4,4,21,10,2,77,70,54,3,18,2
@@ -46,7 +46,7 @@ North East London NHS Foundation Trust,0,0,1,3,0,1,5,2,5,3,6,3,0,29,48,14,4,11,0
 Royal College of Paediatrics and Child Health,0,4,1,1,1,0,2,1,3,2,6,5,2,28,39,11,11,4,2
 University Hospitals of North Midlands NHS Trust,1,1,3,1,2,2,3,0,4,0,4,4,2,27,67,18,1,6,2
 Aneurin Bevan University Health Board,0,1,3,1,3,2,0,2,3,3,5,4,0,27,59,16,3,8,0
-Nottinghamshire Healthcare NHS Foundation Trust,0,1,3,4,2,0,0,0,2,3,6,5,1,27,56,15,3,8,1
+Nottinghamshire Healthcare NHS Foundation Trust,0,1,3,4,2,0,0,0,2,3,6,5,1,27,56,15,3,9,0
 Royal College of Obstetricians and Gynaecologists,1,2,3,3,2,1,1,4,1,1,4,3,1,27,26,7,12,7,1
 Midlands Partnership University NHS Foundation Trust,1,1,2,0,4,4,3,2,1,1,2,5,1,27,63,17,3,6,1
 "Tees, Esk and Wear Valley NHS Foundation Trust",3,7,0,2,2,0,0,1,1,2,5,3,0,26,62,16,6,4,0
@@ -72,7 +72,7 @@ Herefordshire and Worcestershire Health and Care NHS Trust,2,0,4,3,0,1,1,1,0,3,2
 Devon Partnership NHS Trust,0,2,3,2,3,1,0,2,2,1,3,0,2,21,67,14,4,3,0
 West Midlands Police,0,3,0,1,1,1,4,1,2,2,2,4,0,21,52,11,9,1,0
 East Midlands Ambulance Service NHS Trust,0,1,4,3,1,2,4,1,1,1,1,2,0,21,48,10,8,3,0
-Welsh Government,1,1,0,2,3,2,2,0,1,0,2,5,2,21,43,9,7,4,1
+Welsh Government,1,1,0,2,3,2,2,0,1,0,2,5,2,21,43,9,7,5,0
 East of England Ambulance Service NHS Trust,0,2,2,1,0,1,5,0,1,2,4,2,0,20,65,13,2,5,0
 East Kent Hospitals University NHS Foundation Trust,0,5,2,1,4,0,1,1,1,3,1,1,0,20,50,10,0,10,0
 University Hospitals Plymouth NHS Trust,2,2,2,2,0,2,5,1,1,1,1,1,0,20,50,10,1,9,0
@@ -96,7 +96,7 @@ United Lincolnshire Hospitals NHS Trust,2,2,2,1,3,1,1,1,1,1,1,0,0,16,44,7,1,8,0
 Worcestershire Acute Hospitals NHS Trust,0,0,3,0,1,0,0,0,1,1,2,6,2,16,81,13,0,3,0
 South East Coast Ambulance Service NHS Foundation Trust,0,0,0,0,1,2,4,1,2,0,3,3,0,16,81,13,0,3,0
 St George’s University Hospitals NHS Foundation Trust,0,1,1,5,2,2,1,2,1,1,0,0,0,16,19,3,6,7,0
-Driver and Vehicle Licensing Agency,1,0,2,1,2,2,0,0,3,0,1,3,1,16,19,3,5,7,1
+Driver and Vehicle Licensing Agency,1,0,2,1,2,2,0,0,3,0,1,3,1,16,19,3,5,8,0
 Milton Keynes University Hospital NHS Foundation Trust,0,2,1,0,1,0,2,1,3,2,4,0,0,16,62,10,2,4,0
 NHS Birmingham and Solihull Integrated Care Board,0,1,0,0,0,1,4,0,2,1,4,2,1,16,62,10,4,2,0
 Royal College of Physicians,0,3,0,1,0,1,1,1,2,0,2,3,2,16,25,4,7,3,2
@@ -331,7 +331,7 @@ Lancashire County Council,0,0,1,0,0,0,1,1,0,1,1,0,0,5,80,4,1,0,0
 Royal Yachting Association,0,0,0,3,0,0,0,0,0,0,0,2,0,5,40,2,1,2,0
 Derbyshire County Council,0,0,1,0,0,1,1,0,1,1,0,0,0,5,40,2,1,2,0
 Ofsted,0,1,0,0,2,0,0,0,1,0,1,0,0,5,60,3,0,2,0
-Serco,0,2,0,1,0,0,0,0,0,0,1,0,1,5,0,0,2,2,1
+Serco,0,2,0,1,0,0,0,0,0,0,1,0,1,5,0,0,2,3,0
 Hackney Council,0,0,0,1,0,1,0,0,0,0,0,3,0,5,60,3,2,0,0
 Milton Keynes Clinical Commissioning Group,0,0,0,0,0,3,2,0,0,0,0,0,0,5,60,3,0,2,0
 Hertfordshire County Council,0,1,0,1,1,0,0,0,0,0,2,0,0,5,60,3,0,2,0
@@ -442,7 +442,7 @@ Bondcare Limited,0,0,0,0,1,0,1,0,1,0,0,0,0,3,33,1,0,2,0
 Inmind Healthcare Group,0,0,0,0,0,0,0,0,0,0,1,2,0,3,33,1,2,0,0
 Somerset County Council,1,0,0,1,1,0,0,0,0,0,0,0,0,3,33,1,0,2,0
 Southwark Council,0,0,0,0,1,0,0,0,0,0,1,0,1,3,33,1,1,1,0
-Sodexo,0,1,0,0,0,0,0,0,0,0,0,1,1,3,0,0,1,1,1
+Sodexo,0,1,0,0,0,0,0,0,0,0,0,1,1,3,0,0,1,2,0
 Kettering General Hospital NHS Foundation Trust,0,0,0,0,1,1,0,1,0,0,0,0,0,3,33,1,2,0,0
 Lancashire Constabulary,0,0,0,0,0,0,2,0,0,0,1,0,0,3,33,1,2,0,0
 Manchester City Council,0,0,0,0,0,0,1,0,0,0,1,1,0,3,33,1,2,0,0
@@ -1597,7 +1597,7 @@ British Psychological Society,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
 British Retail Consortium,0,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
 British Skydiving,0,0,0,1,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 British Society for Dermatological Surgery,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
-British Society for Haematology (BSH),0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+British Society for Haematology (BSH),0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Rope Green Medical Centre,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100,1,0,0,0
 Rose Builders and Contractors Ltd,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
 Roseberry Care Centres,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100,1,0,0,0
@@ -1785,7 +1785,7 @@ St Mary’s Nursing Home,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 St Mungo’s,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 St Stephens Gate Medical Practice,1,0,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Staffordshire Clinical Commissioning Group,0,0,0,0,0,1,0,0,0,0,0,0,0,1,100,1,0,0,0
-Staffordshire Highways,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Staffordshire Highways,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Staffordshire Moorlands District Council,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 "Staffordshire, Shropshire and Black Country Newborn Network",0,0,0,0,0,0,0,1,0,0,0,0,0,1,100,1,0,0,0
 Stamford Quarter Shopping Centre,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0

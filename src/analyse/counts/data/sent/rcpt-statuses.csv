@@ -1,11 +1,11 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
 Department of Health and Social Care,747,1781,1247,433,180,122,12
-NHS England,523,1418,922,269,136,104,14
+NHS England,523,1418,922,269,136,106,12
 Care Quality Commission,172,506,296,65,61,42,4
-HM Prison and Probation Service,158,365,194,66,51,38,3
-Department for Transport,111,289,184,53,30,25,3
+HM Prison and Probation Service,158,365,194,66,51,39,2
+Department for Transport,111,289,184,53,30,26,2
 Ministry of Justice,110,293,143,26,48,34,2
-National Institute for Health and Care Excellence,103,283,182,50,20,29,4
+National Institute for Health and Care Excellence,103,283,182,50,20,31,2
 Home Office,103,337,254,43,42,17,1
 NHS Greater Manchester Integrated Care Board,98,241,159,62,19,16,1
 Betsi Cadwaladr University Health Board,77,102,65,54,3,18,2
@@ -46,7 +46,7 @@ North East London NHS Foundation Trust,29,45,26,14,4,11,0
 Royal College of Paediatrics and Child Health,28,110,64,11,11,4,2
 University Hospitals of North Midlands NHS Trust,27,37,27,18,1,6,2
 Aneurin Bevan University Health Board,27,48,26,16,3,8,0
-Nottinghamshire Healthcare NHS Foundation Trust,27,53,28,15,3,8,1
+Nottinghamshire Healthcare NHS Foundation Trust,27,53,28,15,3,9,0
 Royal College of Obstetricians and Gynaecologists,27,75,37,7,12,7,1
 Midlands Partnership University NHS Foundation Trust,27,51,36,17,3,6,1
 "Tees, Esk and Wear Valley NHS Foundation Trust",26,54,43,16,6,4,0
@@ -72,7 +72,7 @@ Herefordshire and Worcestershire Health and Care NHS Trust,21,30,20,12,4,5,0
 Devon Partnership NHS Trust,21,45,28,14,4,3,0
 West Midlands Police,21,68,60,11,9,1,0
 East Midlands Ambulance Service NHS Trust,21,50,28,10,8,3,0
-Welsh Government,21,52,35,9,7,4,1
+Welsh Government,21,52,35,9,7,5,0
 East of England Ambulance Service NHS Trust,20,42,33,13,2,5,0
 East Kent Hospitals University NHS Foundation Trust,20,32,13,10,0,10,0
 University Hospitals Plymouth NHS Trust,20,28,16,10,1,9,0
@@ -96,7 +96,7 @@ United Lincolnshire Hospitals NHS Trust,16,25,7,7,1,8,0
 Worcestershire Acute Hospitals NHS Trust,16,23,19,13,0,3,0
 South East Coast Ambulance Service NHS Foundation Trust,16,32,20,13,0,3,0
 St George’s University Hospitals NHS Foundation Trust,16,32,14,3,6,7,0
-Driver and Vehicle Licensing Agency,16,29,10,3,5,7,1
+Driver and Vehicle Licensing Agency,16,29,10,3,5,8,0
 Milton Keynes University Hospital NHS Foundation Trust,16,23,17,10,2,4,0
 NHS Birmingham and Solihull Integrated Care Board,16,55,42,10,4,2,0
 Royal College of Physicians,16,75,44,4,7,3,2
@@ -331,7 +331,7 @@ Lancashire County Council,5,18,12,4,1,0,0
 Royal Yachting Association,5,18,13,2,1,2,0
 Derbyshire County Council,5,13,9,2,1,2,0
 Ofsted,5,9,7,3,0,2,0
-Serco,5,21,2,0,2,2,1
+Serco,5,21,2,0,2,3,0
 Hackney Council,5,8,6,3,2,0,0
 Milton Keynes Clinical Commissioning Group,5,7,4,3,0,2,0
 Hertfordshire County Council,5,8,4,3,0,2,0
@@ -442,7 +442,7 @@ Bondcare Limited,3,6,1,1,0,2,0
 Inmind Healthcare Group,3,5,3,1,2,0,0
 Somerset County Council,3,7,4,1,0,2,0
 Southwark Council,3,24,3,1,1,1,0
-Sodexo,3,11,1,0,1,1,1
+Sodexo,3,11,1,0,1,2,0
 Kettering General Hospital NHS Foundation Trust,3,11,6,1,2,0,0
 Lancashire Constabulary,3,21,18,1,2,0,0
 Manchester City Council,3,7,5,1,2,0,0
@@ -1597,7 +1597,7 @@ British Psychological Society,1,8,1,0,1,0,0
 British Retail Consortium,1,8,8,1,0,0,0
 British Skydiving,1,1,1,1,0,0,0
 British Society for Dermatological Surgery,1,2,2,1,0,0,0
-British Society for Haematology (BSH),1,4,0,0,0,0,1
+British Society for Haematology (BSH),1,4,0,0,0,1,0
 Rope Green Medical Centre,1,2,2,1,0,0,0
 Rose Builders and Contractors Ltd,1,1,0,0,0,1,0
 Roseberry Care Centres,1,1,1,1,0,0,0
@@ -1785,7 +1785,7 @@ St Mary’s Nursing Home,1,4,0,0,0,1,0
 St Mungo’s,1,1,1,1,0,0,0
 St Stephens Gate Medical Practice,1,1,1,1,0,0,0
 Staffordshire Clinical Commissioning Group,1,1,1,1,0,0,0
-Staffordshire Highways,1,1,0,0,0,0,1
+Staffordshire Highways,1,1,0,0,0,1,0
 Staffordshire Moorlands District Council,1,1,1,1,0,0,0
 "Staffordshire, Shropshire and Black Country Newborn Network",1,1,1,1,0,0,0
 Stamford Quarter Shopping Centre,1,1,0,0,0,1,0
