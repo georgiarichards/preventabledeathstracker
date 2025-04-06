@@ -70,12 +70,12 @@ South London and Maudsley NHS Foundation Trust,21,11,0,10,48
 North West Ambulance Service NHS Trust,21,10,0,11,52
 Herefordshire and Worcestershire Health and Care NHS Trust,21,9,0,12,57
 Devon Partnership NHS Trust,21,8,0,13,62
+University Hospitals Plymouth NHS Trust,21,10,1,10,48
 West Midlands Police,21,7,0,14,67
 East Midlands Ambulance Service NHS Trust,21,9,0,12,57
 Welsh Government,21,8,0,13,62
 East of England Ambulance Service NHS Trust,20,10,0,10,50
 East Kent Hospitals University NHS Foundation Trust,20,10,0,10,50
-University Hospitals Plymouth NHS Trust,20,10,0,10,50
 NHS Sussex Integrated Care Board,19,11,0,8,42
 Priory Group Limited,19,7,0,12,63
 Surrey County Council,19,8,0,11,58
@@ -99,15 +99,15 @@ St George’s University Hospitals NHS Foundation Trust,16,13,0,3,19
 Driver and Vehicle Licensing Agency,16,13,0,3,19
 Milton Keynes University Hospital NHS Foundation Trust,16,7,0,9,56
 NHS Birmingham and Solihull Integrated Care Board,16,6,0,10,62
-Royal College of Physicians,16,9,2,5,31
 Royal College of Anaesthetists,16,8,1,7,44
-Durham County Council,15,1,0,14,93
+Royal Free London NHS Foundation Trust,16,5,4,7,44
+Royal College of Physicians,16,9,2,5,31
 Leicestershire Partnership NHS Trust,15,2,0,13,87
 "Department for Business, Energy and Industrial Strategy",15,9,0,6,40
 Department for Work and Pensions,15,7,0,8,53
 Royal Cornwall Hospitals NHS Trust,15,7,0,8,53
-Royal Free London NHS Foundation Trust,15,5,3,7,47
 Royal College of Emergency Medicine,15,7,2,6,40
+Durham County Council,15,1,0,14,93
 University Hospitals of Leicester NHS Trust,15,3,0,12,80
 University Hospitals of Derby and Burton NHS Foundation Trust,15,7,0,8,53
 Birmingham City Council,15,7,1,7,47
