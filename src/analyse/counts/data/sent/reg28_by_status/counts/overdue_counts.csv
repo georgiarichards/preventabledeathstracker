@@ -588,10 +588,10 @@ West Yorkshire Fire and Rescue Service,1,50.0
 Yorkshire Water,1,50.0
 Medway NHS Foundation Trust,8,47.0
 Royal Cornwall Hospitals NHS Trust,7,47.0
-University Hospitals Plymouth NHS Trust,9,45.0
 Ashford and St Peter’s Hospitals NHS Foundation Trust,5,45.0
 St George’s University Hospitals NHS Foundation Trust,7,44.0
 The Royal Wolverhampton NHS Trust,4,44.0
+University Hospitals Plymouth NHS Trust,9,43.0
 Cheshire and Wirral Partnership NHS Foundation Trust,3,43.0
 Essex County Council,3,43.0
 Lewisham Council,3,43.0
@@ -651,7 +651,6 @@ Essex Partnership University NHS Foundation Trust,12,35.0
 REDACTED,26,34.0
 Nottinghamshire Healthcare NHS Foundation Trust,9,33.0
 Nursing and Midwifery Council,6,33.0
-Royal Free London NHS Foundation Trust,5,33.0
 Great Western Hospitals NHS Foundation Trust,4,33.0
 Kent County Council,3,33.0
 NHS Devon Integrated Care Board,3,33.0
@@ -698,6 +697,7 @@ Wigan Council,1,33.0
 East London NHS Foundation Trust,12,32.0
 Ministry of Justice,34,31.0
 Greater Manchester Mental Health NHS Foundation Trust,14,31.0
+Royal Free London NHS Foundation Trust,5,31.0
 Surrey Police,5,31.0
 University College London Hospitals NHS Foundation Trust,4,31.0
 National Institute for Health and Care Excellence,31,30.0
