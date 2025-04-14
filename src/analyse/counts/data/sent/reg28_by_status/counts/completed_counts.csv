@@ -529,7 +529,6 @@ Royal Society of Medicine,1,100.0
 Rush Court Nursing Home,1,100.0
 SC Johnson and Son,1,100.0
 SERCO Group Plc,1,100.0
-SSP Health Medical Services Ltd,1,100.0
 Salter Labs,1,100.0
 Sapphire Independent Living,1,100.0
 Scape Living Student Accommodation,1,100.0
@@ -779,7 +778,6 @@ East of England Ambulance Service NHS Trust,13,65.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,11,65.0
 Bolton NHS Foundation Trust,9,64.0
 County Durham and Darlington NHS Foundation Trust,9,64.0
-Oxford University Hospitals NHS Foundation Trust,9,64.0
 Norfolk County Council,7,64.0
 Royal Pharmaceutical Society,7,64.0
 Sandwell and West Birmingham Hospitals NHS Trust,7,64.0
@@ -799,6 +797,7 @@ Gloucestershire Hospital NHS Foundation Trust,5,62.0
 NHS Lancashire and South Cumbria Integrated Care Board,5,62.0
 Resuscitation Council UK,5,62.0
 Blackpool Teaching Hospitals NHS Foundation Trust,15,60.0
+Oxford University Hospitals NHS Foundation Trust,9,60.0
 Lincolnshire County Council,6,60.0
 Walsall Healthcare NHS Trust,6,60.0
 Cygnet Health Care,3,60.0
@@ -977,6 +976,7 @@ Prime Life Limited,1,50.0
 Renal Association,1,50.0
 Royal Borough of Kensington and Chelsea,1,50.0
 Royal College of Veterinary Surgeons,1,50.0
+SSP Health Medical Services Ltd,1,50.0
 Slough Borough Council,1,50.0
 Society of British Neurological Surgeons,1,50.0
 Society of Radiographers,1,50.0
@@ -1027,7 +1027,6 @@ Kent County Council,4,44.0
 The Royal Wolverhampton NHS Trust,4,44.0
 Warwickshire County Council,4,44.0
 West Yorkshire Police,4,44.0
-South London and Maudsley NHS Foundation Trust,9,43.0
 Welsh Government,9,43.0
 NHS Cornwall and Isles of Scilly Integrated Care Board,6,43.0
 NHS Digital,6,43.0
@@ -1056,6 +1055,7 @@ Sheffield Teaching Hospitals NHS Foundation Trust,5,42.0
 Essex Partnership University NHS Foundation Trust,14,41.0
 Central and North West London NHS Foundation Trust,13,41.0
 Avon and Wiltshire Mental Health Partnership NHS Trust,9,41.0
+South London and Maudsley NHS Foundation Trust,9,41.0
 Kent and Medway NHS and Social Care Partnership Trust,7,41.0
 Manchester University NHS Foundation Trust,16,40.0
 "Department for Culture, Media and Sport",10,40.0
@@ -1095,7 +1095,6 @@ College of Policing,16,36.0
 Care UK,9,36.0
 Maritime and Coastguard Agency,5,36.0
 London Ambulance Service NHS Trust,9,35.0
-South Central Ambulance Service NHS Foundation Trust,6,33.0
 South West Yorkshire Partnership NHS Foundation Trust,4,33.0
 NHS Devon Integrated Care Board,3,33.0
 George Eliot Hospital NHS Trust,2,33.0
@@ -1136,6 +1135,7 @@ Southwark Council,1,33.0
 Torbay and South Devon NHS Foundation Trust,1,33.0
 Wakefield Council,1,33.0
 Wigan Council,1,33.0
+South Central Ambulance Service NHS Foundation Trust,6,32.0
 South Western Ambulance Service NHS Foundation Trust,4,31.0
 Trafford Council,3,30.0
 Calderdale and Huddersfield NHS Foundation Trust,2,29.0
