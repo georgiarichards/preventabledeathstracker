@@ -591,6 +591,7 @@ Yorkshire Water,1,50.0
 Medway NHS Foundation Trust,8,47.0
 Royal Cornwall Hospitals NHS Trust,7,47.0
 Ashford and St Peter’s Hospitals NHS Foundation Trust,5,45.0
+Royal Free London NHS Foundation Trust,7,44.0
 St George’s University Hospitals NHS Foundation Trust,7,44.0
 The Royal Wolverhampton NHS Trust,4,44.0
 University Hospitals Plymouth NHS Trust,9,43.0
@@ -631,9 +632,10 @@ Wiltshire Police,2,40.0
 Leeds Teaching Hospitals NHS Trust,9,39.0
 Public Health England,7,39.0
 Welsh Parliament,7,39.0
+National Highways,24,38.0
+Essex Partnership University NHS Foundation Trust,13,38.0
 Stockport NHS Foundation Trust,13,38.0
 North East London NHS Foundation Trust,11,38.0
-Royal Free London NHS Foundation Trust,6,38.0
 South Western Ambulance Service NHS Foundation Trust,5,38.0
 Gloucestershire Hospital NHS Foundation Trust,3,38.0
 Health Services Safety Investigations Body,3,38.0
@@ -644,13 +646,12 @@ Resuscitation Council UK,3,38.0
 Shrewsbury and Telford Hospital NHS Trust,3,38.0
 Tower Hamlets Council,3,38.0
 South Central Ambulance Service NHS Foundation Trust,7,37.0
-National Highways,23,36.0
 Blackpool Teaching Hospitals NHS Foundation Trust,9,36.0
 Hywel Dda University Health Board,5,36.0
 Berkshire Healthcare NHS Foundation Trust,4,36.0
 British Medical Association,4,36.0
 South Tyneside and Sunderland NHS Foundation Trust,4,36.0
-Essex Partnership University NHS Foundation Trust,12,35.0
+Mid and South Essex NHS Foundation Trust,6,35.0
 REDACTED,26,34.0
 Nottinghamshire Healthcare NHS Foundation Trust,9,33.0
 Nursing and Midwifery Council,6,33.0
@@ -686,6 +687,7 @@ HM Prison Wakefield,1,33.0
 HM Prison Wymott,1,33.0
 Hampshire Hospitals NHS Foundation Trust,1,33.0
 Hertfordshire Constabulary,1,33.0
+NHS North East and North Cumbria Integrated Care Board,1,33.0
 National Crime Agency,1,33.0
 Newcastle City Council,1,33.0
 North Lincolnshire Council,1,33.0
@@ -711,7 +713,6 @@ Walsall Healthcare NHS Trust,3,30.0
 Health and Safety Executive,17,29.0
 Cumbria County Council,5,29.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,29.0
-Mid and South Essex NHS Foundation Trust,5,29.0
 North East Ambulance Service NHS Foundation Trust,5,29.0
 NHS Cornwall and Isles of Scilly Integrated Care Board,4,29.0
 North Yorkshire Council,2,29.0
@@ -797,7 +798,7 @@ Priory Group Limited,4,21.0
 County Durham and Darlington NHS Foundation Trust,3,21.0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3,21.0
 Surrey and Sussex Healthcare NHS Trust,3,21.0
-NHS England,106,20.0
+NHS England,107,20.0
 "Department for Culture, Media and Sport",5,20.0
 Birmingham City Council,3,20.0
 "Department for Business, Energy and Industrial Strategy",3,20.0
@@ -838,6 +839,7 @@ Transport for London,4,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
+Department of Health and Social Care,124,17.0
 Home Office,17,17.0
 National Police Chiefs’ Council,10,17.0
 Cardiff and Vale University Health Board,4,17.0
@@ -853,7 +855,6 @@ Royal Society for the Prevention of Accidents,1,17.0
 Sheffield City Council,1,17.0
 UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
-Department of Health and Social Care,123,16.0
 NHS Greater Manchester Integrated Care Board,16,16.0
 College of Policing,7,16.0
 Ministry of Defence,5,15.0
