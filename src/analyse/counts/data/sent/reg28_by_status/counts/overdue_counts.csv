@@ -715,6 +715,7 @@ Cumbria County Council,5,29.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,29.0
 North East Ambulance Service NHS Foundation Trust,5,29.0
 NHS Cornwall and Isles of Scilly Integrated Care Board,4,29.0
+Surrey and Sussex Healthcare NHS Trust,4,29.0
 North Yorkshire Council,2,29.0
 Nottinghamshire County Council,2,29.0
 Oldham Council,2,29.0
@@ -729,6 +730,7 @@ Driver and Vehicle Standards Agency,3,27.0
 South West London and St George’s Mental Health NHS Trust,3,27.0
 University Hospitals Sussex NHS Foundation Trust,16,26.0
 Royal College of Obstetricians and Gynaecologists,7,26.0
+University Hospitals of North Midlands NHS Trust,7,26.0
 HM Prison and Probation Service,39,25.0
 Pennine Care NHS Foundation Trust,12,25.0
 General Medical Council,9,25.0
@@ -786,20 +788,18 @@ Sussex Police,3,23.0
 Sussex Partnership NHS Foundation Trust,10,22.0
 North London NHS Foundation Trust,8,22.0
 Midlands Partnership University NHS Foundation Trust,6,22.0
-University Hospitals of North Midlands NHS Trust,6,22.0
 Royal College of Psychiatrists,5,22.0
 British Standards Institution,2,22.0
 HC One,2,22.0
 Homerton Healthcare NHS Foundation Trust,2,22.0
 Royal Devon University Healthcare NHS Foundation Trust,2,22.0
+NHS England,108,21.0
 Metropolitan Police Service,14,21.0
 NHS Derby and Derbyshire Integrated Care Board,5,21.0
 Oxleas NHS Foundation Trust,5,21.0
 Priory Group Limited,4,21.0
 County Durham and Darlington NHS Foundation Trust,3,21.0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3,21.0
-Surrey and Sussex Healthcare NHS Trust,3,21.0
-NHS England,107,20.0
 "Department for Culture, Media and Sport",5,20.0
 Birmingham City Council,3,20.0
 "Department for Business, Energy and Industrial Strategy",3,20.0
@@ -839,7 +839,7 @@ Transport for London,4,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
-Department of Health and Social Care,124,17.0
+Department of Health and Social Care,125,17.0
 Home Office,17,17.0
 National Police Chiefs’ Council,10,17.0
 Cardiff and Vale University Health Board,4,17.0
