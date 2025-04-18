@@ -3,7 +3,7 @@ Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,23,748
 NHS England,6,25,22,33,27,36,45,27,42,42,85,110,25,525,51,269,136,108,12
 Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,4,172,38,65,61,42,4
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,4,158,42,66,51,39,2
-Department for Transport,1,13,6,12,9,6,6,8,7,8,12,16,7,111,48,53,30,26,2
+Department for Transport,1,13,6,12,9,6,6,8,7,8,12,16,7,111,48,53,30,27,1
 Ministry of Justice,1,12,6,8,2,8,13,0,12,11,11,22,4,110,24,26,48,36,0
 National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,6,16,20,5,103,49,50,20,31,2
 Home Office,2,8,10,5,4,5,12,8,13,10,12,13,1,103,42,43,42,17,1
@@ -30,7 +30,7 @@ Cwm Taf Morgannwg University Health Board,0,6,7,1,4,4,7,1,2,2,0,3,2,39,44,17,5,1
 "Ministry of Housing, Communities and Local Government",1,3,4,1,2,1,4,4,2,3,3,9,1,38,58,22,9,7,0
 Norfolk and Suffolk NHS Foundation Trust,1,4,4,0,4,2,7,1,3,5,0,7,0,38,71,27,4,7,0
 East London NHS Foundation Trust,0,2,0,3,11,1,2,1,1,6,5,6,0,38,58,22,4,12,0
-North London NHS Foundation Trust,2,5,8,1,5,1,1,1,1,1,4,4,2,36,56,20,6,8,2
+North London NHS Foundation Trust,2,5,8,1,5,1,1,1,1,1,4,4,2,36,56,20,6,10,0
 General Medical Council,2,5,4,1,1,3,3,3,5,2,4,1,2,36,25,9,17,9,1
 Greater Manchester Police,0,3,6,4,0,1,5,2,4,3,2,4,1,35,57,20,10,4,1
 Ministry of Defence,1,5,8,0,1,2,3,1,4,1,3,4,1,34,71,24,5,5,0
@@ -234,7 +234,7 @@ Cambridgeshire County Council,0,1,0,0,0,0,0,0,1,1,3,1,0,7,86,6,0,1,0
 Greater London Authority,1,0,0,1,0,0,0,0,3,1,0,1,0,7,43,3,4,0,0
 Royal College of Nursing,1,0,0,0,0,0,1,2,0,1,0,2,0,7,43,3,3,1,0
 Milton Keynes City Council,0,1,0,0,1,1,0,1,0,1,1,1,0,7,71,5,1,1,0
-Essex County Council,0,0,2,0,1,0,0,1,0,0,2,0,1,7,43,3,0,3,1
+Essex County Council,0,0,2,0,1,0,0,1,0,0,2,0,1,7,43,3,0,4,0
 Epsom and St Helier University Hospitals NHS Trust,1,0,1,2,0,2,0,0,0,0,0,1,0,7,43,3,3,1,0
 Sherwood Forest Hospitals NHS Foundation Trust,0,0,0,1,0,0,0,1,1,0,0,4,0,7,86,6,1,0,0
 South Wales Police,0,0,0,1,0,0,1,2,0,1,1,1,0,7,57,4,0,3,0
@@ -1233,7 +1233,7 @@ Air Liquide,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Air Balloon Surgery,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
 Agricultural Engineers Association,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
 Agrade Community Care Services,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-Affinity Water,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Affinity Water,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Affinity Healthcare Ltd,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Advocacy Together,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
 "Advisory, Conciliation and Arbitration Service",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
@@ -1470,7 +1470,7 @@ Home Care Support Limited,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Home Affairs,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Holy Cross Hospital,0,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
 Hotpoint UK Appliances Limited,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
-Hatton Traffic Management,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Hatton Traffic Management,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Hartlepool Borough Council,0,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Hart Care Nursing and Residential Home,0,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
 Harry Sotnick House,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
@@ -1889,7 +1889,7 @@ British Association of Plastic Reconstructive and Aesthetic Surgeons,0,0,0,0,0,0
 British Association of Paediatric Surgeons,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 British Association of Dermatologists,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
 British Association of Aesthetic Plastic Surgeons,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
-British Association for Counselling and Psychotherapy,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+British Association for Counselling and Psychotherapy,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 British Army,0,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
 British Airways,0,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 British Airline Pilots’ Association,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
@@ -1910,7 +1910,7 @@ New Park Residential Home,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Norfolk Police,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Northwood Square,0,1,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Northumbria Water,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-Northumberland Children’s and Adults Safeguarding Partnership,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Northumberland Children’s and Adults Safeguarding Partnership,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Northfields Surgery,0,0,0,1,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Northern Medical Centre,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Northern Lincolnshire and Goole NHS Foundation Trust,0,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0

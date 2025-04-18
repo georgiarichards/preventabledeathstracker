@@ -3,7 +3,7 @@ Department of Health and Social Care,748,1782,1247,433,180,125,10
 NHS England,525,1421,922,269,136,108,12
 Care Quality Commission,172,506,296,65,61,42,4
 HM Prison and Probation Service,158,365,194,66,51,39,2
-Department for Transport,111,289,184,53,30,26,2
+Department for Transport,111,289,184,53,30,27,1
 Ministry of Justice,110,293,143,26,48,36,0
 National Institute for Health and Care Excellence,103,283,182,50,20,31,2
 Home Office,103,337,254,43,42,17,1
@@ -30,7 +30,7 @@ Cwm Taf Morgannwg University Health Board,39,80,30,17,5,16,1
 "Ministry of Housing, Communities and Local Government",38,98,56,22,9,7,0
 Norfolk and Suffolk NHS Foundation Trust,38,60,47,27,4,7,0
 East London NHS Foundation Trust,38,61,38,22,4,12,0
-North London NHS Foundation Trust,36,60,38,20,6,8,2
+North London NHS Foundation Trust,36,60,38,20,6,10,0
 General Medical Council,36,140,74,9,17,9,1
 Greater Manchester Police,35,110,83,20,10,4,1
 Ministry of Defence,34,56,40,24,5,5,0
@@ -234,7 +234,7 @@ Cambridgeshire County Council,7,11,10,6,0,1,0
 Greater London Authority,7,32,32,3,4,0,0
 Royal College of Nursing,7,18,11,3,3,1,0
 Milton Keynes City Council,7,13,11,5,1,1,0
-Essex County Council,7,11,5,3,0,3,1
+Essex County Council,7,11,5,3,0,4,0
 Epsom and St Helier University Hospitals NHS Trust,7,16,9,3,3,1,0
 Sherwood Forest Hospitals NHS Foundation Trust,7,11,10,6,1,0,0
 South Wales Police,7,11,6,4,0,3,0
@@ -1233,7 +1233,7 @@ Air Liquide,1,4,1,0,1,0,0
 Air Balloon Surgery,1,2,1,0,1,0,0
 Agricultural Engineers Association,1,6,3,0,1,0,0
 Agrade Community Care Services,1,1,0,0,0,1,0
-Affinity Water,1,4,0,0,0,0,1
+Affinity Water,1,4,0,0,0,1,0
 Affinity Healthcare Ltd,1,6,1,0,1,0,0
 Advocacy Together,1,4,0,0,0,1,0
 "Advisory, Conciliation and Arbitration Service",1,1,0,0,0,1,0
@@ -1470,7 +1470,7 @@ Home Care Support Limited,1,2,1,0,1,0,0
 Home Affairs,1,4,0,0,0,1,0
 Holy Cross Hospital,1,1,1,1,0,0,0
 Hotpoint UK Appliances Limited,1,7,8,1,0,0,0
-Hatton Traffic Management,1,4,0,0,0,0,1
+Hatton Traffic Management,1,4,0,0,0,1,0
 Hartlepool Borough Council,1,2,2,1,0,0,0
 Hart Care Nursing and Residential Home,1,1,1,1,0,0,0
 Harry Sotnick House,1,3,1,0,1,0,0
@@ -1889,7 +1889,7 @@ British Association of Plastic Reconstructive and Aesthetic Surgeons,1,3,2,0,1,0
 British Association of Paediatric Surgeons,1,3,3,1,0,0,0
 British Association of Dermatologists,1,6,5,0,1,0,0
 British Association of Aesthetic Plastic Surgeons,1,3,2,0,1,0,0
-British Association for Counselling and Psychotherapy,1,2,0,0,0,0,1
+British Association for Counselling and Psychotherapy,1,2,0,0,0,1,0
 British Army,1,1,1,1,0,0,0
 British Airways,1,2,2,1,0,0,0
 British Airline Pilots’ Association,1,2,0,0,0,0,1
@@ -1910,7 +1910,7 @@ New Park Residential Home,1,2,1,0,1,0,0
 Norfolk Police,1,4,0,0,0,1,0
 Northwood Square,1,1,1,1,0,0,0
 Northumbria Water,1,1,0,0,0,1,0
-Northumberland Children’s and Adults Safeguarding Partnership,1,1,0,0,0,0,1
+Northumberland Children’s and Adults Safeguarding Partnership,1,1,0,0,0,1,0
 Northfields Surgery,1,3,3,1,0,0,0
 Northern Medical Centre,1,2,1,0,1,0,0
 Northern Lincolnshire and Goole NHS Foundation Trust,1,1,1,1,0,0,0
