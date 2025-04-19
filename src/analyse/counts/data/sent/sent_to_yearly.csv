@@ -1,20 +1,20 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,23,748,58,433,180,125,10
-NHS England,6,25,22,33,27,36,45,27,42,42,85,110,25,525,51,269,136,108,12
-Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,4,172,38,65,61,42,4
+Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,23,748,58,433,181,126,8
+NHS England,6,25,22,33,27,36,45,27,42,42,85,110,25,525,51,269,137,109,10
+Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,4,172,38,65,62,43,2
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,4,158,42,66,51,39,2
 Department for Transport,1,13,6,12,9,6,6,8,7,8,12,16,7,111,48,53,30,27,1
 Ministry of Justice,1,12,6,8,2,8,13,0,12,11,11,22,4,110,24,26,48,36,0
 National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,6,16,20,5,103,49,50,20,31,2
 Home Office,2,8,10,5,4,5,12,8,13,10,12,13,1,103,42,43,42,17,1
 NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,13,12,20,11,10,13,1,98,63,62,19,16,1
-Betsi Cadwaladr University Health Board,1,9,8,4,9,2,2,1,4,4,21,10,2,77,70,54,3,18,2
+Betsi Cadwaladr University Health Board,1,9,8,4,9,2,2,1,4,4,21,10,2,77,70,54,3,19,1
 REDACTED,3,26,9,0,3,1,2,0,0,5,6,17,4,76,20,15,35,26,0
 Barts Health NHS Trust,0,5,5,6,5,7,9,8,2,6,8,5,0,66,53,35,13,18,0
 Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,7,6,3,66,52,34,17,14,1
 National Highways,1,7,8,4,7,1,9,4,4,5,6,6,2,64,48,31,9,24,0
 University Hospitals Sussex NHS Foundation Trust,1,11,5,11,6,6,6,1,4,2,4,3,2,62,52,32,13,16,1
-Medicines and Healthcare Products Regulatory Agency,1,9,4,5,3,4,5,5,4,4,7,8,3,62,44,27,17,17,1
+Medicines and Healthcare Products Regulatory Agency,1,9,4,5,3,4,5,5,4,4,7,8,3,62,44,27,18,17,0
 National Police Chiefs’ Council,1,3,5,2,2,2,8,2,11,3,10,6,4,59,25,15,32,10,2
 Health and Safety Executive,4,3,3,5,6,5,9,1,4,3,9,5,2,59,36,21,20,17,1
 Pennine Care NHS Foundation Trust,2,2,4,4,5,7,8,5,1,2,5,3,0,48,50,24,12,12,0
@@ -58,11 +58,11 @@ Blackpool Teaching Hospitals NHS Foundation Trust,1,5,1,3,1,2,4,2,1,1,1,2,1,25,6
 Care UK,1,6,1,6,5,0,3,1,0,0,1,1,0,25,36,9,14,2,0
 "Department for Culture, Media and Sport",0,0,1,0,0,1,3,1,2,4,6,5,2,25,40,10,9,5,1
 Cardiff and Vale University Health Board,1,1,3,2,2,4,3,2,0,2,1,2,1,24,46,11,8,4,1
-Oxleas NHS Foundation Trust,0,1,0,2,1,5,2,4,1,3,2,2,1,24,50,12,6,5,1
+Oxleas NHS Foundation Trust,0,1,0,2,1,5,2,4,1,3,2,2,1,24,50,12,6,6,0
 NHS Derby and Derbyshire Integrated Care Board,1,5,0,4,1,4,1,2,2,1,0,3,0,24,42,10,9,5,0
 University Hospitals Dorset NHS Foundation Trust,2,10,3,5,1,0,0,0,0,1,1,0,0,23,57,13,3,7,0
 Cornwall Council,0,1,2,4,0,1,3,0,4,3,2,3,0,23,65,15,4,4,0
-Royal College of Psychiatrists,0,3,0,1,1,2,1,0,2,6,4,1,2,23,26,6,11,5,1
+Royal College of Psychiatrists,0,3,0,1,1,2,1,0,2,6,4,1,2,23,26,6,12,5,0
 Leeds Teaching Hospitals NHS Trust,0,2,4,2,2,3,2,3,2,1,0,2,0,23,57,13,1,9,0
 South London and Maudsley NHS Foundation Trust,1,6,1,2,2,4,0,2,0,0,1,2,1,22,41,9,6,6,1
 Avon and Wiltshire Mental Health Partnership NHS Trust,1,0,8,4,2,1,3,0,1,1,0,1,0,22,41,9,8,5,0
@@ -86,7 +86,7 @@ Welsh Parliament,0,0,10,3,2,0,1,0,0,0,0,1,1,18,22,4,6,8,0
 Civil Aviation Authority,0,0,2,5,1,1,2,1,2,0,2,1,1,18,72,13,2,2,1
 The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,0,2,1,0,1,2,4,2,1,2,2,1,0,18,67,12,4,2,0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,1,1,1,3,2,3,1,0,2,1,0,1,1,17,65,11,0,5,1
-Mid and South Essex NHS Foundation Trust,0,4,0,1,1,0,0,1,0,0,2,6,2,17,59,10,0,6,1
+Mid and South Essex NHS Foundation Trust,0,4,0,1,1,0,0,1,0,0,2,6,2,17,59,10,0,7,0
 North East Ambulance Service NHS Foundation Trust,0,1,1,3,1,2,2,0,0,2,1,3,1,17,47,8,4,5,0
 Kent and Medway NHS and Social Care Partnership Trust,1,3,1,1,2,1,1,0,3,2,1,1,0,17,41,7,3,7,0
 Cumbria County Council,2,3,1,3,2,0,2,1,1,2,0,0,0,17,59,10,2,5,0

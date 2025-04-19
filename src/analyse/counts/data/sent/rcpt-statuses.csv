@@ -1,20 +1,20 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,748,1782,1247,433,180,125,10
-NHS England,525,1421,922,269,136,108,12
-Care Quality Commission,172,506,296,65,61,42,4
+Department of Health and Social Care,748,1782,1247,433,181,126,8
+NHS England,525,1421,922,269,137,109,10
+Care Quality Commission,172,506,296,65,62,43,2
 HM Prison and Probation Service,158,365,194,66,51,39,2
 Department for Transport,111,289,184,53,30,27,1
 Ministry of Justice,110,293,143,26,48,36,0
 National Institute for Health and Care Excellence,103,283,182,50,20,31,2
 Home Office,103,337,254,43,42,17,1
 NHS Greater Manchester Integrated Care Board,98,241,159,62,19,16,1
-Betsi Cadwaladr University Health Board,77,102,65,54,3,18,2
+Betsi Cadwaladr University Health Board,77,102,65,54,3,19,1
 REDACTED,76,252,81,15,35,26,0
 Barts Health NHS Trust,66,103,66,35,13,18,0
 Metropolitan Police Service,66,159,114,34,17,14,1
 National Highways,64,102,60,31,9,24,0
 University Hospitals Sussex NHS Foundation Trust,62,106,66,32,13,16,1
-Medicines and Healthcare Products Regulatory Agency,62,183,106,27,17,17,1
+Medicines and Healthcare Products Regulatory Agency,62,183,106,27,18,17,0
 National Police Chiefs’ Council,59,211,146,15,32,10,2
 Health and Safety Executive,59,176,84,21,20,17,1
 Pennine Care NHS Foundation Trust,48,116,62,24,12,12,0
@@ -58,11 +58,11 @@ Blackpool Teaching Hospitals NHS Foundation Trust,25,39,23,15,1,9,0
 Care UK,25,58,32,9,14,2,0
 "Department for Culture, Media and Sport",25,90,64,10,9,5,1
 Cardiff and Vale University Health Board,24,46,28,11,8,4,1
-Oxleas NHS Foundation Trust,24,53,36,12,6,5,1
+Oxleas NHS Foundation Trust,24,53,36,12,6,6,0
 NHS Derby and Derbyshire Integrated Care Board,24,63,34,10,9,5,0
 University Hospitals Dorset NHS Foundation Trust,23,34,20,13,3,7,0
 Cornwall Council,23,45,32,15,4,4,0
-Royal College of Psychiatrists,23,100,55,6,11,5,1
+Royal College of Psychiatrists,23,100,55,6,12,5,0
 Leeds Teaching Hospitals NHS Trust,23,32,20,13,1,9,0
 South London and Maudsley NHS Foundation Trust,22,40,23,9,6,6,1
 Avon and Wiltshire Mental Health Partnership NHS Trust,22,46,28,9,8,5,0
@@ -86,7 +86,7 @@ Welsh Parliament,18,51,13,4,6,8,0
 Civil Aviation Authority,18,32,23,13,2,2,1
 The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,18,30,22,12,4,2,0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,17,21,11,11,0,5,1
-Mid and South Essex NHS Foundation Trust,17,26,19,10,0,6,1
+Mid and South Essex NHS Foundation Trust,17,26,19,10,0,7,0
 North East Ambulance Service NHS Foundation Trust,17,31,19,8,4,5,0
 Kent and Medway NHS and Social Care Partnership Trust,17,29,13,7,3,7,0
 Cumbria County Council,17,21,18,10,2,5,0
