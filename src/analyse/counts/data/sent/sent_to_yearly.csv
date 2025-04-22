@@ -1,7 +1,7 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,28,753,58,433,182,126,12
-NHS England,6,25,22,33,27,36,45,27,42,42,85,110,27,527,51,269,139,109,10
-Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,5,173,38,65,62,43,3
+Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,28,753,58,433,182,127,11
+NHS England,6,25,22,33,27,36,45,27,42,42,85,110,27,527,51,269,139,110,9
+Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,5,173,38,65,62,44,2
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,4,158,42,66,51,39,2
 Department for Transport,1,13,6,12,9,6,6,8,7,8,12,16,7,111,48,53,30,27,1
 Ministry of Justice,1,12,6,8,2,8,13,0,12,11,11,22,4,110,24,26,48,36,0
@@ -30,7 +30,7 @@ Manchester University NHS Foundation Trust,0,5,3,9,1,6,6,3,1,2,1,3,0,40,40,16,7,
 Cwm Taf Morgannwg University Health Board,0,6,7,1,4,4,7,1,2,2,0,3,2,39,44,17,5,16,1
 East London NHS Foundation Trust,0,2,0,3,11,1,2,1,1,6,5,6,0,38,58,22,4,12,0
 Norfolk and Suffolk NHS Foundation Trust,1,4,4,0,4,2,7,1,3,5,0,7,0,38,71,27,4,7,0
-General Medical Council,2,5,4,1,1,3,3,3,5,2,4,1,2,36,25,9,17,9,1
+General Medical Council,2,5,4,1,1,3,3,3,5,2,4,1,2,36,25,9,17,10,0
 North London NHS Foundation Trust,2,5,8,1,5,1,1,1,1,1,4,4,2,36,56,20,6,10,0
 Greater Manchester Police,0,3,6,4,0,1,5,2,4,3,2,4,1,35,57,20,10,4,1
 Ministry of Defence,1,5,8,0,1,2,3,1,4,1,3,4,1,34,71,24,5,5,0
@@ -51,7 +51,7 @@ Midlands Partnership University NHS Foundation Trust,1,1,2,0,4,4,3,2,1,1,2,5,1,2
 University Hospitals of North Midlands NHS Trust,1,1,3,1,2,2,3,0,4,0,4,4,2,27,67,18,1,7,1
 Aneurin Bevan University Health Board,0,1,3,1,3,2,0,2,3,3,5,4,0,27,59,16,3,8,0
 Royal College of General Practitioners,2,3,1,1,2,0,1,1,4,2,3,5,1,26,50,13,10,3,0
-Swansea Bay University Health Board,1,0,3,3,3,0,5,0,1,1,2,5,2,26,38,10,9,5,2
+Swansea Bay University Health Board,1,0,3,3,3,0,5,0,1,1,2,5,2,26,38,10,9,6,1
 London Ambulance Service NHS Trust,2,2,4,2,2,3,4,3,3,0,1,0,0,26,35,9,10,7,0
 Surrey and Borders Partnership NHS Foundation Trust,1,4,3,1,2,1,1,1,1,3,4,3,1,26,54,14,6,6,0
 "Tees, Esk and Wear Valley NHS Foundation Trust",3,7,0,2,2,0,0,1,1,2,5,3,0,26,62,16,6,4,0
@@ -92,11 +92,11 @@ Medway NHS Foundation Trust,0,0,1,4,1,2,1,0,6,2,0,0,0,17,53,9,0,8,0
 Mid and South Essex NHS Foundation Trust,0,4,0,1,1,0,0,1,0,0,2,6,2,17,59,10,0,7,0
 North East Ambulance Service NHS Foundation Trust,0,1,1,3,1,2,2,0,0,2,1,3,1,17,47,8,4,5,0
 Kent and Medway NHS and Social Care Partnership Trust,1,3,1,1,2,1,1,0,3,2,1,1,0,17,41,7,3,7,0
-Royal College of Physicians,0,3,0,1,0,1,1,1,2,0,2,3,2,16,25,4,7,3,2
-Royal College of Anaesthetists,0,2,1,0,2,1,0,0,2,1,1,5,1,16,50,8,6,1,1
+Royal College of Physicians,0,3,0,1,0,1,1,1,2,0,2,3,2,16,25,4,7,4,1
+Royal College of Anaesthetists,0,2,1,0,2,1,0,0,2,1,1,5,1,16,50,8,6,2,0
 Surrey Police,0,3,1,0,0,1,4,2,0,1,1,3,0,16,38,6,5,5,0
 Royal Free London NHS Foundation Trust,0,3,1,1,1,1,0,1,2,0,0,2,4,16,44,7,0,7,2
-Royal College of Emergency Medicine,0,1,0,0,2,0,0,1,1,0,4,4,3,16,19,3,8,2,3
+Royal College of Emergency Medicine,0,1,0,0,2,0,0,1,1,0,4,4,3,16,19,3,8,3,2
 South East Coast Ambulance Service NHS Foundation Trust,0,0,0,0,1,2,4,1,2,0,3,3,0,16,81,13,0,3,0
 Worcestershire Acute Hospitals NHS Trust,0,0,3,0,1,0,0,0,1,1,2,6,2,16,81,13,0,3,0
 Driver and Vehicle Licensing Agency,1,0,2,1,2,2,0,0,3,0,1,3,1,16,19,3,5,8,0
@@ -123,7 +123,7 @@ General Pharmaceutical Council,0,1,1,0,1,1,2,0,2,0,1,5,0,14,50,7,5,2,0
 Hywel Dda University Health Board,0,3,1,3,0,1,4,0,0,1,0,1,0,14,57,8,1,5,0
 Office for Product Safety and Standards,0,0,0,0,0,1,1,1,0,0,3,7,1,14,43,6,6,2,0
 Bolton NHS Foundation Trust,1,1,3,2,2,1,0,2,1,0,0,1,0,14,64,9,3,2,0
-Surrey and Sussex Healthcare NHS Trust,0,2,2,0,0,0,0,2,0,2,3,1,2,14,43,6,3,4,1
+Surrey and Sussex Healthcare NHS Trust,0,2,2,0,0,0,0,2,0,2,3,1,2,14,43,6,3,5,0
 Maritime and Coastguard Agency,0,2,0,3,1,1,0,4,0,0,2,1,0,14,36,5,8,1,0
 NHS Cornwall and Isles of Scilly Integrated Care Board,0,0,2,3,0,4,1,0,1,0,0,3,0,14,43,6,4,4,0
 Mersey Care NHS Foundation Trust,2,3,1,2,3,0,1,1,0,1,0,0,0,14,86,12,0,2,0
@@ -308,7 +308,7 @@ South Warwickshire University NHS Foundation Trust,0,0,0,0,0,0,1,1,1,0,1,1,0,5,1
 South Yorkshire Police,0,1,1,0,1,0,0,1,0,0,0,1,0,5,60,3,2,0,0
 Greater Manchester Combined Authority,0,1,0,0,0,1,3,0,0,0,0,0,0,5,20,1,2,2,0
 HM Inspectorate of Prisons,0,0,0,0,0,1,2,0,0,0,1,1,0,5,40,2,1,2,0
-HM Prison Wormwood Scrubs,0,1,1,0,0,1,1,0,0,0,0,0,1,5,20,1,0,3,1
+HM Prison Wormwood Scrubs,0,1,1,0,0,1,1,0,0,0,0,0,1,5,20,1,0,4,0
 HM Prison Woodhill,0,0,0,1,2,0,2,0,0,0,0,0,0,5,20,1,2,2,0
 HM Prison Winchester,1,1,1,1,0,0,1,0,0,0,0,0,0,5,0,0,2,3,0
 HM Prison Wandsworth,0,0,0,0,2,0,0,0,0,0,0,3,0,5,20,1,1,3,0
@@ -460,7 +460,7 @@ Environment Agency,0,1,0,0,0,0,0,0,1,0,1,0,0,3,33,1,1,1,0
 Four Seasons Health Care,0,0,0,0,0,0,0,0,0,1,1,1,0,3,33,1,2,0,0
 Forward Trust,0,0,0,0,0,0,0,0,1,0,2,0,0,3,0,0,2,1,0
 Financial Conduct Authority,0,1,0,0,0,1,0,0,0,0,0,1,0,3,67,2,1,0,0
-Association of Anaesthetists,0,0,0,0,0,0,0,0,0,0,1,1,1,3,33,1,1,0,1
+Association of Anaesthetists,0,0,0,0,0,0,0,0,0,0,1,1,1,3,33,1,1,1,0
 Sunrise Senior Living,0,1,1,0,1,0,0,0,0,0,0,0,0,3,67,2,0,1,0
 Gloucestershire County Council,0,0,0,1,0,0,2,0,0,0,0,0,0,3,67,2,0,1,0
 General Dental Council,0,0,0,1,0,0,0,0,0,0,1,1,0,3,33,1,1,1,0
@@ -1594,7 +1594,7 @@ Dorset and Wiltshire Fire and Rescue Service,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
 Derby City Council,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 Derwent Students,0,0,0,0,0,1,0,0,0,0,0,0,0,1,100,1,0,0,0
 GEO Group UK Ltd,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-Difficult Airway Society,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Difficult Airway Society,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Digital,0,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 Digsafe Suction Excavations Limited,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Dinnington Group Practice,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
