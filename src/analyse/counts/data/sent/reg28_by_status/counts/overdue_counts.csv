@@ -150,6 +150,7 @@ Fentons Solicitors,1,100.0
 Festimed,1,100.0
 First Aid Cover Limited,1,100.0
 Fitness First,1,100.0
+Fixodent,1,100.0
 Floron Residential Home,1,100.0
 Four Season’s Healthcare Home,1,100.0
 Fremantle Trust,1,100.0
@@ -736,10 +737,10 @@ Bedfordshire Hospitals NHS Foundation Trust,4,27.0
 Black Country Healthcare NHS Foundation Trust,4,27.0
 Driver and Vehicle Standards Agency,3,27.0
 South West London and St George’s Mental Health NHS Trust,3,27.0
+Care Quality Commission,45,26.0
 University Hospitals Sussex NHS Foundation Trust,16,26.0
 Royal College of Obstetricians and Gynaecologists,7,26.0
 University Hospitals of North Midlands NHS Trust,7,26.0
-Care Quality Commission,44,25.0
 HM Prison and Probation Service,39,25.0
 Pennine Care NHS Foundation Trust,12,25.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,8,25.0
@@ -847,6 +848,7 @@ Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
 Department of Health and Social Care,127,17.0
+Home Office,18,17.0
 National Police Chiefs’ Council,10,17.0
 Cardiff and Vale University Health Board,4,17.0
 Cornwall Council,4,17.0
@@ -861,7 +863,6 @@ Royal Society for the Prevention of Accidents,1,17.0
 Sheffield City Council,1,17.0
 UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
-Home Office,17,16.0
 NHS Greater Manchester Integrated Care Board,16,16.0
 College of Policing,7,16.0
 Ministry of Defence,5,15.0

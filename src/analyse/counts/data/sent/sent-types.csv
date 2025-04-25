@@ -1,11 +1,11 @@
 sent_to,no. PFDs,overdue,pending,received,% received
 Department of Health and Social Care,753,288,11,454,60
 NHS England,527,185,9,333,63
-Care Quality Commission,173,102,2,69,40
+Care Quality Commission,173,103,1,69,40
 HM Prison and Probation Service,158,87,2,69,44
 Department for Transport,111,45,1,65,59
 Ministry of Justice,110,85,0,25,23
-Home Office,104,42,2,60,58
+Home Office,104,43,1,60,58
 National Institute for Health and Care Excellence,103,53,2,48,47
 NHS Greater Manchester Integrated Care Board,98,41,1,56,57
 Betsi Cadwaladr University Health Board,78,22,2,54,69
@@ -1682,7 +1682,7 @@ Daryel Care,1,0,1,0,0
 Denton Medical Centre,1,1,0,0,0
 Fitness First,1,1,0,0,0
 Fitzalan Medical Group,1,1,0,0,0
-Fixodent,1,0,1,0,0
+Fixodent,1,1,0,0,0
 Flintshire County Council,1,1,0,0,0
 Floron Residential Home,1,1,0,0,0
 Food and Drink Federation,1,0,0,1,100
