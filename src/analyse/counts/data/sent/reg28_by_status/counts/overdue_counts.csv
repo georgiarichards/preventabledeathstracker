@@ -443,6 +443,7 @@ White Branch Live Limited,1,100.0
 Whitepost Healthcare Group,1,100.0
 Wibsey and Queensbury Medical Practice,1,100.0
 Wigan Metropolitan Borough Council,1,100.0
+Willow Grange Care Home,1,100.0
 Worthing Homes,1,100.0
 Yorkshire Dales National Park,1,100.0
 Youngman,1,100.0
@@ -506,6 +507,7 @@ Cyngor Sir Powys County Council,5,50.0
 Chief Fire Officers Association,4,50.0
 Devon County Council,4,50.0
 Hampshire and Isle of Wight Constabulary,4,50.0
+Shrewsbury and Telford Hospital NHS Trust,4,50.0
 Bolton Council,3,50.0
 George Eliot Hospital NHS Trust,3,50.0
 Association of Directors of Adult Social Services,2,50.0
@@ -597,6 +599,7 @@ West Yorkshire Fire and Rescue Service,1,50.0
 Yorkshire Water,1,50.0
 Medway NHS Foundation Trust,8,47.0
 Royal Cornwall Hospitals NHS Trust,7,47.0
+South Western Ambulance Service NHS Foundation Trust,6,46.0
 Ashford and St Peter’s Hospitals NHS Foundation Trust,5,45.0
 Welsh Parliament,8,44.0
 Royal Free London NHS Foundation Trust,7,44.0
@@ -642,14 +645,12 @@ National Highways,24,38.0
 Essex Partnership University NHS Foundation Trust,13,38.0
 Stockport NHS Foundation Trust,13,38.0
 North East London NHS Foundation Trust,11,38.0
-South Western Ambulance Service NHS Foundation Trust,5,38.0
 Gloucestershire Hospital NHS Foundation Trust,3,38.0
 Health Services Safety Investigations Body,3,38.0
 Hull University Teaching Hospitals NHS Trust,3,38.0
 Isle of Wight Council,3,38.0
 NHS West Yorkshire Integrated Care Board,3,38.0
 Resuscitation Council UK,3,38.0
-Shrewsbury and Telford Hospital NHS Trust,3,38.0
 Tower Hamlets Council,3,38.0
 South Central Ambulance Service NHS Foundation Trust,7,37.0
 Blackpool Teaching Hospitals NHS Foundation Trust,9,36.0
@@ -803,7 +804,7 @@ British Standards Institution,2,22.0
 HC One,2,22.0
 Homerton Healthcare NHS Foundation Trust,2,22.0
 Royal Devon University Healthcare NHS Foundation Trust,2,22.0
-NHS England,110,21.0
+NHS England,111,21.0
 Metropolitan Police Service,14,21.0
 NHS Derby and Derbyshire Integrated Care Board,5,21.0
 Priory Group Limited,4,21.0
@@ -847,13 +848,14 @@ Transport for London,4,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
-Department of Health and Social Care,127,17.0
+Department of Health and Social Care,128,17.0
 Home Office,18,17.0
 National Police Chiefs’ Council,10,17.0
 Cardiff and Vale University Health Board,4,17.0
 Cornwall Council,4,17.0
 Cornwall Partnership NHS Foundation Trust,2,17.0
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",2,17.0
+Devon and Cornwall Police,2,17.0
 North Cumbria Integrated Care NHS Foundation Trust,2,17.0
 James Paget University Hospitals NHS Foundation Trust,1,17.0
 NHS Cheshire and Merseyside Integrated Care Board,1,17.0
@@ -908,7 +910,6 @@ Leeds City Council,1,9.0
 Sandwell and West Birmingham Hospitals NHS Trust,1,9.0
 Whittington Health NHS Trust,1,9.0
 Care UK,2,8.0
-Devon and Cornwall Police,1,8.0
 Yorkshire Ambulance Service NHS Trust,1,8.0
 Maritime and Coastguard Agency,1,7.0
 University Hospitals of Leicester NHS Trust,1,7.0
