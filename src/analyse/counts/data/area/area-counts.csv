@@ -1,9 +1,9 @@
 coroner_area,count
 Greater Manchester South,470
-London Inner North,301
+London Inner North,302
 "West Sussex, Brighton and Hove",183
 Surrey,177
-Birmingham and Solihull,172
+Birmingham and Solihull,173
 London East,162
 London Inner South,139
 South Wales Central,131
@@ -12,7 +12,7 @@ Staffordshire and Stoke-on-Trent,125
 Nottinghamshire,121
 Cornwall and the Isles of Scilly,121
 Greater Manchester West,118
-Norfolk,117
+Norfolk,118
 Yorkshire West Eastern,116
 "County of Devon, Plymouth & Torbay",108
 North Wales (East & Central),104
@@ -23,23 +23,23 @@ Yorkshire South West,92
 Yorkshire West Western,91
 Essex,86
 The Black Country Jurisdiction,85
-London Inner West,80
+London Inner West,81
 Cumbria,76
 Bedfordshire and Luton,74
 Leicester City and South Leicestershire,74
 Suffolk,73
 Dorset,73
 Milton Keynes,72
+Berkshire,70
 Liverpool and the Wirral,69
 Worcestershire,68
-Berkshire,68
 Greater Lincolnshire,67
 London North,65
 Manchester City,65
 Kent Mid and Medway,64
 London West,60
 Derby and Derbyshire,60
-Lancashire and Blackburn with Darwen,57
+Lancashire and Blackburn with Darwen,59
 Wiltshire and Swindon,55
 Cheshire,52
 Yorkshire South East,52
@@ -58,9 +58,9 @@ Hertfordshire,31
 Swansea and Neath Port Talbot,31
 Kent Central and South East,30
 North Yorkshire and York,29
-Somerset,28
+Somerset,29
+"Shropshire, Telford and Wrekin",27
 East Sussex,27
-"Shropshire, Telford and Wrekin",26
 Teesside and Hartlepool,23
 Buckinghamshire,23
 Carmarthenshire and Pembrokeshire,22
@@ -75,5 +75,5 @@ Rutland and North Leicestershire,14
 Gateshead and South Tyneside,11
 Kent North West,9
 "Sefton, Knowsley and St Helens",6
+Ceredigion,2
 Central Criminal Court,1
-Ceredigion,1
