@@ -496,11 +496,11 @@ Circle Health Group,5,56.0
 Warwickshire County Council,5,56.0
 West London NHS Trust,6,55.0
 East Lancashire Hospitals NHS Trust,7,54.0
-"Foreign, Commonwealth and Development Office",7,54.0
 Lancashire and South Cumbria NHS Foundation Trust,7,54.0
 East Kent Hospitals University NHS Foundation Trust,10,50.0
 Driver and Vehicle Licensing Agency,8,50.0
 United Lincolnshire Hospitals NHS Trust,8,50.0
+"Foreign, Commonwealth and Development Office",7,50.0
 Sheffield Teaching Hospitals NHS Foundation Trust,6,50.0
 Calderdale Council,5,50.0
 Cyngor Sir Powys County Council,5,50.0
@@ -516,7 +516,6 @@ Department for Business and Trade,2,50.0
 NHS Cambridgeshire and Peterborough Integrated Care Board,2,50.0
 NHS Frimley Integrated Care Board,2,50.0
 Prisons and Probation Ombudsman,2,50.0
-Somerset NHS Foundation Trust,2,50.0
 South Tyneside Council,2,50.0
 Suffolk Constabulary,2,50.0
 Sunderland City Council,2,50.0
@@ -635,6 +634,7 @@ Milton Keynes Clinical Commissioning Group,2,40.0
 North Middlesex University Hospital NHS Trust,2,40.0
 Ofsted,2,40.0
 Royal Yachting Association,2,40.0
+Somerset NHS Foundation Trust,2,40.0
 South Tees Hospitals NHS Foundation Trust,2,40.0
 The Phoenix Partnership,2,40.0
 West Suffolk NHS Foundation Trust,2,40.0
@@ -716,7 +716,6 @@ University College London Hospitals NHS Foundation Trust,4,31.0
 National Institute for Health and Care Excellence,31,30.0
 Aneurin Bevan University Health Board,8,30.0
 University Hospitals Dorset NHS Foundation Trust,7,30.0
-Royal College of Surgeons,3,30.0
 Royal United Hospitals Bath NHS Foundation Trust,3,30.0
 Walsall Healthcare NHS Trust,3,30.0
 Cumbria County Council,5,29.0
@@ -737,14 +736,15 @@ South London and Maudsley NHS Foundation Trust,6,27.0
 Bedfordshire Hospitals NHS Foundation Trust,4,27.0
 Black Country Healthcare NHS Foundation Trust,4,27.0
 Driver and Vehicle Standards Agency,3,27.0
+Royal College of Surgeons,3,27.0
 South West London and St George’s Mental Health NHS Trust,3,27.0
 Care Quality Commission,45,26.0
 University Hospitals Sussex NHS Foundation Trust,16,26.0
-Royal College of Obstetricians and Gynaecologists,7,26.0
 University Hospitals of North Midlands NHS Trust,7,26.0
 HM Prison and Probation Service,39,25.0
 Pennine Care NHS Foundation Trust,12,25.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,8,25.0
+Royal College of Obstetricians and Gynaecologists,7,25.0
 Oxleas NHS Foundation Trust,6,25.0
 East of England Ambulance Service NHS Trust,5,25.0
 Milton Keynes University Hospital NHS Foundation Trust,4,25.0
@@ -758,7 +758,6 @@ West Midlands Ambulance Service University NHS Foundation Trust,3,25.0
 Bupa,2,25.0
 Camden Council,2,25.0
 NHS Wales,2,25.0
-Royal Berkshire NHS Foundation Trust,2,25.0
 Sheffield Health and Social Care NHS Foundation Trust,2,25.0
 Suffolk County Council,2,25.0
 Barnsley Hospital NHS Foundation Trust,1,25.0
@@ -803,6 +802,7 @@ Royal College of Psychiatrists,5,22.0
 British Standards Institution,2,22.0
 HC One,2,22.0
 Homerton Healthcare NHS Foundation Trust,2,22.0
+Royal Berkshire NHS Foundation Trust,2,22.0
 Royal Devon University Healthcare NHS Foundation Trust,2,22.0
 NHS England,111,21.0
 Metropolitan Police Service,14,21.0
@@ -835,7 +835,6 @@ Staffordshire Police,1,20.0
 The Princess Alexandra Hospital NHS Trust,1,20.0
 West Mercia Police,1,20.0
 Department for Education,9,19.0
-"Department for Culture, Media and Sport",5,19.0
 North West Ambulance Service NHS Trust,4,19.0
 Royal College of Emergency Medicine,3,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
@@ -843,8 +842,8 @@ Worcestershire Acute Hospitals NHS Trust,3,19.0
 "Ministry of Housing, Communities and Local Government",7,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
 Association of Ambulance Chief Executives,6,18.0
+"Department for Culture, Media and Sport",5,18.0
 Royal College of Paediatrics and Child Health,5,18.0
-Transport for London,4,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
@@ -853,6 +852,7 @@ Home Office,18,17.0
 National Police Chiefs’ Council,10,17.0
 Cardiff and Vale University Health Board,4,17.0
 Cornwall Council,4,17.0
+Transport for London,4,17.0
 Cornwall Partnership NHS Foundation Trust,2,17.0
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",2,17.0
 Devon and Cornwall Police,2,17.0
@@ -888,14 +888,14 @@ Oxford Health NHS Foundation Trust,1,14.0
 Royal College of Nursing,1,14.0
 Stockport Council,1,14.0
 "Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust",1,14.0
-University Hospitals Birmingham NHS Foundation Trust,4,13.0
 Leicestershire Partnership NHS Trust,2,13.0
-Royal College of General Practitioners,3,12.0
+University Hospitals Birmingham NHS Foundation Trust,4,12.0
 NHS Birmingham and Solihull Integrated Care Board,2,12.0
 Royal College of Anaesthetists,2,12.0
 Hampshire County Council,1,12.0
 Lewisham and Greenwich NHS Trust,1,12.0
 Greater Manchester Police,4,11.0
+Royal College of General Practitioners,3,11.0
 Civil Aviation Authority,2,11.0
 NHS Sussex Integrated Care Board,2,11.0
 Surrey County Council,2,11.0
