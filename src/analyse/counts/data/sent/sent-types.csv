@@ -27,7 +27,7 @@ Northern Care Alliance NHS Foundation Trust,42,22,0,20,48
 Network Rail,41,11,0,30,73
 Manchester University NHS Foundation Trust,40,23,0,17,42
 "Ministry of Housing, Communities and Local Government",40,19,2,19,48
-Cwm Taf Morgannwg University Health Board,39,21,1,17,44
+Cwm Taf Morgannwg University Health Board,39,22,0,17,44
 Norfolk and Suffolk NHS Foundation Trust,38,11,0,27,71
 East London NHS Foundation Trust,38,14,0,24,63
 North London NHS Foundation Trust,36,15,0,21,58
@@ -83,7 +83,7 @@ South Central Ambulance Service NHS Foundation Trust,19,12,1,6,32
 Welsh Parliament,18,13,0,5,28
 Public Health England,18,10,0,8,44
 Nursing and Midwifery Council,18,9,0,9,50
-Civil Aviation Authority,18,4,1,13,72
+Civil Aviation Authority,18,5,0,13,72
 The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,18,6,0,12,67
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,17,6,0,11,65
 Kent and Medway NHS and Social Care Partnership Trust,17,11,0,6,35
@@ -147,7 +147,7 @@ Cornwall Partnership NHS Foundation Trust,12,5,0,7,58
 Great Western Hospitals NHS Foundation Trust,12,5,0,7,58
 Devon and Cornwall Police,12,8,0,4,33
 "Department for Environment, Food and Rural Affairs",12,10,0,2,17
-Coventry and Warwickshire Partnership NHS Trust,12,5,1,6,50
+Coventry and Warwickshire Partnership NHS Trust,12,6,0,6,50
 Mid Yorkshire Teaching NHS Trust,12,5,0,7,58
 West Midlands Ambulance Service University NHS Foundation Trust,12,4,0,8,67
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",12,2,0,10,83
@@ -323,7 +323,7 @@ Harbour Healthcare Ltd,5,3,0,2,40
 East Suffolk and North Essex NHS Foundation Trust,5,1,0,4,80
 Hackney Council,5,2,0,3,60
 Sainsbury's,5,2,0,3,60
-Bradford Council,5,2,2,1,20
+Bradford Council,5,4,0,1,20
 Brighton and Hove City Council,5,5,0,0,0
 North Middlesex University Hospital NHS Trust,5,3,0,2,40
 Derbyshire Healthcare NHS Foundation Trust,5,2,0,3,60
@@ -545,7 +545,7 @@ North Staffordshire Combined Healthcare NHS Trust,2,0,0,2,100
 North Somerset Council,2,0,0,2,100
 SSP Health Medical Services Ltd,2,0,1,1,50
 Scotia Gas Network,2,2,0,0,0
-Bradford District Care NHS Foundation Trust,2,0,1,1,50
+Bradford District Care NHS Foundation Trust,2,1,0,1,50
 Salford City Council,2,0,0,2,100
 Association of Manufacturers of Domestic Appliances,2,1,0,1,50
 Baedling Manor Care Home,2,0,0,2,100
@@ -1634,7 +1634,7 @@ Britannia Hotels Group Ltd,1,1,0,0,0
 Britannia Jinky Jersey Ltd,1,0,0,1,100
 Britannia Pharmaceutical Ltd,1,0,0,1,100
 British Agricultural and Garden Machinery Association,1,1,0,0,0
-British Airline Pilots’ Association,1,0,1,0,0
+British Airline Pilots’ Association,1,1,0,0,0
 British Airways,1,0,0,1,100
 British Army,1,0,0,1,100
 British Association for Counselling and Psychotherapy,1,1,0,0,0
