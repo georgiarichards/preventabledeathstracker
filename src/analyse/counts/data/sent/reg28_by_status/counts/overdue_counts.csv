@@ -2,6 +2,7 @@ sent_to,no. overdue responses,% overdue
 Imperial College Healthcare NHS Trust,4,100.0
 National Patient Safety Agency,4,100.0
 Cambridgeshire and Peterborough NHS Foundation Trust,3,100.0
+Leeds Community Healthcare NHS Trust,3,100.0
 The Hillingdon Hospitals NHS Foundation Trust,3,100.0
 Worcestershire County Council,3,100.0
 Bristol City Council,2,100.0
@@ -451,7 +452,6 @@ Derbyshire Community Health Services NHS Foundation Trust,2,67.0
 HM Prison Bedford,2,67.0
 Healthcare Inspectorate Wales,2,67.0
 Intensive Care Society,2,67.0
-Leeds Community Healthcare NHS Trust,2,67.0
 Lincolnshire Community Health Service NHS Trust,2,67.0
 London Borough of Havering,2,67.0
 Northern Rail,2,67.0
@@ -579,6 +579,7 @@ Medway NHS Foundation Trust,8,47.0
 Royal Cornwall Hospitals NHS Trust,7,47.0
 South Western Ambulance Service NHS Foundation Trust,6,46.0
 Ashford and St Peter’s Hospitals NHS Foundation Trust,5,45.0
+South Tyneside and Sunderland NHS Foundation Trust,5,45.0
 Cwm Taf Morgannwg University Health Board,17,44.0
 Driver and Vehicle Licensing Agency,7,44.0
 Kent County Council,4,44.0
@@ -631,7 +632,6 @@ Tower Hamlets Council,3,38.0
 Blackpool Teaching Hospitals NHS Foundation Trust,9,36.0
 Hywel Dda University Health Board,5,36.0
 British Medical Association,4,36.0
-South Tyneside and Sunderland NHS Foundation Trust,4,36.0
 Leeds Teaching Hospitals NHS Trust,8,35.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,6,35.0
 Mid and South Essex NHS Foundation Trust,6,35.0
@@ -718,7 +718,9 @@ South West London and St George’s Mental Health NHS Trust,3,27.0
 Medicines and Healthcare Products Regulatory Agency,16,26.0
 University Hospitals Sussex NHS Foundation Trust,16,26.0
 Northern Care Alliance NHS Foundation Trust,11,26.0
+University Hospitals of North Midlands NHS Trust,7,26.0
 Care Quality Commission,43,25.0
+HM Prison and Probation Service,40,25.0
 Pennine Care NHS Foundation Trust,12,25.0
 General Medical Council,9,25.0
 North London NHS Foundation Trust,9,25.0
@@ -749,6 +751,7 @@ Dyfed-Powys Police,1,25.0
 East and North Hertfordshire NHS Trust,1,25.0
 HM Prison Exeter,1,25.0
 HM Prison Leeds,1,25.0
+HM Prison Rochester,1,25.0
 Islington Council,1,25.0
 Kirklees Council,1,25.0
 Lambeth Council,1,25.0
@@ -760,7 +763,6 @@ Royal Surrey NHS Foundation Trust,1,25.0
 Traffic Commissioners for Great Britain,1,25.0
 West Hertfordshire Teaching Hospitals NHS Trust,1,25.0
 Youth Justice Board,1,25.0
-HM Prison and Probation Service,38,24.0
 Network Rail,10,24.0
 Royal College of Obstetricians and Gynaecologists,7,24.0
 Betsi Cadwaladr University Health Board,18,23.0
@@ -772,13 +774,13 @@ North Bristol NHS Trust,3,23.0
 Sussex Partnership NHS Foundation Trust,10,22.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,7,22.0
 Midlands Partnership University NHS Foundation Trust,6,22.0
-University Hospitals of North Midlands NHS Trust,6,22.0
 Royal College of Psychiatrists,5,22.0
 British Standards Institution,2,22.0
 HC One,2,22.0
 Homerton Healthcare NHS Foundation Trust,2,22.0
 Royal Berkshire NHS Foundation Trust,2,22.0
 Royal Devon University Healthcare NHS Foundation Trust,2,22.0
+West Yorkshire Police,2,22.0
 Metropolitan Police Service,14,21.0
 NHS Derby and Derbyshire Integrated Care Board,5,21.0
 Priory Group Limited,4,21.0
@@ -801,6 +803,7 @@ Derbyshire Healthcare NHS Foundation Trust,1,20.0
 East Suffolk and North Essex NHS Foundation Trust,1,20.0
 HM Prison Hewell,1,20.0
 London North West University Healthcare NHS Trust,1,20.0
+NHS Dorset Integrated Care Board,1,20.0
 NHS Surrey Heartlands Integrated Care Board,1,20.0
 Rhondda Cynon Taf County Borough Council,1,20.0
 Sainsbury's,1,20.0
@@ -808,13 +811,14 @@ Somerset NHS Foundation Trust,1,20.0
 Staffordshire Police,1,20.0
 The Princess Alexandra Hospital NHS Trust,1,20.0
 West Mercia Police,1,20.0
-NHS England,100,19.0
+NHS England,102,19.0
 Department for Education,9,19.0
 Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 North West Ambulance Service NHS Trust,4,19.0
 Welsh Government,4,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
 Department for Transport,21,18.0
+College of Policing,8,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
 Royal College of Paediatrics and Child Health,5,18.0
 Norfolk County Council,2,18.0
@@ -822,6 +826,7 @@ Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
 Home Office,18,17.0
 NHS Greater Manchester Integrated Care Board,17,17.0
+National Police Chiefs’ Council,10,17.0
 Cardiff and Vale University Health Board,4,17.0
 Cornwall Council,4,17.0
 Transport for London,4,17.0
@@ -839,8 +844,6 @@ Sheffield City Council,1,17.0
 UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
 Department of Health and Social Care,121,16.0
-College of Policing,7,16.0
-National Police Chiefs’ Council,9,15.0
 "Ministry of Housing, Communities and Local Government",6,15.0
 Association of Ambulance Chief Executives,5,15.0
 Ministry of Defence,5,15.0
@@ -879,7 +882,6 @@ British Transport Police,1,11.0
 Maidstone and Tunbridge Wells NHS Trust,1,11.0
 The Dudley Group NHS Foundation Trust,1,11.0
 West Sussex County Council,1,11.0
-West Yorkshire Police,1,11.0
 Devon Partnership NHS Trust,2,10.0
 Birmingham and Solihull Mental Health NHS Foundation Trust,3,9.0
 Leeds City Council,1,9.0

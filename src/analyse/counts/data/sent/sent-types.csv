@@ -1,8 +1,8 @@
 sent_to,no. PFDs,overdue,pending,received,% received
 Department of Health and Social Care,756,283,13,460,61
-NHS England,529,177,10,342,65
+NHS England,529,179,8,342,65
 Care Quality Commission,173,103,1,69,40
-HM Prison and Probation Service,158,85,2,71,45
+HM Prison and Probation Service,158,87,0,71,45
 Department for Transport,114,41,4,69,61
 Ministry of Justice,110,85,0,25,23
 Home Office,105,43,2,60,57
@@ -16,13 +16,13 @@ National Highways,64,34,0,30,47
 Medicines and Healthcare Products Regulatory Agency,62,35,0,27,44
 University Hospitals Sussex NHS Foundation Trust,62,32,1,29,47
 Health and Safety Executive,60,33,2,25,42
-National Police Chiefs’ Council,59,44,1,14,24
+National Police Chiefs’ Council,59,45,0,14,24
 Pennine Care NHS Foundation Trust,48,27,0,21,44
 Department for Education,47,18,0,29,62
 Welsh Ambulance Services University NHS Trust,47,18,0,29,62
 Sussex Partnership NHS Foundation Trust,46,20,0,26,57
 Greater Manchester Mental Health NHS Foundation Trust,45,27,0,18,40
-College of Policing,44,14,2,28,64
+College of Policing,44,15,1,28,64
 Northern Care Alliance NHS Foundation Trust,42,22,0,20,48
 Network Rail,41,11,0,30,73
 Manchester University NHS Foundation Trust,40,23,0,17,42
@@ -47,7 +47,7 @@ Royal College of Obstetricians and Gynaecologists,29,16,3,10,34
 Royal College of Paediatrics and Child Health,28,14,1,13,46
 "Department for Culture, Media and Sport",28,16,4,8,29
 Midlands Partnership University NHS Foundation Trust,27,9,1,17,63
-University Hospitals of North Midlands NHS Trust,27,8,1,18,67
+University Hospitals of North Midlands NHS Trust,27,9,0,18,67
 Aneurin Bevan University Health Board,27,11,0,16,59
 Nottinghamshire Healthcare NHS Foundation Trust,27,12,0,15,56
 Royal College of General Practitioners,27,11,1,15,56
@@ -163,7 +163,7 @@ Leeds City Council,11,1,0,10,91
 Royal Pharmaceutical Society,11,3,0,8,73
 South West London and St George’s Mental Health NHS Trust,11,5,0,6,55
 Norfolk County Council,11,2,0,9,82
-South Tyneside and Sunderland NHS Foundation Trust,11,5,1,5,45
+South Tyneside and Sunderland NHS Foundation Trust,11,6,0,5,45
 Royal College of Surgeons,11,7,1,3,27
 British Medical Association,11,8,0,3,27
 Egton Medical Information Systems,10,5,0,5,50
@@ -187,7 +187,7 @@ Warwickshire County Council,9,5,0,4,44
 Homerton Healthcare NHS Foundation Trust,9,4,1,4,44
 Royal College of Radiologists,9,1,0,8,89
 Royal Devon University Healthcare NHS Foundation Trust,9,5,0,4,44
-West Yorkshire Police,9,2,1,6,67
+West Yorkshire Police,9,3,0,6,67
 NHS Devon Integrated Care Board,9,6,0,3,33
 Royal College of Pathologists,9,6,0,3,33
 Royal Berkshire NHS Foundation Trust,9,4,1,4,44
@@ -311,7 +311,7 @@ Serco,5,4,0,1,20
 Mitie Group,5,4,0,1,20
 Borough Care,5,1,0,4,80
 Cygnet Health Care,5,2,0,3,60
-NHS Dorset Integrated Care Board,5,1,1,3,60
+NHS Dorset Integrated Care Board,5,2,0,3,60
 Staffordshire Police,5,2,0,3,60
 South Warwickshire University NHS Foundation Trust,5,0,0,5,100
 South Yorkshire Police,5,2,0,3,60
@@ -351,7 +351,7 @@ Dyfed-Powys Police,4,3,0,1,25
 Doncaster Council,4,1,0,3,75
 Traffic Commissioners for Great Britain,4,3,0,1,25
 Faculty of Intensive Care Medicine,4,0,1,3,75
-HM Prison Rochester,4,1,1,2,50
+HM Prison Rochester,4,2,0,2,50
 HM Prison Durham,4,1,0,3,75
 Royal Borough of Greenwich,4,3,0,1,25
 HM Courts and Tribunals Service,4,2,0,2,50
@@ -458,7 +458,7 @@ Kettering General Hospital NHS Foundation Trust,3,2,0,1,33
 Derbyshire Community Health Services NHS Foundation Trust,3,3,0,0,0
 Disclosure and Barring Service,3,2,0,1,33
 Intensive Care Society,3,3,0,0,0
-Leeds Community Healthcare NHS Trust,3,2,1,0,0
+Leeds Community Healthcare NHS Trust,3,3,0,0,0
 BT,3,3,0,0,0
 Lincolnshire Partnership NHS Foundation Trust,3,1,0,2,67
 Cyngor Gwynedd Council,3,0,0,3,100

@@ -1,8 +1,8 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
 Department of Health and Social Care,756,1809,1265,439,183,121,13
-NHS England,529,1436,954,277,142,100,10
+NHS England,529,1436,954,277,142,102,8
 Care Quality Commission,173,509,306,65,64,43,1
-HM Prison and Probation Service,158,365,200,68,50,38,2
+HM Prison and Probation Service,158,365,200,68,50,40,0
 Department for Transport,114,292,191,56,33,21,4
 Ministry of Justice,110,293,145,26,49,35,0
 Home Office,105,343,254,43,42,18,2
@@ -16,13 +16,13 @@ National Highways,64,102,60,31,9,24,0
 Medicines and Healthcare Products Regulatory Agency,62,183,108,28,18,16,0
 University Hospitals Sussex NHS Foundation Trust,62,106,66,32,13,16,1
 Health and Safety Executive,60,178,88,21,21,16,2
-National Police Chiefs’ Council,59,211,150,16,33,9,1
+National Police Chiefs’ Council,59,211,150,16,33,10,0
 Pennine Care NHS Foundation Trust,48,116,62,24,12,12,0
 Department for Education,47,141,89,21,17,9,0
 Welsh Ambulance Services University NHS Trust,47,94,57,29,7,11,0
 Sussex Partnership NHS Foundation Trust,46,76,50,29,7,10,0
 Greater Manchester Mental Health NHS Foundation Trust,45,132,61,19,12,14,0
-College of Policing,44,157,141,16,19,7,2
+College of Policing,44,157,141,16,19,8,1
 Northern Care Alliance NHS Foundation Trust,42,83,42,22,9,11,0
 Network Rail,41,61,42,26,5,10,0
 Manchester University NHS Foundation Trust,40,76,32,16,7,17,0
@@ -47,7 +47,7 @@ Royal College of Obstetricians and Gynaecologists,29,81,37,7,12,7,3
 Royal College of Paediatrics and Child Health,28,110,64,11,11,5,1
 "Department for Culture, Media and Sport",28,102,65,10,10,4,4
 Midlands Partnership University NHS Foundation Trust,27,51,36,17,3,6,1
-University Hospitals of North Midlands NHS Trust,27,37,29,19,1,6,1
+University Hospitals of North Midlands NHS Trust,27,37,29,19,1,7,0
 Aneurin Bevan University Health Board,27,48,26,16,3,8,0
 Nottinghamshire Healthcare NHS Foundation Trust,27,53,32,15,4,8,0
 Royal College of General Practitioners,27,107,73,13,10,3,1
@@ -163,7 +163,7 @@ Leeds City Council,11,21,16,10,0,1,0
 Royal Pharmaceutical Society,11,36,23,7,2,2,0
 South West London and St George’s Mental Health NHS Trust,11,27,14,6,2,3,0
 Norfolk County Council,11,21,14,7,2,2,0
-South Tyneside and Sunderland NHS Foundation Trust,11,21,8,5,1,4,1
+South Tyneside and Sunderland NHS Foundation Trust,11,21,8,5,1,5,0
 Royal College of Surgeons,11,38,24,4,3,3,1
 British Medical Association,11,50,22,3,4,4,0
 Egton Medical Information Systems,10,29,25,7,1,2,0
@@ -187,7 +187,7 @@ Warwickshire County Council,9,9,4,4,0,5,0
 Homerton Healthcare NHS Foundation Trust,9,16,11,4,2,2,1
 Royal College of Radiologists,9,29,24,6,3,0,0
 Royal Devon University Healthcare NHS Foundation Trust,9,15,12,5,2,2,0
-West Yorkshire Police,9,19,14,4,3,1,1
+West Yorkshire Police,9,19,14,4,3,2,0
 NHS Devon Integrated Care Board,9,25,9,3,3,3,0
 Royal College of Pathologists,9,40,24,2,4,3,0
 Royal Berkshire NHS Foundation Trust,9,20,13,3,3,2,1
@@ -311,7 +311,7 @@ Serco,5,21,6,0,3,2,0
 Mitie Group,5,22,5,1,0,4,0
 Borough Care,5,5,4,4,0,1,0
 Cygnet Health Care,5,14,10,3,1,1,0
-NHS Dorset Integrated Care Board,5,20,17,4,0,0,1
+NHS Dorset Integrated Care Board,5,20,17,4,0,1,0
 Staffordshire Police,5,21,14,1,3,1,0
 South Warwickshire University NHS Foundation Trust,5,11,11,5,0,0,0
 South Yorkshire Police,5,11,5,3,2,0,0
@@ -351,7 +351,7 @@ Dyfed-Powys Police,4,7,4,2,1,1,0
 Doncaster Council,4,5,4,3,0,1,0
 Traffic Commissioners for Great Britain,4,10,7,2,1,1,0
 Faculty of Intensive Care Medicine,4,15,7,2,1,0,1
-HM Prison Rochester,4,6,4,2,1,0,1
+HM Prison Rochester,4,6,4,2,1,1,0
 HM Prison Durham,4,10,7,3,1,0,0
 Royal Borough of Greenwich,4,27,4,0,3,1,0
 HM Courts and Tribunals Service,4,12,6,2,2,0,0
@@ -458,7 +458,7 @@ Kettering General Hospital NHS Foundation Trust,3,11,6,1,2,0,0
 Derbyshire Community Health Services NHS Foundation Trust,3,7,1,0,1,2,0
 Disclosure and Barring Service,3,5,2,1,1,1,0
 Intensive Care Society,3,13,1,0,1,2,0
-Leeds Community Healthcare NHS Trust,3,9,0,0,0,2,1
+Leeds Community Healthcare NHS Trust,3,9,0,0,0,3,0
 BT,3,8,1,0,1,2,0
 Lincolnshire Partnership NHS Foundation Trust,3,8,5,1,2,0,0
 Cyngor Gwynedd Council,3,6,6,3,0,0,0
