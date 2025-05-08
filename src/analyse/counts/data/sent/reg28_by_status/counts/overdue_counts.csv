@@ -645,6 +645,7 @@ Gloucestershire Health and Care NHS Foundation Trust,2,33.0
 Hertfordshire County Council,2,33.0
 NHS South Yorkshire Integrated Care Board,2,33.0
 Newham Council,2,33.0
+Ofcom,2,33.0
 Rotherham Doncaster and South Humber NHS Foundation Trust,2,33.0
 Sandwell Council,2,33.0
 South Western Railway,2,33.0
@@ -704,6 +705,7 @@ North Yorkshire Council,2,29.0
 Nottinghamshire County Council,2,29.0
 Central and North West London NHS Foundation Trust,9,28.0
 Barts Health NHS Trust,18,27.0
+University Hospitals Sussex NHS Foundation Trust,17,27.0
 Health and Safety Executive,16,27.0
 London Ambulance Service NHS Trust,7,27.0
 Swansea Bay University Health Board,7,27.0
@@ -716,7 +718,6 @@ Driver and Vehicle Standards Agency,3,27.0
 Royal College of Surgeons,3,27.0
 South West London and St George’s Mental Health NHS Trust,3,27.0
 Medicines and Healthcare Products Regulatory Agency,16,26.0
-University Hospitals Sussex NHS Foundation Trust,16,26.0
 Northern Care Alliance NHS Foundation Trust,11,26.0
 University Hospitals of North Midlands NHS Trust,7,26.0
 Care Quality Commission,43,25.0
@@ -745,6 +746,7 @@ British Association of Perinatal Medicine,1,25.0
 Chelsea and Westminster Hospital NHS Foundation Trust,1,25.0
 Cheshire Constabulary,1,25.0
 Denbighshire County Council,1,25.0
+"Department for Science, Innovation and Technology",1,25.0
 Derbyshire Constabulary,1,25.0
 Doncaster Council,1,25.0
 Dyfed-Powys Police,1,25.0
@@ -811,7 +813,7 @@ Somerset NHS Foundation Trust,1,20.0
 Staffordshire Police,1,20.0
 The Princess Alexandra Hospital NHS Trust,1,20.0
 West Mercia Police,1,20.0
-NHS England,102,19.0
+NHS England,103,19.0
 Department for Education,9,19.0
 Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 North West Ambulance Service NHS Trust,4,19.0
@@ -838,7 +840,6 @@ North Cumbria Integrated Care NHS Foundation Trust,2,17.0
 James Paget University Hospitals NHS Foundation Trust,1,17.0
 NHS Cheshire and Merseyside Integrated Care Board,1,17.0
 "NHS Leicester, Leicestershire and Rutland Integrated Care Board",1,17.0
-Ofcom,1,17.0
 Royal Society for the Prevention of Accidents,1,17.0
 Sheffield City Council,1,17.0
 UK Health Security Agency,1,17.0

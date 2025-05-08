@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
 Department of Health and Social Care,756,283,13,460,61
-NHS England,529,179,8,342,65
+NHS England,529,180,7,342,65
 Care Quality Commission,173,103,1,69,40
 HM Prison and Probation Service,158,87,0,71,45
 Department for Transport,114,41,4,69,61
@@ -14,7 +14,7 @@ Barts Health NHS Trust,66,25,0,41,62
 Metropolitan Police Service,66,32,1,33,50
 National Highways,64,34,0,30,47
 Medicines and Healthcare Products Regulatory Agency,62,35,0,27,44
-University Hospitals Sussex NHS Foundation Trust,62,32,1,29,47
+University Hospitals Sussex NHS Foundation Trust,62,33,0,29,47
 Health and Safety Executive,60,33,2,25,42
 National Police Chiefs’ Council,59,45,0,14,24
 Pennine Care NHS Foundation Trust,48,27,0,21,44
@@ -263,7 +263,7 @@ Leeds and York Partnership NHS Foundation Trust,6,2,0,4,67
 Sandwell Council,6,3,0,3,50
 Royal Society for the Prevention of Accidents,6,5,0,1,17
 Northumbria Healthcare NHS Foundation Trust,6,2,1,3,50
-Ofcom,6,2,1,3,50
+Ofcom,6,3,0,3,50
 James Paget University Hospitals NHS Foundation Trust,6,2,0,4,67
 Rotherham Doncaster and South Humber NHS Foundation Trust,6,3,0,3,50
 Isle of Wight NHS Trust,6,5,0,1,17
@@ -376,7 +376,7 @@ The Newcastle upon Tyne Hospitals NHS Foundation Trust,4,2,0,2,50
 Chelsea and Westminster Hospital NHS Foundation Trust,4,3,0,1,25
 Sutton Council,4,4,0,0,0
 Lincolnshire Police,4,3,0,1,25
-"Department for Science, Innovation and Technology",4,2,1,1,25
+"Department for Science, Innovation and Technology",4,3,0,1,25
 North Wales Local Authorities,4,4,0,0,0
 Cheshire Constabulary,4,1,0,3,75
 Tesco PLC,4,2,0,2,50
