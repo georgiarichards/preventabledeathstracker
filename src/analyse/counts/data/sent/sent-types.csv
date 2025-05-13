@@ -34,7 +34,7 @@ North London NHS Foundation Trust,36,15,0,21,58
 General Medical Council,36,22,0,14,39
 Greater Manchester Police,35,8,0,27,77
 Ministry of Defence,34,8,0,26,76
-Essex Partnership University NHS Foundation Trust,34,19,1,14,41
+Essex Partnership University NHS Foundation Trust,34,20,0,14,41
 Birmingham and Solihull Mental Health NHS Foundation Trust,34,14,0,20,59
 Stockport NHS Foundation Trust,34,16,0,18,53
 Association of Ambulance Chief Executives,33,17,0,16,48
@@ -44,7 +44,7 @@ University Hospitals Birmingham NHS Foundation Trust,32,9,1,22,69
 "Barking, Havering and Redbridge University Hospitals NHS Trust",30,15,0,15,50
 North East London NHS Foundation Trust,29,16,0,13,45
 Royal College of Obstetricians and Gynaecologists,29,16,3,10,34
-Royal College of Paediatrics and Child Health,28,14,1,13,46
+Royal College of Paediatrics and Child Health,28,15,0,13,46
 "Department for Culture, Media and Sport",28,17,3,8,29
 Midlands Partnership University NHS Foundation Trust,27,9,1,17,63
 University Hospitals of North Midlands NHS Trust,27,9,0,18,67
@@ -59,7 +59,7 @@ Blackpool Teaching Hospitals NHS Foundation Trust,25,11,0,14,56
 Care UK,25,5,0,20,80
 Oxleas NHS Foundation Trust,24,10,0,14,58
 NHS Derby and Derbyshire Integrated Care Board,24,16,0,8,33
-Cardiff and Vale University Health Board,24,12,1,11,46
+Cardiff and Vale University Health Board,24,13,0,11,46
 Royal College of Psychiatrists,23,19,0,4,17
 Cornwall Council,23,7,0,16,70
 Leeds Teaching Hospitals NHS Trust,23,9,0,14,61
@@ -93,9 +93,9 @@ Mid and South Essex NHS Foundation Trust,17,6,0,11,65
 Medway NHS Foundation Trust,17,8,0,9,53
 Cumbria County Council,17,7,0,10,59
 Royal College of Anaesthetists,16,9,0,7,44
-Royal College of Emergency Medicine,16,8,2,6,38
+Royal College of Emergency Medicine,16,9,1,6,38
 NHS Birmingham and Solihull Integrated Care Board,16,6,0,10,62
-Royal Free London NHS Foundation Trust,16,5,2,9,56
+Royal Free London NHS Foundation Trust,16,6,1,9,56
 Royal College of Physicians,16,10,0,6,38
 South East Coast Ambulance Service NHS Foundation Trust,16,4,0,12,75
 Surrey Police,16,8,0,8,50

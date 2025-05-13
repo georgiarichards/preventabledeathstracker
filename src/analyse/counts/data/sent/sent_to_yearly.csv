@@ -34,7 +34,7 @@ North London NHS Foundation Trust,2,5,8,1,5,1,1,1,1,1,4,4,2,36,58,21,6,9,0
 General Medical Council,2,5,4,1,1,3,3,3,5,2,4,1,2,36,25,9,18,9,0
 Greater Manchester Police,0,3,6,4,0,1,5,2,4,3,2,4,1,35,57,20,10,5,0
 Ministry of Defence,1,5,8,0,1,2,3,1,4,1,3,4,1,34,71,24,5,5,0
-Essex Partnership University NHS Foundation Trust,0,1,3,4,4,2,0,3,2,3,4,6,2,34,41,14,6,13,1
+Essex Partnership University NHS Foundation Trust,0,1,3,4,4,2,0,3,2,3,4,6,2,34,41,14,6,14,0
 Birmingham and Solihull Mental Health NHS Foundation Trust,0,1,1,2,1,3,7,1,1,3,8,5,1,34,65,22,9,3,0
 Stockport NHS Foundation Trust,3,4,4,7,4,3,2,1,2,1,1,2,0,34,56,19,2,13,0
 Association of Ambulance Chief Executives,0,2,1,1,1,0,3,8,1,6,6,4,0,33,27,9,19,5,0
@@ -44,7 +44,7 @@ University Hospitals Birmingham NHS Foundation Trust,1,0,4,2,2,2,4,1,2,0,3,10,1,
 "Barking, Havering and Redbridge University Hospitals NHS Trust",2,2,3,0,3,0,1,2,3,3,8,3,0,30,50,15,3,12,0
 North East London NHS Foundation Trust,0,0,1,3,0,1,5,2,5,3,6,3,0,29,48,14,4,11,0
 Royal College of Obstetricians and Gynaecologists,1,2,3,3,2,1,1,4,1,1,4,3,3,29,24,7,12,7,3
-Royal College of Paediatrics and Child Health,0,4,1,1,1,0,2,1,3,2,6,5,2,28,39,11,11,5,1
+Royal College of Paediatrics and Child Health,0,4,1,1,1,0,2,1,3,2,6,5,2,28,39,11,11,6,0
 "Department for Culture, Media and Sport",0,0,1,0,0,1,3,1,2,4,6,5,5,28,36,10,10,5,3
 Midlands Partnership University NHS Foundation Trust,1,1,2,0,4,4,3,2,1,1,2,5,1,27,63,17,3,6,1
 University Hospitals of North Midlands NHS Trust,1,1,3,1,2,2,3,0,4,0,4,4,2,27,70,19,1,7,0
@@ -59,7 +59,7 @@ Blackpool Teaching Hospitals NHS Foundation Trust,1,5,1,3,1,2,4,2,1,1,1,2,1,25,6
 Care UK,1,6,1,6,5,0,3,1,0,0,1,1,0,25,36,9,14,2,0
 Oxleas NHS Foundation Trust,0,1,0,2,1,5,2,4,1,3,2,2,1,24,50,12,6,6,0
 NHS Derby and Derbyshire Integrated Care Board,1,5,0,4,1,4,1,2,2,1,0,3,0,24,42,10,9,5,0
-Cardiff and Vale University Health Board,1,1,3,2,2,4,3,2,0,2,1,2,1,24,46,11,8,4,1
+Cardiff and Vale University Health Board,1,1,3,2,2,4,3,2,0,2,1,2,1,24,46,11,8,5,0
 Royal College of Psychiatrists,0,3,0,1,1,2,1,0,2,6,4,1,2,23,26,6,12,5,0
 Cornwall Council,0,1,2,4,0,1,3,0,4,3,2,3,0,23,65,15,4,4,0
 Leeds Teaching Hospitals NHS Trust,0,2,4,2,2,3,2,3,2,1,0,2,0,23,61,14,1,8,0
@@ -93,9 +93,9 @@ Mid and South Essex NHS Foundation Trust,0,4,0,1,1,0,0,1,0,0,2,6,2,17,65,11,0,6,
 Medway NHS Foundation Trust,0,0,1,4,1,2,1,0,6,2,0,0,0,17,53,9,0,8,0
 Cumbria County Council,2,3,1,3,2,0,2,1,1,2,0,0,0,17,59,10,2,5,0
 Royal College of Anaesthetists,0,2,1,0,2,1,0,0,2,1,1,5,1,16,50,8,7,1,0
-Royal College of Emergency Medicine,0,1,0,0,2,0,0,1,1,0,4,4,3,16,19,3,9,2,2
+Royal College of Emergency Medicine,0,1,0,0,2,0,0,1,1,0,4,4,3,16,19,3,9,3,1
 NHS Birmingham and Solihull Integrated Care Board,0,1,0,0,0,1,4,0,2,1,4,2,1,16,62,10,4,2,0
-Royal Free London NHS Foundation Trust,0,3,1,1,1,1,0,1,2,0,0,2,4,16,56,9,0,5,2
+Royal Free London NHS Foundation Trust,0,3,1,1,1,1,0,1,2,0,0,2,4,16,56,9,0,6,1
 Royal College of Physicians,0,3,0,1,0,1,1,1,2,0,2,3,2,16,25,4,8,4,0
 South East Coast Ambulance Service NHS Foundation Trust,0,0,0,0,1,2,4,1,2,0,3,3,0,16,81,13,0,3,0
 Surrey Police,0,3,1,0,0,1,4,2,0,1,1,3,0,16,38,6,5,5,0
