@@ -683,10 +683,10 @@ Torbay and South Devon NHS Foundation Trust,1,33.0
 Wakefield Council,1,33.0
 Wigan Council,1,33.0
 Ministry of Justice,35,32.0
+National Institute for Health and Care Excellence,33,32.0
 REDACTED,25,32.0
 East London NHS Foundation Trust,12,32.0
 South Central Ambulance Service NHS Foundation Trust,6,32.0
-National Institute for Health and Care Excellence,32,31.0
 Greater Manchester Mental Health NHS Foundation Trust,14,31.0
 Surrey Police,5,31.0
 University College London Hospitals NHS Foundation Trust,4,31.0
@@ -704,6 +704,7 @@ North West Anglia NHS Foundation Trust,2,29.0
 North Yorkshire Council,2,29.0
 Nottinghamshire County Council,2,29.0
 Central and North West London NHS Foundation Trust,9,28.0
+Royal College of Obstetricians and Gynaecologists,8,28.0
 Barts Health NHS Trust,18,27.0
 University Hospitals Sussex NHS Foundation Trust,17,27.0
 Health and Safety Executive,16,27.0
@@ -766,7 +767,6 @@ Traffic Commissioners for Great Britain,1,25.0
 West Hertfordshire Teaching Hospitals NHS Trust,1,25.0
 Youth Justice Board,1,25.0
 Network Rail,10,24.0
-Royal College of Obstetricians and Gynaecologists,7,24.0
 Betsi Cadwaladr University Health Board,18,23.0
 Welsh Ambulance Services University NHS Trust,11,23.0
 Surrey and Borders Partnership NHS Foundation Trust,6,23.0
@@ -842,6 +842,7 @@ North Cumbria Integrated Care NHS Foundation Trust,2,17.0
 James Paget University Hospitals NHS Foundation Trust,1,17.0
 NHS Cheshire and Merseyside Integrated Care Board,1,17.0
 "NHS Leicester, Leicestershire and Rutland Integrated Care Board",1,17.0
+Northumbria Healthcare NHS Foundation Trust,1,17.0
 Royal Society for the Prevention of Accidents,1,17.0
 Sheffield City Council,1,17.0
 UK Health Security Agency,1,17.0

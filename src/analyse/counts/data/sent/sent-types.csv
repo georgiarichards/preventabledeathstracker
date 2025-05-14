@@ -6,7 +6,7 @@ HM Prison and Probation Service,158,87,0,71,45
 Department for Transport,114,42,3,69,61
 Ministry of Justice,110,85,0,25,23
 Home Office,105,43,2,60,57
-National Institute for Health and Care Excellence,104,54,2,48,46
+National Institute for Health and Care Excellence,104,55,1,48,46
 NHS Greater Manchester Integrated Care Board,98,42,0,56,57
 Betsi Cadwaladr University Health Board,78,21,2,55,71
 REDACTED,77,59,1,17,22
@@ -43,7 +43,7 @@ Tameside and Glossop Integrated Care NHS Foundation Trust,32,13,0,19,59
 University Hospitals Birmingham NHS Foundation Trust,32,9,1,22,69
 "Barking, Havering and Redbridge University Hospitals NHS Trust",30,15,0,15,50
 North East London NHS Foundation Trust,29,16,0,13,45
-Royal College of Obstetricians and Gynaecologists,29,16,3,10,34
+Royal College of Obstetricians and Gynaecologists,29,17,2,10,34
 Royal College of Paediatrics and Child Health,28,15,0,13,46
 "Department for Culture, Media and Sport",28,17,3,8,29
 Midlands Partnership University NHS Foundation Trust,27,9,1,17,63
@@ -262,7 +262,7 @@ Sheffield City Council,6,2,0,4,67
 Leeds and York Partnership NHS Foundation Trust,6,2,0,4,67
 Sandwell Council,6,3,0,3,50
 Royal Society for the Prevention of Accidents,6,5,0,1,17
-Northumbria Healthcare NHS Foundation Trust,6,2,1,3,50
+Northumbria Healthcare NHS Foundation Trust,6,3,0,3,50
 Ofcom,6,3,0,3,50
 James Paget University Hospitals NHS Foundation Trust,6,2,0,4,67
 Rotherham Doncaster and South Humber NHS Foundation Trust,6,3,0,3,50
