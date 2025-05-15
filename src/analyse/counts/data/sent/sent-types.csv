@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,756,283,13,460,61
-NHS England,529,180,7,342,65
+Department of Health and Social Care,756,285,11,460,61
+NHS England,529,181,6,342,65
 Care Quality Commission,173,103,1,69,40
 HM Prison and Probation Service,158,87,0,71,45
 Department for Transport,114,42,3,69,61
@@ -8,7 +8,7 @@ Ministry of Justice,110,85,0,25,23
 Home Office,105,43,2,60,57
 National Institute for Health and Care Excellence,104,55,1,48,46
 NHS Greater Manchester Integrated Care Board,98,42,0,56,57
-Betsi Cadwaladr University Health Board,78,21,2,55,71
+Betsi Cadwaladr University Health Board,78,22,1,55,71
 REDACTED,77,59,1,17,22
 Barts Health NHS Trust,66,25,0,41,62
 Metropolitan Police Service,66,32,1,33,50
@@ -46,7 +46,7 @@ North East London NHS Foundation Trust,29,16,0,13,45
 Royal College of Obstetricians and Gynaecologists,29,17,2,10,34
 Royal College of Paediatrics and Child Health,28,15,0,13,46
 "Department for Culture, Media and Sport",28,17,3,8,29
-Midlands Partnership University NHS Foundation Trust,27,9,1,17,63
+Midlands Partnership University NHS Foundation Trust,27,10,0,17,63
 University Hospitals of North Midlands NHS Trust,27,9,0,18,67
 Aneurin Bevan University Health Board,27,11,0,16,59
 Nottinghamshire Healthcare NHS Foundation Trust,27,12,0,15,56
@@ -1220,7 +1220,7 @@ Creative Support Limited,1,1,0,0,0
 Credenhill Court Rest Home,1,0,0,1,100
 Crescent Pharma Ltd,1,1,0,0,0
 Cricket Green Medical Practice,1,0,0,1,100
-Crisis Resolution Team,1,0,1,0,0
+Crisis Resolution Team,1,1,0,0,0
 Croft House Rest Home,1,1,0,0,0
 Construction Plant Hire Association,1,1,0,0,0
 Consultant Physician and Gastroenterologists,1,1,0,0,0
@@ -1808,7 +1808,7 @@ Sussex Community Dermatology Service,1,0,0,1,100
 StockXS Limited,1,1,0,0,0
 Stockport Homes,1,0,0,1,100
 Stockton Care Limited,1,0,0,1,100
-Stoke Talking Therapies,1,0,1,0,0
+Stoke Talking Therapies,1,1,0,0,0
 Stone Federation Great Britain,1,1,0,0,0
 Stonefield Street Surgery,1,0,0,1,100
 Bilbrook Medical Centre,1,1,0,0,0
