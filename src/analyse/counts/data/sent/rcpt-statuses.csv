@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,756,1809,1265,439,183,123,11
-NHS England,529,1436,954,277,142,104,6
+Department of Health and Social Care,756,1809,1265,439,183,124,10
+NHS England,529,1436,954,277,142,105,5
 Care Quality Commission,173,509,306,65,64,43,1
 HM Prison and Probation Service,158,365,200,68,50,40,0
 Department for Transport,114,292,191,56,33,22,3
@@ -214,7 +214,7 @@ Hull University Teaching Hospitals NHS Trust,8,21,16,4,2,2,0
 Isle of Wight Council,8,15,7,3,2,3,0
 Health Services Safety Investigations Body,8,24,15,2,3,3,0
 Tower Hamlets Council,8,35,14,4,1,3,0
-NHS Lancashire and South Cumbria Integrated Care Board,8,34,24,5,2,0,1
+NHS Lancashire and South Cumbria Integrated Care Board,8,34,24,5,2,1,0
 Chief Fire Officers Association,8,30,11,3,1,4,0
 Shrewsbury and Telford Hospital NHS Trust,8,10,6,4,1,3,0
 Birmingham Women's and Children's NHS Foundation Trust,8,20,6,1,2,5,0
@@ -414,7 +414,7 @@ HM Prison Stoke Heath,3,6,3,1,1,1,0
 HM Prison Swaleside,3,4,2,2,0,1,0
 HM Prison Swansea,3,6,3,1,1,1,0
 Financial Conduct Authority,3,6,3,2,1,0,0
-University Hospitals of Morecambe Bay NHS Foundation Trust,3,7,3,2,0,0,1
+University Hospitals of Morecambe Bay NHS Foundation Trust,3,7,3,2,0,1,0
 Apple,3,10,7,0,2,1,0
 Universities and Colleges Admissions Service,3,6,5,2,1,0,0
 HM Prison Wakefield,3,7,2,0,2,1,0
