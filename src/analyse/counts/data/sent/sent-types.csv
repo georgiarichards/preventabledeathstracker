@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,756,286,10,460,61
-NHS England,529,182,5,342,65
+Department of Health and Social Care,756,288,8,460,61
+NHS England,529,183,4,342,65
 Care Quality Commission,173,103,1,69,40
 HM Prison and Probation Service,158,87,0,71,45
 Department for Transport,114,42,3,69,61
@@ -137,7 +137,7 @@ G4S,13,6,0,7,54
 South Western Ambulance Service NHS Foundation Trust,13,9,0,4,31
 HM Prison Pentonville,13,10,0,3,23
 University College London Hospitals NHS Foundation Trust,13,5,0,8,62
-South West Yorkshire Partnership NHS Foundation Trust,12,7,1,4,33
+South West Yorkshire Partnership NHS Foundation Trust,12,8,0,4,33
 North Cumbria Integrated Care NHS Foundation Trust,12,5,0,7,58
 Norfolk and Norwich University Hospitals NHS Foundation Trust,12,8,0,4,33
 Sheffield Teaching Hospitals NHS Foundation Trust,12,7,0,5,42
@@ -241,7 +241,7 @@ North Yorkshire Council,7,2,0,5,71
 Nottinghamshire County Council,7,3,0,4,57
 Northumbria Police,7,3,0,4,57
 Calderdale and Huddersfield NHS Foundation Trust,7,5,0,2,29
-British Society of Gastroenterology,7,2,1,4,57
+British Society of Gastroenterology,7,3,0,4,57
 Royal College of Nursing,7,4,0,3,43
 Office of Rail and Road,7,5,0,2,29
 Cambridgeshire County Council,7,1,0,6,86
@@ -1346,7 +1346,7 @@ Newgate Medical Group,1,1,0,0,0
 National Plant Operators Registration Scheme,1,1,0,0,0
 National Rail,1,0,0,1,100
 National Referral Support Service,1,0,0,1,100
-National Register of Communication Professionals working with Deaf and Deafblind people (NRCPD),1,0,1,0,0
+National Register of Communication Professionals working with Deaf and Deafblind people (NRCPD),1,1,0,0,0
 National Research Ethics Service,1,1,0,0,0
 National Rifle Association,1,0,0,1,100
 National Small-bore Rifle Association,1,1,0,0,0
