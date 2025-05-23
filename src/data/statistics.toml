@@ -54,9 +54,9 @@
 ["requests for response"]
 "no. recipients with requests" = 2173
 "no. requests for response" = 9329
-"requests pending" = [ 69.0, 0.7,]
+"requests pending" = [ 68.0, 0.7,]
 "requests received" = [ 4738.0, 50.8,]
-"requests overdue" = [ 4522.0, 48.5,]
+"requests overdue" = [ 4523.0, 48.5,]
 "mean no. requests per recipient" = 4.3
 "median no. requests per recipient" = 1.0
 "IQR of requests per recipients" = [ 1.0, 2.0,]
