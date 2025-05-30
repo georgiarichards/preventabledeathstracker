@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,764,1826,1265,439,183,126,16
-NHS England,533,1449,954,277,142,106,8
+Department of Health and Social Care,764,1826,1265,439,183,127,15
+NHS England,533,1449,954,277,142,107,7
 Care Quality Commission,175,519,306,65,64,43,3
 HM Prison and Probation Service,159,367,200,68,50,40,1
 Department for Transport,117,296,191,56,33,22,6
@@ -9,7 +9,7 @@ Home Office,105,343,254,43,42,18,2
 National Institute for Health and Care Excellence,104,288,182,50,20,33,1
 NHS Greater Manchester Integrated Care Board,100,246,159,62,19,17,2
 Betsi Cadwaladr University Health Board,79,105,66,55,3,19,2
-REDACTED,77,253,83,16,35,25,1
+REDACTED,77,253,83,16,35,26,0
 Barts Health NHS Trust,67,105,66,35,13,18,1
 Metropolitan Police Service,66,159,115,35,16,15,0
 National Highways,65,104,60,31,9,24,1
@@ -772,7 +772,7 @@ Saga Homecare,1,1,0,0,0,1,0
 Betfair,1,3,3,1,0,0,0
 Salisbury NHS Foundation Trust,1,6,5,0,1,0,0
 Salter Labs,1,3,3,1,0,0,0
-Samba London Limited,1,2,0,0,0,0,1
+Samba London Limited,1,2,0,0,0,1,0
 Sapphire House,1,2,1,0,1,0,0
 S & J Transport,1,5,2,0,1,0,0
 SC Johnson and Son,1,1,1,1,0,0,0
@@ -1494,7 +1494,7 @@ College of Clinical Perfusion Scientists,1,4,1,0,1,0,0
 Henning Hall Nursing Home,1,2,1,0,1,0,0
 Hereford Medical Group,1,1,1,1,0,0,0
 Heritage Attractions Ltd,1,3,0,0,0,1,0
-Heron Property Corporation Limited,1,2,0,0,0,0,1
+Heron Property Corporation Limited,1,2,0,0,0,1,0
 Herries Lodge Care Home,1,1,0,0,0,1,0
 Herts Urgent care Limited,1,3,0,0,0,1,0
 Hewett School,1,1,0,0,0,1,0

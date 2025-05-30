@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,764,288,16,460,60
-NHS England,533,183,8,342,64
+Department of Health and Social Care,764,289,15,460,60
+NHS England,533,184,7,342,64
 Care Quality Commission,175,103,3,69,39
 HM Prison and Probation Service,159,87,1,71,45
 Department for Transport,117,42,6,69,59
@@ -9,7 +9,7 @@ Home Office,105,43,2,60,57
 National Institute for Health and Care Excellence,104,55,1,48,46
 NHS Greater Manchester Integrated Care Board,100,42,2,56,56
 Betsi Cadwaladr University Health Board,79,22,2,55,70
-REDACTED,77,59,1,17,22
+REDACTED,77,60,0,17,22
 Barts Health NHS Trust,67,25,1,41,61
 Metropolitan Police Service,66,33,0,33,50
 National Highways,65,34,1,30,46
@@ -772,7 +772,7 @@ Saga Homecare,1,1,0,0,0
 Betfair,1,0,0,1,100
 Salisbury NHS Foundation Trust,1,1,0,0,0
 Salter Labs,1,0,0,1,100
-Samba London Limited,1,0,1,0,0
+Samba London Limited,1,1,0,0,0
 Sapphire House,1,1,0,0,0
 S & J Transport,1,1,0,0,0
 SC Johnson and Son,1,0,0,1,100
@@ -1494,7 +1494,7 @@ College of Clinical Perfusion Scientists,1,1,0,0,0
 Henning Hall Nursing Home,1,1,0,0,0
 Hereford Medical Group,1,0,0,1,100
 Heritage Attractions Ltd,1,1,0,0,0
-Heron Property Corporation Limited,1,0,1,0,0
+Heron Property Corporation Limited,1,1,0,0,0
 Herries Lodge Care Home,1,1,0,0,0
 Herts Urgent care Limited,1,1,0,0,0
 Hewett School,1,1,0,0,0
