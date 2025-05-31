@@ -1,5 +1,5 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,764,289,15,460,60
+Department of Health and Social Care,764,290,14,460,60
 NHS England,533,184,7,342,64
 Care Quality Commission,175,103,3,69,39
 HM Prison and Probation Service,159,87,1,71,45
@@ -26,7 +26,7 @@ College of Policing,44,16,0,28,64
 Northern Care Alliance NHS Foundation Trust,42,22,0,20,48
 Network Rail,41,11,0,30,73
 Manchester University NHS Foundation Trust,41,23,1,17,41
-"Ministry of Housing, Communities and Local Government",40,19,2,19,48
+"Ministry of Housing, Communities and Local Government",40,20,1,19,48
 Cwm Taf Morgannwg University Health Board,39,22,0,17,44
 Norfolk and Suffolk NHS Foundation Trust,38,11,0,27,71
 East London NHS Foundation Trust,38,14,0,24,63
@@ -623,7 +623,7 @@ Leicestershire County Council,2,0,0,2,100
 Royal Borough of Kensington and Chelsea,2,1,0,1,50
 Peabody Trust,2,0,0,2,100
 Liftmaster Ltd,2,2,0,0,0
-SSP Health Medical Services Ltd,2,0,1,1,50
+SSP Health Medical Services Ltd,2,1,0,1,50
 Lambton House Care Home,2,0,0,2,100
 Salford City Council,2,0,0,2,100
 Beko Plc,2,2,0,0,0
@@ -837,7 +837,7 @@ Beacon Healthcare,1,0,0,1,100
 Beamish Museum,1,1,0,0,0
 Beatson Clark,1,1,0,0,0
 West of England Combined Authority,1,1,0,0,0
-Bedford Hospitals NHS Foundation Trust,1,0,1,0,0
+Bedford Hospitals NHS Foundation Trust,1,1,0,0,0
 Rush Green Medical Centre,1,1,0,0,0
 Royal College of Speech and Language Therapists,1,1,0,0,0
 West Timperley Medical Centre,1,0,0,1,100
@@ -907,7 +907,7 @@ North West Fire Control,1,0,0,1,100
 Woodley Centre Surgery,1,0,0,1,100
 Woodlands Surgery,1,0,0,1,100
 Oaks Medical Centre,1,1,0,0,0
-Northampton General Hospital,1,0,1,0,0
+Northampton General Hospital,1,1,0,0,0
 Wood Street Medical Centre,1,0,0,1,100
 Northamptonshire Children Safeguarding Partnership,1,0,1,0,0
 Northamptonshire County Council,1,1,0,0,0
@@ -1059,7 +1059,7 @@ The Stockton Public House,1,1,0,0,0
 The Student Health Service,1,1,0,0,0
 The Surgery Chesterton,1,1,0,0,0
 Alexandra View Care Home,1,0,0,1,100
-The Telecare Services Association,1,0,1,0,0
+The Telecare Services Association,1,1,0,0,0
 The Timber Packaging and Pallet Confederation,1,1,0,0,0
 The Oaks and Woodcroft Care Home,1,0,0,1,100
 The Park Surgery Heanor,1,0,0,1,100
@@ -1225,7 +1225,7 @@ BUPA UK Provision,1,1,0,0,0
 Telford and Wrekin Council,1,1,0,0,0
 Wales and West Utilities,1,1,0,0,0
 Bailey Trailers Ltd,1,0,0,1,100
-WIGAN INTERGRATED CARE BOARD,1,0,1,0,0
+WIGAN INTERGRATED CARE BOARD,1,1,0,0,0
 Bamford Grange Nursing Home,1,1,0,0,0
 Bampton Surgery,1,0,0,1,100
 Banes Clinical Commissioning Group,1,1,0,0,0
@@ -1655,7 +1655,7 @@ AGCO Ltd,1,1,0,0,0
 AGD Equipment Limited,1,1,0,0,0
 APEX Nursing Agency,1,1,0,0,0
 AR1 Homecare Limited,1,0,0,1,100
-ASHTON MEDICAL PRACTICE,1,0,1,0,0
+ASHTON MEDICAL PRACTICE,1,1,0,0,0
 Abbey Court Independent Hospital,1,1,0,0,0
 Abbey Dale House Ltd,1,0,0,1,100
 Worcestershire Safeguarding Children’s Board,1,0,0,1,100

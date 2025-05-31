@@ -21,6 +21,7 @@ Oldham Clinical Commissioning Group,2,100.0
 Pembrokeshire County Council,2,100.0
 Tandridge District Council,2,100.0
 AGCO Ltd,1,100.0
+ASHTON MEDICAL PRACTICE,1,100.0
 Abbey Court Independent Hospital,1,100.0
 Abbotsbury Residential Care Home,1,100.0
 Acorn Lodge Care Home,1,100.0
@@ -52,6 +53,7 @@ Banes Park and Services,1,100.0
 Baycroft Care Homes,1,100.0
 Beamish Museum,1,100.0
 Beatson Clark,1,100.0
+Bedford Hospitals NHS Foundation Trust,1,100.0
 Beechdale Medical Group,1,100.0
 Beeston Health Centre,1,100.0
 Bendpak Inc,1,100.0
@@ -282,6 +284,7 @@ Newport City Council,1,100.0
 Norfolk Police,1,100.0
 Normanton Village View Nursing Home,1,100.0
 North of England Care System Support,1,100.0
+Northampton General Hospital,1,100.0
 Northamptonshire County Council,1,100.0
 Northern Care Limited,1,100.0
 Northern Gas Network,1,100.0
@@ -397,6 +400,7 @@ The Right Honourable Jeremy Hunt MP,1,100.0
 The Right Honourable Theresa May MP,1,100.0
 The Stockton Public House,1,100.0
 The Surgery Chesterton,1,100.0
+The Telecare Services Association,1,100.0
 The Timber Packaging and Pallet Confederation,1,100.0
 The Village Medical Centre,1,100.0
 The Waterfield Practice,1,100.0
@@ -421,6 +425,7 @@ Upwell Street Surgery,1,100.0
 Village Nursing and Care Home,1,100.0
 Volvo Car Corporation,1,100.0
 Voyage Care,1,100.0
+WIGAN INTERGRATED CARE BOARD,1,100.0
 Wales and West Utilities,1,100.0
 Wanstead Place Surgery,1,100.0
 Warwickshire City Council,1,100.0
@@ -571,6 +576,7 @@ Peterborough City Council,1,50.0
 Prime Life Limited,1,50.0
 Road Transport Industry Training Board,1,50.0
 Royal Borough of Kensington and Chelsea,1,50.0
+SSP Health Medical Services Ltd,1,50.0
 Scotia Gas Network,1,50.0
 Sirona Care & Health,1,50.0
 Slough Borough Council,1,50.0
@@ -832,13 +838,14 @@ Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 North West Ambulance Service NHS Trust,4,19.0
 Welsh Government,4,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
+"Ministry of Housing, Communities and Local Government",7,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
 "Department for Culture, Media and Sport",5,18.0
 Royal College of Emergency Medicine,3,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
-Department of Health and Social Care,127,17.0
+Department of Health and Social Care,128,17.0
 Home Office,18,17.0
 NHS Greater Manchester Integrated Care Board,17,17.0
 National Police Chiefs’ Council,10,17.0
@@ -858,7 +865,6 @@ Sheffield City Council,1,17.0
 The Princess Alexandra Hospital NHS Trust,1,17.0
 UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
-"Ministry of Housing, Communities and Local Government",6,15.0
 Association of Ambulance Chief Executives,5,15.0
 Ministry of Defence,5,15.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",4,15.0

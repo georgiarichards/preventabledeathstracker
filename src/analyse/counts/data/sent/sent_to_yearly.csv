@@ -1,5 +1,5 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,39,764,57,439,183,127,15
+Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,39,764,57,439,183,128,14
 NHS England,6,25,22,33,27,36,45,27,42,42,85,110,33,533,52,277,142,107,7
 Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,7,175,37,65,64,43,3
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,5,159,43,68,50,40,1
@@ -26,7 +26,7 @@ College of Policing,0,1,1,1,0,1,7,3,5,5,9,6,5,44,36,16,19,9,0
 Northern Care Alliance NHS Foundation Trust,3,1,6,2,8,5,9,0,4,0,1,2,1,42,52,22,9,11,0
 Network Rail,0,6,2,4,5,7,5,2,4,2,3,1,0,41,63,26,5,10,0
 Manchester University NHS Foundation Trust,0,5,3,9,1,6,6,3,1,2,1,3,1,41,39,16,7,17,1
-"Ministry of Housing, Communities and Local Government",1,3,4,1,2,1,4,4,2,3,3,9,3,40,57,23,9,6,2
+"Ministry of Housing, Communities and Local Government",1,3,4,1,2,1,4,4,2,3,3,9,3,40,57,23,9,7,1
 Cwm Taf Morgannwg University Health Board,0,6,7,1,4,4,7,1,2,2,0,3,2,39,44,17,5,17,0
 Norfolk and Suffolk NHS Foundation Trust,1,4,4,0,4,2,7,1,3,5,0,7,0,38,71,27,4,7,0
 East London NHS Foundation Trust,0,2,0,3,11,1,2,1,1,6,5,6,0,38,58,22,4,12,0
@@ -623,7 +623,7 @@ Leicestershire County Council,0,0,1,0,0,0,0,0,0,0,0,1,0,2,100,2,0,0,0
 Royal Borough of Kensington and Chelsea,0,0,0,0,0,0,1,0,0,0,0,0,1,2,50,1,0,1,0
 Peabody Trust,0,0,0,0,0,0,0,0,1,0,0,1,0,2,100,2,0,0,0
 Liftmaster Ltd,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,0,1,1,0
-SSP Health Medical Services Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1,2,50,1,0,0,1
+SSP Health Medical Services Ltd,0,0,0,0,0,0,0,0,0,0,0,1,1,2,50,1,0,1,0
 Lambton House Care Home,0,0,0,1,0,0,0,0,0,1,0,0,0,2,100,2,0,0,0
 Salford City Council,0,0,0,0,0,0,0,0,0,1,0,1,0,2,100,2,0,0,0
 Beko Plc,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,1,1,0
@@ -837,7 +837,7 @@ Beacon Healthcare,0,1,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Beamish Museum,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Beatson Clark,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
 West of England Combined Authority,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
-Bedford Hospitals NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Bedford Hospitals NHS Foundation Trust,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Rush Green Medical Centre,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
 Royal College of Speech and Language Therapists,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
 West Timperley Medical Centre,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100,1,0,0,0
@@ -907,7 +907,7 @@ North West Fire Control,0,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 Woodley Centre Surgery,0,0,0,0,1,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Woodlands Surgery,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Oaks Medical Centre,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
-Northampton General Hospital,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Northampton General Hospital,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Wood Street Medical Centre,0,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 Northamptonshire Children Safeguarding Partnership,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
 Northamptonshire County Council,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
@@ -1059,7 +1059,7 @@ The Stockton Public House,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 The Student Health Service,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
 The Surgery Chesterton,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Alexandra View Care Home,0,0,0,0,0,0,0,1,0,0,0,0,0,1,100,1,0,0,0
-The Telecare Services Association,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+The Telecare Services Association,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 The Timber Packaging and Pallet Confederation,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
 The Oaks and Woodcroft Care Home,0,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 The Park Surgery Heanor,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
@@ -1225,7 +1225,7 @@ BUPA UK Provision,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Telford and Wrekin Council,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Wales and West Utilities,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Bailey Trailers Ltd,0,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
-WIGAN INTERGRATED CARE BOARD,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+WIGAN INTERGRATED CARE BOARD,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Bamford Grange Nursing Home,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Bampton Surgery,0,0,0,1,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Banes Clinical Commissioning Group,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
@@ -1655,7 +1655,7 @@ AGCO Ltd,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 AGD Equipment Limited,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 APEX Nursing Agency,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 AR1 Homecare Limited,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100,1,0,0,0
-ASHTON MEDICAL PRACTICE,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+ASHTON MEDICAL PRACTICE,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Abbey Court Independent Hospital,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Abbey Dale House Ltd,1,0,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Worcestershire Safeguarding Children’s Board,0,1,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
