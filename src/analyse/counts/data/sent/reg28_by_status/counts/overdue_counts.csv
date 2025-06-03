@@ -74,6 +74,7 @@ CAT,1,100.0
 CSS Telecare Service,1,100.0
 CaMIS PAS,1,100.0
 Cambridge University Hospitals NHS Foundation Trust,1,100.0
+Cambridgeshire and Peterborough ICB,1,100.0
 Care First Homes,1,100.0
 Care4U Healthcare,1,100.0
 Carewatch,1,100.0
@@ -272,6 +273,7 @@ Norfolk Police,1,100.0
 Normanton Village View Nursing Home,1,100.0
 North of England Care System Support,1,100.0
 Northampton General Hospital,1,100.0
+Northamptonshire Children Safeguarding Partnership,1,100.0
 Northamptonshire County Council,1,100.0
 Northern Care Limited,1,100.0
 Northern Gas Network,1,100.0
@@ -318,6 +320,7 @@ Rose Builders and Contractors Ltd,1,100.0
 Rosehill House Care Home,1,100.0
 Roseland Care Home,1,100.0
 Roundhouse,1,100.0
+Royal College of Radiology,1,100.0
 Royton and Crompton Family Practice,1,100.0
 Rush Green Medical Centre,1,100.0
 Rushcliffe Care,1,100.0
@@ -569,6 +572,7 @@ Cwm Taf Morgannwg University Health Board,17,44.0
 Kent County Council,4,44.0
 The Royal Wolverhampton NHS Trust,4,44.0
 Cheshire and Wirral Partnership NHS Foundation Trust,3,43.0
+North West Anglia NHS Foundation Trust,3,43.0
 Northumbria Police,3,43.0
 Office of Rail and Road,3,43.0
 Oldham Council,3,43.0
@@ -613,6 +617,7 @@ NHS West Yorkshire Integrated Care Board,3,38.0
 Resuscitation Council UK,3,38.0
 Shrewsbury and Telford Hospital NHS Trust,3,38.0
 North East London NHS Foundation Trust,11,37.0
+South Central Ambulance Service NHS Foundation Trust,7,37.0
 Blackpool Teaching Hospitals NHS Foundation Trust,9,36.0
 Hywel Dda University Health Board,5,36.0
 British Medical Association,4,36.0
@@ -668,7 +673,7 @@ University Hospitals of Morecambe Bay NHS Foundation Trust,1,33.0
 Wakefield Council,1,33.0
 Wigan Council,1,33.0
 East London NHS Foundation Trust,12,32.0
-South Central Ambulance Service NHS Foundation Trust,6,32.0
+South London and Maudsley NHS Foundation Trust,7,32.0
 Surrey Police,5,31.0
 University College London Hospitals NHS Foundation Trust,4,31.0
 Ministry of Justice,33,30.0
@@ -685,7 +690,6 @@ North East Ambulance Service NHS Foundation Trust,5,29.0
 NHS Cornwall and Isles of Scilly Integrated Care Board,4,29.0
 Gloucestershire Health and Care NHS Foundation Trust,2,29.0
 National Fire Chiefs Council,2,29.0
-North West Anglia NHS Foundation Trust,2,29.0
 North Yorkshire Council,2,29.0
 Nottinghamshire County Council,2,29.0
 Central and North West London NHS Foundation Trust,9,28.0
@@ -693,7 +697,6 @@ Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,28.0
 Health and Safety Executive,16,27.0
 London Ambulance Service NHS Trust,7,27.0
 Swansea Bay University Health Board,7,27.0
-South London and Maudsley NHS Foundation Trust,6,27.0
 Bedfordshire Hospitals NHS Foundation Trust,4,27.0
 Black Country Healthcare NHS Foundation Trust,4,27.0
 Oxford University Hospitals NHS Foundation Trust,4,27.0
@@ -735,6 +738,7 @@ Derbyshire Constabulary,1,25.0
 Doncaster Council,1,25.0
 Dyfed-Powys Police,1,25.0
 East and North Hertfordshire NHS Trust,1,25.0
+Faculty of Intensive Care Medicine,1,25.0
 HM Prison Exeter,1,25.0
 HM Prison Leeds,1,25.0
 Kirklees Council,1,25.0
@@ -795,7 +799,7 @@ Sainsbury's,1,20.0
 Somerset NHS Foundation Trust,1,20.0
 Staffordshire Police,1,20.0
 West Mercia Police,1,20.0
-NHS England,102,19.0
+NHS England,103,19.0
 Metropolitan Police Service,13,19.0
 Department for Education,9,19.0
 Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
@@ -804,6 +808,8 @@ South East Coast Ambulance Service NHS Foundation Trust,3,19.0
 College of Policing,8,18.0
 "Ministry of Housing, Communities and Local Government",7,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
+"Department for Culture, Media and Sport",5,18.0
+Royal College of Emergency Medicine,3,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
@@ -824,7 +830,7 @@ Sheffield City Council,1,17.0
 The Princess Alexandra Hospital NHS Trust,1,17.0
 UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
-Department of Health and Social Care,124,16.0
+Department of Health and Social Care,125,16.0
 Home Office,17,16.0
 National Police Chiefs’ Council,9,15.0
 Association of Ambulance Chief Executives,5,15.0
@@ -832,7 +838,6 @@ Association of Ambulance Chief Executives,5,15.0
 G4S,2,15.0
 Portsmouth Hospitals University NHS Trust,2,15.0
 Sussex Police,2,15.0
-"Department for Culture, Media and Sport",4,14.0
 Royal College of Paediatrics and Child Health,4,14.0
 East Midlands Ambulance Service NHS Trust,3,14.0
 Welsh Government,3,14.0
@@ -855,7 +860,6 @@ Office for Product Safety and Standards,2,13.0
 Ministry of Defence,4,12.0
 University Hospitals Birmingham NHS Foundation Trust,4,12.0
 NHS Birmingham and Solihull Integrated Care Board,2,12.0
-Royal College of Emergency Medicine,2,12.0
 Worcestershire Acute Hospitals NHS Trust,2,12.0
 Hampshire County Council,1,12.0
 Independent Office for Police Conduct,1,12.0
