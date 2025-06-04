@@ -774,6 +774,7 @@ Priory Group Limited,4,21.0
 County Durham and Darlington NHS Foundation Trust,3,21.0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3,21.0
 Surrey and Sussex Healthcare NHS Trust,3,21.0
+"Ministry of Housing, Communities and Local Government",8,20.0
 Birmingham City Council,3,20.0
 "Department for Business, Energy and Industrial Strategy",3,20.0
 University Hospitals of Derby and Burton NHS Foundation Trust,3,20.0
@@ -806,7 +807,6 @@ Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 North West Ambulance Service NHS Trust,4,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
 College of Policing,8,18.0
-"Ministry of Housing, Communities and Local Government",7,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
 "Department for Culture, Media and Sport",5,18.0
 Royal College of Emergency Medicine,3,18.0
@@ -814,6 +814,7 @@ Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 Royal Pharmaceutical Society,2,18.0
 Department for Transport,20,17.0
+Home Office,18,17.0
 NHS Greater Manchester Integrated Care Board,17,17.0
 Cardiff and Vale University Health Board,4,17.0
 Cornwall Council,4,17.0
@@ -831,7 +832,6 @@ The Princess Alexandra Hospital NHS Trust,1,17.0
 UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
 Department of Health and Social Care,125,16.0
-Home Office,17,16.0
 National Police Chiefs’ Council,9,15.0
 Association of Ambulance Chief Executives,5,15.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",4,15.0
