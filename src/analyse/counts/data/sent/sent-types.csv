@@ -15,7 +15,7 @@ Metropolitan Police Service,67,33,1,33,49
 National Highways,65,33,1,31,48
 Medicines and Healthcare Products Regulatory Agency,63,34,1,28,44
 University Hospitals Sussex NHS Foundation Trust,62,32,0,30,48
-Health and Safety Executive,60,33,1,26,43
+Health and Safety Executive,60,34,0,26,43
 National Police Chiefs’ Council,59,45,0,14,24
 Pennine Care NHS Foundation Trust,48,27,0,21,44
 Department for Education,47,18,0,29,62
@@ -47,7 +47,7 @@ Royal College of Obstetricians and Gynaecologists,29,16,2,11,38
 Royal College of Paediatrics and Child Health,29,13,1,15,52
 Royal College of General Practitioners,28,11,2,15,54
 Aneurin Bevan University Health Board,28,11,1,16,57
-"Department for Culture, Media and Sport",28,16,2,10,36
+"Department for Culture, Media and Sport",28,17,1,10,36
 Midlands Partnership University NHS Foundation Trust,27,10,0,17,63
 University Hospitals of North Midlands NHS Trust,27,9,0,18,67
 "Tees, Esk and Wear Valley NHS Foundation Trust",27,16,1,10,37
@@ -88,7 +88,7 @@ Civil Aviation Authority,18,4,0,14,78
 Public Health England,18,10,0,8,44
 Mid and South Essex NHS Foundation Trust,17,6,0,11,65
 North East Ambulance Service NHS Foundation Trust,17,9,0,8,47
-St George’s University Hospitals NHS Foundation Trust,17,13,1,3,18
+St George’s University Hospitals NHS Foundation Trust,17,14,0,3,18
 Kent and Medway NHS and Social Care Partnership Trust,17,11,0,6,35
 Cumbria County Council,17,7,0,10,59
 Royal College of Emergency Medicine,17,9,1,7,41
@@ -770,7 +770,7 @@ Gloucestershire Police,1,1,0,0,0
 Gloucestershire Constabulary,1,0,0,1,100
 Greater Manchester Neurorehabilitation Integrated Stroke Delivery Network,1,1,0,0,0
 Greater Manchester Medicines Management Group,1,0,0,1,100
-Greater Manchester Integrated Care Board,1,0,1,0,0
+Greater Manchester Integrated Care Board,1,1,0,0,0
 College of Clinical Perfusion Scientists,1,1,0,0,0
 College for Policing,1,1,0,0,0
 Collaborative Mobility UK,1,0,0,1,100
@@ -1163,7 +1163,7 @@ M C Federation,1,1,0,0,0
 M & S Water Services,1,0,0,1,100
 Lynmere Nursing home,1,0,0,1,100
 Lundbeck Limited,1,0,0,1,100
-Lukka Care Homes Limited,1,0,1,0,0
+Lukka Care Homes Limited,1,1,0,0,0
 Ludlow Street Healthcare,1,1,0,0,0
 Lower Clapton Group Practice,1,0,0,1,100
 Low Moor Medical Practice,1,0,0,1,100

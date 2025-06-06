@@ -154,6 +154,7 @@ GS Halls Limited,1,100.0
 Glebelands Care Team,1,100.0
 Glenroyd Medical Practice,1,100.0
 Grange Care Home,1,100.0
+Greater Manchester Integrated Care Board,1,100.0
 Greater Manchester Neurorehabilitation Integrated Stroke Delivery Network,1,100.0
 Greenrod Place,1,100.0
 Guest Medical,1,100.0
@@ -230,6 +231,7 @@ London Borough of Harrow,1,100.0
 Long Furlong Medical Centre,1,100.0
 Longshoot Health Centre,1,100.0
 Louis Group,1,100.0
+Lukka Care Homes Limited,1,100.0
 MAC Skip Hire Limited,1,100.0
 MPS Investments Ltd,1,100.0
 MRHA,1,100.0
@@ -567,6 +569,7 @@ University of Bristol,1,50.0
 West Yorkshire Fire and Rescue Service,1,50.0
 Yorkshire Water,1,50.0
 Medway NHS Foundation Trust,8,47.0
+St George’s University Hospitals NHS Foundation Trust,8,47.0
 Ashford and St Peter’s Hospitals NHS Foundation Trust,5,45.0
 Cwm Taf Morgannwg University Health Board,17,44.0
 Kent County Council,4,44.0
@@ -579,7 +582,6 @@ Oldham Council,3,43.0
 South Wales Police,3,43.0
 Wiltshire Council,3,43.0
 Manchester University NHS Foundation Trust,17,41.0
-St George’s University Hospitals NHS Foundation Trust,7,41.0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",12,40.0
 King’s College Hospital NHS Foundation Trust,6,40.0
 Royal Cornwall Hospitals NHS Trust,6,40.0

@@ -15,7 +15,7 @@ Metropolitan Police Service,67,160,117,35,18,13,1
 National Highways,65,104,61,32,9,23,1
 Medicines and Healthcare Products Regulatory Agency,63,184,111,29,17,16,1
 University Hospitals Sussex NHS Foundation Trust,62,106,67,32,14,16,0
-Health and Safety Executive,60,178,91,22,21,16,1
+Health and Safety Executive,60,178,91,22,22,16,0
 National Police Chiefs’ Council,59,211,153,16,34,9,0
 Pennine Care NHS Foundation Trust,48,116,62,24,12,12,0
 Department for Education,47,141,89,21,17,9,0
@@ -47,7 +47,7 @@ Royal College of Obstetricians and Gynaecologists,29,81,39,8,12,7,2
 Royal College of Paediatrics and Child Health,29,116,68,13,11,4,1
 Royal College of General Practitioners,28,111,73,13,10,3,2
 Aneurin Bevan University Health Board,28,49,26,16,3,8,1
-"Department for Culture, Media and Sport",28,102,68,12,9,5,2
+"Department for Culture, Media and Sport",28,102,68,12,10,5,1
 Midlands Partnership University NHS Foundation Trust,27,51,36,17,3,7,0
 University Hospitals of North Midlands NHS Trust,27,37,30,19,2,6,0
 "Tees, Esk and Wear Valley NHS Foundation Trust",27,61,43,16,6,4,1
@@ -88,7 +88,7 @@ Civil Aviation Authority,18,32,25,13,3,2,0
 Public Health England,18,58,28,4,7,7,0
 Mid and South Essex NHS Foundation Trust,17,26,21,11,1,5,0
 North East Ambulance Service NHS Foundation Trust,17,31,20,8,4,5,0
-St George’s University Hospitals NHS Foundation Trust,17,33,14,3,6,7,1
+St George’s University Hospitals NHS Foundation Trust,17,33,14,3,6,8,0
 Kent and Medway NHS and Social Care Partnership Trust,17,29,11,6,2,9,0
 Cumbria County Council,17,21,18,10,2,5,0
 Royal College of Emergency Medicine,17,73,40,4,9,3,1
@@ -770,7 +770,7 @@ Gloucestershire Police,1,6,2,0,1,0,0
 Gloucestershire Constabulary,1,1,1,1,0,0,0
 Greater Manchester Neurorehabilitation Integrated Stroke Delivery Network,1,2,0,0,0,1,0
 Greater Manchester Medicines Management Group,1,2,1,0,1,0,0
-Greater Manchester Integrated Care Board,1,1,0,0,0,0,1
+Greater Manchester Integrated Care Board,1,1,0,0,0,1,0
 College of Clinical Perfusion Scientists,1,4,1,0,1,0,0
 College for Policing,1,4,2,0,1,0,0
 Collaborative Mobility UK,1,3,3,1,0,0,0
@@ -1163,7 +1163,7 @@ M C Federation,1,2,1,0,1,0,0
 M & S Water Services,1,2,2,1,0,0,0
 Lynmere Nursing home,1,1,1,1,0,0,0
 Lundbeck Limited,1,4,4,1,0,0,0
-Lukka Care Homes Limited,1,1,0,0,0,0,1
+Lukka Care Homes Limited,1,1,0,0,0,1,0
 Ludlow Street Healthcare,1,1,2,1,0,0,0
 Lower Clapton Group Practice,1,1,1,1,0,0,0
 Low Moor Medical Practice,1,1,1,1,0,0,0
