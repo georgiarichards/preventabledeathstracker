@@ -810,7 +810,6 @@ Universities and Colleges Admissions Service,2,67.0
 University Hospitals of Morecambe Bay NHS Foundation Trust,2,67.0
 Whirlpool UK,2,67.0
 Birmingham and Solihull Mental Health NHS Foundation Trust,22,65.0
-Cornwall Council,15,65.0
 East of England Ambulance Service NHS Trust,13,65.0
 Mid and South Essex NHS Foundation Trust,11,65.0
 Bolton NHS Foundation Trust,9,64.0
@@ -825,6 +824,7 @@ NHS Greater Manchester Integrated Care Board,62,62.0
 Sussex Partnership NHS Foundation Trust,29,62.0
 Welsh Ambulance Services University NHS Trust,29,62.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,20,62.0
+Cornwall Council,15,62.0
 North West Ambulance Service NHS Trust,13,62.0
 Milton Keynes University Hospital NHS Foundation Trust,10,62.0
 Royal Free London NHS Foundation Trust,10,62.0
@@ -865,7 +865,6 @@ NHS Sussex Integrated Care Board,11,58.0
 Cornwall Partnership NHS Foundation Trust,7,58.0
 Great Western Hospitals NHS Foundation Trust,7,58.0
 Mid Yorkshire Teaching NHS Trust,7,58.0
-"Ministry of Housing, Communities and Local Government",23,57.0
 Aneurin Bevan University Health Board,16,57.0
 University Hospitals Dorset NHS Foundation Trust,13,57.0
 Herefordshire and Worcestershire Health and Care NHS Trust,12,57.0
@@ -874,6 +873,7 @@ Hywel Dda University Health Board,8,57.0
 Gloucestershire Health and Care NHS Foundation Trust,4,57.0
 North Yorkshire Council,4,57.0
 South Wales Police,4,57.0
+"Ministry of Housing, Communities and Local Government",23,56.0
 Stockport NHS Foundation Trust,19,56.0
 Nottinghamshire Healthcare NHS Foundation Trust,15,56.0
 HC One,5,56.0
@@ -885,11 +885,11 @@ South Tyneside and Sunderland NHS Foundation Trust,6,55.0
 South West London and St George’s Mental Health NHS Trust,6,55.0
 Whittington Health NHS Trust,6,55.0
 Surrey and Borders Partnership NHS Foundation Trust,14,54.0
+NHS England,281,53.0
 Medway NHS Foundation Trust,9,53.0
 Department for Work and Pensions,8,53.0
 Office for Product Safety and Standards,8,53.0
 University Hospitals of Derby and Burton NHS Foundation Trust,8,53.0
-NHS England,280,52.0
 Metropolitan Police Service,35,52.0
 University Hospitals Sussex NHS Foundation Trust,32,52.0
 Northern Care Alliance NHS Foundation Trust,22,52.0
@@ -1067,7 +1067,6 @@ Kent County Council,4,44.0
 The Royal Wolverhampton NHS Trust,4,44.0
 Warwickshire County Council,4,44.0
 HM Prison and Probation Service,68,43.0
-Home Office,45,43.0
 "Department for Culture, Media and Sport",12,43.0
 Welsh Government,9,43.0
 Maritime and Coastguard Agency,6,43.0
@@ -1092,6 +1091,7 @@ South West Yorkshire Partnership NHS Foundation Trust,5,42.0
 Greater Manchester Mental Health NHS Foundation Trust,19,41.0
 Avon and Wiltshire Mental Health Partnership NHS Trust,9,41.0
 South London and Maudsley NHS Foundation Trust,9,41.0
+Home Office,45,40.0
 Care UK,10,40.0
 King’s College Hospital NHS Foundation Trust,6,40.0
 Calderdale Council,4,40.0
