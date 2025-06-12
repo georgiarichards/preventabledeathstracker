@@ -1,10 +1,10 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,765,289,12,464,61
-NHS England,535,181,7,347,65
+Department of Health and Social Care,765,290,11,464,61
+NHS England,535,182,6,347,65
 Care Quality Commission,175,103,2,70,40
 HM Prison and Probation Service,159,87,1,71,45
 Department for Transport,117,39,6,72,62
-Home Office,113,42,9,62,55
+Home Office,113,43,8,62,55
 Ministry of Justice,111,85,1,25,23
 National Institute for Health and Care Excellence,104,54,1,49,47
 NHS Greater Manchester Integrated Care Board,100,42,2,56,56
@@ -12,7 +12,7 @@ Betsi Cadwaladr University Health Board,79,22,1,56,71
 REDACTED,77,60,0,17,22
 Barts Health NHS Trust,68,25,2,41,60
 Metropolitan Police Service,67,33,1,33,49
-National Highways,65,33,1,31,48
+National Highways,65,34,0,31,48
 Medicines and Healthcare Products Regulatory Agency,63,34,1,28,44
 University Hospitals Sussex NHS Foundation Trust,62,32,0,30,48
 Health and Safety Executive,60,34,0,26,43
@@ -38,7 +38,7 @@ Essex Partnership University NHS Foundation Trust,34,19,0,15,44
 Ministry of Defence,34,7,0,27,79
 Birmingham and Solihull Mental Health NHS Foundation Trust,34,13,0,21,62
 Association of Ambulance Chief Executives,33,17,0,16,48
-University Hospitals Birmingham NHS Foundation Trust,33,9,2,22,67
+University Hospitals Birmingham NHS Foundation Trust,33,10,1,22,67
 Central and North West London NHS Foundation Trust,32,18,0,14,44
 Tameside and Glossop Integrated Care NHS Foundation Trust,32,13,0,19,59
 North East London NHS Foundation Trust,30,16,1,13,43
@@ -64,7 +64,7 @@ Cardiff and Vale University Health Board,24,12,0,12,50
 Royal College of Psychiatrists,23,19,0,4,17
 University Hospitals Dorset NHS Foundation Trust,23,11,0,12,52
 Leeds Teaching Hospitals NHS Trust,23,9,0,14,61
-Transport for London,23,6,1,16,70
+Transport for London,23,7,0,16,70
 Avon and Wiltshire Mental Health Partnership NHS Trust,22,13,0,9,41
 South London and Maudsley NHS Foundation Trust,22,12,0,10,45
 North West Ambulance Service NHS Trust,21,10,0,11,52
@@ -80,7 +80,7 @@ NHS Sussex Integrated Care Board,19,10,0,9,47
 Priory Group Limited,19,7,0,12,63
 South Central Ambulance Service NHS Foundation Trust,19,14,0,5,26
 Surrey County Council,19,8,0,11,58
-Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,18,5,1,12,67
+Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,18,5,0,13,72
 Civil Aviation Authority,18,4,0,14,78
 Welsh Parliament,18,13,0,5,28
 Nursing and Midwifery Council,18,9,0,9,50
@@ -124,7 +124,7 @@ Mersey Care NHS Foundation Trust,14,3,0,11,79
 NHS Digital,14,3,0,11,79
 Surrey and Sussex Healthcare NHS Trust,14,7,0,7,50
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,14,6,0,8,57
-"Foreign, Commonwealth and Development Office",14,8,1,5,36
+"Foreign, Commonwealth and Development Office",14,9,0,5,36
 Maritime and Coastguard Agency,14,5,0,9,64
 Bolton NHS Foundation Trust,14,6,0,8,57
 NHS Cornwall and Isles of Scilly Integrated Care Board,14,9,0,5,36
@@ -436,7 +436,7 @@ Lincolnshire Community Health Service NHS Trust,3,2,0,1,33
 Lincolnshire Partnership NHS Foundation Trust,3,1,0,2,67
 Leeds Community Healthcare NHS Trust,3,3,0,0,0
 Lancashire Constabulary,3,0,0,3,100
-Kent Police,3,0,1,2,67
+Kent Police,3,1,0,2,67
 Kettering General Hospital NHS Foundation Trust,3,2,0,1,33
 Sunrise Senior Living,3,1,0,2,67
 Staffordshire Fire and Rescue Service,3,1,0,2,67
