@@ -1,5 +1,5 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,770,1845,1274,443,183,128,16
+Department of Health and Social Care,770,1845,1274,443,183,130,14
 NHS England,536,1454,968,281,144,104,7
 Care Quality Commission,175,519,308,66,64,43,2
 HM Prison and Probation Service,160,369,203,68,51,39,2
@@ -47,7 +47,7 @@ Royal College of Paediatrics and Child Health,30,122,68,13,11,4,2
 Royal College of Obstetricians and Gynaecologists,29,81,39,8,12,7,2
 Aneurin Bevan University Health Board,28,49,26,16,3,8,1
 Royal College of General Practitioners,28,111,73,13,10,3,2
-"Department for Culture, Media and Sport",28,102,68,12,10,5,1
+"Department for Culture, Media and Sport",28,102,68,12,10,6,0
 University Hospitals of North Midlands NHS Trust,27,37,30,19,2,6,0
 Midlands Partnership University NHS Foundation Trust,27,51,36,17,3,7,0
 "Tees, Esk and Wear Valley NHS Foundation Trust",27,61,43,16,6,4,1
@@ -159,7 +159,7 @@ Ashford and St Peter’s Hospitals NHS Foundation Trust,11,19,9,5,1,5,0
 British Medical Association,11,50,22,3,4,4,0
 Whittington Health NHS Trust,11,18,9,6,4,1,0
 Sandwell and West Birmingham Hospitals NHS Trust,11,21,12,7,3,1,0
-Royal College of Surgeons,11,38,24,4,3,3,1
+Royal College of Surgeons,11,38,24,4,3,4,0
 Driver and Vehicle Standards Agency,11,31,12,2,6,3,0
 Norfolk County Council,11,21,14,7,2,2,0
 West London NHS Trust,11,15,6,5,0,6,0
@@ -192,7 +192,7 @@ Maidstone and Tunbridge Wells NHS Trust,9,13,11,7,1,1,0
 British Transport Police,9,36,30,4,4,1,0
 HC One,9,14,9,5,2,2,0
 Circle Health Group,9,27,8,1,3,5,0
-Royal Berkshire NHS Foundation Trust,9,20,13,3,3,2,1
+Royal Berkshire NHS Foundation Trust,9,20,13,3,3,3,0
 The Royal Wolverhampton NHS Trust,9,13,6,4,1,4,0
 The Dudley Group NHS Foundation Trust,9,13,9,7,1,1,0
 Bupa,8,14,8,6,0,2,0
@@ -294,7 +294,7 @@ Rochdale Borough Council,5,13,2,2,0,3,0
 British Society for Allergy and Clinical Immunology,5,34,25,2,3,0,0
 Milton Keynes Clinical Commissioning Group,5,7,4,3,0,2,0
 British National Formulary,5,20,10,2,1,2,0
-Rhondda Cynon Taf County Borough Council,5,10,5,2,1,1,1
+Rhondda Cynon Taf County Borough Council,5,10,5,2,1,2,0
 British Association of Perinatal Medicine,5,17,5,1,2,1,1
 Royal Surrey NHS Foundation Trust,5,20,5,0,3,1,1
 Royal Yachting Association,5,18,14,3,0,2,0
@@ -1997,7 +1997,7 @@ Association of Independent Tour Operators,1,5,1,0,1,0,0
 Association of Independent Gas Transporters,1,4,0,0,0,1,0
 Association of Conservative Clubs,1,1,0,0,0,1,0
 Association of Coloproctology of Great Britain and Ireland,1,5,4,0,1,0,0
-Association of Coloproctology of Great Britain,1,3,0,0,0,0,1
+Association of Coloproctology of Great Britain,1,3,0,0,0,1,0
 Tonic Construction Ltd,1,2,1,0,1,0,0
 Together Housing,1,3,1,0,1,0,0
 Titan Containers Limited,1,3,1,0,1,0,0
