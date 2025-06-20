@@ -1,12 +1,12 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
 Department of Health and Social Care,19,60,54,46,31,50,48,47,65,78,98,129,45,770,58,443,183,130,14
-NHS England,6,25,22,33,27,36,46,27,42,42,85,110,35,536,52,281,144,104,7
+NHS England,6,25,22,33,27,36,46,27,42,42,85,110,35,536,52,281,144,105,6
 Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,7,175,38,66,64,43,2
 HM Prison and Probation Service,4,15,17,14,13,10,24,5,7,6,17,22,6,160,42,68,51,39,2
-Department for Transport,1,13,6,12,9,6,6,8,7,8,12,17,13,118,51,60,32,22,4
+Department for Transport,1,13,6,12,9,6,6,8,7,8,12,17,13,118,51,60,32,23,3
 Home Office,2,8,10,5,4,5,12,8,13,10,12,13,11,113,40,45,41,19,8
 Ministry of Justice,1,12,6,8,2,8,13,0,12,11,11,22,5,111,23,26,51,33,1
-National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,6,16,20,6,104,49,51,22,30,1
+National Institute for Health and Care Excellence,1,10,9,4,3,1,11,7,10,6,16,20,6,104,49,51,22,31,0
 NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,13,12,20,11,10,13,3,100,62,62,19,17,2
 Betsi Cadwaladr University Health Board,1,9,8,4,9,2,2,1,4,4,21,10,4,79,71,56,3,19,1
 REDACTED,3,26,9,0,3,1,2,0,0,5,6,17,6,78,21,16,35,26,1
@@ -44,9 +44,9 @@ Tameside and Glossop Integrated Care NHS Foundation Trust,0,3,2,3,3,1,4,3,2,5,3,
 North East London NHS Foundation Trust,0,0,1,3,0,1,5,2,5,3,6,3,1,30,47,14,4,11,1
 "Barking, Havering and Redbridge University Hospitals NHS Trust",2,2,3,0,3,0,1,2,3,3,8,3,0,30,50,15,3,12,0
 Royal College of Paediatrics and Child Health,0,4,1,1,1,0,2,1,3,2,6,5,4,30,43,13,11,4,2
-Royal College of Obstetricians and Gynaecologists,1,2,3,3,2,1,1,4,1,1,4,3,3,29,28,8,12,7,2
+Royal College of Obstetricians and Gynaecologists,1,2,3,3,2,1,1,4,1,1,4,3,3,29,28,8,12,8,1
 Aneurin Bevan University Health Board,0,1,3,1,3,2,0,2,3,3,5,4,1,28,57,16,3,8,1
-Royal College of General Practitioners,2,3,1,1,2,0,1,1,4,2,3,5,3,28,46,13,10,3,2
+Royal College of General Practitioners,2,3,1,1,2,0,1,1,4,2,3,5,3,28,46,13,10,4,1
 "Department for Culture, Media and Sport",0,0,1,0,0,1,3,1,2,4,6,5,5,28,43,12,10,6,0
 University Hospitals of North Midlands NHS Trust,1,1,3,1,2,2,3,0,4,0,4,4,2,27,70,19,2,6,0
 Midlands Partnership University NHS Foundation Trust,1,1,2,0,4,4,3,2,1,1,2,5,1,27,63,17,3,7,0
@@ -305,7 +305,7 @@ Serco,0,2,0,1,0,0,0,0,0,0,1,0,1,5,0,0,3,2,0
 Ofsted,0,1,0,0,2,0,0,0,1,0,1,0,0,5,60,3,0,2,0
 South Yorkshire Police,0,1,1,0,1,0,0,1,0,0,0,1,0,5,60,3,2,0,0
 Bradford Council,1,0,0,1,0,0,0,0,0,0,1,0,2,5,20,1,0,4,0
-Somerset NHS Foundation Trust,0,0,0,0,0,1,0,0,0,1,0,1,2,5,60,3,0,1,1
+Somerset NHS Foundation Trust,0,0,0,0,0,1,0,0,0,1,0,1,2,5,60,3,0,2,0
 Local Government Association,0,0,0,0,1,1,2,0,0,0,0,1,0,5,20,1,4,0,0
 London Fire Brigade,0,0,0,0,0,0,0,0,1,1,1,2,0,5,80,4,1,0,0
 London North West University Healthcare NHS Trust,0,1,0,0,0,0,2,0,0,1,1,0,0,5,60,3,1,1,0

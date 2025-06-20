@@ -1,12 +1,12 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
 Department of Health and Social Care,770,1845,1274,443,183,130,14
-NHS England,536,1454,968,281,144,104,7
+NHS England,536,1454,968,281,144,105,6
 Care Quality Commission,175,519,308,66,64,43,2
 HM Prison and Probation Service,160,369,203,68,51,39,2
-Department for Transport,118,299,201,60,32,22,4
+Department for Transport,118,299,201,60,32,23,3
 Home Office,113,351,256,45,41,19,8
 Ministry of Justice,111,295,147,26,51,33,1
-National Institute for Health and Care Excellence,104,288,190,51,22,30,1
+National Institute for Health and Care Excellence,104,288,190,51,22,31,0
 NHS Greater Manchester Integrated Care Board,100,246,159,62,19,17,2
 Betsi Cadwaladr University Health Board,79,105,67,56,3,19,1
 REDACTED,78,254,83,16,35,26,1
@@ -44,9 +44,9 @@ Tameside and Glossop Integrated Care NHS Foundation Trust,32,47,35,20,5,7,0
 North East London NHS Foundation Trust,30,46,26,14,4,11,1
 "Barking, Havering and Redbridge University Hospitals NHS Trust",30,48,29,15,3,12,0
 Royal College of Paediatrics and Child Health,30,122,68,13,11,4,2
-Royal College of Obstetricians and Gynaecologists,29,81,39,8,12,7,2
+Royal College of Obstetricians and Gynaecologists,29,81,39,8,12,8,1
 Aneurin Bevan University Health Board,28,49,26,16,3,8,1
-Royal College of General Practitioners,28,111,73,13,10,3,2
+Royal College of General Practitioners,28,111,73,13,10,4,1
 "Department for Culture, Media and Sport",28,102,68,12,10,6,0
 University Hospitals of North Midlands NHS Trust,27,37,30,19,2,6,0
 Midlands Partnership University NHS Foundation Trust,27,51,36,17,3,7,0
@@ -305,7 +305,7 @@ Serco,5,21,6,0,3,2,0
 Ofsted,5,9,7,3,0,2,0
 South Yorkshire Police,5,11,5,3,2,0,0
 Bradford Council,5,6,1,1,0,4,0
-Somerset NHS Foundation Trust,5,12,5,3,0,1,1
+Somerset NHS Foundation Trust,5,12,5,3,0,2,0
 Local Government Association,5,30,12,1,4,0,0
 London Fire Brigade,5,12,10,4,1,0,0
 London North West University Healthcare NHS Trust,5,14,7,3,1,1,0
