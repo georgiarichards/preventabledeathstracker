@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,774,131,17,443,183,57
-NHS England,537,106,5,281,145,52
+Department of Health and Social Care,775,131,18,443,183,57
+NHS England,539,106,7,281,145,52
 Care Quality Commission,175,43,2,66,64,38
 HM Prison and Probation Service,160,40,1,68,51,42
 Department for Transport,118,24,2,60,32,51
@@ -10,7 +10,7 @@ National Institute for Health and Care Excellence,104,31,0,51,22,49
 NHS Greater Manchester Integrated Care Board,101,18,2,62,19,61
 Betsi Cadwaladr University Health Board,79,19,1,56,3,71
 REDACTED,78,26,1,16,35,21
-Barts Health NHS Trust,68,18,2,35,13,51
+Barts Health NHS Trust,69,18,3,35,13,51
 Metropolitan Police Service,67,13,1,35,18,52
 National Highways,67,24,1,33,9,49
 Medicines and Healthcare Products Regulatory Agency,63,16,1,29,17,46
@@ -19,13 +19,13 @@ Health and Safety Executive,60,16,0,22,22,37
 National Police Chiefs’ Council,59,9,0,16,34,27
 Pennine Care NHS Foundation Trust,48,12,0,24,12,50
 Department for Education,47,9,0,21,17,45
-Sussex Partnership NHS Foundation Trust,47,10,1,29,7,62
 Welsh Ambulance Services University NHS Trust,47,11,0,29,7,62
+Sussex Partnership NHS Foundation Trust,47,10,1,29,7,62
 Greater Manchester Mental Health NHS Foundation Trust,46,14,1,19,12,41
 College of Policing,45,8,1,16,20,36
 Northern Care Alliance NHS Foundation Trust,43,11,1,22,9,51
-"Ministry of Housing, Communities and Local Government",41,8,1,23,9,56
-Network Rail,41,10,0,26,5,63
 Manchester University NHS Foundation Trust,41,17,1,16,7,39
+Network Rail,41,10,0,26,5,63
+"Ministry of Housing, Communities and Local Government",41,8,1,23,9,56
 Cwm Taf Morgannwg University Health Board,39,17,0,17,5,44
 Norfolk and Suffolk NHS Foundation Trust,38,7,0,27,4,71
