@@ -774,6 +774,7 @@ Sainsbury's,1,20.0
 Somerset NHS Foundation Trust,1,20.0
 Staffordshire Police,1,20.0
 West Mercia Police,1,20.0
+Department for Transport,22,19.0
 Metropolitan Police Service,13,19.0
 Department for Education,9,19.0
 Swansea Bay University Health Board,5,19.0
@@ -781,7 +782,6 @@ Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 Royal College of Physicians,3,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
 NHS England,97,18.0
-Department for Transport,21,18.0
 College of Policing,8,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
 "Department for Culture, Media and Sport",5,18.0
@@ -806,7 +806,7 @@ UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
 NHS Greater Manchester Integrated Care Board,16,16.0
 Cornwall Council,4,16.0
-Department of Health and Social Care,116,15.0
+Department of Health and Social Care,117,15.0
 "Ministry of Housing, Communities and Local Government",6,15.0
 Association of Ambulance Chief Executives,5,15.0
 University Hospitals Birmingham NHS Foundation Trust,5,15.0
@@ -853,6 +853,7 @@ The Dudley Group NHS Foundation Trust,1,11.0
 West Sussex County Council,1,10.0
 West Yorkshire Police,1,10.0
 Devon Partnership NHS Trust,2,9.0
+Dorset Council,1,9.0
 Leeds City Council,1,9.0
 Sandwell and West Birmingham Hospitals NHS Trust,1,9.0
 Whittington Health NHS Trust,1,9.0
