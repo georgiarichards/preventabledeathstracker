@@ -1,13 +1,13 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,776,285,16,475,61
-NHS England,540,172,8,360,67
+Department of Health and Social Care,776,286,15,475,61
+NHS England,540,173,7,360,67
 Care Quality Commission,175,102,1,72,41
 HM Prison and Probation Service,159,85,1,73,46
 Department for Transport,118,40,1,77,65
 Home Office,113,42,8,63,56
 Ministry of Justice,111,83,0,28,25
 National Institute for Health and Care Excellence,103,54,0,49,48
-NHS Greater Manchester Integrated Care Board,101,42,2,57,56
+NHS Greater Manchester Integrated Care Board,101,43,1,57,56
 Betsi Cadwaladr University Health Board,79,21,1,57,72
 REDACTED,76,57,1,18,24
 National Highways,68,32,1,35,51
@@ -21,10 +21,10 @@ Pennine Care NHS Foundation Trust,48,27,0,21,44
 Sussex Partnership NHS Foundation Trust,47,20,1,26,55
 Welsh Ambulance Services University NHS Trust,47,18,0,29,62
 Department for Education,47,18,0,29,62
-Greater Manchester Mental Health NHS Foundation Trust,46,27,1,18,39
+Greater Manchester Mental Health NHS Foundation Trust,46,28,0,18,39
 College of Policing,45,15,1,29,64
 Northern Care Alliance NHS Foundation Trust,43,21,1,21,49
-Manchester University NHS Foundation Trust,41,23,1,17,41
+Manchester University NHS Foundation Trust,41,24,0,17,41
 Network Rail,41,11,0,30,73
 "Ministry of Housing, Communities and Local Government",41,20,1,20,49
 Cwm Taf Morgannwg University Health Board,39,22,0,17,44
@@ -408,7 +408,7 @@ HM Prison Wymott,3,2,0,1,33
 Southwark Council,3,1,0,2,67
 The Rotherham NHS Foundation Trust,3,0,1,2,67
 Cambian Group,3,0,0,3,100
-Croydon Council,3,1,1,1,33
+Croydon Council,3,2,0,1,33
 Croydon Health Services NHS Trust,3,1,0,2,67
 HM Prison Guys Marsh,3,1,0,2,67
 Financial Conduct Authority,3,0,0,3,100

@@ -1,13 +1,13 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,776,1857,1313,455,188,117,16
-NHS England,540,1463,1000,291,144,97,8
+Department of Health and Social Care,776,1857,1313,455,188,118,15
+NHS England,540,1463,1000,291,144,98,7
 Care Quality Commission,175,519,317,67,65,41,2
 HM Prison and Probation Service,159,368,207,70,50,38,1
 Department for Transport,118,299,205,64,31,22,1
 Home Office,113,351,262,46,43,16,8
 Ministry of Justice,111,295,150,28,51,32,0
 National Institute for Health and Care Excellence,103,287,194,51,24,28,0
-NHS Greater Manchester Integrated Care Board,101,248,165,64,19,16,2
+NHS Greater Manchester Integrated Care Board,101,248,165,64,19,17,1
 Betsi Cadwaladr University Health Board,79,105,69,57,3,18,1
 REDACTED,76,250,85,18,34,23,1
 National Highways,68,107,64,34,11,22,1
@@ -21,10 +21,10 @@ Pennine Care NHS Foundation Trust,48,116,62,24,12,12,0
 Sussex Partnership NHS Foundation Trust,47,78,50,29,7,10,1
 Welsh Ambulance Services University NHS Trust,47,94,57,29,7,11,0
 Department for Education,47,141,89,21,17,9,0
-Greater Manchester Mental Health NHS Foundation Trust,46,135,61,19,12,14,1
+Greater Manchester Mental Health NHS Foundation Trust,46,135,61,19,12,15,0
 College of Policing,45,160,146,17,19,8,1
 Northern Care Alliance NHS Foundation Trust,43,86,46,23,9,10,1
-Manchester University NHS Foundation Trust,41,79,32,16,7,17,1
+Manchester University NHS Foundation Trust,41,79,32,16,7,18,0
 Network Rail,41,61,42,26,5,10,0
 "Ministry of Housing, Communities and Local Government",41,103,60,24,10,6,1
 Cwm Taf Morgannwg University Health Board,39,80,30,17,5,17,0
@@ -408,7 +408,7 @@ HM Prison Wymott,3,4,4,2,0,1,0
 Southwark Council,3,24,8,1,2,0,0
 The Rotherham NHS Foundation Trust,3,3,2,2,0,0,1
 Cambian Group,3,4,3,2,1,0,0
-Croydon Council,3,6,1,1,0,1,1
+Croydon Council,3,6,1,1,0,2,0
 Croydon Health Services NHS Trust,3,5,4,2,0,1,0
 HM Prison Guys Marsh,3,9,8,2,1,0,0
 Financial Conduct Authority,3,6,6,3,0,0,0

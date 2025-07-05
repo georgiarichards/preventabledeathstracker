@@ -428,6 +428,7 @@ University Hospitals Coventry and Warwickshire NHS Trust,4,67.0
 Bondcare Limited,2,67.0
 British Marine,2,67.0
 Casualty Reduction Team,2,67.0
+Croydon Council,2,67.0
 Derbyshire Community Health Services NHS Foundation Trust,2,67.0
 Gateshead Health NHS Foundation Trust,2,67.0
 HM Prison Bedford,2,67.0
@@ -548,6 +549,7 @@ University of Bristol,1,50.0
 West Yorkshire Fire and Rescue Service,1,50.0
 Yorkshire Water,1,50.0
 Ashford and St Peter’s Hospitals NHS Foundation Trust,5,45.0
+Manchester University NHS Foundation Trust,18,44.0
 Cwm Taf Morgannwg University Health Board,17,44.0
 Medway NHS Foundation Trust,7,44.0
 Kent County Council,4,44.0
@@ -558,7 +560,6 @@ Northumbria Police,3,43.0
 Office of Rail and Road,3,43.0
 South Wales Police,3,43.0
 Wiltshire Council,3,43.0
-Manchester University NHS Foundation Trust,17,41.0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",12,40.0
 King’s College Hospital NHS Foundation Trust,6,40.0
 Royal Cornwall Hospitals NHS Trust,6,40.0
@@ -599,6 +600,7 @@ British Medical Association,4,36.0
 South Tyneside and Sunderland NHS Foundation Trust,4,36.0
 Blackpool Teaching Hospitals NHS Foundation Trust,9,35.0
 Essex Partnership University NHS Foundation Trust,12,34.0
+Greater Manchester Mental Health NHS Foundation Trust,15,33.0
 Leeds Teaching Hospitals NHS Trust,8,33.0
 Nursing and Midwifery Council,6,33.0
 Driver and Vehicle Licensing Agency,5,33.0
@@ -616,7 +618,6 @@ Sandwell Council,2,33.0
 South Western Railway,2,33.0
 Apple,1,33.0
 Chief Medical Officer for Wales,1,33.0
-Croydon Council,1,33.0
 Croydon Health Services NHS Trust,1,33.0
 Disclosure and Barring Service,1,33.0
 East Sussex Healthcare NHS Trust,1,33.0
@@ -652,7 +653,6 @@ National Highways,22,32.0
 Royal Free London NHS Foundation Trust,5,31.0
 South Western Ambulance Service NHS Foundation Trust,4,31.0
 REDACTED,23,30.0
-Greater Manchester Mental Health NHS Foundation Trust,14,30.0
 Nottinghamshire Healthcare NHS Foundation Trust,8,30.0
 University Hospitals Dorset NHS Foundation Trust,7,30.0
 Royal United Hospitals Bath NHS Foundation Trust,3,30.0
@@ -782,13 +782,14 @@ Swansea Bay University Health Board,5,19.0
 Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 Royal College of Physicians,3,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
-NHS England,97,18.0
+NHS England,98,18.0
 College of Policing,8,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
 "Department for Culture, Media and Sport",5,18.0
 North West Ambulance Service NHS Trust,4,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
+NHS Greater Manchester Integrated Care Board,17,17.0
 Cardiff and Vale University Health Board,4,17.0
 Royal College of Psychiatrists,4,17.0
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",2,17.0
@@ -805,9 +806,8 @@ Sheffield City Council,1,17.0
 The Princess Alexandra Hospital NHS Trust,1,17.0
 UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
-NHS Greater Manchester Integrated Care Board,16,16.0
 Cornwall Council,4,16.0
-Department of Health and Social Care,117,15.0
+Department of Health and Social Care,118,15.0
 "Ministry of Housing, Communities and Local Government",6,15.0
 Association of Ambulance Chief Executives,5,15.0
 University Hospitals Birmingham NHS Foundation Trust,5,15.0
