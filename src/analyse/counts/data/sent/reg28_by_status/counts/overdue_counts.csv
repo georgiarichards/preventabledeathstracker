@@ -775,7 +775,6 @@ Sainsbury's,1,20.0
 Somerset NHS Foundation Trust,1,20.0
 Staffordshire Police,1,20.0
 West Mercia Police,1,20.0
-Department for Transport,22,19.0
 Metropolitan Police Service,13,19.0
 Department for Education,9,19.0
 Swansea Bay University Health Board,5,19.0
@@ -783,6 +782,7 @@ Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 Royal College of Physicians,3,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
 NHS England,98,18.0
+Department for Transport,22,18.0
 College of Policing,8,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
 "Department for Culture, Media and Sport",5,18.0
@@ -844,12 +844,12 @@ Independent Office for Police Conduct,1,12.0
 Oxford Health NHS Foundation Trust,1,12.0
 Greater Manchester Police,4,11.0
 Royal College of General Practitioners,3,11.0
-Civil Aviation Authority,2,11.0
 Surrey County Council,2,11.0
 The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,2,11.0
 British Transport Police,1,11.0
 Maidstone and Tunbridge Wells NHS Trust,1,11.0
 The Dudley Group NHS Foundation Trust,1,11.0
+Civil Aviation Authority,2,10.0
 West Sussex County Council,1,10.0
 West Yorkshire Police,1,10.0
 Devon Partnership NHS Trust,2,9.0
