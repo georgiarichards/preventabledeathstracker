@@ -1,7 +1,7 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,51,48,47,65,78,98,129,51,777,59,455,188,120,14
-NHS England,6,25,22,33,27,36,46,27,42,42,85,110,39,540,54,291,144,98,7
-Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,7,175,38,67,65,41,2
+Department of Health and Social Care,19,60,54,46,31,51,48,47,65,78,98,129,51,777,59,455,189,120,13
+NHS England,6,25,22,33,27,36,46,27,42,42,85,110,39,540,54,291,145,98,6
+Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,7,175,38,67,66,41,1
 HM Prison and Probation Service,4,15,16,14,13,10,24,5,7,6,17,22,6,159,44,70,50,38,1
 Department for Transport,1,13,6,12,9,6,6,8,7,8,12,17,14,119,54,64,31,22,2
 Home Office,2,8,10,5,4,5,12,8,13,10,12,13,11,113,41,46,43,16,8
@@ -19,7 +19,7 @@ Health and Safety Executive,4,3,3,5,6,5,9,1,4,3,9,5,3,60,38,23,21,16,0
 National Police Chiefs’ Council,1,3,5,2,2,2,8,2,11,3,10,6,4,59,31,18,33,8,0
 Pennine Care NHS Foundation Trust,2,2,4,4,5,7,8,5,1,2,5,3,0,48,50,24,12,12,0
 Welsh Ambulance Services University NHS Trust,2,0,1,5,4,7,6,2,0,6,9,5,0,47,62,29,7,11,0
-Sussex Partnership NHS Foundation Trust,2,7,4,3,6,2,2,3,6,1,5,3,3,47,62,29,7,10,1
+Sussex Partnership NHS Foundation Trust,2,7,4,3,6,2,2,3,6,1,5,3,3,47,62,29,7,11,0
 Department for Education,1,3,3,4,1,3,8,1,4,4,5,10,0,47,45,21,17,9,0
 Greater Manchester Mental Health NHS Foundation Trust,1,4,5,3,2,3,7,3,7,6,3,1,1,46,41,19,12,15,0
 College of Policing,0,1,1,1,0,1,7,3,5,5,9,6,6,45,38,17,19,8,1
@@ -43,7 +43,7 @@ Association of Ambulance Chief Executives,0,2,1,1,1,0,3,8,1,6,6,4,0,33,27,9,19,5
 Central and North West London NHS Foundation Trust,0,2,2,2,2,2,6,2,5,3,2,4,0,32,44,14,9,9,0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",2,2,3,0,3,0,1,2,3,3,8,3,0,30,50,15,3,12,0
 North East London NHS Foundation Trust,0,0,1,3,0,1,5,2,5,3,6,3,1,30,47,14,4,11,1
-Royal College of Paediatrics and Child Health,0,4,1,1,1,0,2,1,3,2,6,5,4,30,43,13,11,4,2
+Royal College of Paediatrics and Child Health,0,4,1,1,1,0,2,1,3,2,6,5,4,30,43,13,12,4,1
 Royal College of Obstetricians and Gynaecologists,1,2,3,3,2,1,1,4,1,1,4,3,3,29,31,9,13,7,0
 Aneurin Bevan University Health Board,0,1,3,1,3,2,0,2,3,3,5,4,1,28,57,16,3,8,1
 Royal College of General Practitioners,2,3,1,1,2,0,1,1,4,2,3,5,3,28,46,13,11,3,1
@@ -87,7 +87,7 @@ Public Health England,0,2,2,0,2,1,5,3,3,0,0,0,0,18,22,4,7,7,0
 Nursing and Midwifery Council,0,2,0,1,3,1,4,1,1,1,1,3,0,18,44,8,4,6,0
 NHS Sussex Integrated Care Board,0,1,0,2,2,2,1,1,3,0,1,4,1,18,61,11,7,0,0
 Surrey Police,0,3,1,0,0,1,4,2,0,1,1,3,1,17,41,7,4,5,1
-Royal College of Emergency Medicine,0,1,0,0,2,0,0,1,1,0,4,4,4,17,24,4,10,2,1
+Royal College of Emergency Medicine,0,1,0,0,2,0,0,1,1,0,4,4,4,17,24,4,11,2,0
 Mid and South Essex NHS Foundation Trust,0,4,0,1,1,0,0,1,0,0,2,6,2,17,65,11,1,5,0
 Cumbria County Council,2,3,1,3,2,0,2,1,1,2,0,0,0,17,59,10,2,5,0
 NHS Birmingham and Solihull Integrated Care Board,0,1,0,0,0,1,4,0,2,1,4,2,2,17,59,10,4,2,1
@@ -336,7 +336,7 @@ British Association of Perinatal Medicine,0,0,0,0,0,0,0,1,1,0,1,1,1,5,20,1,2,1,1
 Chesterfield Royal Hospital NHS Foundation Trust,0,1,0,1,1,0,0,1,0,0,1,0,0,5,20,1,1,3,0
 Change Grow Live,0,0,0,0,2,0,0,0,2,1,0,0,0,5,20,1,3,1,0
 Serco,0,2,0,1,0,0,0,0,0,0,1,0,1,5,20,1,2,2,0
-Royal Surrey NHS Foundation Trust,0,1,0,1,1,0,0,0,0,1,0,0,1,5,0,0,3,1,1
+Royal Surrey NHS Foundation Trust,0,1,0,1,1,0,0,0,0,1,0,0,1,5,0,0,4,1,0
 West Mercia Police,1,0,0,3,0,0,0,0,0,0,0,1,0,5,60,3,1,1,0
 Virgin Care,0,1,1,0,0,3,0,0,0,0,0,0,0,5,20,1,1,3,0
 Wiltshire Police,0,1,0,0,0,1,1,1,0,0,1,0,0,5,40,2,1,2,0
@@ -1318,7 +1318,7 @@ Mylan Pharmaceuticals,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
 NEATH PORT TALBOT COUNCIL,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
 Dearne Valley Group Practice,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 NHS Staffordshire and Stoke-on-Trent Integrated Care Board,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
-NHS Sussex,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+NHS Sussex,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 NHS University Hospitals Trust Plymouth,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
 Coventry University,0,0,0,0,0,0,0,1,0,0,0,0,0,1,100,1,0,0,0
 Cowes Week Limited,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0

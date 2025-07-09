@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,777,288,14,475,61
-NHS England,540,173,7,360,67
+Department of Health and Social Care,777,289,13,475,61
+NHS England,540,174,6,360,67
 Care Quality Commission,175,102,1,72,41
 HM Prison and Probation Service,159,85,1,73,46
 Department for Transport,119,40,2,77,65
@@ -19,7 +19,7 @@ Health and Safety Executive,60,33,0,27,45
 National Police Chiefs’ Council,59,43,0,16,27
 Pennine Care NHS Foundation Trust,48,27,0,21,44
 Welsh Ambulance Services University NHS Trust,47,18,0,29,62
-Sussex Partnership NHS Foundation Trust,47,20,1,26,55
+Sussex Partnership NHS Foundation Trust,47,21,0,26,55
 Department for Education,47,18,0,29,62
 Greater Manchester Mental Health NHS Foundation Trust,46,28,0,18,39
 College of Policing,45,15,1,29,64
@@ -43,7 +43,7 @@ Association of Ambulance Chief Executives,33,17,0,16,48
 Central and North West London NHS Foundation Trust,32,18,0,14,44
 "Barking, Havering and Redbridge University Hospitals NHS Trust",30,15,0,15,50
 North East London NHS Foundation Trust,30,16,1,13,43
-Royal College of Paediatrics and Child Health,30,13,2,15,50
+Royal College of Paediatrics and Child Health,30,14,1,15,50
 Royal College of Obstetricians and Gynaecologists,29,17,0,12,41
 Aneurin Bevan University Health Board,28,11,1,16,57
 Royal College of General Practitioners,28,12,1,15,54
@@ -336,7 +336,7 @@ British Association of Perinatal Medicine,5,2,1,2,40
 Chesterfield Royal Hospital NHS Foundation Trust,5,4,0,1,20
 Change Grow Live,5,4,0,1,20
 Serco,5,4,0,1,20
-Royal Surrey NHS Foundation Trust,5,4,1,0,0
+Royal Surrey NHS Foundation Trust,5,5,0,0,0
 West Mercia Police,5,1,0,4,80
 Virgin Care,5,4,0,1,20
 Wiltshire Police,5,2,0,3,60
@@ -1318,7 +1318,7 @@ Mylan Pharmaceuticals,1,1,0,0,0
 NEATH PORT TALBOT COUNCIL,1,0,1,0,0
 Dearne Valley Group Practice,1,0,0,1,100
 NHS Staffordshire and Stoke-on-Trent Integrated Care Board,1,1,0,0,0
-NHS Sussex,1,0,1,0,0
+NHS Sussex,1,1,0,0,0
 NHS University Hospitals Trust Plymouth,1,0,1,0,0
 Coventry University,1,0,0,1,100
 Cowes Week Limited,1,0,0,1,100
