@@ -778,6 +778,7 @@ Sainsbury's,1,20.0
 Somerset NHS Foundation Trust,1,20.0
 Staffordshire Police,1,20.0
 West Mercia Police,1,20.0
+Department for Transport,23,19.0
 Metropolitan Police Service,13,19.0
 Department for Education,9,19.0
 Swansea Bay University Health Board,5,19.0
@@ -785,11 +786,12 @@ Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 Royal College of Physicians,3,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
 NHS England,98,18.0
-Department for Transport,22,18.0
 College of Policing,8,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
+University Hospitals Birmingham NHS Foundation Trust,6,18.0
 "Department for Culture, Media and Sport",5,18.0
 North West Ambulance Service NHS Trust,4,18.0
+NHS Birmingham and Solihull Integrated Care Board,3,18.0
 Norfolk County Council,2,18.0
 Nottingham University Hospitals NHS Trust,2,18.0
 NHS Greater Manchester Integrated Care Board,17,17.0
@@ -809,11 +811,10 @@ Sheffield City Council,1,17.0
 The Princess Alexandra Hospital NHS Trust,1,17.0
 UK Health Security Agency,1,17.0
 Wye Valley NHS Trust,1,17.0
+Department of Health and Social Care,121,16.0
 Cornwall Council,4,16.0
-Department of Health and Social Care,120,15.0
 "Ministry of Housing, Communities and Local Government",6,15.0
 Association of Ambulance Chief Executives,5,15.0
-University Hospitals Birmingham NHS Foundation Trust,5,15.0
 "Tees, Esk and Wear Valley NHS Foundation Trust",4,15.0
 G4S,2,15.0
 North Cumbria Integrated Care NHS Foundation Trust,2,15.0
@@ -838,7 +839,6 @@ Royal College of Paediatrics and Child Health,4,13.0
 Department for Work and Pensions,2,13.0
 Leicestershire Partnership NHS Trust,2,13.0
 Ministry of Defence,4,12.0
-NHS Birmingham and Solihull Integrated Care Board,2,12.0
 Royal College of Emergency Medicine,2,12.0
 Worcestershire Acute Hospitals NHS Trust,2,12.0
 Epsom and St Helier University Hospitals NHS Trust,1,12.0

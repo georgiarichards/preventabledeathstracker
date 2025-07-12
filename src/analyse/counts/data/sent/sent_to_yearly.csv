@@ -1,9 +1,9 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,51,48,47,65,78,98,129,51,777,59,455,189,120,13
+Department of Health and Social Care,19,60,54,46,31,51,48,47,65,78,98,129,51,777,59,455,189,121,12
 NHS England,6,25,22,33,27,36,46,27,42,42,85,110,39,540,54,291,145,98,6
 Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,7,175,38,67,66,41,1
 HM Prison and Probation Service,4,15,16,14,13,10,24,5,7,6,17,22,6,159,44,70,50,38,1
-Department for Transport,1,13,6,12,9,6,6,8,7,8,12,17,14,119,54,64,31,22,2
+Department for Transport,1,13,6,12,9,6,6,8,7,8,12,17,14,119,54,64,31,23,1
 Home Office,2,8,10,5,4,5,12,8,13,10,12,13,11,113,41,46,43,16,8
 Ministry of Justice,1,12,6,8,2,8,13,0,12,11,11,22,5,111,25,28,51,32,0
 National Institute for Health and Care Excellence,1,10,9,4,2,1,11,7,10,6,16,20,6,103,50,51,24,28,0
@@ -35,7 +35,7 @@ East London NHS Foundation Trust,0,2,0,3,9,1,2,1,1,6,5,6,0,36,64,23,4,9,0
 Essex Partnership University NHS Foundation Trust,0,1,3,4,4,2,0,3,2,3,4,6,3,35,43,15,7,12,1
 Greater Manchester Police,0,3,6,4,0,1,5,2,4,3,2,4,1,35,60,21,10,4,0
 Tameside and Glossop Integrated Care NHS Foundation Trust,0,3,2,3,3,1,4,3,2,5,3,3,2,34,59,20,5,7,2
-University Hospitals Birmingham NHS Foundation Trust,1,0,4,2,2,2,4,1,2,0,3,10,3,34,65,22,5,5,2
+University Hospitals Birmingham NHS Foundation Trust,1,0,4,2,2,2,4,1,2,0,3,10,3,34,65,22,5,6,1
 Birmingham and Solihull Mental Health NHS Foundation Trust,0,1,1,2,1,3,7,1,1,3,8,5,1,34,65,22,10,2,0
 Ministry of Defence,1,5,8,0,1,2,3,1,4,1,3,4,1,34,74,25,5,4,0
 Stockport NHS Foundation Trust,3,4,4,7,4,3,2,1,2,1,1,2,0,34,56,19,2,13,0
@@ -90,7 +90,7 @@ Surrey Police,0,3,1,0,0,1,4,2,0,1,1,3,1,17,41,7,4,5,1
 Royal College of Emergency Medicine,0,1,0,0,2,0,0,1,1,0,4,4,4,17,24,4,11,2,0
 Mid and South Essex NHS Foundation Trust,0,4,0,1,1,0,0,1,0,0,2,6,2,17,65,11,1,5,0
 Cumbria County Council,2,3,1,3,2,0,2,1,1,2,0,0,0,17,59,10,2,5,0
-NHS Birmingham and Solihull Integrated Care Board,0,1,0,0,0,1,4,0,2,1,4,2,2,17,59,10,4,2,1
+NHS Birmingham and Solihull Integrated Care Board,0,1,0,0,0,1,4,0,2,1,4,2,2,17,59,10,4,3,0
 Kent and Medway NHS and Social Care Partnership Trust,1,3,1,1,2,1,1,0,3,2,1,1,0,17,35,6,2,9,0
 North East Ambulance Service NHS Foundation Trust,0,1,1,3,1,2,2,0,0,2,1,3,1,17,53,9,3,5,0
 United Lincolnshire Hospitals NHS Trust,2,2,2,1,3,1,1,1,1,1,1,0,0,16,44,7,1,8,0

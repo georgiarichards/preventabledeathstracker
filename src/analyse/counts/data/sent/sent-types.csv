@@ -1,9 +1,9 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,777,289,13,475,61
+Department of Health and Social Care,777,290,12,475,61
 NHS England,540,174,6,360,67
 Care Quality Commission,175,102,1,72,41
 HM Prison and Probation Service,159,85,1,73,46
-Department for Transport,119,40,2,77,65
+Department for Transport,119,41,1,77,65
 Home Office,113,42,8,63,56
 Ministry of Justice,111,83,0,28,25
 National Institute for Health and Care Excellence,103,54,0,49,48
@@ -35,7 +35,7 @@ East London NHS Foundation Trust,36,11,0,25,69
 Essex Partnership University NHS Foundation Trust,35,19,1,15,43
 Greater Manchester Police,35,7,0,28,80
 Tameside and Glossop Integrated Care NHS Foundation Trust,34,13,2,19,56
-University Hospitals Birmingham NHS Foundation Trust,34,10,2,22,65
+University Hospitals Birmingham NHS Foundation Trust,34,11,1,22,65
 Birmingham and Solihull Mental Health NHS Foundation Trust,34,13,0,21,62
 Ministry of Defence,34,7,0,27,79
 Stockport NHS Foundation Trust,34,16,0,18,53
@@ -90,7 +90,7 @@ Surrey Police,17,7,1,9,53
 Royal College of Emergency Medicine,17,8,0,9,53
 Mid and South Essex NHS Foundation Trust,17,6,0,11,65
 Cumbria County Council,17,7,0,10,59
-NHS Birmingham and Solihull Integrated Care Board,17,6,1,10,59
+NHS Birmingham and Solihull Integrated Care Board,17,7,0,10,59
 Kent and Medway NHS and Social Care Partnership Trust,17,11,0,6,35
 North East Ambulance Service NHS Foundation Trust,17,8,0,9,53
 United Lincolnshire Hospitals NHS Trust,16,8,0,8,50
