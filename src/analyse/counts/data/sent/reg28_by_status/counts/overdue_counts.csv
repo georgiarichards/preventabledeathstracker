@@ -72,6 +72,7 @@ CAT,1,100.0
 CSS Telecare Service,1,100.0
 CaMIS PAS,1,100.0
 Cambridge University Hospitals NHS Foundation Trust,1,100.0
+Cardiff & Vale University Health Board,1,100.0
 Care First Homes,1,100.0
 Care4U Healthcare,1,100.0
 Carewatch,1,100.0
@@ -252,6 +253,7 @@ NHS North West London Integrated Care Board,1,100.0
 NHS Nottingham,1,100.0
 NHS Southern Derbyshire Clinical Commissioning Group,1,100.0
 NHS Sussex,1,100.0
+NHS University Hospitals Trust Plymouth,1,100.0
 NSL Care Services,1,100.0
 National General Medical Council,1,100.0
 National Grid,1,100.0
@@ -656,6 +658,7 @@ Torbay and South Devon NHS Foundation Trust,1,33.0
 Wakefield Council,1,33.0
 Wigan Council,1,33.0
 National Highways,22,32.0
+Aneurin Bevan University Health Board,9,32.0
 Royal Free London NHS Foundation Trust,5,31.0
 South Western Ambulance Service NHS Foundation Trust,4,31.0
 REDACTED,23,30.0
@@ -664,7 +667,6 @@ University Hospitals Dorset NHS Foundation Trust,7,30.0
 Royal United Hospitals Bath NHS Foundation Trust,3,30.0
 Walsall Healthcare NHS Trust,3,30.0
 Ministry of Justice,32,29.0
-Aneurin Bevan University Health Board,8,29.0
 Cumbria County Council,5,29.0
 Mid and South Essex NHS Foundation Trust,5,29.0
 North East Ambulance Service NHS Foundation Trust,5,29.0
@@ -729,10 +731,10 @@ Wandsworth Council,1,25.0
 West Hertfordshire Teaching Hospitals NHS Trust,1,25.0
 Youth Justice Board,1,25.0
 HM Prison and Probation Service,38,24.0
+Betsi Cadwaladr University Health Board,19,24.0
 Network Rail,10,24.0
 Royal College of Obstetricians and Gynaecologists,7,24.0
 Care Quality Commission,41,23.0
-Betsi Cadwaladr University Health Board,18,23.0
 Sussex Partnership NHS Foundation Trust,11,23.0
 Welsh Ambulance Services University NHS Trust,11,23.0
 Northern Care Alliance NHS Foundation Trust,10,23.0
@@ -788,7 +790,7 @@ Swansea Bay University Health Board,5,19.0
 Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
 Royal College of Physicians,3,19.0
 South East Coast Ambulance Service NHS Foundation Trust,3,19.0
-NHS England,98,18.0
+NHS England,99,18.0
 College of Policing,8,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
 University Hospitals Birmingham NHS Foundation Trust,6,18.0
