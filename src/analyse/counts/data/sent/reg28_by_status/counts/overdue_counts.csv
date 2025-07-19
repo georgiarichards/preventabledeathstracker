@@ -568,6 +568,7 @@ Office of Rail and Road,3,43.0
 South Wales Police,3,43.0
 Wiltshire Council,3,43.0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",12,40.0
+North East London NHS Foundation Trust,12,40.0
 King’s College Hospital NHS Foundation Trust,6,40.0
 Royal Cornwall Hospitals NHS Trust,6,40.0
 Canal and River Trust,4,40.0
@@ -601,7 +602,6 @@ Health Services Safety Investigations Body,3,38.0
 Isle of Wight Council,3,38.0
 Resuscitation Council UK,3,38.0
 Shrewsbury and Telford Hospital NHS Trust,3,38.0
-North East London NHS Foundation Trust,11,37.0
 Hywel Dda University Health Board,5,36.0
 British Medical Association,4,36.0
 South Tyneside and Sunderland NHS Foundation Trust,4,36.0
@@ -708,6 +708,7 @@ West Midlands Ambulance Service University NHS Foundation Trust,3,25.0
 Bupa,2,25.0
 Camden Council,2,25.0
 Hull University Teaching Hospitals NHS Trust,2,25.0
+Independent Office for Police Conduct,2,25.0
 NHS Wales,2,25.0
 Sheffield Health and Social Care NHS Foundation Trust,2,25.0
 Suffolk County Council,2,25.0
@@ -750,6 +751,8 @@ British Standards Institution,2,22.0
 HC One,2,22.0
 Homerton Healthcare NHS Foundation Trust,2,22.0
 Royal Devon University Healthcare NHS Foundation Trust,2,22.0
+Home Office,24,21.0
+Metropolitan Police Service,14,21.0
 Tameside and Glossop Integrated Care NHS Foundation Trust,7,21.0
 NHS Derby and Derbyshire Integrated Care Board,5,21.0
 Oxleas NHS Foundation Trust,5,21.0
@@ -784,7 +787,6 @@ Somerset NHS Foundation Trust,1,20.0
 Staffordshire Police,1,20.0
 West Mercia Police,1,20.0
 Department for Transport,23,19.0
-Metropolitan Police Service,13,19.0
 Department for Education,9,19.0
 Swansea Bay University Health Board,5,19.0
 Herefordshire and Worcestershire Health and Care NHS Trust,4,19.0
@@ -824,7 +826,6 @@ G4S,2,15.0
 North Cumbria Integrated Care NHS Foundation Trust,2,15.0
 Portsmouth Hospitals University NHS Trust,2,15.0
 Sussex Police,2,15.0
-Home Office,16,14.0
 National Police Chiefs’ Council,8,14.0
 East Midlands Ambulance Service NHS Trust,3,14.0
 Welsh Government,3,14.0
@@ -847,7 +848,6 @@ Royal College of Emergency Medicine,2,12.0
 Worcestershire Acute Hospitals NHS Trust,2,12.0
 Epsom and St Helier University Hospitals NHS Trust,1,12.0
 Hampshire County Council,1,12.0
-Independent Office for Police Conduct,1,12.0
 Oxford Health NHS Foundation Trust,1,12.0
 Greater Manchester Police,4,11.0
 Royal College of General Practitioners,3,11.0
