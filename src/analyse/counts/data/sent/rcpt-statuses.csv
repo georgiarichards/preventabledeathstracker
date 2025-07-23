@@ -11,7 +11,7 @@ NHS Greater Manchester Integrated Care Board,102,250,165,64,19,17,2
 Betsi Cadwaladr University Health Board,79,105,69,57,3,19,0
 REDACTED,77,254,85,18,34,23,2
 National Highways,69,108,64,34,11,22,2
-Barts Health NHS Trust,68,106,66,35,13,18,2
+Barts Health NHS Trust,68,106,66,35,13,19,1
 Metropolitan Police Service,67,160,118,36,17,14,0
 Medicines and Healthcare Products Regulatory Agency,63,184,114,29,18,16,0
 University Hospitals Sussex NHS Foundation Trust,62,106,68,33,13,16,0
@@ -174,7 +174,7 @@ Calderdale Council,10,13,6,4,1,5,0
 Royal United Hospitals Bath NHS Foundation Trust,10,21,9,5,2,3,0
 Canal and River Trust,10,16,10,4,2,4,0
 West Sussex County Council,10,15,11,8,1,1,0
-West Yorkshire Police,10,20,16,5,3,1,1
+West Yorkshire Police,10,20,16,5,3,2,0
 Cyngor Sir Powys County Council,10,18,7,1,4,5,0
 Trafford Council,10,39,24,3,5,2,0
 Walsall Healthcare NHS Trust,10,12,9,6,1,3,0
@@ -573,7 +573,7 @@ Bradford District Care NHS Foundation Trust,2,2,2,2,0,0,0
 Nottinghamshire Police,2,2,0,0,0,1,1
 Nuffield Health,2,2,1,1,0,1,0
 Dorset County Hospital NHS Foundation Trust,2,2,3,2,0,0,0
-Durham Constabulary,2,3,1,1,0,0,1
+Durham Constabulary,2,3,1,1,0,1,0
 Northamptonshire Healthcare NHS Foundation Trust,2,5,1,0,1,1,0
 Not Listed,2,2,1,1,0,1,0
 North Devon Council,2,6,5,1,1,0,0
@@ -1518,7 +1518,7 @@ Passmonds Care Home,1,3,0,0,0,1,0
 Patient Transport UK Ltd,1,1,0,0,0,1,0
 Paul Wainwright Construction Services Ltd,1,2,2,1,0,0,0
 Peabody,1,3,3,1,0,0,0
-Officer of the College of Policing,1,2,0,0,0,0,1
+Officer of the College of Policing,1,2,0,0,0,1,0
 Old Bridge Surgery,1,2,2,1,0,0,0
 Old Catton Medical Practice,1,1,1,1,0,0,0
 One Medical Group,1,3,4,1,0,0,0
@@ -1814,7 +1814,7 @@ South Kesteven District Council,1,1,0,0,0,1,0
 Axminster Medical Practice,1,2,2,1,0,0,0
 Ayurvedic Professionals Association,1,4,3,0,1,0,0
 B & D Civil Engineering Limited,1,2,2,1,0,0,0
-BARCHESTER HEALTHCARE LIMITED,1,1,0,0,0,0,1
+BARCHESTER HEALTHCARE LIMITED,1,1,0,0,0,1,0
 Square Sail,1,1,0,0,0,1,0
 St Andrew’s Surgery Hull,1,6,6,1,0,0,0
 St Armands Court Residential Care Home,1,5,0,0,0,1,0

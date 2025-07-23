@@ -41,6 +41,7 @@ Ashgate House Nursing Home,1,100.0
 Association of Conservative Clubs,1,100.0
 Association of Independent Gas Transporters,1,100.0
 Athena Care Homes (UK) Limited,1,100.0
+BARCHESTER HEALTHCARE LIMITED,1,100.0
 BARDOC,1,100.0
 BUPA UK Provision,1,100.0
 Bamford Grange Nursing Home,1,100.0
@@ -276,6 +277,7 @@ Nottingham Clinical Commissioning Group,1,100.0
 Nuffield Road Medical Centre,1,100.0
 Oaks Medical Centre,1,100.0
 Off the Rails Cafe,1,100.0
+Officer of the College of Policing,1,100.0
 Orchard Care Homes,1,100.0
 Orchard Surgery,1,100.0
 Over Manager,1,100.0
@@ -507,6 +509,7 @@ Coventry City Council,1,50.0
 Croft Shifa Health Centre,1,50.0
 Cumbria Constabulary,1,50.0
 Dartford and Gravesend NHS Trust,1,50.0
+Durham Constabulary,1,50.0
 East Cheshire NHS Trust,1,50.0
 General Chiropractic Council,1,50.0
 Gwent Police,1,50.0
@@ -678,6 +681,7 @@ North West Anglia NHS Foundation Trust,2,29.0
 North Yorkshire Council,2,29.0
 Nottinghamshire County Council,2,29.0
 Oldham Council,2,29.0
+Barts Health NHS Trust,19,28.0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,28.0
 South Central Ambulance Service NHS Foundation Trust,5,28.0
 National Institute for Health and Care Excellence,28,27.0
@@ -690,7 +694,6 @@ Berkshire Healthcare NHS Foundation Trust,3,27.0
 Driver and Vehicle Standards Agency,3,27.0
 Royal College of Surgeons,3,27.0
 South West London and St George’s Mental Health NHS Trust,3,27.0
-Barts Health NHS Trust,18,26.0
 University Hospitals Sussex NHS Foundation Trust,16,26.0
 London Ambulance Service NHS Trust,7,26.0
 Medicines and Healthcare Products Regulatory Agency,16,25.0
@@ -769,6 +772,7 @@ Surrey and Sussex Healthcare NHS Trust,3,20.0
 University Hospitals of Derby and Burton NHS Foundation Trust,3,20.0
 Egton Medical Information Systems,2,20.0
 Trafford Council,2,20.0
+West Yorkshire Police,2,20.0
 Avon Fire and Rescue Services,1,20.0
 Borough Care,1,20.0
 Brighton and Hove City Council,1,20.0
@@ -858,7 +862,6 @@ Maidstone and Tunbridge Wells NHS Trust,1,11.0
 The Dudley Group NHS Foundation Trust,1,11.0
 Civil Aviation Authority,2,10.0
 West Sussex County Council,1,10.0
-West Yorkshire Police,1,10.0
 Devon Partnership NHS Trust,2,9.0
 Dorset Council,1,9.0
 Leeds City Council,1,9.0

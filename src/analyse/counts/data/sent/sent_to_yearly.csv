@@ -11,7 +11,7 @@ NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,13,12,20,11,10,13,5,102
 Betsi Cadwaladr University Health Board,1,9,8,4,9,2,2,1,4,4,21,10,4,79,72,57,3,19,0
 REDACTED,3,26,9,0,3,1,2,0,0,5,6,17,5,77,23,18,34,23,2
 National Highways,1,7,8,4,7,1,9,4,4,6,6,6,6,69,49,34,11,22,2
-Barts Health NHS Trust,0,5,5,6,5,6,9,8,2,6,8,5,3,68,51,35,13,18,2
+Barts Health NHS Trust,0,5,5,6,5,6,9,8,2,6,8,5,3,68,51,35,13,19,1
 Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,7,6,4,67,54,36,17,14,0
 Medicines and Healthcare Products Regulatory Agency,1,9,4,5,3,4,5,5,4,4,7,8,4,63,46,29,18,16,0
 University Hospitals Sussex NHS Foundation Trust,1,11,5,11,6,6,6,1,4,2,4,3,2,62,53,33,13,16,0
@@ -174,7 +174,7 @@ Calderdale Council,0,0,0,0,0,4,2,1,1,1,0,1,0,10,40,4,1,5,0
 Royal United Hospitals Bath NHS Foundation Trust,0,1,1,1,1,0,3,0,0,0,3,0,0,10,50,5,2,3,0
 Canal and River Trust,0,2,0,3,1,0,1,0,1,2,0,0,0,10,40,4,2,4,0
 West Sussex County Council,0,0,3,1,1,0,2,1,1,0,0,0,1,10,80,8,1,1,0
-West Yorkshire Police,0,1,1,2,0,0,0,0,0,1,1,1,3,10,50,5,3,1,1
+West Yorkshire Police,0,1,1,2,0,0,0,0,0,1,1,1,3,10,50,5,3,2,0
 Cyngor Sir Powys County Council,0,2,0,4,0,0,0,0,0,4,0,0,0,10,10,1,4,5,0
 Trafford Council,1,0,2,2,0,2,0,2,0,0,0,1,0,10,30,3,5,2,0
 Walsall Healthcare NHS Trust,0,1,1,2,1,1,0,3,1,0,0,0,0,10,60,6,1,3,0
@@ -573,7 +573,7 @@ Bradford District Care NHS Foundation Trust,0,0,0,0,0,0,0,1,0,0,0,0,1,2,100,2,0,
 Nottinghamshire Police,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,1,1
 Nuffield Health,0,0,0,0,0,0,1,0,1,0,0,0,0,2,50,1,0,1,0
 Dorset County Hospital NHS Foundation Trust,0,0,0,0,0,1,0,0,0,0,0,1,0,2,100,2,0,0,0
-Durham Constabulary,1,0,0,0,0,0,0,0,0,0,0,0,1,2,50,1,0,0,1
+Durham Constabulary,1,0,0,0,0,0,0,0,0,0,0,0,1,2,50,1,0,1,0
 Northamptonshire Healthcare NHS Foundation Trust,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0,1,1,0
 Not Listed,0,1,1,0,0,0,0,0,0,0,0,0,0,2,50,1,0,1,0
 North Devon Council,0,1,0,1,0,0,0,0,0,0,0,0,0,2,50,1,1,0,0
@@ -1518,7 +1518,7 @@ Passmonds Care Home,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Patient Transport UK Ltd,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
 Paul Wainwright Construction Services Ltd,0,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
 Peabody,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
-Officer of the College of Policing,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Officer of the College of Policing,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Old Bridge Surgery,0,0,0,0,0,0,0,0,0,0,1,0,0,1,100,1,0,0,0
 Old Catton Medical Practice,0,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 One Medical Group,0,0,0,0,0,0,0,0,1,0,0,0,0,1,100,1,0,0,0
@@ -1814,7 +1814,7 @@ South Kesteven District Council,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Axminster Medical Practice,0,0,1,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Ayurvedic Professionals Association,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
 B & D Civil Engineering Limited,0,0,0,0,0,1,0,0,0,0,0,0,0,1,100,1,0,0,0
-BARCHESTER HEALTHCARE LIMITED,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+BARCHESTER HEALTHCARE LIMITED,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Square Sail,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 St Andrew’s Surgery Hull,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 St Armands Court Residential Care Home,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0

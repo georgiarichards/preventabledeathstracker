@@ -11,7 +11,7 @@ NHS Greater Manchester Integrated Care Board,102,43,2,57,56
 Betsi Cadwaladr University Health Board,79,22,0,57,72
 REDACTED,77,57,2,18,23
 National Highways,69,32,2,35,51
-Barts Health NHS Trust,68,25,2,41,60
+Barts Health NHS Trust,68,26,1,41,60
 Metropolitan Police Service,67,33,0,34,51
 Medicines and Healthcare Products Regulatory Agency,63,35,0,28,44
 University Hospitals Sussex NHS Foundation Trust,62,32,0,30,48
@@ -174,7 +174,7 @@ Calderdale Council,10,6,0,4,40
 Royal United Hospitals Bath NHS Foundation Trust,10,5,0,5,50
 Canal and River Trust,10,7,0,3,30
 West Sussex County Council,10,2,0,8,80
-West Yorkshire Police,10,2,1,7,70
+West Yorkshire Police,10,3,0,7,70
 Cyngor Sir Powys County Council,10,9,0,1,10
 Trafford Council,10,5,0,5,50
 Walsall Healthcare NHS Trust,10,4,0,6,60
@@ -573,7 +573,7 @@ Bradford District Care NHS Foundation Trust,2,0,0,2,100
 Nottinghamshire Police,2,1,1,0,0
 Nuffield Health,2,1,0,1,50
 Dorset County Hospital NHS Foundation Trust,2,1,0,1,50
-Durham Constabulary,2,0,1,1,50
+Durham Constabulary,2,1,0,1,50
 Northamptonshire Healthcare NHS Foundation Trust,2,2,0,0,0
 Not Listed,2,1,0,1,50
 North Devon Council,2,0,0,2,100
@@ -1518,7 +1518,7 @@ Passmonds Care Home,1,1,0,0,0
 Patient Transport UK Ltd,1,1,0,0,0
 Paul Wainwright Construction Services Ltd,1,0,0,1,100
 Peabody,1,0,0,1,100
-Officer of the College of Policing,1,0,1,0,0
+Officer of the College of Policing,1,1,0,0,0
 Old Bridge Surgery,1,0,0,1,100
 Old Catton Medical Practice,1,0,0,1,100
 One Medical Group,1,1,0,0,0
@@ -1814,7 +1814,7 @@ South Kesteven District Council,1,1,0,0,0
 Axminster Medical Practice,1,0,0,1,100
 Ayurvedic Professionals Association,1,0,0,1,100
 B & D Civil Engineering Limited,1,0,0,1,100
-BARCHESTER HEALTHCARE LIMITED,1,0,1,0,0
+BARCHESTER HEALTHCARE LIMITED,1,1,0,0,0
 Square Sail,1,1,0,0,0
 St Andrew’s Surgery Hull,1,0,0,1,100
 St Armands Court Residential Care Home,1,1,0,0,0
