@@ -1,5 +1,5 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,787,1881,1313,455,189,121,22
+Department of Health and Social Care,787,1881,1313,455,189,122,21
 NHS England,547,1480,1003,292,146,99,10
 Care Quality Commission,176,523,317,67,67,41,1
 HM Prison and Probation Service,160,372,207,70,50,38,2
@@ -25,7 +25,7 @@ College of Policing,47,164,146,17,19,8,3
 Greater Manchester Mental Health NHS Foundation Trust,46,135,61,19,12,15,0
 Northern Care Alliance NHS Foundation Trust,43,86,46,23,9,10,1
 Network Rail,42,62,42,26,5,10,1
-"Ministry of Housing, Communities and Local Government",41,103,60,24,10,6,1
+"Ministry of Housing, Communities and Local Government",41,103,60,24,10,7,0
 Manchester University NHS Foundation Trust,41,79,32,16,7,18,0
 Cwm Taf Morgannwg University Health Board,39,80,30,17,5,17,0
 Norfolk and Suffolk NHS Foundation Trust,38,60,47,27,4,7,0
@@ -50,13 +50,13 @@ Royal College of General Practitioners,28,111,77,13,12,3,0
 Aneurin Bevan University Health Board,28,49,26,16,3,9,0
 London Ambulance Service NHS Trust,27,89,58,9,10,7,1
 University Hospitals of North Midlands NHS Trust,27,37,31,20,1,6,0
-"Tees, Esk and Wear Valley NHS Foundation Trust",27,61,43,16,6,4,1
+"Tees, Esk and Wear Valley NHS Foundation Trust",27,61,43,16,6,5,0
 Midlands Partnership University NHS Foundation Trust,27,52,38,16,5,6,0
 Nottinghamshire Healthcare NHS Foundation Trust,27,53,33,16,3,8,0
 Surrey and Borders Partnership NHS Foundation Trust,26,55,37,14,6,6,0
 Blackpool Teaching Hospitals NHS Foundation Trust,26,40,23,15,1,9,1
 Swansea Bay University Health Board,26,55,36,12,9,5,0
-Cornwall Council,25,47,32,15,4,4,2
+Cornwall Council,25,47,32,15,4,5,1
 NHS Derby and Derbyshire Integrated Care Board,25,65,34,10,9,5,1
 Care UK,25,58,33,10,14,1,0
 Oxleas NHS Foundation Trust,24,53,37,12,7,5,0
@@ -620,7 +620,7 @@ Mersey and West Lancashire Teaching Hospitals NHS Trust,2,2,2,2,0,0,0
 Merthyr Tydfil County Borough Council,2,2,1,1,0,0,1
 Mid Cheshire Hospitals NHS Foundation Trust,2,2,0,0,0,2,0
 Medica Reporting Ltd,2,3,3,2,0,0,0
-Essex Partnership University NHS Trust,2,2,0,0,0,0,2
+Essex Partnership University NHS Trust,2,2,0,0,0,1,1
 Edmiston London Heliport,2,6,4,0,2,0,0
 Emergency Call Prioritisation Advisory Group,2,6,1,0,1,0,1
 CQC North,2,6,0,0,0,0,2
@@ -898,7 +898,7 @@ FALCON CRANE HIRE LIMITED,1,1,0,0,0,1,0
 Faculty of Physician Associates,1,3,4,1,0,0,0
 Fairfield View Care Centre,1,2,1,0,1,0,0
 Fairlight Nursing Home,1,1,0,0,0,1,0
-Hartlepool Council,1,7,0,0,0,0,1
+Hartlepool Council,1,7,0,0,0,1,0
 Hatton Traffic Management,1,4,4,1,0,0,0
 Haughton Thornley Medical Centres,1,2,2,1,0,0,0
 Haulage Contractors Limited,1,1,0,0,0,1,0
@@ -1045,7 +1045,7 @@ Joint Advisory Group on GI Endoscopy,1,5,4,0,1,0,0
 Joint Select Committee for the Draft Online Safety Bill,1,3,1,0,1,0,0
 Institution of Gas Engineers and Managers,1,4,2,0,1,0,0
 Insure and Co,1,1,0,0,0,1,0
-Integrated Care Board (NHS North East and North Cumbria),1,7,0,0,0,0,1
+Integrated Care Board (NHS North East and North Cumbria),1,7,0,0,0,1,0
 International Maritime Organisation,1,2,1,0,1,0,0
 English Football League,1,20,22,1,0,0,0
 English Heritage,1,5,3,0,1,0,0
@@ -1261,7 +1261,7 @@ Monarch Healthcare Ltd,1,1,1,1,0,0,0
 Moorbridge School,1,5,0,0,0,0,1
 Mid Essex Clinical Commissioning Group Trust,1,4,3,0,1,0,0
 Mid and West Wales Fire and Rescue Service,1,2,2,1,0,0,0
-Middlesbrough Council,1,7,0,0,0,0,1
+Middlesbrough Council,1,7,0,0,0,1,0
 Midgehole Working Mens Club,1,1,1,1,0,0,0
 Midway Pharmacy,1,2,2,1,0,0,0
 Mildmay Medical Practice,1,1,0,0,0,1,0
@@ -1631,7 +1631,7 @@ Recovery Steps Cumbria,1,1,1,1,0,0,0
 Red Bay Boats Ltd,1,10,10,1,0,0,0
 Red House Surgery,1,3,3,1,0,0,0
 Red Oaks Care Community,1,1,0,0,0,0,1
-Redcar Council,1,7,0,0,0,0,1
+Redcar Council,1,7,0,0,0,1,0
 Redningsselskapet,1,3,2,0,1,0,0
 Reed Specialist Recruitment Limited,1,2,3,1,0,0,0
 EAM Care Group,1,1,1,1,0,0,0
@@ -1722,7 +1722,7 @@ SE Galvanisers,1,2,0,0,0,1,0
 Salisbury NHS Foundation Trust,1,6,5,0,1,0,0
 Salter Labs,1,3,3,1,0,0,0
 Samba London Limited,1,2,0,0,0,1,0
-Sanctuary Housing,1,1,0,0,0,0,1
+Sanctuary Housing,1,1,0,0,0,1,0
 Sapphire House,1,2,1,0,1,0,0
 Sapphire Independent Living,1,1,1,1,0,0,0
 Savills,1,4,0,0,0,1,0
@@ -1855,7 +1855,7 @@ Auto Cycle Union,1,2,1,0,1,0,0
 Avenue House Nursing and Care Home,1,4,1,0,1,0,0
 Avon Care Home Limited,1,1,1,1,0,0,0
 Stockton Care Limited,1,1,1,1,0,0,0
-Stockton Council,1,7,0,0,0,0,1
+Stockton Council,1,7,0,0,0,1,0
 St Mary’s Health Centre,1,3,2,0,1,0,0
 St Mary’s Nursing Home,1,4,0,0,0,1,0
 St Mungo’s,1,1,1,1,0,0,0
