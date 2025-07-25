@@ -253,6 +253,7 @@ Morton Hall Immigration Removal Centre,1,100.0
 Moundsley Hall Nursing Home,1,100.0
 My Care Ltd,1,100.0
 My The Orchards Ltd,1,100.0
+NHS Cornwall and Isles of Scilly ICB,1,100.0
 NHS North West London Integrated Care Board,1,100.0
 NHS Nottingham,1,100.0
 NHS Southern Derbyshire Clinical Commissioning Group,1,100.0
@@ -744,6 +745,7 @@ HM Prison and Probation Service,38,24.0
 Betsi Cadwaladr University Health Board,19,24.0
 Network Rail,10,24.0
 Royal College of Obstetricians and Gynaecologists,7,24.0
+Cornwall Council,6,24.0
 Care Quality Commission,41,23.0
 Sussex Partnership NHS Foundation Trust,11,23.0
 Welsh Ambulance Services University NHS Trust,11,23.0
@@ -770,7 +772,6 @@ Transport for London,5,21.0
 Priory Group Limited,4,21.0
 County Durham and Darlington NHS Foundation Trust,3,21.0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3,21.0
-Cornwall Council,5,20.0
 NHS Derby and Derbyshire Integrated Care Board,5,20.0
 Birmingham City Council,3,20.0
 "Department for Business, Energy and Industrial Strategy",3,20.0
@@ -808,6 +809,7 @@ NHS England,99,18.0
 Norfolk and Suffolk NHS Foundation Trust,7,18.0
 University Hospitals Birmingham NHS Foundation Trust,6,18.0
 "Department for Culture, Media and Sport",5,18.0
+Welsh Government,4,18.0
 NHS Birmingham and Solihull Integrated Care Board,3,18.0
 Frimley Health NHS Foundation Trust,2,18.0
 Lincolnshire County Council,2,18.0
@@ -839,7 +841,6 @@ Portsmouth Hospitals University NHS Trust,2,15.0
 Sussex Police,2,15.0
 National Police Chiefs’ Council,8,14.0
 East Midlands Ambulance Service NHS Trust,3,14.0
-Welsh Government,3,14.0
 Bolton NHS Foundation Trust,2,14.0
 General Pharmaceutical Council,2,14.0
 Mersey Care NHS Foundation Trust,2,14.0
