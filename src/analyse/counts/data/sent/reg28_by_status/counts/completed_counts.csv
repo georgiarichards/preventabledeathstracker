@@ -727,7 +727,6 @@ York Road Pharmacy,1,100.0
 Your Health Limited,1,100.0
 Zinnia Healthcare Limited,1,100.0
 Dorset Council,10,91.0
-Leeds City Council,10,91.0
 "Bournemouth, Christchurch and Poole Council",7,88.0
 Food Standards Agency,7,88.0
 Leicestershire Partnership NHS Trust,13,87.0
@@ -736,6 +735,7 @@ Mersey Care NHS Foundation Trust,12,86.0
 Cambridgeshire County Council,6,86.0
 Sherwood Forest Hospitals NHS Foundation Trust,6,86.0
 "Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",10,83.0
+Leeds City Council,10,83.0
 Birmingham Clinical Commissioning Group,5,83.0
 Guy's and St Thomas' NHS Foundation Trust,5,83.0
 Hertfordshire County Council,5,83.0
@@ -889,7 +889,6 @@ Devon and Cornwall Police,7,58.0
 Great Western Hospitals NHS Foundation Trust,7,58.0
 Mid Yorkshire Teaching NHS Trust,7,58.0
 Royal Pharmaceutical Society,7,58.0
-Aneurin Bevan University Health Board,16,57.0
 North West Ambulance Service NHS Trust,13,57.0
 University Hospitals Dorset NHS Foundation Trust,13,57.0
 Herefordshire and Worcestershire Health and Care NHS Trust,12,57.0
@@ -906,6 +905,7 @@ HC One,5,56.0
 Homerton Healthcare NHS Foundation Trust,5,56.0
 Royal Devon University Healthcare NHS Foundation Trust,5,56.0
 Staffordshire County Council,5,56.0
+Aneurin Bevan University Health Board,16,55.0
 Berkshire Healthcare NHS Foundation Trust,6,55.0
 Lincolnshire County Council,6,55.0
 South Tyneside and Sunderland NHS Foundation Trust,6,55.0
@@ -914,7 +914,7 @@ Metropolitan Police Service,36,54.0
 Stockport NHS Foundation Trust,19,54.0
 Surrey and Borders Partnership NHS Foundation Trust,14,54.0
 Transport for London,13,54.0
-NHS England,292,53.0
+NHS England,293,53.0
 Department for Transport,64,53.0
 University Hospitals Sussex NHS Foundation Trust,33,53.0
 Northern Care Alliance NHS Foundation Trust,23,53.0
@@ -928,7 +928,6 @@ Pennine Care NHS Foundation Trust,24,50.0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",15,50.0
 "Department for Culture, Media and Sport",14,50.0
 Cardiff and Vale University Health Board,12,50.0
-Oxleas NHS Foundation Trust,12,50.0
 West Midlands Police,11,50.0
 Royal College of Anaesthetists,8,50.0
 General Pharmaceutical Council,7,50.0
@@ -1064,8 +1063,8 @@ Waste Industry Safety and Health Forum,1,50.0
 Welsh Cycling,1,50.0
 National Institute for Health and Care Excellence,51,49.0
 National Highways,34,49.0
+Oxleas NHS Foundation Trust,12,48.0
 East Kent Hospitals University NHS Foundation Trust,10,48.0
-East Midlands Ambulance Service NHS Trust,10,48.0
 North East London NHS Foundation Trust,14,47.0
 Surrey County Council,9,47.0
 Black Country Healthcare NHS Foundation Trust,7,47.0
@@ -1078,12 +1077,12 @@ East Lancashire Hospitals NHS Trust,6,46.0
 Portsmouth Hospitals University NHS Trust,6,46.0
 South Western Ambulance Service NHS Foundation Trust,6,46.0
 Department for Education,21,45.0
+East Midlands Ambulance Service NHS Trust,10,45.0
 South London and Maudsley NHS Foundation Trust,10,45.0
 Ashford and St Peter’s Hospitals NHS Foundation Trust,5,45.0
 Frimley Health NHS Foundation Trust,5,45.0
 Royal College of Surgeons,5,45.0
 West London NHS Trust,5,45.0
-HM Prison and Probation Service,70,44.0
 Cwm Taf Morgannwg University Health Board,17,44.0
 Nursing and Midwifery Council,8,44.0
 South Central Ambulance Service NHS Foundation Trust,8,44.0
@@ -1093,6 +1092,7 @@ British Transport Police,4,44.0
 Kent County Council,4,44.0
 The Royal Wolverhampton NHS Trust,4,44.0
 Warwickshire County Council,4,44.0
+HM Prison and Probation Service,70,43.0
 Essex Partnership University NHS Foundation Trust,15,43.0
 Maritime and Coastguard Agency,6,43.0
 NHS Cornwall and Isles of Scilly Integrated Care Board,6,43.0
@@ -1112,12 +1112,12 @@ Norfolk and Norwich University Hospitals NHS Foundation Trust,5,42.0
 Practice Plus Group,5,42.0
 Sheffield Teaching Hospitals NHS Foundation Trust,5,42.0
 South West Yorkshire Partnership NHS Foundation Trust,5,42.0
-Home Office,47,41.0
 Greater Manchester Mental Health NHS Foundation Trust,19,41.0
 Royal College of Paediatrics and Child Health,13,41.0
 Avon and Wiltshire Mental Health Partnership NHS Trust,9,41.0
 Welsh Government,9,41.0
 Surrey Police,7,41.0
+Home Office,47,40.0
 Care UK,10,40.0
 NHS Derby and Derbyshire Integrated Care Board,10,40.0
 King’s College Hospital NHS Foundation Trust,6,40.0
@@ -1202,6 +1202,7 @@ National Police Chiefs’ Council,18,31.0
 Royal College of Obstetricians and Gynaecologists,9,31.0
 Royal College of Psychiatrists,7,30.0
 Trafford Council,3,30.0
+St George’s University Hospitals NHS Foundation Trust,5,29.0
 NHS Kent and Medway Integrated Care Board,2,29.0
 Tameside Metropolitan Borough Council,2,29.0
 Welsh Parliament,5,28.0
@@ -1212,7 +1213,6 @@ Association of Ambulance Chief Executives,9,26.0
 Ministry of Justice,28,25.0
 General Medical Council,9,25.0
 Royal College of Physicians,4,25.0
-St George’s University Hospitals NHS Foundation Trust,4,25.0
 Calderdale and Huddersfield NHS Foundation Trust,2,25.0
 Health Services Safety Investigations Body,2,25.0
 Royal National Lifeboat Institution,2,25.0
@@ -1236,7 +1236,6 @@ Change Grow Live,1,20.0
 Chesterfield Royal Hospital NHS Foundation Trust,1,20.0
 Essex Police,1,20.0
 Greater Manchester Combined Authority,1,20.0
-HM Prison Wandsworth,1,20.0
 Lancashire Teaching Hospitals NHS Foundation Trust,1,20.0
 Lincolnshire Police,1,20.0
 Local Government Association,1,20.0
@@ -1246,18 +1245,19 @@ Staffordshire Police,1,20.0
 Virgin Care,1,20.0
 Walsall Council,1,20.0
 Driver and Vehicle Standards Agency,2,18.0
-"Department for Environment, Food and Rural Affairs",2,17.0
 Chartered Trading Standards Institute,1,17.0
 HM Prison Belmarsh,1,17.0
+HM Prison Wandsworth,1,17.0
 HM Prison Woodhill,1,17.0
 Isle of Wight NHS Trust,1,17.0
 NHS Lincolnshire Integrated Care Board,1,17.0
 NHS South Yorkshire Integrated Care Board,1,17.0
 Rail Safety and Standards Board,1,17.0
-Royal Society for the Prevention of Accidents,1,17.0
+"Department for Environment, Food and Rural Affairs",2,15.0
 Dorset Healthcare University NHS Foundation Trust,2,14.0
 Joint Royal Colleges Ambulance Liaison Committee,1,14.0
 Office of Rail and Road,1,14.0
+Royal Society for the Prevention of Accidents,1,14.0
 Advisory Council on the Misuse of Drugs,1,12.0
 Birmingham Women's and Children's NHS Foundation Trust,1,12.0
 Circle Health Group,1,11.0
