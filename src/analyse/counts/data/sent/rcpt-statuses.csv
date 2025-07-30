@@ -1,5 +1,5 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,789,1889,1313,455,189,124,21
+Department of Health and Social Care,789,1889,1313,455,189,126,19
 NHS England,548,1482,1005,293,146,100,9
 Care Quality Commission,176,523,317,67,67,41,1
 HM Prison and Probation Service,161,378,207,70,50,39,2
@@ -9,7 +9,7 @@ Ministry of Justice,114,311,150,28,51,32,3
 National Institute for Health and Care Excellence,105,290,194,51,24,28,2
 NHS Greater Manchester Integrated Care Board,102,250,165,64,19,17,2
 Betsi Cadwaladr University Health Board,79,105,69,57,3,19,0
-REDACTED,77,254,85,18,34,23,2
+REDACTED,77,254,85,18,34,24,1
 National Highways,70,109,64,34,11,23,2
 Barts Health NHS Trust,68,106,66,35,13,19,1
 Metropolitan Police Service,67,160,118,36,17,14,0
@@ -39,9 +39,9 @@ Tameside and Glossop Integrated Care NHS Foundation Trust,34,50,35,20,5,7,2
 Birmingham and Solihull Mental Health NHS Foundation Trust,34,100,79,22,10,2,0
 Association of Ambulance Chief Executives,34,132,89,9,19,5,1
 Ministry of Defence,34,56,41,25,5,4,0
-University Hospitals Birmingham NHS Foundation Trust,34,53,36,22,5,6,1
+University Hospitals Birmingham NHS Foundation Trust,34,53,36,22,5,7,0
 Central and North West London NHS Foundation Trust,33,69,37,14,9,9,1
-Royal College of Paediatrics and Child Health,32,128,70,13,12,4,3
+Royal College of Paediatrics and Child Health,32,128,70,13,12,5,2
 North East London NHS Foundation Trust,30,46,26,14,4,12,0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",30,48,29,15,3,12,0
 Royal College of Obstetricians and Gynaecologists,29,81,43,9,13,7,0
@@ -60,7 +60,7 @@ Cornwall Council,25,47,32,15,4,6,0
 Care UK,25,58,33,10,14,1,0
 NHS Derby and Derbyshire Integrated Care Board,25,65,34,10,9,5,1
 Oxleas NHS Foundation Trust,25,59,37,12,7,5,1
-Leeds Teaching Hospitals NHS Trust,24,38,21,14,1,8,1
+Leeds Teaching Hospitals NHS Trust,24,38,21,14,1,9,0
 Cardiff and Vale University Health Board,24,46,29,12,8,4,0
 Transport for London,24,57,48,13,6,5,0
 North West Ambulance Service NHS Trust,23,74,56,13,4,4,2
@@ -224,7 +224,7 @@ Birmingham Women's and Children's NHS Foundation Trust,8,20,6,1,2,5,0
 Hampshire County Council,8,15,11,4,3,1,0
 Isle of Wight Council,8,15,7,3,2,3,0
 Essex County Council,8,12,10,5,0,3,0
-Epsom and St Helier University Hospitals NHS Trust,8,17,9,3,3,1,1
+Epsom and St Helier University Hospitals NHS Trust,8,17,9,3,3,2,0
 Milton Keynes City Council,7,13,11,5,1,1,0
 British Society of Gastroenterology,7,28,17,4,2,1,0
 Greater London Authority,7,32,32,3,4,0,0
@@ -297,7 +297,7 @@ Milton Keynes Clinical Commissioning Group,5,7,4,3,0,2,0
 Bury Council,5,10,8,4,1,0,0
 Cygnet Health Care,5,14,11,4,0,1,0
 North Middlesex University Hospital NHS Trust,5,6,3,2,1,2,0
-Islington Council,5,16,11,3,0,1,1
+Islington Council,5,16,11,3,0,2,0
 Plymouth City Council,5,10,2,2,0,3,0
 Borough Care,5,5,4,4,0,1,0
 Ofsted,5,9,7,3,0,2,0
@@ -308,7 +308,7 @@ Local Government Association,5,30,12,1,4,0,0
 Lincolnshire Police,5,6,1,1,0,3,1
 NHS Surrey Heartlands Integrated Care Board,5,26,17,1,3,1,0
 Brighton and Hove City Council,5,13,6,0,4,1,0
-British Association of Perinatal Medicine,5,17,5,1,2,1,1
+British Association of Perinatal Medicine,5,17,5,1,2,2,0
 Lancashire Teaching Hospitals NHS Foundation Trust,5,10,2,1,0,4,0
 Somerset NHS Foundation Trust,5,12,8,3,1,1,0
 HM Inspectorate of Prisons,5,18,7,2,1,2,0
@@ -702,7 +702,7 @@ Richmond Medical Centre,1,2,2,1,0,0,0
 Registered Nursing Home Association,1,4,3,0,1,0,0
 Reigate and Banstead Council,1,4,0,0,0,1,0
 Revon Healthcare,1,1,1,1,0,0,0
-Resus Council UK,1,6,0,0,0,0,1
+Resus Council UK,1,6,0,0,0,1,0
 Rights and Responsibilities Group,1,1,0,0,0,1,0
 Riverside Rest Home,1,1,0,0,0,1,0
 West Timperley Medical Centre,1,1,1,1,0,0,0
@@ -1967,7 +1967,7 @@ Niche Technology,1,12,11,0,1,0,0
 Nightingale Home Help Service,1,1,1,1,0,0,0
 Nightingale Hospital,1,2,1,0,1,0,0
 Non-Executive Directors’ Association,1,20,22,1,0,0,0
-Neonatal Network,1,6,0,0,0,0,1
+Neonatal Network,1,6,0,0,0,1,0
 Normanton Village View Nursing Home,1,3,0,0,0,1,0
 Brinnington Surgery,1,1,1,1,0,0,0
 Brisdoc,1,2,0,0,0,1,0

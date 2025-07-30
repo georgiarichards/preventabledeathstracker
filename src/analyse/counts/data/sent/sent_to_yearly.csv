@@ -1,5 +1,5 @@
 Addressed to,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,19,60,54,46,31,51,48,47,65,78,98,129,63,789,58,455,189,124,21
+Department of Health and Social Care,19,60,54,46,31,51,48,47,65,78,98,129,63,789,58,455,189,126,19
 NHS England,6,25,22,33,27,36,46,27,42,42,85,112,45,548,53,293,146,100,9
 Care Quality Commission,11,13,10,15,20,13,14,10,18,10,12,22,8,176,38,67,67,41,1
 HM Prison and Probation Service,4,15,16,14,13,10,24,5,7,6,17,22,8,161,43,70,50,39,2
@@ -9,7 +9,7 @@ Ministry of Justice,1,12,6,8,2,8,13,0,12,11,11,22,8,114,25,28,51,32,3
 National Institute for Health and Care Excellence,1,10,9,4,2,1,11,7,10,6,16,20,8,105,49,51,24,28,2
 NHS Greater Manchester Integrated Care Board,2,3,2,1,6,4,13,12,20,11,10,13,5,102,63,64,19,17,2
 Betsi Cadwaladr University Health Board,1,9,8,4,9,2,2,1,4,4,21,10,4,79,72,57,3,19,0
-REDACTED,3,26,9,0,3,1,2,0,0,5,6,17,5,77,23,18,34,23,2
+REDACTED,3,26,9,0,3,1,2,0,0,5,6,17,5,77,23,18,34,24,1
 National Highways,1,7,8,4,7,1,9,4,4,6,6,6,7,70,49,34,11,23,2
 Barts Health NHS Trust,0,5,5,6,5,6,9,8,2,6,8,5,3,68,51,35,13,19,1
 Metropolitan Police Service,2,4,7,5,3,6,6,5,5,7,7,6,4,67,54,36,17,14,0
@@ -39,9 +39,9 @@ Tameside and Glossop Integrated Care NHS Foundation Trust,0,3,2,3,3,1,4,3,2,5,3,
 Birmingham and Solihull Mental Health NHS Foundation Trust,0,1,1,2,1,3,7,1,1,3,8,5,1,34,65,22,10,2,0
 Association of Ambulance Chief Executives,0,2,1,1,1,0,3,8,1,6,6,4,1,34,26,9,19,5,1
 Ministry of Defence,1,5,8,0,1,2,3,1,4,1,3,4,1,34,74,25,5,4,0
-University Hospitals Birmingham NHS Foundation Trust,1,0,4,2,2,2,4,1,2,0,3,10,3,34,65,22,5,6,1
+University Hospitals Birmingham NHS Foundation Trust,1,0,4,2,2,2,4,1,2,0,3,10,3,34,65,22,5,7,0
 Central and North West London NHS Foundation Trust,0,2,2,2,2,2,6,2,5,3,2,4,1,33,42,14,9,9,1
-Royal College of Paediatrics and Child Health,0,4,1,1,1,0,2,1,3,2,6,5,6,32,41,13,12,4,3
+Royal College of Paediatrics and Child Health,0,4,1,1,1,0,2,1,3,2,6,5,6,32,41,13,12,5,2
 North East London NHS Foundation Trust,0,0,1,3,0,1,5,2,5,3,6,3,1,30,47,14,4,12,0
 "Barking, Havering and Redbridge University Hospitals NHS Trust",2,2,3,0,3,0,1,2,3,3,8,3,0,30,50,15,3,12,0
 Royal College of Obstetricians and Gynaecologists,1,2,3,3,2,1,1,4,1,1,4,3,3,29,31,9,13,7,0
@@ -60,7 +60,7 @@ Cornwall Council,0,1,2,4,0,1,3,0,4,3,2,3,2,25,60,15,4,6,0
 Care UK,1,6,1,6,5,0,3,1,0,0,1,1,0,25,40,10,14,1,0
 NHS Derby and Derbyshire Integrated Care Board,1,5,0,4,1,4,1,2,2,1,0,3,1,25,40,10,9,5,1
 Oxleas NHS Foundation Trust,0,1,0,2,1,5,2,4,1,3,2,2,2,25,48,12,7,5,1
-Leeds Teaching Hospitals NHS Trust,0,2,4,2,2,3,2,3,2,1,0,2,1,24,58,14,1,8,1
+Leeds Teaching Hospitals NHS Trust,0,2,4,2,2,3,2,3,2,1,0,2,1,24,58,14,1,9,0
 Cardiff and Vale University Health Board,1,1,3,2,2,4,3,2,0,2,1,2,1,24,50,12,8,4,0
 Transport for London,1,0,2,2,6,3,2,3,1,2,0,1,1,24,54,13,6,5,0
 North West Ambulance Service NHS Trust,1,3,2,2,2,1,3,1,1,1,2,2,2,23,57,13,4,4,2
@@ -224,7 +224,7 @@ Birmingham Women's and Children's NHS Foundation Trust,1,0,1,0,1,2,1,0,0,1,0,0,1
 Hampshire County Council,0,1,0,2,0,0,2,0,1,1,0,1,0,8,50,4,3,1,0
 Isle of Wight Council,0,2,1,0,0,2,1,1,1,0,0,0,0,8,38,3,2,3,0
 Essex County Council,0,0,2,0,1,0,0,1,0,0,2,0,2,8,62,5,0,3,0
-Epsom and St Helier University Hospitals NHS Trust,1,0,1,2,0,2,0,0,0,0,0,1,1,8,38,3,3,1,1
+Epsom and St Helier University Hospitals NHS Trust,1,0,1,2,0,2,0,0,0,0,0,1,1,8,38,3,3,2,0
 Milton Keynes City Council,0,1,0,0,1,1,0,1,0,1,1,1,0,7,71,5,1,1,0
 British Society of Gastroenterology,0,1,1,0,0,1,0,0,1,0,0,2,1,7,57,4,2,1,0
 Greater London Authority,1,0,0,1,0,0,0,0,3,1,0,1,0,7,43,3,4,0,0
@@ -297,7 +297,7 @@ Milton Keynes Clinical Commissioning Group,0,0,0,0,0,3,2,0,0,0,0,0,0,5,60,3,0,2,
 Bury Council,0,1,1,0,1,1,0,1,0,0,0,0,0,5,80,4,1,0,0
 Cygnet Health Care,0,1,0,0,0,0,0,0,0,1,0,3,0,5,80,4,0,1,0
 North Middlesex University Hospital NHS Trust,1,0,0,2,0,0,1,0,0,0,0,1,0,5,40,2,1,2,0
-Islington Council,0,0,0,0,0,0,0,0,0,0,1,2,2,5,60,3,0,1,1
+Islington Council,0,0,0,0,0,0,0,0,0,0,1,2,2,5,60,3,0,2,0
 Plymouth City Council,0,1,2,0,0,0,0,0,0,1,0,1,0,5,40,2,0,3,0
 Borough Care,0,1,0,1,1,0,1,1,0,0,0,0,0,5,80,4,0,1,0
 Ofsted,0,1,0,0,2,0,0,0,1,0,1,0,0,5,60,3,0,2,0
@@ -308,7 +308,7 @@ Local Government Association,0,0,0,0,1,1,2,0,0,0,0,1,0,5,20,1,4,0,0
 Lincolnshire Police,0,0,0,2,0,0,0,0,1,1,0,0,1,5,20,1,0,3,1
 NHS Surrey Heartlands Integrated Care Board,0,1,0,1,0,0,1,0,0,2,0,0,0,5,20,1,3,1,0
 Brighton and Hove City Council,0,1,0,0,0,0,1,2,1,0,0,0,0,5,0,0,4,1,0
-British Association of Perinatal Medicine,0,0,0,0,0,0,0,1,1,0,1,1,1,5,20,1,2,1,1
+British Association of Perinatal Medicine,0,0,0,0,0,0,0,1,1,0,1,1,1,5,20,1,2,2,0
 Lancashire Teaching Hospitals NHS Foundation Trust,0,1,2,0,0,0,0,0,0,0,0,1,1,5,20,1,0,4,0
 Somerset NHS Foundation Trust,0,0,0,0,0,1,0,0,0,1,0,1,2,5,60,3,1,1,0
 HM Inspectorate of Prisons,0,0,0,0,0,1,2,0,0,0,1,1,0,5,40,2,1,2,0
@@ -702,7 +702,7 @@ Richmond Medical Centre,0,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
 Registered Nursing Home Association,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Reigate and Banstead Council,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Revon Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,1,1,100,1,0,0,0
-Resus Council UK,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Resus Council UK,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Rights and Responsibilities Group,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 Riverside Rest Home,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
 West Timperley Medical Centre,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100,1,0,0,0
@@ -1967,7 +1967,7 @@ Niche Technology,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
 Nightingale Home Help Service,0,1,0,0,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Nightingale Hospital,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 Non-Executive Directors’ Association,0,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
-Neonatal Network,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Neonatal Network,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Normanton Village View Nursing Home,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
 Brinnington Surgery,0,0,0,0,0,0,0,0,0,0,0,1,0,1,100,1,0,0,0
 Brisdoc,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
