@@ -208,7 +208,7 @@ Royal College of Nursing,8,4,1,3,38
 Resuscitation Council UK,8,3,0,5,62
 Chief Fire Officers Association,8,4,0,4,50
 Devon County Council,8,4,0,4,50
-Royal National Lifeboat Institution,8,3,1,4,50
+Royal National Lifeboat Institution,8,4,0,4,50
 Advisory Council on the Misuse of Drugs,8,6,1,1,12
 Tower Hamlets Council,8,4,0,4,50
 Calderdale and Huddersfield NHS Foundation Trust,8,5,1,2,25
@@ -281,7 +281,7 @@ NHS South Yorkshire Integrated Care Board,6,5,0,1,17
 Thames Valley Police,6,0,0,6,100
 London Fire Brigade,6,0,0,6,100
 NHS Lincolnshire Integrated Care Board,6,5,0,1,17
-East Suffolk and North Essex NHS Foundation Trust,6,1,1,4,67
+East Suffolk and North Essex NHS Foundation Trust,6,2,0,4,67
 "NHS Leicester, Leicestershire and Rutland Integrated Care Board",6,4,0,2,33
 UK Health Security Agency,6,3,0,3,50
 "NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",6,2,0,4,67
@@ -494,7 +494,7 @@ Sussex Community NHS Foundation Trust,2,0,0,2,100
 Chartered Institute of Environmental Health,2,2,0,0,0
 Association of British Neurologists,2,0,0,2,100
 Association of British Insurers,2,2,0,0,0
-Associated British Ports,2,0,1,1,50
+Associated British Ports,2,1,0,1,50
 Hammerson Plc,2,1,0,1,50
 Hampshire and Isle of Wight Clinical Commissioning Group,2,2,0,0,0
 Essex Partnership University NHS Trust,2,1,1,0,0
@@ -1878,7 +1878,7 @@ CECOPS,1,0,0,1,100
 CLS Care Services,1,0,0,1,100
 Ministry of Defence Police,1,1,0,0,0
 Minster Care Group,1,0,1,0,0
-NEATH PORT TALBOT COUNCIL,1,0,1,0,0
+NEATH PORT TALBOT COUNCIL,1,1,0,0,0
 Mandeville Grange Nursing Home,1,1,0,0,0
 Manor Field Surgery,1,0,0,1,100
 Manor Park Residential Home,1,1,0,0,0

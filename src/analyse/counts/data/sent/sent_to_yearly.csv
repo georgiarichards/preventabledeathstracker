@@ -208,7 +208,7 @@ Royal College of Nursing,1,0,0,0,0,0,1,2,0,1,0,2,1,8,38,3,3,1,1
 Resuscitation Council UK,0,0,0,3,0,0,0,1,2,1,1,0,0,8,62,5,0,3,0
 Chief Fire Officers Association,1,1,0,2,4,0,0,0,0,0,0,0,0,8,38,3,1,4,0
 Devon County Council,1,0,1,2,0,1,0,0,2,0,1,0,0,8,50,4,0,4,0
-Royal National Lifeboat Institution,0,1,0,0,1,0,0,4,0,0,1,0,1,8,25,2,5,0,1
+Royal National Lifeboat Institution,0,1,0,0,1,0,0,4,0,0,1,0,1,8,25,2,5,1,0
 Advisory Council on the Misuse of Drugs,0,1,3,1,0,0,0,1,1,0,0,0,1,8,12,1,2,4,1
 Tower Hamlets Council,0,1,1,0,0,2,1,2,0,0,0,0,1,8,50,4,2,2,0
 Calderdale and Huddersfield NHS Foundation Trust,0,0,3,1,0,0,2,0,0,1,0,0,1,8,25,2,0,5,1
@@ -281,7 +281,7 @@ NHS South Yorkshire Integrated Care Board,0,0,1,0,0,0,2,0,0,2,1,0,0,6,17,1,3,2,0
 Thames Valley Police,0,1,0,0,0,0,2,0,0,1,0,2,0,6,50,3,3,0,0
 London Fire Brigade,0,0,0,0,0,0,0,0,1,1,1,3,0,6,83,5,1,0,0
 NHS Lincolnshire Integrated Care Board,2,1,1,0,0,0,0,1,0,0,0,1,0,6,17,1,1,4,0
-East Suffolk and North Essex NHS Foundation Trust,0,0,1,0,0,0,0,1,0,0,0,3,1,6,67,4,0,1,1
+East Suffolk and North Essex NHS Foundation Trust,0,0,1,0,0,0,0,1,0,0,0,3,1,6,67,4,0,2,0
 "NHS Leicester, Leicestershire and Rutland Integrated Care Board",0,0,0,1,2,0,1,1,0,1,0,0,0,6,83,5,0,1,0
 UK Health Security Agency,0,0,0,0,0,0,0,0,0,1,3,2,0,6,67,4,1,1,0
 "NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",0,3,0,0,0,0,0,0,0,0,3,0,0,6,67,4,2,0,0
@@ -494,7 +494,7 @@ Sussex Community NHS Foundation Trust,0,0,1,0,0,0,0,1,0,0,0,0,0,2,100,2,0,0,0
 Chartered Institute of Environmental Health,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0
 Association of British Neurologists,0,0,0,0,0,0,0,0,1,1,0,0,0,2,100,2,0,0,0
 Association of British Insurers,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0
-Associated British Ports,0,0,0,0,0,0,0,0,0,0,0,1,1,2,50,1,0,0,1
+Associated British Ports,0,0,0,0,0,0,0,0,0,0,0,1,1,2,50,1,0,1,0
 Hammerson Plc,0,1,1,0,0,0,0,0,0,0,0,0,0,2,50,1,1,0,0
 Hampshire and Isle of Wight Clinical Commissioning Group,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,2,0
 Essex Partnership University NHS Trust,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,1,1
@@ -1878,7 +1878,7 @@ CECOPS,0,0,0,0,0,0,0,0,0,1,0,0,0,1,100,1,0,0,0
 CLS Care Services,0,0,0,1,0,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Ministry of Defence Police,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
 Minster Care Group,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
-NEATH PORT TALBOT COUNCIL,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+NEATH PORT TALBOT COUNCIL,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Mandeville Grange Nursing Home,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 Manor Field Surgery,0,0,0,0,1,0,0,0,0,0,0,0,0,1,100,1,0,0,0
 Manor Park Residential Home,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
