@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,789,126,19,455,189,58
-NHS England,548,100,9,293,146,53
-Care Quality Commission,176,41,1,67,67,38
-HM Prison and Probation Service,161,39,2,70,50,43
-Department for Transport,120,23,2,64,31,53
-Home Office,117,24,3,47,43,40
-Ministry of Justice,114,32,3,28,51,25
-National Institute for Health and Care Excellence,105,28,2,51,24,49
-NHS Greater Manchester Integrated Care Board,102,17,2,64,19,63
-Betsi Cadwaladr University Health Board,79,19,0,57,3,72
-REDACTED,77,24,1,18,34,23
-National Highways,70,23,2,34,11,49
-Barts Health NHS Trust,68,19,1,35,13,51
-Metropolitan Police Service,67,14,0,36,17,54
-Medicines and Healthcare Products Regulatory Agency,63,16,0,29,18,46
-University Hospitals Sussex NHS Foundation Trust,62,16,0,33,13,53
-Health and Safety Executive,60,16,0,23,21,38
-National Police Chiefs’ Council,59,8,0,18,33,31
-Pennine Care NHS Foundation Trust,48,12,0,24,12,50
-Welsh Ambulance Services University NHS Trust,47,11,0,29,7,62
-Sussex Partnership NHS Foundation Trust,47,11,0,29,7,62
-Department for Education,47,9,0,21,17,45
-College of Policing,47,8,3,17,19,36
-Greater Manchester Mental Health NHS Foundation Trust,46,15,0,19,12,41
-Northern Care Alliance NHS Foundation Trust,43,11,0,23,9,53
-Network Rail,42,10,1,26,5,62
-"Ministry of Housing, Communities and Local Government",41,7,0,24,10,59
-Manchester University NHS Foundation Trust,41,18,0,16,7,39
-Cwm Taf Morgannwg University Health Board,39,17,0,17,5,44
-Norfolk and Suffolk NHS Foundation Trust,38,7,0,27,4,71
+Department of Health and Social Care,123,13,24,72,14,59
+NHS England,94,2,9,64,19,68
+Department for Transport,27,1,2,20,4,74
+Home Office,21,8,3,8,2,38
+HM Prison and Probation Service,19,4,5,6,4,32
+Care Quality Commission,17,0,1,10,6,59
+National Institute for Health and Care Excellence,17,0,2,10,5,59
+Ministry of Justice,17,2,4,4,7,24
+National Highways,14,1,3,8,2,57
+REDACTED,11,0,1,7,3,64
+College of Policing,11,1,4,4,2,36
+NHS Greater Manchester Integrated Care Board,10,1,2,7,0,70
+Royal College of Paediatrics and Child Health,9,1,2,4,2,44
+Medicines and Healthcare Products Regulatory Agency,8,1,0,6,1,75
+University Hospitals Birmingham NHS Foundation Trust,8,0,0,7,1,88
+Office for Product Safety and Standards,8,1,1,5,1,62
+National Police Chiefs’ Council,7,0,0,5,2,71
+"Ministry of Housing, Communities and Local Government",7,1,0,4,2,57
+Royal College of Emergency Medicine,7,0,1,3,3,43
+Mid and South Essex NHS Foundation Trust,6,0,0,6,0,100
+Health and Safety Executive,6,1,1,3,1,50
+North London NHS Foundation Trust,6,0,1,5,0,83
+Royal Free London NHS Foundation Trust,6,0,0,6,0,100
+Royal College of General Practitioners,6,0,0,3,3,50
+Barts Health NHS Trust,6,2,1,2,1,33
+Worcestershire Acute Hospitals NHS Trust,6,0,1,4,1,67
+"Department for Culture, Media and Sport",6,0,0,5,1,83
+Aneurin Bevan University Health Board,5,0,2,3,0,60
+Welsh Government,5,0,0,2,3,40
+University Hospitals of North Midlands NHS Trust,5,0,0,5,0,100
