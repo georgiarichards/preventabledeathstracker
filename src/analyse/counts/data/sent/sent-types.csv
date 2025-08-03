@@ -1,5 +1,5 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,123,29,24,70,57
+Department of Health and Social Care,123,31,22,70,57
 NHS England,94,6,8,80,85
 Department for Transport,27,2,2,23,85
 Home Office,21,10,3,8,38
@@ -10,7 +10,7 @@ Ministry of Justice,17,8,4,5,29
 National Highways,14,2,3,9,64
 REDACTED,11,3,1,7,64
 College of Policing,11,1,4,6,55
-NHS Greater Manchester Integrated Care Board,10,2,2,6,60
+NHS Greater Manchester Integrated Care Board,10,3,1,6,60
 Royal College of Paediatrics and Child Health,9,3,2,4,44
 Medicines and Healthcare Products Regulatory Agency,8,3,0,5,62
 University Hospitals Birmingham NHS Foundation Trust,8,0,0,8,100
@@ -95,7 +95,7 @@ Oxford University Hospitals NHS Foundation Trust,2,0,0,2,100
 Oxfordshire County Council,2,0,0,2,100
 Driver and Vehicle Standards Agency,2,2,0,0,0
 Pennine Care NHS Foundation Trust,2,0,0,2,100
-East Kent Hospitals University NHS Foundation Trust,2,0,1,1,50
+East Kent Hospitals University NHS Foundation Trust,2,1,0,1,50
 East London NHS Foundation Trust,2,0,0,2,100
 East Midlands Ambulance Service NHS Trust,2,0,2,0,0
 East Suffolk and North Essex NHS Foundation Trust,2,1,0,1,50
@@ -233,7 +233,7 @@ British Transport Police,1,1,0,0,0
 United Kingdom Harbour Masters' Association,1,0,0,1,100
 The Lakes Care Centre,1,0,0,1,100
 The Lift and Escalator Industry Association,1,0,1,0,0
-The Manor Clinic Folkestone Kent,1,0,1,0,0
+The Manor Clinic Folkestone Kent,1,1,0,0,0
 The Manor House North Walsham Care Home,1,0,0,1,100
 The Medicine and Healthcare Products and Regulatory Agency,1,0,0,1,100
 The Nerams Group,1,0,0,1,100
@@ -459,7 +459,7 @@ NHS Education for Scotland,1,0,0,1,100
 NHS Frimley Integrated Care Board,1,1,0,0,0
 NHS Hertfordshire and West Essex Integrated Care Board,1,0,0,1,100
 NHS Kent and Medway Integrated Care Board,1,1,0,0,0
-Advisory Council on the Misuse of Drugs,1,0,1,0,0
+Advisory Council on the Misuse of Drugs,1,1,0,0,0
 NHS Mid and South Essex Integrated Care Board,1,0,1,0,0
 NHS Specialist Pharmacy Service,1,1,0,0,0
 NHS Suffolk and North East Essex Integrated Care Board,1,1,0,0,0

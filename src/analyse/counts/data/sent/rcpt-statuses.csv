@@ -1,5 +1,5 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,123,309,202,72,14,13,24
+Department of Health and Social Care,123,309,202,72,14,15,22
 NHS England,94,261,217,64,19,2,9
 Department for Transport,27,65,52,20,4,1,2
 Home Office,21,49,34,8,2,8,3
@@ -10,7 +10,7 @@ Ministry of Justice,17,48,19,4,7,2,4
 National Highways,14,21,14,8,2,1,3
 REDACTED,11,25,15,7,3,0,1
 College of Policing,11,38,22,4,2,1,4
-NHS Greater Manchester Integrated Care Board,10,22,16,7,0,1,2
+NHS Greater Manchester Integrated Care Board,10,22,16,7,0,2,1
 Royal College of Paediatrics and Child Health,9,35,21,4,2,1,2
 Medicines and Healthcare Products Regulatory Agency,8,30,28,6,1,1,0
 University Hospitals Birmingham NHS Foundation Trust,8,11,10,7,1,0,0
@@ -95,7 +95,7 @@ Oxford University Hospitals NHS Foundation Trust,2,2,2,2,0,0,0
 Oxfordshire County Council,2,2,2,2,0,0,0
 Driver and Vehicle Standards Agency,2,9,6,0,2,0,0
 Pennine Care NHS Foundation Trust,2,4,4,2,0,0,0
-East Kent Hospitals University NHS Foundation Trust,2,5,3,1,0,0,1
+East Kent Hospitals University NHS Foundation Trust,2,5,3,1,0,1,0
 East London NHS Foundation Trust,2,2,2,2,0,0,0
 East Midlands Ambulance Service NHS Trust,2,7,0,0,0,0,2
 East Suffolk and North Essex NHS Foundation Trust,2,2,1,1,0,1,0
@@ -233,7 +233,7 @@ British Transport Police,1,3,2,0,1,0,0
 United Kingdom Harbour Masters' Association,1,10,10,1,0,0,0
 The Lakes Care Centre,1,3,3,1,0,0,0
 The Lift and Escalator Industry Association,1,3,0,0,0,0,1
-The Manor Clinic Folkestone Kent,1,2,0,0,0,0,1
+The Manor Clinic Folkestone Kent,1,2,0,0,0,1,0
 The Manor House North Walsham Care Home,1,1,1,1,0,0,0
 The Medicine and Healthcare Products and Regulatory Agency,1,2,2,1,0,0,0
 The Nerams Group,1,1,1,1,0,0,0
@@ -459,7 +459,7 @@ NHS Education for Scotland,1,1,1,1,0,0,0
 NHS Frimley Integrated Care Board,1,8,9,1,0,0,0
 NHS Hertfordshire and West Essex Integrated Care Board,1,3,3,1,0,0,0
 NHS Kent and Medway Integrated Care Board,1,3,1,0,1,0,0
-Advisory Council on the Misuse of Drugs,1,2,0,0,0,0,1
+Advisory Council on the Misuse of Drugs,1,2,0,0,0,1,0
 NHS Mid and South Essex Integrated Care Board,1,3,2,0,0,0,1
 NHS Specialist Pharmacy Service,1,8,9,1,0,0,0
 NHS Suffolk and North East Essex Integrated Care Board,1,2,1,0,1,0,0
