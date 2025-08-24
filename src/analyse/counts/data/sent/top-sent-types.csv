@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,128,35,23,70,55
-NHS England,100,9,11,80,80
+Department of Health and Social Care,128,39,19,70,55
+NHS England,100,10,10,80,80
 Department for Transport,27,2,2,23,85
 Home Office,21,10,3,8,38
 HM Prison and Probation Service,19,8,5,6,32
@@ -23,8 +23,8 @@ Barts Health NHS Trust,6,4,0,2,33
 "Department for Culture, Media and Sport",6,1,0,5,83
 Mid and South Essex NHS Foundation Trust,6,0,0,6,100
 Sussex Partnership NHS Foundation Trust,6,1,1,4,67
-North London NHS Foundation Trust,6,0,1,5,83
-Worcestershire Acute Hospitals NHS Trust,6,1,1,4,67
+North London NHS Foundation Trust,6,1,0,5,83
+Worcestershire Acute Hospitals NHS Trust,6,2,0,4,67
 Royal College of General Practitioners,6,3,0,3,50
 Royal Free London NHS Foundation Trust,6,0,0,6,100
 Surrey and Borders Partnership NHS Foundation Trust,5,0,1,4,80

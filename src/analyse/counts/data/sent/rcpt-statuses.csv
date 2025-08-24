@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,128,327,203,72,16,17,23
-NHS England,100,276,218,64,22,3,11
+Department of Health and Social Care,128,327,203,72,16,21,19
+NHS England,100,276,218,64,22,4,10
 Department for Transport,27,65,52,20,4,1,2
 Home Office,21,49,34,8,2,8,3
 HM Prison and Probation Service,19,49,21,6,4,4,5
@@ -23,8 +23,8 @@ Barts Health NHS Trust,6,9,4,2,1,3,0
 "Department for Culture, Media and Sport",6,17,16,5,1,0,0
 Mid and South Essex NHS Foundation Trust,6,8,8,6,0,0,0
 Sussex Partnership NHS Foundation Trust,6,10,9,5,0,0,1
-North London NHS Foundation Trust,6,8,7,5,0,0,1
-Worcestershire Acute Hospitals NHS Trust,6,7,5,4,1,0,1
+North London NHS Foundation Trust,6,8,7,5,0,1,0
+Worcestershire Acute Hospitals NHS Trust,6,7,5,4,1,1,0
 Royal College of General Practitioners,6,22,19,3,3,0,0
 Royal Free London NHS Foundation Trust,6,10,10,6,0,0,0
 Surrey and Borders Partnership NHS Foundation Trust,5,15,8,4,0,0,1
@@ -44,7 +44,7 @@ Northern Care Alliance NHS Foundation Trust,4,9,7,3,0,1,0
 West Yorkshire Police,4,8,7,3,1,0,0
 HM Prison Wandsworth,4,11,1,1,0,2,1
 Cwm Taf Morgannwg University Health Board,4,5,3,3,0,0,1
-Milton Keynes University Hospital NHS Foundation Trust,4,10,0,0,0,1,3
+Milton Keynes University Hospital NHS Foundation Trust,4,10,0,0,0,2,2
 NHS Derby and Derbyshire Integrated Care Board,4,9,6,2,1,0,1
 Royal Cornwall Hospitals NHS Trust,4,6,4,3,1,0,0
 Department for Education,4,6,5,3,1,0,0
@@ -71,7 +71,7 @@ Greater Manchester Police,3,12,10,2,0,0,1
 Central and North West London NHS Foundation Trust,3,6,1,1,0,1,1
 North East London NHS Foundation Trust,3,3,2,2,0,1,0
 North West Ambulance Service NHS Trust,3,14,9,1,0,1,1
-Northumbria Healthcare NHS Foundation Trust,3,8,1,1,0,0,2
+Northumbria Healthcare NHS Foundation Trust,3,8,1,1,0,1,1
 Civil Aviation Authority,3,8,4,1,2,0,0
 Oxford Health NHS Foundation Trust,3,3,3,3,0,0,0
 Cornwall Council,3,4,4,3,0,0,0
@@ -139,7 +139,7 @@ East London NHS Foundation Trust,2,2,2,2,0,0,0
 NHS Dorset Integrated Care Board,2,7,6,1,1,0,0
 Department for Work and Pensions,2,5,3,1,1,0,0
 NHS Sussex Integrated Care Board,2,3,3,2,0,0,0
-NHS North East and North Cumbria Integrated Care Board,2,8,3,1,0,0,1
+NHS North East and North Cumbria Integrated Care Board,2,8,3,1,0,1,0
 Driver and Vehicle Standards Agency,2,9,6,0,2,0,0
 East Suffolk and North Essex NHS Foundation Trust,2,2,1,1,0,1,0
 London Fire Brigade,2,3,3,2,0,0,0
@@ -155,7 +155,7 @@ Lewisham Council,2,20,6,0,2,0,0
 Islington Council,2,4,3,1,0,1,0
 Hampshire County Council,2,3,1,1,0,0,1
 General Medical Council,2,12,10,1,1,0,0
-Gloucestershire Health and Care NHS Foundation Trust,2,3,2,1,0,0,1
+Gloucestershire Health and Care NHS Foundation Trust,2,3,2,1,0,1,0
 Greater Manchester Integrated Care Board,2,2,1,1,0,1,0
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,2,3,0,0,0,1,1
 Greater Manchester Mental Health NHS Foundation Trust,2,12,9,1,0,1,0
@@ -217,7 +217,7 @@ Gray’s Inn Road Medical Centre,1,2,2,1,0,0,0
 Google,1,4,4,1,0,0,0
 George Eliot Hospital NHS Trust,1,5,6,1,0,0,0
 General Dental Council,1,6,5,0,1,0,0
-James Paget University NHS Foundation Trust,1,1,0,0,0,0,1
+James Paget University NHS Foundation Trust,1,1,0,0,0,1,0
 Jaguar Land Rover,1,1,1,1,0,0,0
 International Powered Access Federation,1,6,6,1,0,0,0
 Integrated Care Board (NHS North East and North Cumbria),1,7,0,0,0,1,0
@@ -234,8 +234,8 @@ Holcroft Grange,1,3,0,0,0,1,0
 Hillcare Group,1,2,0,0,0,0,1
 Hertfordshire County Council,1,3,3,1,0,0,0
 Little Trethew Horningtops,1,2,2,1,0,0,0
-Lincolnshire Police,1,2,0,0,0,0,1
-Lincolnshire County Council,1,2,0,0,0,0,1
+Lincolnshire Police,1,2,0,0,0,1,0
+Lincolnshire County Council,1,2,0,0,0,1,0
 Lifeway Care Ltd,1,1,1,1,0,0,0
 Lewisham and Greenwich NHS Trust,1,2,1,0,1,0,0
 Leicestershire County Council,1,1,1,1,0,0,0
@@ -248,7 +248,7 @@ Kingston Council,1,18,5,0,1,0,0
 Kingkabs Limited,1,1,1,1,0,0,0
 Kent Police,1,2,1,0,1,0,0
 Kent Central Ambulance Service,1,1,1,1,0,0,0
-Kenny & Murphy Limited,1,1,0,0,0,0,1
+Kenny & Murphy Limited,1,1,0,0,0,1,0
 Festimed,1,1,1,1,0,0,0
 Faculty of Intensive Care Medicine,1,8,7,0,1,0,0
 European Union Aviation Safety Authority,1,2,2,1,0,0,0
@@ -285,7 +285,7 @@ NHS Cambridgeshire and Peterborough Integrated Care Board,1,3,3,1,0,0,0
 NEATH PORT TALBOT COUNCIL,1,3,3,1,0,0,0
 Musgrove Park Hospital,1,1,0,0,0,0,1
 Mountfield Surgery,1,2,0,0,0,0,1
-Moorbridge School,1,5,0,0,0,0,1
+Moorbridge School,1,5,0,0,0,1,0
 Mitie Group,1,3,3,1,0,0,0
 Minster Care Group,1,3,0,0,0,1,0
 Milton Keynes Urgent Care Service,1,1,0,0,0,0,1
@@ -510,7 +510,7 @@ Airedale NHS Foundation Trust,1,1,1,1,0,0,0
 York Road Pharmacy,1,2,2,1,0,0,0
 York & Scarborough NHS Trust,1,1,0,0,0,0,1
 Wrexham County Borough Council,1,1,1,1,0,0,0
-49 Marine Avenue Surgery,1,5,0,0,0,0,1
+49 Marine Avenue Surgery,1,5,0,0,0,1,0
 Willow Grange Care Home,1,1,1,1,0,0,0
 Williams and Spenceley Limited,1,4,0,0,0,0,1
 University of Arts London,1,2,2,1,0,0,0
