@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,146,46,18,82,56
-NHS England,110,10,10,90,82
+Department of Health and Social Care,146,48,16,82,56
+NHS England,110,11,9,90,82
 Department for Transport,28,3,1,24,86
+HM Prison and Probation Service,23,12,3,8,35
 Home Office,23,12,1,10,43
-HM Prison and Probation Service,23,11,4,8,35
 National Institute for Health and Care Excellence,20,6,1,13,65
+Ministry of Justice,19,11,1,7,37
 Care Quality Commission,19,6,1,12,63
-Ministry of Justice,19,9,3,7,37
+National Highways,14,3,1,10,71
 REDACTED,14,4,0,10,71
-National Highways,14,2,2,10,71
 College of Policing,12,5,1,6,50
 Medicines and Healthcare Products Regulatory Agency,11,4,2,5,45
 NHS Greater Manchester Integrated Care Board,11,4,1,6,55
-Royal College of Paediatrics and Child Health,9,2,1,6,67
-Department for Education,9,1,3,5,56
-"Ministry of Housing, Communities and Local Government",9,4,0,5,56
-Office for Product Safety and Standards,9,2,2,5,56
 Royal College of Emergency Medicine,9,1,0,8,89
 University Hospitals Birmingham NHS Foundation Trust,9,0,1,8,89
-Health and Safety Executive,8,2,2,4,50
+"Ministry of Housing, Communities and Local Government",9,4,0,5,56
+Royal College of Paediatrics and Child Health,9,3,0,6,67
+Department for Education,9,1,3,5,56
+Office for Product Safety and Standards,9,2,2,5,56
+Health and Safety Executive,8,3,1,4,50
 National Police Chiefs’ Council,7,2,0,5,71
 Metropolitan Police Service,7,2,0,5,71
 Barts Health NHS Trust,7,2,0,5,71
-Sussex Partnership NHS Foundation Trust,6,1,1,4,67
-Welsh Government,6,2,0,4,67
-Royal Free London NHS Foundation Trust,6,0,0,6,100
+North London NHS Foundation Trust,6,1,0,5,83
 Mid and South Essex NHS Foundation Trust,6,0,0,6,100
+Royal College of General Practitioners,6,3,0,3,50
 "Department for Culture, Media and Sport",6,1,0,5,83
 Betsi Cadwaladr University Health Board,6,1,0,5,83
-Royal College of General Practitioners,6,3,0,3,50
+Royal Free London NHS Foundation Trust,6,0,0,6,100
+Welsh Government,6,2,0,4,67
