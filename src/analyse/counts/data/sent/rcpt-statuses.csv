@@ -1,9 +1,9 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-Department of Health and Social Care,159,412,305,105,24,18,12
+Department of Health and Social Care,159,412,305,105,24,19,11
 NHS England,121,336,273,85,22,3,11
 Department for Transport,31,75,57,21,4,3,3
-REDACTED,31,119,17,8,4,3,16
-Home Office,28,68,43,10,4,12,2
+REDACTED,31,119,17,8,4,8,11
+Home Office,28,68,43,10,4,13,1
 HM Prison and Probation Service,25,64,38,13,6,5,1
 Ministry of Justice,23,63,31,6,9,6,2
 National Institute for Health and Care Excellence,21,62,49,17,3,0,1
@@ -20,8 +20,8 @@ Health and Safety Executive,9,23,19,6,2,1,0
 Office for Product Safety and Standards,9,24,24,8,1,0,0
 Royal College of Emergency Medicine,9,48,43,7,1,1,0
 National Police Chiefs’ Council,8,25,22,6,1,0,1
-Barts Health NHS Trust,8,15,8,5,1,1,1
-Metropolitan Police Service,8,17,13,5,1,1,1
+Barts Health NHS Trust,8,15,8,5,1,2,0
+Metropolitan Police Service,8,17,13,5,1,2,0
 Sussex Partnership NHS Foundation Trust,8,13,11,6,0,0,2
 Royal College of Obstetricians and Gynaecologists,7,17,15,5,1,0,1
 Royal College of General Practitioners,7,25,21,5,1,0,1
@@ -107,7 +107,7 @@ Newham Council,3,24,11,2,1,0,0
 East London NHS Foundation Trust,3,3,2,2,0,0,1
 Cornwall Council,3,4,4,3,0,0,0
 Priory Group Limited,3,6,4,2,0,1,0
-Harbour Healthcare Ltd,3,3,2,2,0,0,1
+Harbour Healthcare Ltd,3,3,2,2,0,1,0
 East Suffolk and North Essex NHS Foundation Trust,3,3,3,3,0,0,0
 Blackpool Teaching Hospitals NHS Foundation Trust,3,3,2,2,0,0,1
 Birmingham and Solihull Mental Health NHS Foundation Trust,3,5,4,2,1,0,0
@@ -178,7 +178,7 @@ Cornwall Partnership NHS Foundation Trust,2,6,1,0,1,0,1
 West Suffolk NHS Foundation Trust,2,3,2,1,1,0,0
 Nottingham University Hospitals NHS Trust,2,2,1,1,0,0,1
 Coventry and Warwickshire Partnership NHS Trust,2,2,2,2,0,0,0
-NHS Hampshire and Isle of Wight Integrated Care Board,2,2,0,0,0,0,2
+NHS Hampshire and Isle of Wight Integrated Care Board,2,2,0,0,0,1,1
 NHS Dorset Integrated Care Board,2,7,7,2,0,0,0
 Nottinghamshire Police,2,2,1,1,0,1,0
 "Department for Environment, Food and Rural Affairs",2,4,5,2,0,0,0
@@ -480,7 +480,7 @@ Association of Coloproctology of Great Britain,1,3,4,1,0,0,0
 British Association for Counselling and Psychotherapy,1,2,2,1,0,0,0
 University of Arts London,1,2,2,1,0,0,0
 ASHTON MEDICAL PRACTICE,1,3,2,0,1,0,0
-[REDACTED] Chief Executive of Digital Health & Care Wales,1,3,0,0,0,0,1
+[REDACTED] Chief Executive of Digital Health & Care Wales,1,3,0,0,0,1,0
 Alexandra Homes Ltd,1,1,1,1,0,0,0
 Capital Care Group,1,1,1,1,0,0,0
 Cambridgeshire and Peterborough ICB,1,8,8,1,0,0,0
