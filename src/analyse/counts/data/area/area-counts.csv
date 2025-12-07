@@ -1,24 +1,24 @@
 coroner_area,count
-London Inner North,50
-Greater Manchester South,44
+London Inner North,52
+Greater Manchester South,45
 "West Sussex, Brighton and Hove",28
-Essex,25
-Birmingham and Solihull,25
+Essex,27
+Birmingham and Solihull,26
 Cornwall and the Isles of Scilly,23
+Nottinghamshire,19
 Greater Manchester West,19
-East Riding of Yorkshire and Kingston-upon-Hull,18
-Nottinghamshire,18
 London East,18
+East Riding of Yorkshire and Kingston-upon-Hull,18
 Yorkshire West Western,17
+Surrey,17
 Dorset,16
-Surrey,16
 South Wales Central,15
 Suffolk,15
 "Hampshire, Portsmouth and Southampton",15
-Berkshire,13
-Liverpool and the Wirral,11
+Berkshire,14
+London Inner West,12
 Avon,11
-London Inner West,11
+Liverpool and the Wirral,11
 North Wales (East & Central),11
 London West,11
 "County of Devon, Plymouth & Torbay",11
@@ -30,24 +30,24 @@ Lancashire and Blackburn with Darwen,10
 Yorkshire South East,10
 Yorkshire West Eastern,10
 Staffordshire and Stoke-on-Trent,9
+London South,9
 Yorkshire South West,9
-London North,8
-London South,8
-Gwent,8
 Kent and Medway,8
-Oxfordshire,8
+London North,8
 County Durham and Darlington,8
+Northamptonshire,8
+Milton Keynes,8
+Oxfordshire,8
+Gwent,8
 Derby and Derbyshire,8
 Swansea and Neath Port Talbot,7
-Northamptonshire,7
-Greater Manchester North,7
 London Inner South,7
-Milton Keynes,7
-North Yorkshire and York,6
+Greater Manchester North,7
+Cambridgeshire and Peterborough,6
 Somerset,6
-Gloucestershire,5
+North Yorkshire and York,6
 Teesside and Hartlepool,5
-Cambridgeshire and Peterborough,5
+Gloucestershire,5
 Rutland and North Leicestershire,5
 Sunderland,5
 Northumberland,4
@@ -57,11 +57,11 @@ Newcastle and North Tyneside,4
 Blackpool and Fylde,4
 Gateshead and South Tyneside,3
 "Shropshire, Telford and Wrekin",3
-The Black Country Jurisdiction,3
+Bedfordshire and Luton,3
 Wiltshire and Swindon,3
 East Sussex,3
 Herefordshire,3
-Bedfordshire and Luton,2
+The Black Country Jurisdiction,3
 Greater Lincolnshire,2
 North West Kent,2
 Buckinghamshire,2
