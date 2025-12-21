@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,124,36,9,79,64
-NHS England,101,9,11,81,80
-Department for Transport,30,4,3,23,77
-REDACTED,29,10,12,7,24
-Home Office,25,13,1,11,44
+Department of Health and Social Care,128,39,10,79,62
+NHS England,105,12,10,83,79
+REDACTED,32,10,15,7,22
+Department for Transport,31,4,4,23,74
+Home Office,26,15,0,11,42
+Ministry of Justice,20,9,4,7,35
 HM Prison and Probation Service,19,6,2,11,58
-Ministry of Justice,19,9,3,7,37
-Care Quality Commission,15,5,2,8,53
-National Institute for Health and Care Excellence,15,2,2,11,73
+National Institute for Health and Care Excellence,16,2,3,11,69
+Care Quality Commission,15,6,1,8,53
 College of Policing,13,4,0,9,69
+Medicines and Healthcare Products Regulatory Agency,12,4,2,6,50
 National Highways,11,2,0,9,82
-Health and Safety Executive,9,2,1,6,67
-Medicines and Healthcare Products Regulatory Agency,9,4,0,5,56
-University Hospitals Birmingham NHS Foundation Trust,8,1,1,6,75
+Health and Safety Executive,10,2,1,7,70
+University Hospitals Birmingham NHS Foundation Trust,9,2,1,6,67
 "Ministry of Housing, Communities and Local Government",8,5,0,3,38
-"Department for Culture, Media and Sport",7,0,1,6,86
-Royal College of Paediatrics and Child Health,7,0,0,7,100
 Royal College of Obstetricians and Gynaecologists,7,0,1,6,86
-Mid and South Essex NHS Foundation Trust,7,0,1,6,86
+Royal College of Paediatrics and Child Health,7,0,0,7,100
+"Department for Culture, Media and Sport",7,0,1,6,86
 Office for Product Safety and Standards,7,1,0,6,86
-Sussex Partnership NHS Foundation Trust,7,1,1,5,71
 NHS Greater Manchester Integrated Care Board,7,1,1,5,71
+Mid and South Essex NHS Foundation Trust,7,0,1,6,86
+Sussex Partnership NHS Foundation Trust,7,2,0,5,71
+Barts Health NHS Trust,7,2,1,4,57
+Betsi Cadwaladr University Health Board,6,1,0,5,83
 Department for Education,6,3,1,2,33
-Betsi Cadwaladr University Health Board,6,0,1,5,83
-Barts Health NHS Trust,6,2,0,4,67
 Royal College of Emergency Medicine,6,2,0,4,67
-Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,2,0,3,60
-North London NHS Foundation Trust,5,0,0,5,100
-Metropolitan Police Service,5,2,0,3,60
+Welsh Government,5,2,0,3,60
 East Midlands Ambulance Service NHS Trust,5,3,2,0,0
+Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,2,0,3,60
+Royal Free London NHS Foundation Trust,5,0,0,5,100
