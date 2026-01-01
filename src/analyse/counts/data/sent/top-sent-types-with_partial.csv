@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,128,22,8,81,17,63
-NHS England,105,10,9,70,16,67
-REDACTED,32,9,15,7,1,22
-Department for Transport,31,3,4,20,4,65
-Home Office,26,12,0,10,4,38
+Department of Health and Social Care,126,14,8,82,22,65
+NHS England,102,6,8,68,20,67
+REDACTED,31,14,10,6,1,19
+Department for Transport,31,2,4,21,4,68
+Home Office,24,12,0,8,4,33
 HM Prison and Probation Service,20,3,3,10,4,50
-Ministry of Justice,20,2,4,6,8,30
-Care Quality Commission,16,2,2,6,6,38
-National Institute for Health and Care Excellence,16,0,3,11,2,69
-College of Policing,13,2,0,7,4,54
+Ministry of Justice,19,3,3,6,7,32
+National Institute for Health and Care Excellence,15,1,2,10,2,67
+Care Quality Commission,15,0,2,7,6,47
 Medicines and Healthcare Products Regulatory Agency,12,3,2,6,1,50
+College of Policing,12,2,0,6,4,50
 National Highways,11,0,0,8,3,73
 Health and Safety Executive,10,0,1,7,2,70
-University Hospitals Birmingham NHS Foundation Trust,9,2,1,5,1,56
-"Ministry of Housing, Communities and Local Government",8,2,0,4,2,50
-Office for Product Safety and Standards,7,0,0,7,0,100
-NHS Greater Manchester Integrated Care Board,7,0,1,6,0,86
-Barts Health NHS Trust,7,2,1,4,0,57
+"Ministry of Housing, Communities and Local Government",8,2,1,4,1,50
+University Hospitals Birmingham NHS Foundation Trust,8,0,1,6,1,75
+Royal College of Obstetricians and Gynaecologists,7,1,0,5,1,71
 Royal College of Paediatrics and Child Health,7,0,0,7,0,100
 Sussex Partnership NHS Foundation Trust,7,2,0,5,0,71
-Royal College of Obstetricians and Gynaecologists,7,1,0,5,1,71
-"Department for Culture, Media and Sport",7,0,1,6,0,86
 Mid and South Essex NHS Foundation Trust,7,0,1,6,0,86
+"Department for Culture, Media and Sport",7,1,0,6,0,86
+NHS Greater Manchester Integrated Care Board,7,0,1,6,0,86
+Office for Product Safety and Standards,7,0,0,7,0,100
+Department for Education,6,1,1,1,3,17
+Barts Health NHS Trust,6,1,1,3,1,50
 Royal College of Emergency Medicine,6,1,0,4,1,67
-Department for Education,6,3,1,1,1,17
-Betsi Cadwaladr University Health Board,6,1,0,5,0,83
-Welsh Government,5,0,0,2,3,40
-Royal Cornwall Hospitals NHS Trust,5,0,2,2,1,40
-East Midlands Ambulance Service NHS Trust,5,4,0,0,1,0
-Metropolitan Police Service,5,1,0,3,1,60
+Betsi Cadwaladr University Health Board,6,0,0,6,0,100
+Driver and Vehicle Standards Agency,5,0,3,0,2,0
+Aneurin Bevan University Health Board,5,0,1,4,0,80
+Milton Keynes University Hospital NHS Foundation Trust,5,1,0,3,1,60
+Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,2,0,3,0,60

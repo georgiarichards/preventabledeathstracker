@@ -1,337 +1,521 @@
 sent_to,count
-Department of Health and Social Care,128
-NHS England,105
-REDACTED,32
+Department of Health and Social Care,126
+NHS England,102
+REDACTED,31
 Department for Transport,31
-Home Office,26
+Home Office,24
 HM Prison and Probation Service,20
-Ministry of Justice,20
-Care Quality Commission,16
-National Institute for Health and Care Excellence,16
-College of Policing,13
+Ministry of Justice,19
+National Institute for Health and Care Excellence,15
+Care Quality Commission,15
 Medicines and Healthcare Products Regulatory Agency,12
+College of Policing,12
 National Highways,11
 Health and Safety Executive,10
-University Hospitals Birmingham NHS Foundation Trust,9
 "Ministry of Housing, Communities and Local Government",8
-Office for Product Safety and Standards,7
-NHS Greater Manchester Integrated Care Board,7
-Barts Health NHS Trust,7
+University Hospitals Birmingham NHS Foundation Trust,8
+Royal College of Obstetricians and Gynaecologists,7
 Royal College of Paediatrics and Child Health,7
 Sussex Partnership NHS Foundation Trust,7
-Royal College of Obstetricians and Gynaecologists,7
-"Department for Culture, Media and Sport",7
 Mid and South Essex NHS Foundation Trust,7
-Royal College of Emergency Medicine,6
+"Department for Culture, Media and Sport",7
+NHS Greater Manchester Integrated Care Board,7
+Office for Product Safety and Standards,7
 Department for Education,6
+Barts Health NHS Trust,6
+Royal College of Emergency Medicine,6
 Betsi Cadwaladr University Health Board,6
-Welsh Government,5
-Royal Cornwall Hospitals NHS Trust,5
-East Midlands Ambulance Service NHS Trust,5
-Metropolitan Police Service,5
-National Police Chiefs’ Council,5
+Driver and Vehicle Standards Agency,5
 Aneurin Bevan University Health Board,5
-Royal Free London NHS Foundation Trust,5
-Royal College of General Practitioners,5
-Practice Plus Group,5
+Milton Keynes University Hospital NHS Foundation Trust,5
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5
-North London NHS Foundation Trust,5
-Milton Keynes University Hospital NHS Foundation Trust,4
+East Midlands Ambulance Service NHS Trust,5
+National Police Chiefs’ Council,5
+Royal Free London NHS Foundation Trust,5
+Practice Plus Group,5
+Royal College of General Practitioners,5
+Royal Cornwall Hospitals NHS Trust,5
+Welsh Government,5
+Metropolitan Police Service,5
 Worcestershire Acute Hospitals NHS Trust,4
-Department for Work and Pensions,4
-Berkshire Healthcare NHS Foundation Trust,4
-Oxleas NHS Foundation Trust,4
-South Central Ambulance Service NHS Foundation Trust,4
-Royal College of Psychiatrists,4
-South East Coast Ambulance Service NHS Foundation Trust,4
-Royal College of Radiologists,4
-Stockport NHS Foundation Trust,4
-Driver and Vehicle Licensing Agency,4
-Driver and Vehicle Standards Agency,4
-NHS Derby and Derbyshire Integrated Care Board,4
 Oxford Health NHS Foundation Trust,4
+South East Coast Ambulance Service NHS Foundation Trust,4
+Oxleas NHS Foundation Trust,4
+North London NHS Foundation Trust,4
+Royal College of Radiologists,4
+Royal College of Psychiatrists,4
+Berkshire Healthcare NHS Foundation Trust,4
+Driver and Vehicle Licensing Agency,4
+Department for Work and Pensions,4
+NHS Derby and Derbyshire Integrated Care Board,4
 National Fire Chiefs Council,4
-Transport for London,3
+Stockport NHS Foundation Trust,4
+South Central Ambulance Service NHS Foundation Trust,4
+Tameside and Glossop Integrated Care NHS Foundation Trust,3
 University Hospitals Plymouth NHS Trust,3
 University Hospitals Sussex NHS Foundation Trust,3
 University Hospitals of North Midlands NHS Trust,3
-Tameside and Glossop Integrated Care NHS Foundation Trust,3
-Swansea Bay University Health Board,3
-South London and Maudsley NHS Foundation Trust,3
+Transport for London,3
 St George’s University Hospitals NHS Foundation Trust,3
-Royal College of Surgeons,3
-Royal College of Pathologists,3
-Royal College of Physicians,3
+Surrey and Sussex Healthcare NHS Trust,3
 Blackpool Teaching Hospitals NHS Foundation Trust,3
 Somerset NHS Foundation Trust,3
-Surrey and Sussex Healthcare NHS Trust,3
-Northumbria Healthcare NHS Foundation Trust,3
-Northamptonshire Healthcare Foundation Trust,3
-Care UK,3
-Ministry of Defence,3
-NHS Birmingham and Solihull Integrated Care Board,3
-National Medical Examiner,3
-Northern Care Alliance NHS Foundation Trust,3
-Greater Manchester Police,3
-Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3
-Harbour Healthcare Ltd,3
-"Department for Science, Innovation and Technology",3
-East Suffolk and North Essex NHS Foundation Trust,3
-East Riding of Yorkshire Council,3
-East London NHS Foundation Trust,3
-Essex Partnership University NHS Foundation Trust,3
-HM Prison Wandsworth,3
-General Medical Council,3
-Essex County Council,3
-Cwm Taf Morgannwg University Health Board,3
-Devon and Cornwall Police,3
-Devon Partnership NHS Trust,3
-Department for Business and Trade,3
-Cornwall Council,3
-Civil Aviation Authority,3
-West Suffolk NHS Foundation Trust,3
 West Yorkshire Police,3
-Gloucestershire Health and Care NHS Foundation Trust,2
-Greater Manchester Integrated Care Board,2
-Lancashire Teaching Hospitals NHS Foundation Trust,2
-Epsom and St Helier University Hospitals NHS Trust,2
-Essex Partnership University NHS Trust,2
-Nottinghamshire Healthcare NHS Foundation Trust,2
+West Suffolk NHS Foundation Trust,3
+Essex Partnership University NHS Foundation Trust,3
+Essex County Council,3
+Greater Manchester Police,3
+Harbour Healthcare Ltd,3
+Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3
+HM Prison Wandsworth,3
+Ministry of Defence,3
+Care UK,3
+National Medical Examiner,3
+Northamptonshire Healthcare Foundation Trust,3
+Swansea Bay University Health Board,3
+Department for Business and Trade,3
+"Department for Science, Innovation and Technology",3
+Cornwall Council,3
+NHS Birmingham and Solihull Integrated Care Board,3
+Cwm Taf Morgannwg University Health Board,3
+East Suffolk and North Essex NHS Foundation Trust,3
+General Medical Council,3
+Devon Partnership NHS Trust,3
+Devon and Cornwall Police,3
+Northern Care Alliance NHS Foundation Trust,3
+Northumbria Healthcare NHS Foundation Trust,3
+Civil Aviation Authority,3
+South London and Maudsley NHS Foundation Trust,3
+Royal College of Physicians,3
+Royal College of Surgeons,3
+Royal College of Pathologists,3
+"Barking, Havering and Redbridge University Hospitals NHS Trust",2
+Warwickshire Police,2
+Associated British Ports,2
+Surrey and Borders Partnership NHS Foundation Trust,2
+Association of Anaesthetists,2
+Birmingham City Council,2
 Thames Valley Police,2
 "Tees, Esk and Wear Valley NHS Foundation Trust",2
-Financial Conduct Authority,2
-Nottinghamshire Police,2
 The Princess Alexandra Hospital NHS Trust,2
-Coventry and Warwickshire Partnership NHS Trust,2
-East Kent Hospitals University NHS Foundation Trust,2
-The Newcastle upon Tyne Hospitals NHS Foundation Trust,2
-Oxford University Hospitals NHS Foundation Trust,2
-"Department for Environment, Food and Rural Affairs",2
-Oxfordshire County Council,2
-North East London NHS Foundation Trust,2
-North West Ambulance Service NHS Trust,2
-North West Anglia NHS Foundation Trust,2
-British Standards Institution,2
 The Royal Wolverhampton NHS Trust,2
-Manchester University NHS Foundation Trust,2
-Cornwall Partnership NHS Foundation Trust,2
+The Newcastle upon Tyne Hospitals NHS Foundation Trust,2
+Veterinary Medicines Directorate,2
+Oxford University Hospitals NHS Foundation Trust,2
+Nottinghamshire Healthcare NHS Foundation Trust,2
 Ofcom,2
-HM Prison Wormwood Scrubs,2
+North West Ambulance Service NHS Trust,2
+British Standards Institution,2
+North West Anglia NHS Foundation Trust,2
+North East London NHS Foundation Trust,2
 Sherwood Forest Hospitals NHS Foundation Trust,2
-Shrewsbury and Telford Hospital NHS Trust,2
 Royal Yachting Association,2
-Royal College of Veterinary Surgeons,2
-South Yorkshire Police,2
-South Western Ambulance Service NHS Foundation Trust,2
-HM Inspectorate of Prisons,2
-South West Yorkshire Partnership NHS Foundation Trust,2
-Royal Pharmaceutical Society,2
-Royal Society for the Prevention of Accidents,2
-Calderdale and Huddersfield NHS Foundation Trust,2
-Bradford Council,2
-Frimley Health NHS Foundation Trust,2
-Royal Berkshire NHS Foundation Trust,2
+Shrewsbury and Telford Hospital NHS Trust,2
 South Wales Police,2
+South West Yorkshire Partnership NHS Foundation Trust,2
+South Western Ambulance Service NHS Foundation Trust,2
+South Yorkshire Police,2
+Royal Society for the Prevention of Accidents,2
 South Tyneside and Sunderland NHS Foundation Trust,2
-Independent Office for Police Conduct,2
-Royal College of Anaesthetists,2
-Surrey and Borders Partnership NHS Foundation Trust,2
-Hull University Teaching Hospitals NHS Trust,2
 CQC North,2
-Lewisham and Greenwich NHS Trust,2
-Lewisham Council,2
-Islington Council,2
+Royal College of Veterinary Surgeons,2
+Royal Pharmaceutical Society,2
+Royal College of Anaesthetists,2
+Royal Berkshire NHS Foundation Trust,2
+Bradford Council,2
+Calderdale and Huddersfield NHS Foundation Trust,2
+NHS Sussex Integrated Care Board,2
+NHS North East and North Cumbria Integrated Care Board,2
+Newham Council,2
+Network Rail,2
+Central and North West London NHS Foundation Trust,2
+Nottinghamshire Police,2
+Nottingham University Hospitals NHS Trust,2
 Nottingham and Nottinghamshire Police,2
 NHS Hampshire and Isle of Wight Integrated Care Board,2
-NHS Dorset Integrated Care Board,2
-Welsh Ambulance Services University NHS Trust,2
-Nottingham University Hospitals NHS Trust,2
-York and Scarborough Teaching Hospitals NHS Foundation Trust,2
-Warwickshire Police,2
-West Midlands Police,2
-Birmingham City Council,2
-NHS North East and North Cumbria Integrated Care Board,2
-Network Rail,2
 Mitie Group,2
-Newham Council,2
-"Barking, Havering and Redbridge University Hospitals NHS Trust",2
-Central and North West London NHS Foundation Trust,2
-Veterinary Medicines Directorate,2
-Associated British Ports,2
-University Hospitals Bristol and Weston NHS Foundation Trust,2
-Association of Anaesthetists,2
-NHS Sussex Integrated Care Board,2
+Manchester University NHS Foundation Trust,2
+NHS Dorset Integrated Care Board,2
+Independent Office for Police Conduct,2
+"Department for Environment, Food and Rural Affairs",2
+Islington Council,2
+Lewisham and Greenwich NHS Trust,2
+Cornwall Partnership NHS Foundation Trust,2
+Hull University Teaching Hospitals NHS Trust,2
+Lancashire Teaching Hospitals NHS Foundation Trust,2
+Lewisham Council,2
+Greater Manchester Integrated Care Board,2
+HM Prison Wormwood Scrubs,2
+East London NHS Foundation Trust,2
+East Kent Hospitals University NHS Foundation Trust,2
+Financial Conduct Authority,2
+HM Inspectorate of Prisons,2
+Frimley Health NHS Foundation Trust,2
+Gloucestershire Health and Care NHS Foundation Trust,2
+Essex Partnership University NHS Trust,2
+Epsom and St Helier University Hospitals NHS Trust,2
 Association of Ambulance Chief Executives,2
-NHS Northamptonshire Integrated Care Board,1
-North Court Care Home – Maven Healthcare,1
-Rotherham Metropolitan Borough Council,1
-North Cumbria Integrated Care NHS Foundation Trust,1
-Royal College of Midwives,1
-"NHS Shropshire, Telford and Wrekin ICB",1
-Royal Borough of Kensington and Chelsea,1
-Royal Borough of Greenwich,1
-NHS South West London Integrated Care Board,1
-NHS South Yorkshire Integrated Care Board,1
-North East Ambulance Service NHS Foundation Trust,1
-Royal College of Nursing,1
-Pharmacy2U Limited,1
-Plymouth City Council,1
-"Sheffield Health Partnership, University NHS Foundation Trust",1
-Sheffield Teaching Hospitals NHS Foundation Trust,1
-Sheffield Wednesday Football Club,1
-NRS Healthcare,1
-Snap Group Limited,1
-Social Work England,1
-Royal College of Radiology,1
-NHS University Hospitals Trust Plymouth,1
-Royal Devon University Healthcare NHS Foundation,1
-Royal Devon University Healthcare NHS Foundation Trust,1
-Riversdale Care Home,1
-NHS Suffolk and North East Essex Integrated Care Board,1
-NHS Staffordshire and Stoke-on-Trent ICB,1
-Royal National Lifeboat Institution,1
-Royal Surrey NHS Foundation Trust,1
-Renal Association,1
-Resus Council UK,1
-Revon Healthcare,1
-Rhondda Cynon Taf County Borough Council,1
-North Bristol NHS Trust,1
-Road (Highways Safety) related deaths,1
-NHS Sussex,1
-Northamptonshire Police,1
-Optum,1
-Oracle,1
-Birmingham and Solihull Mental Health NHS Foundation Trust,1
-Birmingham Women's and Children's NHS Foundation Trust,1
-Pendine Park Care Organisation,1
-Pennine Care NHS Foundation Trust,1
-North Staffordshire Combined Healthcare NHS Trust,1
-Belle Green Court Care Home,1
-North Yorkshire Council,1
-Primary Care NHS Devon,1
-Northampton General Hospital NHS Trust,1
-Northamptonshire Children Safeguarding Partnership,1
-British Marine,1
-British Ports Association,1
-British Society for Haematology (BSH),1
-British Society of Gastroenterology,1
-Bedfordshire Police,1
-Bedfordshire Hospitals NHS Foundation Trust,1
-Bedford Hospitals NHS Foundation Trust,1
-British Sub Aqua Association,1
-British Transplantation Society,1
-Northampton General Hospital,1
-Norfolk and Suffolk NHS Foundation Trust,1
-Norfolk Community Health and Care NHS Trust,1
-Portsmouth Hospitals University NHS Trust,1
-President of the Royal College of General Practitioners,1
-Prestwick Care,1
-Priory Group Limited,1
-Provident Housing,1
-Queen Mary’s University of London,1
-RCRP Strategic Partnership Board,1
-Rail Safety Board,1
-Oldham Council,1
-Red Oaks Care Community,1
-Network Agencies Estate Agents,1
-Redcar Council,1
-Neonatal Network,1
-National Trading Standards,1
-National Register of Communication Professionals working with Deaf and Deafblind people (NRCPD),1
-National Police Air Service,1
-Nursing and Midwifery Council,1
-Oak Tree Mews Care Home,1
-Officer of the College of Policing,1
-Northumberland Children’s and Adults Safeguarding Partnership,1
-Red Bay Boats Ltd,1
-West Midlands Fire Service,1
-University Hospitals of Northamptonshire,1
-University Hospitals of Northamptonshire NHS Group,1
-University of Arts London,1
-Victoria Residential Home,1
+York and Scarborough Teaching Hospitals NHS Foundation Trust,2
 WIGAN INTERGRATED CARE BOARD,1
-The Riverside Group Limited,1
-The Road Surface Treatments Association,1
-The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,1
-The Rotherham NHS Foundation Trust,1
-The Royal College of General Practitioners (RCGP),1
-The Royal Orthopaedic Hospital NHS Foundation Trust,1
-The Telecare Services Association,1
-NHS West Yorkshire Integrated Care Board,1
-The Yacht Harbour Association,1
-The York Hospital,1
-Tower Hamlets Council,1
-Townhead Surgery,1
-Toyota PLC,1
-UK Kidney Association,1
-The City of London,1
-The Crown Premises Fire & Safety Inspectorate,1
-The First Minister of Wales,1
-The General Optical Council,1
-The Governor HMP Stocken,1
-The Lakes Care Centre,1
-The Lift and Escalator Industry Association,1
-The Manor Clinic Folkestone Kent,1
-The Unite Group plc,1
-Association for Petroleum and Explosives Administration,1
-Association of British Insurers,1
-Association of British Travel Agents,1
-Association of Coloproctology of Great Britain,1
-Whittington Health,1
-Whittington Health NHS Trust,1
-Wigan Metropolitan Borough Council,1
-Williams and Spenceley Limited,1
-Willow Grange Care Home,1
-Wrexham County Borough Council,1
-YAS Legal,1
-1st Care 4U,1
-49 Marine Avenue Surgery,1
-West Midlands Ambulance Service University NHS Foundation Trust,1
-Alexandra & Crestview Surgeries,1
-Alexandra Homes Ltd,1
-All Care In One Ltd,1
+White Horse Medical Practice,1
+Westwood Hall Nursing Home,1
+Acer Mews Care Home,1
 [REDACTED] President of The Royal College of Surgeons,1
-Arts University Bournemouth,1
-Ashton Lodge Care Home,1
-Aspray House Nursing Home,1
-Yorkshire Ambulance Service NHS Trust,1
-Your Health Partnership Regis Medical Centre,1
-[REDACTED] Chief Executive of Digital Health & Care Wales,1
-[REDACTED] HMP Garth,1
+Abbey Place Nursing Home,1
 [REDACTED] President of The Royal College of Phyisicians,1
-York & Scarborough NHS Trust,1
-Welsh Parliament,1
-Airedale NHS Foundation Trust,1
-Somerset NHS Foundation Trust (Musgrove Park Hospital Trust),1
-South Tees Hospitals NHS Foundation Trust,1
-Bolton Council,1
-Bolton NHS Foundation Trust,1
-Boomtown Festival,1
-Bournemouth Airport,1
-"Bournemouth, Christchurch and Poole Council",1
+[REDACTED] HMP Garth,1
+Uber Eats,1
+United Kingdom Harbour Masters' Association,1
 "Association of Directors of Environment, Economy, Planning & Transport",1
 Association of Manufacturers of Domestic Appliances,1
 Attleborough Surgery,1
 Avon and Somerset Police,1
 Avon and Wiltshire Mental Health Partnership NHS Trust,1
 BARCHESTER HEALTHCARE LIMITED,1
-The Manor House North Walsham Care Home,1
+BARDOC,1
 BSI Group,1
 BT,1
-South West London and St George’s Mental Health NHS Trust,1
-South Western Railway,1
-Southwark Council,1
-Springcare Care Homes Ltd,1
-Russells Hall Hospital,1
-SCAS Legal Services,1
-SSP Health Ltd,1
+Bamford Grange Care Home,1
+Barchester Healthcare Ltd,1
+49 Marine Avenue Surgery,1
+Whittington Health,1
+Whittington Health NHS Trust,1
+Google,1
+Eastcroft Nursing Home,1
+Education and Children’s Community Health,1
+Egton Medical Information Systems,1
+Elysium Healthcare,1
+Emergency Call Prioritisation Advisory Group,1
+Energy Institute,1
+Esher Green Surgery,1
+European Aviation Safety Agency,1
+European Union Aviation Safety Authority,1
+Faculty of Intensive Care Medicine,1
+Festimed,1
+Doncaster Council,1
+Dorset Council,1
+Welsh Ambulance Services University NHS Trust,1
+Welsh Parliament,1
+HM Prison Eastwood Park,1
+HM Prison Elmley,1
+HM Prison Guys Marsh,1
+HM Prison High Down,1
+HM Prison Leeds,1
+Fixodent,1
+Flixton Road Medical Centre,1
+Food Standards Agency,1
+"Foreign, Commonwealth and Development Office",1
+Four Seasons Health Care,1
+Fresh Student Living,1
+G4S Care & Justice Services UK Ltd,1
+Gateshead Council,1
+General Chiropractic Council,1
+General Pharmaceutical Council,1
+George Eliot Hospital NHS Trust,1
+Granddwell Estates,1
+Greater Manchester Mental Health NHS Foundation Trust,1
+Durham Constabulary,1
+Durham County Council,1
+ERYC Highways Department,1
+East Kent Hospitals NHS Trust,1
+East Lancashire Hospitals NHS Trust,1
+East London Cooperatives Ltd,1
+East Riding Council,1
+East Riding of Yorkshire Council,1
+Deliveroo,1
+Green Range Limited,1
+HCRG Care Group,1
+HM Prison & Probation Service,1
+HM Prison Belmarsh,1
+HM Prison Berwyn,1
+Home Group Limited,1
+Homerton Healthcare NHS Foundation Trust,1
+"Hospital Manager, Goring Hall",1
+Hotpoint UK Appliances Limited,1
+HM Prison Lowdham Grange,1
+HM Prison Rochester,1
+HM Prison Woodhill,1
+HM Prison Wymott,1
+HMP Coldingley,1
+Hackney Council,1
+Hampshire County Council,1
+Hampshire and IOW Constabulary,1
+Hartlepool Council,1
+Hatton Traffic Management,1
+Health Services Safety Investigations Body,1
+Government Legal Department,1
+Health and Care Professions Council,1
+Henning Hall Nursing Home,1
+Derbyshire Community Health Services NHS Foundation Trust,1
+Derbyshire Healthcare NHS Foundation Trust,1
+Devon ICB,1
+Devon Integrated Care Board,1
+Difficult Airway Society,1
+County Durham & Darlington NHS Foundation Trust,1
+Coventry and Warwickshire Partnership NHS Trust,1
+Herefordshire and Worcestershire Health and Care NHS Trust,1
+Hertfordshire County Council,1
+High Meadows Care Home,1
+Hillcare Group,1
+His Majesty’s Prison & Probation Service,1
+Holcroft Grange,1
+Holderness Health – Hedon Group Practice.,1
+Leicestershire County Council,1
+Leicestershire Partnership NHS Trust,1
+Hounslow Council,1
+Howlish Hall Care Home,1
+Hull City Council,1
+Hull Royal Infirmary,1
+Humber Teaching NHS Foundation Trust,1
+IPRS Aeromed,1
+Inspire You Care Ltd,1
+Integrated Care Board,1
+Integrated Care Board (NHS North East and North Cumbria),1
+Internation Scientific Supplies Ltd,1
+International Academies of Emergency Dispatch,1
+James Paget University NHS Foundation Trust,1
+Just Eats,1
+Health Services Safety Investigations Body (HSSIB),1
+London Borough of Richmond upon Thames,1
+London Fire Brigade (LFB),1
+London Metropolitan Police,1
+Lukka Care Homes Limited,1
+Kenny & Murphy Limited,1
+Kent Central Ambulance Service,1
+Kent Police,1
+Kingkabs Limited,1
+Kingston Council,1
+Lambeth Council,1
+Landlord,1
+Leeds City Council,1
+Leeds Community Healthcare NHS Trust,1
+Leeds Survivor-Led Crisis Service (Leeds OASIS),1
+Leeds Teaching Hospitals NHS Trust,1
+Leeds and Yorkshire Partnership Foundation Trust (Intensive Supportive Service),1
+Meanwood Group Practice,1
+Medical Engineer,1
+Medicines and Healthcare Projects Regulation Authority,1
+Merthyr Tydfil County Borough Council,1
+Metropolitan Police Service (MPS),1
+Lifestar Medical Limited,1
+Lifeway Care Ltd,1
+Lincolnshire County Council,1
+Lincolnshire Police,1
+LivaNova UK Limited,1
+London Ambulance Service NHS Trust,1
+London Borough of Barking and Dagenham,1
+London Borough of Bexley,1
+London Borough of Bromley,1
+London Borough of Hammersmith & Fulham,1
+London Borough of Havering,1
+Chief Executive Whittington Health NHS Trust Whittington Hospital,1
+Midway Pharmacy,1
+Mills Family Ltd,1
+Milton Keynes City Council,1
+Milton Keynes Urgent Care Service,1
+Minster Care Group,1
+Monmouthshire County Council,1
+Moorbridge School,1
+MJ Events,1
+Macklin Street Surgery,1
+Malhorta Group,1
+"Managing Director, Sussex Medical Chambers",1
+Mandeville Grange Nursing Home,1
+Marine Lake Medical Practice,1
+Maritime and Coastguard Agency,1
+Maylands Healthcare Surgery,1
+Middlesbrough Council,1
+Midlands Partnership University NHS Foundation Trust,1
+Crisis Resolution Team,1
+Crown Commercial Services,1
+Croydon Council,1
+Croydon University Hospital,1
+Cumbria Health Limited,1
+"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",1
+Cyngor Bwrdeistref Sirol Pen-y-Bont ar Ogwr,1
+Dalton Surgery,1
+Daryel Care,1
+Daynight Pharmacy,1
+Dearne Valley Group Practice,1
+Chief Executive Of Velindre University Nhs Trust,1
+Chief Executive Oldham Borough Council,1
+Chief Executive Pennine Care NHS Foundation Trust,1
+NHS Sussex,1
+NHS University Hospitals Trust Plymouth,1
+NHS West Yorkshire Integrated Care Board,1
+NRS Healthcare,1
+National Director FOR Mental Health,1
+Mountfield Surgery,1
+"Mr Nick Mallaband, Acting Chief Medical Director, Doncaster & Bassetlaw NHS Foundation Trust",1
+Musgrove Park Hospital,1
+NEATH PORT TALBOT COUNCIL,1
+NHS Birmingham and Solihull ICB,1
+NHS Black Country ICB,1
+NHS Cornwall and Isles of Scilly ICB,1
+NHS Coventry and Warwickshire ICB,1
+NHS Herefordshire and Worcestershire ICB,1
+NHS Hertfordshire and West Essex Integrated Care Board,1
+Mid and West Wales Fire and Rescue Service,1
+National Register of Communication Professionals working with Deaf and Deafblind people (NRCPD),1
+National Trading Standards,1
+Neonatal Network,1
+Network Agencies Estate Agents,1
+Norfolk Community Health and Care NHS Trust,1
+Norfolk and Suffolk NHS Foundation Trust,1
+North Court Care Home – Maven Healthcare,1
+NHS Kent and Medway Integrated Care Board,1
+NHS Lancashire and South Cumbria Integrated Care Board,1
+NHS Mid and South Essex Integrated Care Board,1
+NHS Northamptonshire Integrated Care Board,1
+"NHS Shropshire, Telford and Wrekin ICB",1
+NHS South West London Integrated Care Board,1
+NHS South Yorkshire Integrated Care Board,1
+NHS Staffordshire and Stoke-on-Trent ICB,1
+NHS Suffolk and North East Essex Integrated Care Board,1
+Northamptonshire Police,1
+Northumberland Children’s and Adults Safeguarding Partnership,1
+National Farmers Union,1
+Chief Executive of Cheshire and Wirral Partnership NHS Trust,1
+Chief Executive of Worcestershire County Council,1
+Chief Executive – Hull Royal Infirmary,1
+"Chief Executive, Integrated Care Board",1
+Chief Medical Officer for North West Anglia Foundation Trust,1
+Chief Midwifery Officer,1
+"Chief Nursing Officer, NHS North-East London Integrated Care Board",1
+Circle Health Group Ltd,1
+Clare House Surgery,1
+Complex Spine Clinic,1
+Cardiff and Vale University Health Board,1
+Cardinal Health,1
+National Police Air Service,1
+Chartered Insurance Institute,1
+Chelsea and Westminster Hospital NHS Foundation Trust,1
+Cheshire Constabulary,1
+Chesterfield Borough Council,1
+Chief Constable Greater Manchester Police,1
+Chief Executive Hertfordshire County Council,1
+Chief Executive North West Ambulance Service,1
+Chief Executive Of Aneurin Bevan University Health Board,1
+British Society of Gastroenterology,1
+British Sub Aqua Association,1
+British Transplantation Society,1
+North Staffordshire Combined Healthcare NHS Trust,1
+North Yorkshire Council,1
+Northampton General Hospital,1
+Northampton General Hospital NHS Trust,1
+Northamptonshire Children Safeguarding Partnership,1
+Queen Mary’s University of London,1
+RCRP Strategic Partnership Board,1
+Rail Safety Board,1
+Red Bay Boats Ltd,1
+Nursing and Midwifery Council,1
+Oak Tree Mews Care Home,1
+Officer of the College of Policing,1
+Oldham Council,1
+Optum,1
+Oracle,1
+Oxfordshire County Council,1
+North Cumbria Integrated Care NHS Foundation Trust,1
+North East Ambulance Service NHS Foundation Trust,1
+Care4U Healthcare,1
+Castlegate & Derwent Surgery,1
+Central London Community Healthcare NHS Trust,1
+Riversdale Care Home,1
+Road (Highways Safety) related deaths,1
+Rotherham Metropolitan Borough Council,1
+Royal Borough of Greenwich,1
+Royal Borough of Kensington and Chelsea,1
+Royal College of Midwives,1
+Pendine Park Care Organisation,1
+Pennine Care NHS Foundation Trust,1
+Pharmacy2U Limited,1
+Plymouth City Council,1
+Portsmouth Hospitals University NHS Trust,1
+President of the Royal College of General Practitioners,1
+Prestwick Care,1
+Primary Care NHS Devon,1
+Priory Group Limited,1
+Provident Housing,1
+Resus Council UK,1
+British Transport Police,1
+Brooker Group Limited,1
+CGL (Ealing RISE),1
+Cabinet Office,1
+Cabinet Secretary for Health and Social Care,1
+Cambridgeshire Constabulary,1
+Cambridgeshire and Peterborough ICB,1
+Cambridgeshire and Peterborough NHS Foundation Trust,1
+Capital Care Group,1
+Cardiff & Vale University Health Board,1
+Boomtown Festival,1
+Bournemouth Airport,1
+"Bournemouth, Christchurch and Poole Council",1
+Revon Healthcare,1
+Rhondda Cynon Taf County Borough Council,1
 SSP Health Medical Services Ltd,1
 Sanctuary Housing,1
 Serco,1
 Service Director for Environment Cornwall Council,1
 Sett Valley Medical Centre,1
-BARDOC,1
-The Medicine and Healthcare Products and Regulatory Agency,1
+"Sheffield Health Partnership, University NHS Foundation Trust",1
+Sheffield Teaching Hospitals NHS Foundation Trust,1
+Sheffield Wednesday Football Club,1
+Royal College of Nursing,1
+Royal College of Radiology,1
+Royal Devon University Healthcare NHS Foundation,1
+Royal Devon University Healthcare NHS Foundation Trust,1
+Royal National Lifeboat Institution,1
+Red Oaks Care Community,1
+Redcar Council,1
+Renal Association,1
+Bradford Teaching Hospitals NHS Foundation Trust,1
+Brake,1
+Brinnington Surgery,1
+British Aerosol Manufacturers Association,1
+British Agricultural and Garden Machinery Association,1
+British Airline Pilots’ Association,1
+British Association for Counselling and Psychotherapy,1
+British Association of Perinatal Medicine,1
+British Marine,1
+British Ports Association,1
+British Society for Haematology (BSH),1
+Basildon Car Park Management,1
+Beccles Medical Centre,1
+Bedford General Hospital,1
+SCAS Legal Services,1
+SSP Health Ltd,1
+Stockton Council,1
+Stoke Mandeville Hospital,1
+Stoke Talking Therapies,1
+Stryker (UK) Ltd,1
+Sub Aqua Association Spcae Solutions Business Centre,1
+Surrey Police,1
+Snap Group Limited,1
+Social Work England,1
+Sodexo,1
+Somerset NHS Foundation Trust (Musgrove Park Hospital Trust),1
+South Tees Hospitals NHS Foundation Trust,1
+South West London and St George’s Mental Health NHS Trust,1
+South Western Railway,1
+Royal Surrey NHS Foundation Trust,1
+Russells Hall Hospital,1
+Bradford District Care NHS Foundation Trust,1
+Springcare Care Homes Ltd,1
+St Mungo’s,1
+Bedford Hospitals NHS Foundation Trust,1
+Bedfordshire Hospitals NHS Foundation Trust,1
+Bedfordshire Police,1
+Belle Green Court Care Home,1
+Birmingham Women's and Children's NHS Foundation Trust,1
+Birmingham and Solihull Mental Health NHS Foundation Trust,1
+Bolton Council,1
+Bolton NHS Foundation Trust,1
+Association of British Insurers,1
+Association of British Travel Agents,1
+Association of Coloproctology of Great Britain,1
+Staffordshire Highways,1
+Steps 2 Recovery,1
+Stewarts Law,1
 The Nerams Group,1
 The Pembroke Medical Practice,1
 The Petroleum Enforcement Liaison Group,1
@@ -344,260 +528,71 @@ The Chief Executive Cardiff & Vale University Health Board,1
 The Chief Executive Security Industry Authority (SIA),1
 The Chief Executive Tesco PLC,1
 The Chief Executive Total Security Services Limited (TSS),1
-Sodexo,1
+The Chief Executive of Powys Teaching Hospital Board,1
 "The Chief Executive, Great Western Hospitals, NHS Trust Marlborough Road, Swindon, SN3 6BB",1
 "The Chief Executive, Tameside and Glossop Integrated Care NHS  Foundation Trust",1
+Southwark Council,1
+The Yacht Harbour Association,1
+The York Hospital,1
+Tower Hamlets Council,1
+Townhead Surgery,1
+Toyota PLC,1
 The Children’s Trust,1
-St Mungo’s,1
-Staffordshire Highways,1
-Steps 2 Recovery,1
-Stewarts Law,1
-Stockton Council,1
-Stoke Mandeville Hospital,1
-Stoke Talking Therapies,1
-Stryker (UK) Ltd,1
-Sub Aqua Association Spcae Solutions Business Centre,1
-Surrey County Council,1
-Surrey Police,1
-The Chief Executive of Powys Teaching Hospital Board,1
-General Pharmaceutical Council,1
-George Eliot Hospital NHS Trust,1
-Google,1
-Government Legal Department,1
-Granddwell Estates,1
-Egton Medical Information Systems,1
-Elysium Healthcare,1
-Emergency Call Prioritisation Advisory Group,1
-Energy Institute,1
-Esher Green Surgery,1
-European Aviation Safety Agency,1
-European Union Aviation Safety Authority,1
-Faculty of Intensive Care Medicine,1
-Festimed,1
-Midlands Partnership University NHS Foundation Trust,1
-Flixton Road Medical Centre,1
-Durham Constabulary,1
-Durham County Council,1
-ERYC Highways Department,1
-East Kent Hospitals NHS Trust,1
-East Lancashire Hospitals NHS Trust,1
-East London Cooperatives Ltd,1
-East Riding Council,1
-Eastcroft Nursing Home,1
-Education and Children’s Community Health,1
-Derbyshire Community Health Services NHS Foundation Trust,1
-Derbyshire Constabulary,1
-Derbyshire Healthcare NHS Foundation Trust,1
-Devon ICB,1
-Fixodent,1
-HM Prison Belmarsh,1
-HM Prison Berwyn,1
-HM Prison Eastwood Park,1
-HM Prison Elmley,1
-HM Prison Guys Marsh,1
-HM Prison High Down,1
-HM Prison Leeds,1
-HM Prison Lowdham Grange,1
-HM Prison Rochester,1
-Food Standards Agency,1
-"Foreign, Commonwealth and Development Office",1
-Four Seasons Health Care,1
-Fresh Student Living,1
-G4S Care & Justice Services UK Ltd,1
-Cambridgeshire and Peterborough ICB,1
-General Chiropractic Council,1
-Chief Executive Hertfordshire County Council,1
-Chief Executive North West Ambulance Service,1
-Chief Executive Of Aneurin Bevan University Health Board,1
-Chief Executive Of Velindre University Nhs Trust,1
-Chief Executive Oldham Borough Council,1
-Chief Executive Pennine Care NHS Foundation Trust,1
-Chief Executive Whittington Health NHS Trust Whittington Hospital,1
-British Transport Police,1
-Brooker Group Limited,1
-CGL (Ealing RISE),1
-Cabinet Office,1
-Cabinet Secretary for Health and Social Care,1
-Cambridgeshire Constabulary,1
-Gateshead Council,1
-Chief Medical Officer for North West Anglia Foundation Trust,1
-Chief Midwifery Officer,1
-"Chief Nursing Officer, NHS North-East London Integrated Care Board",1
-Agricultural Engineers Association,1
-Uber Eats,1
-United Kingdom Harbour Masters' Association,1
+The City of London,1
+The Crown Premises Fire & Safety Inspectorate,1
+The First Minister of Wales,1
+The General Optical Council,1
+The Governor HMP Stocken,1
+The Lakes Care Centre,1
+The Lift and Escalator Industry Association,1
+The Manor Clinic Folkestone Kent,1
+The Manor House North Walsham Care Home,1
+The Medicine and Healthcare Products and Regulatory Agency,1
+Wigan Metropolitan Borough Council,1
 University College London Hospitals NHS Foundation Trust,1
+University Hospitals Bristol and Weston NHS Foundation Trust,1
 University Hospitals of Morecambe Bay NHS Foundation Trust,1
-Bamford Grange Care Home,1
-Barchester Healthcare Ltd,1
-Basildon Car Park Management,1
-Beccles Medical Centre,1
-Bedford General Hospital,1
+University Hospitals of Northamptonshire,1
+University Hospitals of Northamptonshire NHS Group,1
+University of Arts London,1
+Victoria Residential Home,1
+The Riverside Group Limited,1
+The Road Surface Treatments Association,1
+The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,1
+The Rotherham NHS Foundation Trust,1
+The Royal College of General Practitioners (RCGP),1
+The Royal Orthopaedic Hospital NHS Foundation Trust,1
+The Telecare Services Association,1
+The Unite Group plc,1
+[REDACTED] Chief Executive of Digital Health & Care Wales,1
 Wales prevention of future deaths reports (2019 onwards),1
-Devon Integrated Care Board,1
+Wandsworth Council,1
 Ward Bros (Malton) Ltd,1
-A&B Healthcare Ltd,1
+Agricultural Engineers Association,1
+Airedale NHS Foundation Trust,1
+Alexandra & Crestview Surgeries,1
+Alexandra Homes Ltd,1
+All Care In One Ltd,1
+Arts University Bournemouth,1
+Ashton Lodge Care Home,1
+Aspray House Nursing Home,1
+Association for Petroleum and Explosives Administration,1
+1st Care 4U,1
+UK Kidney Association,1
 UK Major Ports Group,1
-Affinity Water,1
-Circle Health Group Ltd,1
+West Midlands Ambulance Service University NHS Foundation Trust,1
+West Midlands Fire Service,1
+West Midlands Police,1
 West Sussex County Council,1
 Westminster City Council,1
-Westwood Hall Nursing Home,1
-White Horse Medical Practice,1
-Advisory Council on the Misuse of Drugs,1
-Addison House Surgery,1
-Acer Mews Care Home,1
-Abbey Place Nursing Home,1
-Abbey Healthcare Homes Limited,1
-Wandsworth Council,1
-Difficult Airway Society,1
-Doncaster Council,1
-Dorset Council,1
-Crisis Resolution Team,1
-Crown Commercial Services,1
-Croydon Council,1
-Croydon University Hospital,1
-Cumbria Health Limited,1
-"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",1
-Cyngor Bwrdeistref Sirol Pen-y-Bont ar Ogwr,1
-Dalton Surgery,1
-Clare House Surgery,1
-Complex Spine Clinic,1
-County Durham & Darlington NHS Foundation Trust,1
-"Chief Executive, Integrated Care Board",1
-Castlegate & Derwent Surgery,1
-Central London Community Healthcare NHS Trust,1
-Chartered Insurance Institute,1
-Chelsea and Westminster Hospital NHS Foundation Trust,1
-Cheshire Constabulary,1
-Chesterfield Borough Council,1
-Chief Constable Greater Manchester Police,1
-Daryel Care,1
-Daynight Pharmacy,1
-Dearne Valley Group Practice,1
-Deliveroo,1
-Chief Executive of Cheshire and Wirral Partnership NHS Trust,1
-Chief Executive of Worcestershire County Council,1
-Chief Executive – Hull Royal Infirmary,1
-Care4U Healthcare,1
-British Association of Perinatal Medicine,1
-Minster Care Group,1
-Monmouthshire County Council,1
-Moorbridge School,1
-Mountfield Surgery,1
-"Mr Nick Mallaband, Acting Chief Medical Director, Doncaster & Bassetlaw NHS Foundation Trust",1
-Musgrove Park Hospital,1
-"Managing Director, Sussex Medical Chambers",1
-Mandeville Grange Nursing Home,1
-Marine Lake Medical Practice,1
-Maritime and Coastguard Agency,1
-Maylands Healthcare Surgery,1
-Meanwood Group Practice,1
-Medical Engineer,1
-HM Prison & Probation Service,1
-Merthyr Tydfil County Borough Council,1
-Metropolitan Police Service (MPS),1
-Mid and West Wales Fire and Rescue Service,1
-Middlesbrough Council,1
-Lincolnshire County Council,1
-Lincolnshire Police,1
-LivaNova UK Limited,1
-London Ambulance Service NHS Trust,1
-London Borough of Barking and Dagenham,1
-London Borough of Bexley,1
-London Borough of Bromley,1
-London Borough of Hammersmith & Fulham,1
-London Borough of Havering,1
-London Borough of Richmond upon Thames,1
-Medicines and Healthcare Projects Regulation Authority,1
-National Director FOR Mental Health,1
-National Farmers Union,1
-NEATH PORT TALBOT COUNCIL,1
-NHS Birmingham and Solihull ICB,1
-NHS Black Country ICB,1
-NHS Cornwall and Isles of Scilly ICB,1
-NHS Coventry and Warwickshire ICB,1
-NHS Herefordshire and Worcestershire ICB,1
-NHS Hertfordshire and West Essex Integrated Care Board,1
-NHS Kent and Medway Integrated Care Board,1
-NHS Lancashire and South Cumbria Integrated Care Board,1
-NHS Mid and South Essex Integrated Care Board,1
 ASHTON MEDICAL PRACTICE,1
-Midway Pharmacy,1
-British Association for Counselling and Psychotherapy,1
-Milton Keynes City Council,1
-Milton Keynes Urgent Care Service,1
-Cambridgeshire and Peterborough NHS Foundation Trust,1
-Capital Care Group,1
-Cardiff & Vale University Health Board,1
-Cardiff and Vale University Health Board,1
-Cardinal Health,1
-Bradford District Care NHS Foundation Trust,1
-Bradford Teaching Hospitals NHS Foundation Trust,1
-Brake,1
-Brinnington Surgery,1
-British Aerosol Manufacturers Association,1
-British Agricultural and Garden Machinery Association,1
-British Airline Pilots’ Association,1
-Mills Family Ltd,1
-Henning Hall Nursing Home,1
-Herefordshire and Worcestershire Health and Care NHS Trust,1
-Hertfordshire County Council,1
-High Meadows Care Home,1
-Hillcare Group,1
-His Majesty’s Prison & Probation Service,1
-Holcroft Grange,1
-Holderness Health – Hedon Group Practice.,1
-Home Group Limited,1
-Homerton Healthcare NHS Foundation Trust,1
-"Hospital Manager, Goring Hall",1
-Hotpoint UK Appliances Limited,1
-Hounslow Council,1
-Howlish Hall Care Home,1
-London Fire Brigade (LFB),1
-HM Prison Woodhill,1
-HM Prison Wymott,1
-HMP Coldingley,1
-Hackney Council,1
-Hampshire County Council,1
-Hampshire and IOW Constabulary,1
-Hartlepool Council,1
-Hatton Traffic Management,1
-Health Services Safety Investigations Body,1
-Health Services Safety Investigations Body (HSSIB),1
-Health and Care Professions Council,1
-Greater Manchester Mental Health NHS Foundation Trust,1
-Green Range Limited,1
-HCRG Care Group,1
-Hull City Council,1
-London Metropolitan Police,1
-Lukka Care Homes Limited,1
-MJ Events,1
-Macklin Street Surgery,1
-Malhorta Group,1
-Kingkabs Limited,1
-Kingston Council,1
-Lambeth Council,1
-Landlord,1
-Leeds City Council,1
-Leeds Community Healthcare NHS Trust,1
-Leeds Survivor-Led Crisis Service (Leeds OASIS),1
-Leeds Teaching Hospitals NHS Trust,1
-Leeds and Yorkshire Partnership Foundation Trust (Intensive Supportive Service),1
-Kent Police,1
-Leicestershire Partnership NHS Trust,1
-Lifestar Medical Limited,1
-Lifeway Care Ltd,1
-Hull Royal Infirmary,1
-Humber Teaching NHS Foundation Trust,1
-IPRS Aeromed,1
-Inspire You Care Ltd,1
-Integrated Care Board,1
-Integrated Care Board (NHS North East and North Cumbria),1
-Internation Scientific Supplies Ltd,1
-International Academies of Emergency Dispatch,1
-James Paget University NHS Foundation Trust,1
-Just Eats,1
-Kenny & Murphy Limited,1
-Kent Central Ambulance Service,1
-Leicestershire County Council,1
+Abbey Healthcare Homes Limited,1
+Addison House Surgery,1
+Advisory Council on the Misuse of Drugs,1
+Affinity Water,1
+Williams and Spenceley Limited,1
+Willow Grange Care Home,1
+Wrexham County Borough Council,1
+YAS Legal,1
+York & Scarborough NHS Trust,1
+Your Health Partnership Regis Medical Centre,1
