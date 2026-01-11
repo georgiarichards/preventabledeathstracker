@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,126,14,8,82,22,65
-NHS England,102,6,8,68,20,67
-REDACTED,31,16,8,6,1,19
-Department for Transport,31,2,4,21,4,68
+Department of Health and Social Care,126,15,7,82,22,65
+NHS England,107,7,12,68,20,64
+Department for Transport,32,3,4,21,4,66
+REDACTED,31,18,6,6,1,19
 Home Office,24,12,0,8,4,33
 HM Prison and Probation Service,20,3,3,10,4,50
-Ministry of Justice,19,3,3,6,7,32
-Care Quality Commission,15,0,2,7,6,47
+Ministry of Justice,19,3,2,6,8,32
 National Institute for Health and Care Excellence,15,1,2,10,2,67
-Medicines and Healthcare Products Regulatory Agency,12,3,2,6,1,50
+Care Quality Commission,15,0,2,7,6,47
 College of Policing,12,2,0,6,4,50
+Medicines and Healthcare Products Regulatory Agency,12,3,2,6,1,50
 National Highways,11,0,0,8,3,73
 Health and Safety Executive,10,0,1,7,2,70
-"Ministry of Housing, Communities and Local Government",8,2,1,4,1,50
 University Hospitals Birmingham NHS Foundation Trust,8,0,1,6,1,75
-Royal College of Obstetricians and Gynaecologists,7,1,0,5,1,71
-Office for Product Safety and Standards,7,0,0,7,0,100
-Mid and South Essex NHS Foundation Trust,7,0,1,6,0,86
-Royal College of Paediatrics and Child Health,7,0,0,7,0,100
-"Department for Culture, Media and Sport",7,1,0,6,0,86
-NHS Greater Manchester Integrated Care Board,7,0,1,6,0,86
+"Ministry of Housing, Communities and Local Government",8,2,1,4,1,50
+East Midlands Ambulance Service NHS Trust,8,3,3,1,1,12
 Sussex Partnership NHS Foundation Trust,7,2,0,5,0,71
-Royal College of Emergency Medicine,6,1,0,4,1,67
-Barts Health NHS Trust,6,1,1,3,1,50
-Department for Education,6,1,1,1,3,17
+Royal College of Obstetricians and Gynaecologists,7,1,0,5,1,71
+Mid and South Essex NHS Foundation Trust,7,0,1,6,0,86
+"Department for Culture, Media and Sport",7,1,0,6,0,86
+Royal College of Paediatrics and Child Health,7,0,0,7,0,100
+Office for Product Safety and Standards,7,0,0,7,0,100
+NHS Greater Manchester Integrated Care Board,7,1,0,6,0,86
 Betsi Cadwaladr University Health Board,6,0,0,6,0,100
-East Midlands Ambulance Service NHS Trust,5,3,0,1,1,20
-Royal Free London NHS Foundation Trust,5,0,0,5,0,100
-Royal Cornwall Hospitals NHS Trust,5,0,2,2,1,40
-Royal College of General Practitioners,5,1,0,4,0,80
+Department for Education,6,1,1,1,3,17
+Barts Health NHS Trust,6,1,1,3,1,50
+Royal College of Emergency Medicine,6,1,0,4,1,67
+Aneurin Bevan University Health Board,5,0,1,4,0,80
+National Police Chiefs’ Council,5,1,0,3,1,60
+Milton Keynes University Hospital NHS Foundation Trust,5,1,0,3,1,60
