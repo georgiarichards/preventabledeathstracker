@@ -1,10 +1,10 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,126,39,7,80,63
-NHS England,107,12,12,83,78
-Department for Transport,32,5,4,23,72
-REDACTED,31,19,6,6,19
+Department of Health and Social Care,126,40,6,80,63
+NHS England,107,14,10,83,78
+Department for Transport,32,6,3,23,72
+REDACTED,31,20,5,6,19
 Home Office,24,15,0,9,38
-HM Prison and Probation Service,20,6,3,11,55
+HM Prison and Probation Service,20,7,2,11,55
 Ministry of Justice,19,10,2,7,37
 National Institute for Health and Care Excellence,15,3,2,10,67
 Care Quality Commission,15,3,2,10,67
@@ -31,7 +31,7 @@ National Police Chiefs’ Council,5,3,0,2,40
 Milton Keynes University Hospital NHS Foundation Trust,5,2,0,3,60
 Metropolitan Police Service,5,2,0,3,60
 Practice Plus Group,5,2,0,3,60
-Driver and Vehicle Standards Agency,5,2,3,0,0
+Driver and Vehicle Standards Agency,5,3,2,0,0
 Welsh Government,5,2,0,3,60
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,2,0,3,60
 Royal Free London NHS Foundation Trust,5,0,0,5,100
@@ -70,7 +70,7 @@ University Hospitals Plymouth NHS Trust,3,1,1,1,33
 HM Prison Wandsworth,3,3,0,0,0
 General Medical Council,3,1,0,2,67
 Greater Manchester Police,3,0,1,2,67
-Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3,1,1,1,33
+Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3,1,0,2,67
 Devon Partnership NHS Trust,3,1,0,2,67
 NHS Birmingham and Solihull Integrated Care Board,3,1,0,2,67
 Essex Partnership University NHS Foundation Trust,3,1,0,2,67
@@ -84,13 +84,13 @@ Northumbria Healthcare NHS Foundation Trust,3,0,0,3,100
 Civil Aviation Authority,3,0,0,3,100
 Ministry of Defence,3,0,0,3,100
 East London NHS Foundation Trust,3,0,1,2,67
-Department for Business and Trade,3,1,2,0,0
+Department for Business and Trade,3,2,1,0,0
 "Department for Science, Innovation and Technology",3,1,0,2,67
 Harbour Healthcare Ltd,3,1,0,2,67
 Care UK,3,0,0,3,100
 Royal College of Pathologists,3,1,1,1,33
 Royal College of Physicians,3,0,0,3,100
-The Princess Alexandra Hospital NHS Trust,2,0,1,1,50
+The Princess Alexandra Hospital NHS Trust,2,1,0,1,50
 Birmingham City Council,2,0,0,2,100
 Bradford Council,2,0,0,2,100
 "Tees, Esk and Wear Valley NHS Foundation Trust",2,1,0,1,50
@@ -101,10 +101,10 @@ South Wales Police,2,1,0,1,50
 South Tyneside and Sunderland NHS Foundation Trust,2,1,0,1,50
 South Western Ambulance Service NHS Foundation Trust,2,0,0,2,100
 Surrey and Borders Partnership NHS Foundation Trust,2,0,0,2,100
-South Yorkshire Police,2,0,1,1,50
+South Yorkshire Police,2,1,0,1,50
 Association of Anaesthetists,2,1,0,1,50
 The Newcastle upon Tyne Hospitals NHS Foundation Trust,2,1,0,1,50
-York and Scarborough Teaching Hospitals NHS Foundation Trust,2,1,1,0,0
+York and Scarborough Teaching Hospitals NHS Foundation Trust,2,2,0,0,0
 Association of Ambulance Chief Executives,2,0,0,2,100
 North West Anglia NHS Foundation Trust,2,0,0,2,100
 North West Ambulance Service NHS Trust,2,0,0,2,100
@@ -439,7 +439,7 @@ Norfolk and Suffolk NHS Foundation Trust,1,0,0,1,100
 North Court Care Home – Maven Healthcare,1,0,0,1,100
 North Cumbria Integrated Care NHS Foundation Trust,1,0,0,1,100
 North East Ambulance Service NHS Foundation Trust,1,1,0,0,0
-North Staffordshire Combined Healthcare NHS Trust,1,0,1,0,0
+North Staffordshire Combined Healthcare NHS Trust,1,1,0,0,0
 North Yorkshire Council,1,0,0,1,100
 Chief Executive Of Aneurin Bevan University Health Board,1,1,0,0,0
 Chief Executive Of Velindre University Nhs Trust,1,1,0,0,0
@@ -465,7 +465,7 @@ Cardiff and Vale University Health Board,1,0,0,1,100
 Cardinal Health,1,0,0,1,100
 Care4U Healthcare,1,1,0,0,0
 Castlegate & Derwent Surgery,1,0,0,1,100
-British Sub Aqua Association,1,0,1,0,0
+British Sub Aqua Association,1,1,0,0,0
 British Transplantation Society,1,1,0,0,0
 British Transport Police,1,1,0,0,0
 Brooker Group Limited,1,0,0,1,100
@@ -597,7 +597,7 @@ Bamford Grange Care Home,1,0,0,1,100
 Barchester Healthcare Ltd,1,0,0,1,100
 Tower Hamlets Council,1,1,0,0,0
 Townhead Surgery,1,0,0,1,100
-Toyota PLC,1,0,1,0,0
+Toyota PLC,1,1,0,0,0
 UK Kidney Association,1,1,0,0,0
 UK Major Ports Group,1,0,0,1,100
 Uber Eats,1,0,0,1,100

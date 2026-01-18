@@ -1,10 +1,10 @@
 Addressed to,2018.0,2019.0,2022.0,2023.0,2024.0,2025.0,2026.0,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,0,0,0,1,20,104,0,125,65,82,22,15,7
-NHS England,0,1,0,1,25,73,5,105,64,68,20,7,12
-Department for Transport,1,0,0,0,8,23,0,32,66,21,4,3,4
-REDACTED,0,0,0,0,0,30,0,30,19,6,1,18,6
+Department of Health and Social Care,0,0,0,1,20,104,0,125,65,82,22,16,6
+NHS England,0,1,0,1,25,73,5,105,64,68,20,9,10
+Department for Transport,1,0,0,0,8,23,0,32,66,21,4,4,3
+REDACTED,0,0,0,0,0,30,0,30,19,6,1,19,5
 Home Office,0,0,0,0,3,21,0,24,33,8,4,12,0
-HM Prison and Probation Service,0,0,0,0,5,15,0,20,50,10,4,3,3
+HM Prison and Probation Service,0,0,0,0,5,15,0,20,50,10,4,4,2
 Ministry of Justice,0,0,0,0,4,15,0,19,32,6,8,3,2
 National Institute for Health and Care Excellence,0,0,0,0,2,13,0,15,67,10,2,1,2
 Care Quality Commission,0,0,0,0,2,13,0,15,47,7,6,0,2
@@ -36,7 +36,7 @@ Milton Keynes University Hospital NHS Foundation Trust,0,0,0,0,0,5,0,5,60,3,1,1,
 Metropolitan Police Service,0,0,0,0,0,5,0,5,60,3,1,1,0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,0,0,0,0,0,5,0,5,60,3,0,2,0
 Aneurin Bevan University Health Board,0,0,0,0,1,4,0,5,80,4,0,0,1
-Driver and Vehicle Standards Agency,0,0,0,0,2,3,0,5,0,0,2,0,3
+Driver and Vehicle Standards Agency,0,0,0,0,2,3,0,5,0,0,2,1,2
 Stockport NHS Foundation Trust,0,0,0,0,0,4,0,4,50,2,1,1,0
 North London NHS Foundation Trust,0,0,0,0,1,3,0,4,100,4,0,0,0
 Worcestershire Acute Hospitals NHS Trust,0,0,0,0,1,3,0,4,75,3,1,0,0
@@ -84,7 +84,7 @@ Swansea Bay University Health Board,0,0,0,0,0,3,0,3,100,3,0,0,0
 University Hospitals Plymouth NHS Trust,0,0,0,0,1,2,0,3,33,1,1,0,1
 University Hospitals of North Midlands NHS Trust,0,0,0,0,1,2,0,3,100,3,0,0,0
 Essex County Council,0,0,0,0,0,3,0,3,67,2,0,1,0
-Department for Business and Trade,0,0,0,0,0,3,0,3,0,0,0,1,2
+Department for Business and Trade,0,0,0,0,0,3,0,3,0,0,0,2,1
 Devon Partnership NHS Trust,0,0,0,0,0,3,0,3,67,2,1,0,0
 Devon and Cornwall Police,0,0,0,0,0,3,0,3,67,2,0,0,1
 Blackpool Teaching Hospitals NHS Foundation Trust,0,0,0,0,0,3,0,3,67,2,0,1,0
@@ -102,9 +102,9 @@ Shrewsbury and Telford Hospital NHS Trust,0,0,0,0,0,2,0,2,100,2,0,0,0
 Sherwood Forest Hospitals NHS Foundation Trust,0,0,0,0,0,2,0,2,0,0,0,1,1
 Royal College of Anaesthetists,0,0,0,0,0,2,0,2,0,0,1,1,0
 Royal Berkshire NHS Foundation Trust,0,0,0,0,0,2,0,2,100,2,0,0,0
-York and Scarborough Teaching Hospitals NHS Foundation Trust,0,0,0,0,0,2,0,2,0,0,0,1,1
+York and Scarborough Teaching Hospitals NHS Foundation Trust,0,0,0,0,0,2,0,2,0,0,0,2,0
 Warwickshire Police,0,0,0,0,0,2,0,2,0,0,0,1,1
-The Princess Alexandra Hospital NHS Trust,0,0,0,0,0,2,0,2,50,1,0,0,1
+The Princess Alexandra Hospital NHS Trust,0,0,0,0,0,2,0,2,50,1,0,1,0
 The Newcastle upon Tyne Hospitals NHS Foundation Trust,0,0,0,0,0,2,0,2,50,1,0,1,0
 Thames Valley Police,0,0,0,0,0,2,0,2,50,1,0,0,1
 "Tees, Esk and Wear Valley NHS Foundation Trust",0,0,0,0,0,2,0,2,50,1,0,1,0
@@ -155,7 +155,7 @@ Frimley Health NHS Foundation Trust,0,0,0,0,0,2,0,2,50,1,0,0,1
 Essex Partnership University NHS Trust,0,0,0,0,0,2,0,2,100,2,0,0,0
 Associated British Ports,0,0,0,0,1,1,0,2,100,2,0,0,0
 The Royal Wolverhampton NHS Trust,0,0,0,0,1,1,0,2,100,2,0,0,0
-South Yorkshire Police,0,0,0,1,0,1,0,2,50,1,0,0,1
+South Yorkshire Police,0,0,0,1,0,1,0,2,50,1,0,1,0
 South West Yorkshire Partnership NHS Foundation Trust,0,0,0,1,0,1,0,2,100,2,0,0,0
 Royal Yachting Association,0,0,0,0,2,0,0,2,100,2,0,0,0
 British Standards Institution,0,0,0,0,2,0,0,2,100,2,0,0,0
@@ -284,7 +284,7 @@ Central London Community Healthcare NHS Trust,0,0,0,0,0,1,0,1,100,1,0,0,0
 Chartered Insurance Institute,0,0,0,0,0,1,0,1,0,0,0,0,1
 Cheshire Constabulary,0,0,0,0,0,1,0,1,100,1,0,0,0
 British Society of Gastroenterology,0,0,0,0,0,1,0,1,100,1,0,0,0
-British Sub Aqua Association,0,0,0,0,0,1,0,1,0,0,0,0,1
+British Sub Aqua Association,0,0,0,0,0,1,0,1,0,0,1,0,0
 Brooker Group Limited,0,0,0,0,0,1,0,1,100,1,0,0,0
 CGL (Ealing RISE),0,0,0,0,0,1,0,1,100,1,0,0,0
 Cabinet Office,0,0,0,0,0,1,0,1,0,0,0,1,0
@@ -490,7 +490,7 @@ Neonatal Network,0,0,0,0,0,1,0,1,100,1,0,0,0
 North Court Care Home – Maven Healthcare,0,0,0,0,0,1,0,1,100,1,0,0,0
 North Cumbria Integrated Care NHS Foundation Trust,0,0,0,0,0,1,0,1,100,1,0,0,0
 North East Ambulance Service NHS Foundation Trust,0,0,0,0,0,1,0,1,100,1,0,0,0
-North Staffordshire Combined Healthcare NHS Trust,0,0,0,0,0,1,0,1,0,0,0,0,1
+North Staffordshire Combined Healthcare NHS Trust,0,0,0,0,0,1,0,1,0,0,0,1,0
 NHS Northamptonshire Integrated Care Board,0,0,0,0,0,1,0,1,0,0,0,0,1
 "NHS Shropshire, Telford and Wrekin ICB",0,0,0,0,0,1,0,1,0,0,1,0,0
 NHS South West London Integrated Care Board,0,0,0,0,0,1,0,1,100,1,0,0,0
@@ -537,7 +537,7 @@ The Unite Group plc,0,0,0,0,0,1,0,1,100,1,0,0,0
 The York Hospital,0,0,0,0,0,1,0,1,0,0,0,0,1
 Tower Hamlets Council,0,0,0,0,0,1,0,1,0,0,1,0,0
 Townhead Surgery,0,0,0,0,0,1,0,1,100,1,0,0,0
-Toyota PLC,0,0,0,0,0,1,0,1,0,0,0,0,1
+Toyota PLC,0,0,0,0,0,1,0,1,0,0,0,1,0
 Bolton Council,0,0,0,0,1,0,0,1,100,1,0,0,0
 The Nerams Group,0,0,0,0,0,1,0,1,100,1,0,0,0
 The Pembroke Medical Practice,0,0,0,0,0,1,0,1,100,1,0,0,0
@@ -557,7 +557,7 @@ The Mayor of London,0,0,0,0,0,1,0,1,0,0,0,0,1
 The Medicine and Healthcare Products and Regulatory Agency,0,0,0,0,0,1,0,1,100,1,0,0,0
 Stoke Talking Therapies,0,0,0,0,0,1,0,1,0,0,1,0,0
 Stryker (UK) Ltd,0,0,0,0,0,1,0,1,100,1,0,0,0
-Sub Aqua Association Spcae Solutions Business Centre,0,0,0,0,0,1,0,1,0,0,0,0,1
+Sub Aqua Association Spcae Solutions Business Centre,0,0,0,0,0,1,0,1,0,0,1,0,0
 Surrey Police,0,0,0,0,0,1,0,1,100,1,0,0,0
 TUI UK,0,0,0,0,0,1,0,1,100,1,0,0,0
 Tameside Metropolitan Borough Council,0,0,0,0,0,1,0,1,100,1,0,0,0
