@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,129,41,8,80,62
-NHS England,108,16,9,83,77
-Department for Transport,32,6,3,23,72
-REDACTED,31,22,3,6,19
-Home Office,24,15,0,9,38
-HM Prison and Probation Service,22,8,3,11,50
-Ministry of Justice,19,10,2,7,37
+Department of Health and Social Care,128,37,9,82,64
+NHS England,105,11,12,82,78
+REDACTED,31,20,3,8,26
+Department for Transport,31,5,2,24,77
+Home Office,22,13,0,9,41
+HM Prison and Probation Service,20,5,2,13,65
+Ministry of Justice,18,10,2,6,33
+Care Quality Commission,16,4,2,10,62
 National Institute for Health and Care Excellence,16,3,3,10,62
-Care Quality Commission,16,3,3,10,62
+Medicines and Healthcare Products Regulatory Agency,13,4,3,6,46
+College of Policing,12,3,0,9,75
 National Highways,12,3,0,9,75
-Medicines and Healthcare Products Regulatory Agency,12,4,2,6,50
-College of Policing,12,4,0,8,67
-Health and Safety Executive,10,2,1,7,70
+Health and Safety Executive,10,3,0,7,70
 "Ministry of Housing, Communities and Local Government",8,4,1,3,38
-Mid and South Essex NHS Foundation Trust,8,1,1,6,75
-University Hospitals Birmingham NHS Foundation Trust,8,0,1,7,88
+Mid and South Essex NHS Foundation Trust,8,2,0,6,75
 "Department for Culture, Media and Sport",8,1,1,6,75
-East Midlands Ambulance Service NHS Trust,8,4,3,1,12
-Department for Education,8,1,2,5,62
-NHS Greater Manchester Integrated Care Board,7,2,0,5,71
-Sussex Partnership NHS Foundation Trust,7,2,0,5,71
+East Midlands Ambulance Service NHS Trust,8,3,3,2,25
+University Hospitals Birmingham NHS Foundation Trust,8,0,1,7,88
 Office for Product Safety and Standards,7,1,0,6,86
-Royal College of Paediatrics and Child Health,7,0,0,7,100
+NHS Greater Manchester Integrated Care Board,7,2,0,5,71
+Department for Education,7,2,1,4,57
 Betsi Cadwaladr University Health Board,7,0,1,6,86
-Royal College of Obstetricians and Gynaecologists,7,1,0,6,86
+Royal College of Paediatrics and Child Health,6,0,0,6,100
 Barts Health NHS Trust,6,1,1,4,67
+Sussex Partnership NHS Foundation Trust,6,1,0,5,83
+Royal College of Obstetricians and Gynaecologists,6,1,0,5,83
+Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,6,2,1,3,50
 Royal College of Emergency Medicine,6,2,0,4,67
-Essex Partnership University NHS Foundation Trust,5,1,2,2,40
-Royal Free London NHS Foundation Trust,5,0,0,5,100
-Royal Cornwall Hospitals NHS Trust,5,2,1,2,40
+Essex Partnership University NHS Foundation Trust,5,3,0,2,40
+National Police Chiefs’ Council,5,2,0,3,60
