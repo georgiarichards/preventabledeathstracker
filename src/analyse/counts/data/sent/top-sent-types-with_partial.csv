@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,130,14,13,83,20,64
-NHS England,110,6,22,64,18,58
+Department of Health and Social Care,133,14,16,83,20,62
+NHS England,110,10,17,64,19,58
 REDACTED,35,15,5,8,7,23
 Department for Transport,29,2,1,20,6,69
 Home Office,23,9,1,9,4,39
@@ -14,18 +14,18 @@ College of Policing,12,1,0,7,4,58
 Health and Safety Executive,10,0,1,7,2,70
 NHS Greater Manchester Integrated Care Board,9,1,1,7,0,78
 Mid and South Essex NHS Foundation Trust,8,1,0,7,0,88
-East Midlands Ambulance Service NHS Trust,8,2,3,2,1,25
-"Ministry of Housing, Communities and Local Government",8,2,0,4,2,50
 Department for Education,8,1,2,1,4,12
-University Hospitals Birmingham NHS Foundation Trust,7,0,1,5,1,71
-Royal College of Obstetricians and Gynaecologists,7,1,1,5,0,71
-Office for Product Safety and Standards,7,0,0,7,0,100
-Betsi Cadwaladr University Health Board,7,0,1,6,0,86
+Betsi Cadwaladr University Health Board,8,0,2,6,0,75
+East Midlands Ambulance Service NHS Trust,8,4,0,2,2,25
+"Ministry of Housing, Communities and Local Government",8,2,0,4,2,50
 "Department for Culture, Media and Sport",7,0,1,6,0,86
-Metropolitan Police Service,6,1,1,3,1,50
-Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,6,2,1,3,0,50
-Aneurin Bevan University Health Board,6,0,1,5,0,83
+University Hospitals Birmingham NHS Foundation Trust,7,0,1,5,1,71
+Barts Health NHS Trust,7,2,1,3,1,43
+Royal College of Obstetricians and Gynaecologists,7,1,1,5,0,71
+Aneurin Bevan University Health Board,7,0,2,5,0,71
+Office for Product Safety and Standards,7,0,0,7,0,100
 Sussex Partnership NHS Foundation Trust,6,0,0,6,0,100
-Royal Cornwall Hospitals NHS Trust,6,1,2,3,0,50
+Royal College of Emergency Medicine,6,1,0,4,1,67
+Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,6,2,1,3,0,50
 Royal College of Paediatrics and Child Health,6,0,0,6,0,100
-National Police Chiefs’ Council,6,0,1,4,1,67
+Metropolitan Police Service,6,1,1,3,1,50
