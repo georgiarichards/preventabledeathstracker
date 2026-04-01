@@ -1,81 +1,80 @@
 coroner_area,count
-London Inner North,50
-Greater Manchester South,49
-Essex,35
-"West Sussex, Brighton and Hove",30
-Birmingham and Solihull,25
-Cornwall and the Isles of Scilly,24
-London East,24
-Nottinghamshire,22
-Suffolk,21
-South Wales Central,20
-Kent and Medway,19
-Greater Manchester West,19
-East Riding of Yorkshire and Kingston-upon-Hull,18
-Surrey,17
-Cumbria,17
-Worcestershire,17
-Dorset,17
-Northamptonshire,16
-Yorkshire West Western,15
-Cheshire,15
-"County of Devon, Plymouth & Torbay",15
-"Hampshire, Portsmouth and Southampton",15
-County Durham and Darlington,14
-Yorkshire South East,14
-North Wales (East & Central),13
-Yorkshire West Eastern,12
-Gwent,12
-London West,12
-Lancashire and Blackburn with Darwen,11
+Greater Manchester South,39
+London Inner North,35
+Essex,28
+London East,22
+"West Sussex, Brighton and Hove",20
+Cornwall and the Isles of Scilly,19
+Birmingham and Solihull,19
+Suffolk,18
+Kent and Medway,17
+Greater Manchester West,16
+Nottinghamshire,16
+South Wales Central,16
+East Riding of Yorkshire and Kingston-upon-Hull,14
+Worcestershire,14
+Cumbria,14
+Northamptonshire,13
+"County of Devon, Plymouth & Torbay",13
+County Durham and Darlington,13
+Cheshire,13
+"Hampshire, Portsmouth and Southampton",13
+Yorkshire South East,12
+Surrey,12
 London Inner West,11
-Staffordshire and Stoke-on-Trent,11
-Yorkshire South West,11
-Liverpool and the Wirral,11
-Berkshire,10
-London North,10
-Norfolk,10
-London South,10
-London Inner South,9
+Dorset,11
+North Wales (East & Central),10
+Lancashire and Blackburn with Darwen,10
+Yorkshire South West,10
+Gwent,9
+Yorkshire West Eastern,9
 Milton Keynes,9
-Sunderland,8
-Bedfordshire and Luton,8
-Greater Manchester North,8
+London West,9
+London North,9
+Berkshire,8
 The Black Country Jurisdiction,8
-Avon,8
-Blackpool and Fylde,7
-Cambridgeshire and Peterborough,7
+Norfolk,8
+London South,8
+Bedfordshire and Luton,8
+Avon,7
 Derby and Derbyshire,7
-Somerset,7
-Swansea and Neath Port Talbot,7
+Sunderland,7
+Yorkshire West Western,7
 North Yorkshire and York,7
-Gloucestershire,6
-Oxfordshire,6
-Teesside and Hartlepool,5
+Staffordshire and Stoke-on-Trent,6
+London Inner South,6
+Blackpool and Fylde,6
+Greater Manchester North,6
+Liverpool and the Wirral,5
+Swansea and Neath Port Talbot,5
 Northumberland,5
-Rutland and North Leicestershire,5
 Greater Lincolnshire,5
-"Shropshire, Telford and Wrekin",5
 Wiltshire and Swindon,4
+Cambridgeshire and Peterborough,4
+Gloucestershire,4
 East Sussex,4
-Coventry,4
+Rutland and North Leicestershire,4
+Oxfordshire,4
 Warwickshire,4
-North East Kent,4
-Newcastle and North Tyneside,4
-Gateshead and South Tyneside,3
-Ian Potter,3
+Somerset,4
+Coventry,3
+"Shropshire, Telford and Wrekin",3
+North East Kent,3
+Teesside and Hartlepool,3
 Herefordshire,3
-Leicester City and South Leicestershire,3
 London City,3
-North West Kent,2
+Ian Potter,3
+Newcastle and North Tyneside,3
+Gateshead and South Tyneside,2
 "Sefton, Knowsley and St Helens",2
-Buckinghamshire,2
+Leicester City and South Leicestershire,2
+Buckinghamshire,1
 Carmarthenshire and Pembrokeshire,1
 Ceredigion,1
-Manchester City,1
+Manchester,1
 "Devon, Plymouth & Torbay",1
 Hertfordshire,1
-Manchester,1
-North West Wales,1
 South Wales Wales,1
+North West Wales,1
+North West Kent,1
 South Yorkshire,1
