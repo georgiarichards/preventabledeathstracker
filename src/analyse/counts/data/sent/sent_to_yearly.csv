@@ -1,6 +1,6 @@
 Addressed to,2019.0,2022.0,2023.0,2024.0,2025.0,2026.0,Total,% completed,completed,partial,overdue,pending
-Department of Health and Social Care,0,1,1,1,87,29,119,57,69,17,17,17
-NHS England,1,2,1,2,58,31,95,54,52,17,17,11
+Department of Health and Social Care,0,1,1,1,87,29,119,57,69,17,20,14
+NHS England,1,2,1,2,58,31,95,54,52,17,18,10
 REDACTED,0,0,0,0,28,4,32,18,6,10,16,1
 Department for Transport,0,0,0,1,17,5,23,48,11,6,2,4
 Home Office,0,0,0,1,19,2,22,55,12,4,5,1
@@ -15,19 +15,19 @@ NHS Greater Manchester Integrated Care Board,0,0,0,0,8,1,9,78,7,0,2,0
 Medicines and Healthcare Products Regulatory Agency,0,0,0,0,6,3,9,30,3,0,4,3
 Department for Education,0,0,0,0,6,2,8,25,2,4,2,0
 East Midlands Ambulance Service NHS Trust,0,0,0,0,5,3,8,50,4,2,2,0
-Barts Health NHS Trust,0,0,0,0,6,2,8,62,5,0,1,2
+Barts Health NHS Trust,0,0,0,0,6,2,8,62,5,0,2,1
 Royal College of General Practitioners,0,0,0,0,3,4,7,57,4,0,0,3
 "Ministry of Housing, Communities and Local Government",0,0,0,1,6,0,7,57,4,2,1,0
 University Hospitals Birmingham NHS Foundation Trust,0,0,0,0,6,0,6,71,5,1,0,1
 "Department for Culture, Media and Sport",0,0,0,0,5,1,6,100,6,0,0,0
-Aneurin Bevan University Health Board,0,0,0,0,4,2,6,67,4,0,1,1
+Aneurin Bevan University Health Board,0,0,0,0,4,2,6,67,4,0,2,0
 Royal College of Obstetricians and Gynaecologists,0,0,0,0,5,1,6,83,5,0,1,0
 Royal College of Paediatrics and Child Health,0,0,0,0,5,1,6,83,5,0,0,1
 Practice Plus Group,0,0,0,0,4,2,6,17,1,2,1,2
-Betsi Cadwaladr University Health Board,0,0,0,0,4,2,6,83,5,0,0,1
+Betsi Cadwaladr University Health Board,0,0,0,0,4,2,6,83,5,0,1,0
 Milton Keynes University Hospital NHS Foundation Trust,0,0,0,0,5,0,5,60,3,2,0,0
-East Suffolk and North Essex NHS Foundation Trust,0,0,0,0,2,3,5,80,4,0,0,1
-Stockport NHS Foundation Trust,0,0,0,0,4,1,5,40,2,1,1,1
+East Suffolk and North Essex NHS Foundation Trust,0,0,0,0,2,3,5,80,4,0,1,0
+Stockport NHS Foundation Trust,0,0,0,0,4,1,5,40,2,1,2,0
 Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,0,0,0,0,4,1,5,40,2,0,3,0
 Driver and Vehicle Standards Agency,0,0,0,0,3,2,5,20,1,2,0,2
 Royal College of Emergency Medicine,0,0,0,0,5,0,5,80,4,0,1,0
@@ -65,14 +65,14 @@ Royal College of Surgeons,0,0,0,0,2,1,3,33,1,1,0,1
 Royal Free London NHS Foundation Trust,0,0,0,0,2,1,3,67,2,0,0,1
 York and Scarborough Teaching Hospitals NHS Foundation Trust,0,0,0,0,2,1,3,0,0,0,2,1
 Department for Work and Pensions,0,0,0,0,2,1,3,0,0,1,2,0
-Cardiff and Vale University Health Board,0,0,0,0,1,2,3,33,1,0,0,2
+Cardiff and Vale University Health Board,0,0,0,0,1,2,3,33,1,0,1,1
 Midlands Partnership University NHS Foundation Trust,0,0,0,0,1,2,3,0,0,1,1,1
 Frimley Health NHS Foundation Trust,0,0,0,0,2,1,3,67,2,0,0,1
 Lincolnshire Police,0,0,0,0,2,1,3,67,2,1,0,0
 Kent and Medway NHS and Social Care Partnership Trust,0,0,0,0,2,1,3,100,3,0,0,0
 National Police Chiefs’ Council,0,0,0,0,2,1,3,67,2,0,1,0
 Manchester University NHS Foundation Trust,0,0,0,0,2,1,3,100,3,0,0,0
-North West Ambulance Service NHS Trust,0,0,0,0,2,1,3,67,2,0,0,1
+North West Ambulance Service NHS Trust,0,0,0,0,2,1,3,67,2,0,1,0
 Northern Care Alliance NHS Foundation Trust,0,0,0,0,2,1,3,67,2,0,0,1
 South West Yorkshire Partnership NHS Foundation Trust,0,0,1,0,1,1,3,67,2,0,0,1
 South Yorkshire Police,0,0,1,0,1,1,3,67,2,0,1,0
@@ -84,7 +84,7 @@ North East London NHS Foundation Trust,0,0,0,0,1,1,2,50,1,0,0,1
 Birmingham and Solihull Mental Health NHS Foundation Trust,0,0,0,0,1,1,2,0,0,0,1,1
 Oxford University Hospitals NHS Foundation Trust,0,0,0,0,2,0,2,100,2,0,0,0
 Royal Berkshire NHS Foundation Trust,0,0,0,0,2,0,2,100,2,0,0,0
-Swansea Bay University Health Board,0,0,0,0,1,1,2,50,1,0,0,1
+Swansea Bay University Health Board,0,0,0,0,1,1,2,50,1,0,1,0
 Royal College of Psychiatrists,0,0,0,0,2,0,2,0,0,1,1,0
 Sherwood Forest Hospitals NHS Foundation Trust,0,0,0,0,2,0,2,100,2,0,0,0
 Somerset NHS Foundation Trust,0,0,0,0,2,0,2,50,1,0,1,0
@@ -110,7 +110,7 @@ NHS Derby and Derbyshire Integrated Care Board,0,0,0,0,1,1,2,33,1,0,0,2
 HM Prison Wandsworth,0,0,0,0,1,1,2,0,0,1,1,0
 Essex County Council,0,0,0,0,2,0,2,100,2,0,0,0
 Central London Community Healthcare NHS Trust,0,0,0,0,1,1,2,50,1,0,0,1
-Cwm Taf Morgannwg University Health Board,0,0,0,0,1,1,2,0,0,1,0,1
+Cwm Taf Morgannwg University Health Board,0,0,0,0,1,1,2,0,0,1,1,0
 Welsh Government,0,0,0,0,2,0,2,50,1,1,0,0
 Nottingham University Hospitals NHS Trust,0,0,0,0,2,0,2,100,2,0,0,0
 Nottingham and Nottinghamshire Police,0,0,0,0,2,0,2,0,0,1,1,0
@@ -243,7 +243,7 @@ Royal Pharmaceutical Society,0,0,0,0,1,0,1,100,1,0,0,0
 Somerset NHS Foundation Trust (Musgrove Park Hospital Trust),0,0,0,0,1,0,1,100,1,0,0,0
 The Care Bureau,0,0,0,0,0,1,1,0,0,0,0,1
 Multi-Care Community Services Suffolk,0,0,0,0,0,1,1,0,0,0,0,1
-NHS Blood and Transplant,0,0,0,0,0,1,1,0,0,0,0,1
+NHS Blood and Transplant,0,0,0,0,0,1,1,0,0,0,1,0
 NHS Cornwall and Isles of Scilly Integrated Care Board,0,0,0,0,0,1,1,0,0,1,0,0
 NHS Digital,0,0,0,0,0,1,1,0,0,0,0,1
 NHS Pathways/ NHS Digital,0,0,0,0,0,1,1,0,0,0,0,1
@@ -251,7 +251,7 @@ NHS Suffolk and North East Essex Integrated Care Board,0,0,0,0,0,1,1,0,0,0,1,0
 National Crime Agency,0,0,0,0,0,1,1,0,0,0,0,1
 Natural Resources Wales,0,0,0,0,0,1,1,0,0,0,1,0
 Neath Port Talbot County Borough Council,0,0,0,0,0,1,1,0,0,0,1,0
-Newport City Council – Highways,0,0,0,0,0,1,1,0,0,0,0,1
+Newport City Council – Highways,0,0,0,0,0,1,1,0,0,0,1,0
 Norfolk Swift Response,0,0,0,0,0,1,1,100,1,0,0,0
 North Devon Council,0,0,0,0,0,1,1,0,0,0,0,1
 Nottinghamshire Healthcare NHS Foundation Trust,0,0,0,0,1,0,1,0,0,1,0,0
@@ -260,7 +260,7 @@ Northumberland County Council,0,0,0,0,0,1,1,0,0,0,0,1
 Northwest Ambulance Service,0,0,0,0,0,1,1,0,0,0,0,1
 Haleon UK Trading Limited,0,0,0,0,0,1,1,0,0,0,0,1
 Hull University Teaching Hospitals NHS Trust,0,0,0,0,0,1,1,0,0,1,0,0
-Hywel Dda University Health Board,0,0,0,0,0,1,1,0,0,0,0,1
+Hywel Dda University Health Board,0,0,0,0,0,1,1,0,0,0,1,0
 Ignite Health and Homecare Services,0,0,0,0,0,1,1,100,1,0,0,0
 Isle of Wight NHS Trust,0,0,0,0,0,1,1,100,1,0,0,0
 Joint Royal Colleges Ambulance Liaison Committee,0,0,0,0,0,1,1,0,0,0,0,1
@@ -273,7 +273,7 @@ North Middlesex University Hospital,0,0,0,0,0,1,1,0,0,0,0,1
 Ordnance Survey,0,0,0,0,0,1,1,0,0,0,0,1
 Oxleas,0,0,0,0,0,1,1,0,0,0,1,0
 Phoenix Futures,0,0,0,0,0,1,1,0,0,0,0,1
-Powys Teaching Health Board,0,0,0,0,0,1,1,0,0,0,0,1
+Powys Teaching Health Board,0,0,0,0,0,1,1,0,0,0,1,0
 Premiere Health Ltd,0,0,0,0,0,1,1,0,0,0,1,0
 "Prison, Probation and Reducing Offending",0,0,0,0,0,1,1,0,0,0,1,0
 Prisons and Probation Ombudsman,0,0,0,0,0,1,1,0,0,0,0,1
@@ -304,7 +304,7 @@ Cyngor Sir Powys County Council,0,0,0,0,0,1,1,0,0,0,1,0
 Darlington Borough Council,0,0,0,0,0,1,1,0,0,0,0,1
 "Department for Prison, Probation and Reducing Reoffending",0,0,0,0,0,1,1,0,0,0,0,1
 Department for Women’s Health and Metal Health,0,0,0,0,0,1,1,0,0,0,0,1
-Derby City Council,0,0,0,0,0,1,1,0,0,0,0,1
+Derby City Council,0,0,0,0,0,1,1,0,0,0,1,0
 Alternative Futures Group,0,0,0,0,0,1,1,0,0,0,0,1
 Anglican Water,0,0,0,0,0,1,1,0,0,0,0,1
 Association of the British Pharmaceutical Industry,0,0,0,0,0,1,1,100,1,0,0,0
@@ -315,7 +315,7 @@ Bannau Brycheiniog National Park,0,0,0,0,0,1,1,0,0,0,1,0
 Metroplolis,0,0,0,0,0,1,1,0,0,0,0,1
 British Health Trades Association,0,0,0,0,0,1,1,0,0,0,0,1
 Broomwell Health Watch LYD,0,0,0,0,0,1,1,0,0,0,1,0
-Canal & River Trust,0,0,0,0,0,1,1,0,0,0,0,1
+Canal & River Trust,0,0,0,0,0,1,1,0,0,0,1,0
 Cann House,0,0,0,0,0,1,1,0,0,0,1,0
 Careline365,0,0,0,0,0,1,1,100,1,0,0,0
 West Sussex County Council,0,0,0,0,1,0,1,100,1,0,0,0
@@ -332,7 +332,7 @@ Metropolis,0,0,0,0,0,1,1,0,0,0,0,1
 Mid Yorkshire Teaching NHS Trust,0,0,0,0,0,1,1,0,0,0,0,1
 Moss Farm,0,0,0,0,0,1,1,0,0,1,0,0
 Mulberry Court Care Home,0,0,0,0,0,1,1,100,1,0,0,0
-Derbyshire County Council,0,0,0,0,0,1,1,0,0,0,0,1
+Derbyshire County Council,0,0,0,0,0,1,1,0,0,0,1,0
 Dorset Healthcare NHS Trust,0,0,0,0,0,1,1,0,0,0,0,1
 Dorset Police,0,0,0,0,0,1,1,0,0,0,0,1
 Durham Police,0,0,0,0,0,1,1,0,0,0,0,1
@@ -347,16 +347,16 @@ HM Prison Bedford,0,0,0,0,0,1,1,0,0,0,1,0
 HM Prison Lincoln,0,0,0,0,0,1,1,0,0,0,0,1
 HM Prison Nottingham,0,0,0,0,0,1,1,0,0,0,0,1
 HM Prison Swaleside,0,0,0,0,0,1,1,0,0,0,0,1
-HUTH,0,0,0,0,0,1,1,0,0,0,0,1
-Caring UK,0,0,0,0,0,1,1,0,0,0,0,1
+HUTH,0,0,0,0,0,1,1,0,0,0,1,0
+Caring UK,0,0,0,0,0,1,1,0,0,0,1,0
 Chelsea and Westminster Hospital NHS Foundation Trust,0,0,0,0,0,1,1,0,0,0,1,0
 Chief Executive of Dorset Healthcare University NHS Foundation Trust (DHUFT),0,0,0,0,0,1,1,0,0,0,1,0
 Chief Executive of the General Medical Council (GMC),0,0,0,0,0,1,1,0,0,0,1,0
 Cleveland Police,0,0,0,0,0,1,1,0,0,0,0,1
 Coastal Homecare,0,0,0,0,0,1,1,0,0,0,0,1
-Colchester General Hospital,0,0,0,0,0,1,1,0,0,0,0,1
+Colchester General Hospital,0,0,0,0,0,1,1,0,0,0,1,0
 Core Highways Group Limited,0,0,0,0,0,1,1,0,0,0,0,1
-County Durham and Darlington NHS Foundation Trust,0,0,0,0,0,1,1,0,0,0,0,1
+County Durham and Darlington NHS Foundation Trust,0,0,0,0,0,1,1,0,0,0,1,0
 Greater Manchester Medicines Management Group,0,0,0,0,0,1,1,0,0,0,1,0
 Croydon Council,0,0,0,0,1,0,1,100,1,0,0,0
 Croydon University Hospital,0,0,0,0,1,0,1,0,0,0,1,0
@@ -435,7 +435,7 @@ Torbay and South Devon NHS Foundation Trust,0,0,0,0,0,1,1,0,0,0,1,0
 Unity Healthcare,0,0,0,0,0,1,1,0,0,0,0,1
 University Health Board,0,0,0,0,0,1,1,0,0,0,1,0
 University Hospitals of Leicester NHS Trust,0,0,0,0,0,1,1,0,0,0,0,1
-Velindre University NHS Trust,0,0,0,0,0,1,1,0,0,0,0,1
+Velindre University NHS Trust,0,0,0,0,0,1,1,0,0,0,1,0
 Vita health Group : Kent and Medway Talking Therapies,0,0,0,0,0,1,1,100,1,0,0,0
 Warwickshire County Council,0,0,0,0,0,1,1,0,0,0,0,1
 Warwickshire County Council – Children with Disabilities team,0,0,0,0,0,1,1,0,0,0,0,1
