@@ -1,50 +1,50 @@
 year
 ====================
-no. reports parsed: 679
-no. years covered: 1.1
-mean per year: 617.3
+no. reports parsed: 756
+no. years covered: 1.2
+mean per year: 630.0
 median per year: 5.5
-IQR of years: [2.0, 117.0]
+IQR of years: [2.75, 150.0]
 
 
 death categories
 ====================
-no. reports parsed: 684
-no. categories in reports: 920
+no. reports parsed: 755
+no. categories in reports: 1016
 no. categories: 16
-mean per category: 57.5
-median per category: 41.5
-IQR of categories: [32.0, 63.5]
+mean per category: 63.5
+median per category: 47.0
+IQR of categories: [35.5, 72.75]
 
 
 coroner areas
 ====================
-no. parsed reports: 684
+no. parsed reports: 761
 no. areas: 79
-mean per area: 8.7
-median per area: 7.0
-IQR of areas: [3.0, 12.5]
+mean per area: 9.6
+median per area: 8.0
+IQR of areas: [4.0, 14.0]
 
 
 coroners' society
 ====================
-no. names in society: 983
-names in society with reports: [228.0, 23.2]
-names in society without reports: [755.0, 76.8]
-coroners in society male: [369.0, 37.5]
-coroners in society female: [351.0, 35.7]
-coroners in society unknown: [263.0, 26.8]
+no. names in society: 985
+names in society with reports: [238.0, 24.2]
+names in society without reports: [747.0, 75.8]
+coroners in society male: [370.0, 37.6]
+coroners in society female: [352.0, 35.7]
+coroners in society unknown: [263.0, 26.7]
 
 
 coroners in reports
 ====================
-reports from male coroners: [328.0, 48.0]
-reports from female coroners: [302.0, 44.2]
-reports from unknown coroners: [54.0, 7.9]
-no. reports parsed: 684
-no. coroner names in reports: 235
-reports from top 30 names: [260.0, 38.0]
-mean per name: 2.9
+reports from male coroners: [368.0, 48.4]
+reports from female coroners: [329.0, 43.2]
+reports from unknown coroners: [64.0, 8.4]
+no. reports parsed: 761
+no. coroner names in reports: 246
+reports from top 30 names: [284.0, 37.3]
+mean per name: 3.1
 median per name: 2.0
 IQR of names: [1.0, 4.0]
 reports from top 400 names: [4770.0, 98.7]
@@ -53,25 +53,25 @@ reports from top 10 names: [916.0, 19.0]
 
 this report is sent to
 ====================
-reports parsed: [683.0, 10.9]
-reports without recipients: [5593.0, 89.1]
+reports parsed: [759.0, 12.0]
+reports without recipients: [5564.0, 88.0]
 reports failed: [0.0, 0.0]
 reports no sent_to: [1.0, 0.0]
-reports pending: [5690.0, 90.7]
-reports overdue: [90.0, 1.4]
-reports partial: [65.0, 1.0]
-reports completed: [430.0, 6.9]
+reports pending: [5636.0, 89.1]
+reports overdue: [119.0, 1.9]
+reports partial: [73.0, 1.2]
+reports completed: [494.0, 7.8]
 
 
 requests for response
 ====================
-no. recipients with requests: 560
-no. requests for response: 1192
-requests pending: [194.0, 16.3]
-requests received: [670.0, 56.2]
-requests overdue: [328.0, 27.5]
+no. recipients with requests: 638
+no. requests for response: 1360
+requests pending: [141.0, 10.4]
+requests received: [768.0, 56.5]
+requests overdue: [451.0, 33.2]
 mean no. requests per recipient: 2.1
 median no. requests per recipient: 1.0
-IQR of requests per recipients: [1.0, 2.0]
+IQR of requests per recipients: [1.0, 1.75]
 
 

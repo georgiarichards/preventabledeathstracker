@@ -1,44 +1,46 @@
 coroner_area,count
-Greater Manchester South,42
+Greater Manchester South,43
 London Inner North,38
 Essex,30
+Birmingham and Solihull,23
 London East,22
+"West Sussex, Brighton and Hove",22
 Suffolk,22
-"West Sussex, Brighton and Hove",21
-Birmingham and Solihull,20
-Cornwall and the Isles of Scilly,19
+Cornwall and the Isles of Scilly,21
+Kent and Medway,18
 Greater Manchester West,17
-Kent and Medway,17
 Nottinghamshire,17
-South Wales Central,16
+South Wales Central,17
 East Riding of Yorkshire and Kingston-upon-Hull,16
-Northamptonshire,15
+Cumbria,16
+Surrey,15
 Worcestershire,15
-Cumbria,14
-Surrey,14
+Northamptonshire,15
+London West,14
+Cheshire,14
+"Hampshire, Portsmouth and Southampton",14
+Dorset,14
+Yorkshire West Western,13
+Yorkshire South East,13
 County Durham and Darlington,13
-Cheshire,13
-"Hampshire, Portsmouth and Southampton",13
 "County of Devon, Plymouth & Torbay",13
-Yorkshire South East,12
 London Inner West,12
-Dorset,12
 Lancashire and Blackburn with Darwen,11
-North Wales (East & Central),10
+London North,10
+London South,10
 Yorkshire South West,10
+North Wales (East & Central),10
 Berkshire,9
-Yorkshire West Eastern,9
-Yorkshire West Western,9
-London West,9
-Milton Keynes,9
-London North,9
+Sunderland,9
 Gwent,9
+Yorkshire West Eastern,9
+Milton Keynes,9
 Norfolk,8
-Sunderland,8
-The Black Country Jurisdiction,8
 Bedfordshire and Luton,8
 Avon,8
-London South,8
+The Black Country Jurisdiction,8
+Liverpool and the Wirral,7
+Swansea and Neath Port Talbot,7
 North Yorkshire and York,7
 London Inner South,7
 Derby and Derbyshire,7
@@ -47,17 +49,15 @@ Blackpool and Fylde,6
 Staffordshire and Stoke-on-Trent,6
 Northumberland,6
 Greater Manchester North,6
-Liverpool and the Wirral,6
 Warwickshire,5
+Coventry,5
+"Shropshire, Telford and Wrekin",5
 Oxfordshire,5
-Swansea and Neath Port Talbot,5
-Cambridgeshire and Peterborough,4
-East Sussex,4
-Coventry,4
+Rutland and North Leicestershire,5
 Teesside and Hartlepool,4
-Rutland and North Leicestershire,4
-"Shropshire, Telford and Wrekin",4
 Gloucestershire,4
+East Sussex,4
+Cambridgeshire and Peterborough,4
 Wiltshire and Swindon,4
 Somerset,4
 North East Kent,3
