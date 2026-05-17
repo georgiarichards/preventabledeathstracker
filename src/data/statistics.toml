@@ -21,11 +21,11 @@
 "IQR of areas" = [ 4.0, 14.0,]
 
 ["coroners' society"]
-"no. names in society" = 988
+"no. names in society" = 989
 "names in society with reports" = [ 238.0, 24.1,]
-"names in society without reports" = [ 750.0, 75.9,]
-"coroners in society male" = [ 373.0, 37.8,]
-"coroners in society female" = [ 352.0, 35.6,]
+"names in society without reports" = [ 751.0, 75.9,]
+"coroners in society male" = [ 373.0, 37.7,]
+"coroners in society female" = [ 353.0, 35.7,]
 "coroners in society unknown" = [ 263.0, 26.6,]
 
 ["coroners in reports"]
@@ -46,17 +46,17 @@
 "reports without recipients" = [ 5564.0, 88.0,]
 "reports failed" = [ 0.0, 0.0,]
 "reports no sent_to" = [ 1.0, 0.0,]
-"reports pending" = [ 5620.0, 88.8,]
-"reports overdue" = [ 138.0, 2.2,]
+"reports pending" = [ 5608.0, 88.7,]
+"reports overdue" = [ 150.0, 2.4,]
 "reports partial" = [ 73.0, 1.2,]
 "reports completed" = [ 494.0, 7.8,]
 
 ["requests for response"]
 "no. recipients with requests" = 640
 "no. requests for response" = 1363
-"requests pending" = [ 116.0, 8.5,]
+"requests pending" = [ 95.0, 7.0,]
 "requests received" = [ 768.0, 56.3,]
-"requests overdue" = [ 479.0, 35.1,]
+"requests overdue" = [ 500.0, 36.7,]
 "mean no. requests per recipient" = 2.1
 "median no. requests per recipient" = 1.0
 "IQR of requests per recipients" = [ 1.0, 1.25,]
