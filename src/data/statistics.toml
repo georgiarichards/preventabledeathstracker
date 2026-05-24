@@ -1,9 +1,9 @@
 [year]
-"no. reports parsed" = 759
+"no. reports parsed" = 760
 "no. years covered" = 1.2
-"mean per year" = 632.5
+"mean per year" = 633.3
 "median per year" = 5.5
-"IQR of years" = [ 2.75, 152.25,]
+"IQR of years" = [ 2.75, 153.0,]
 
 ["death categories"]
 "no. reports parsed" = 755
@@ -14,7 +14,7 @@
 "IQR of categories" = [ 35.5, 72.75,]
 
 ["coroner areas"]
-"no. parsed reports" = 764
+"no. parsed reports" = 765
 "no. areas" = 79
 "mean per area" = 9.7
 "median per area" = 8.0
@@ -29,10 +29,10 @@
 "coroners in society unknown" = [ 263.0, 26.6,]
 
 ["coroners in reports"]
-"reports from male coroners" = [ 371.0, 48.6,]
-"reports from female coroners" = [ 329.0, 43.1,]
+"reports from male coroners" = [ 371.0, 48.5,]
+"reports from female coroners" = [ 330.0, 43.1,]
 "reports from unknown coroners" = [ 64.0, 8.4,]
-"no. reports parsed" = 764
+"no. reports parsed" = 765
 "no. coroner names in reports" = 246
 "reports from top 30 names" = [ 286.0, 37.4,]
 "mean per name" = 3.1
@@ -42,21 +42,21 @@
 "reports from top 10 names" = [ 916.0, 19.0,]
 
 ["this report is sent to"]
-"reports parsed" = [ 762.0, 12.0,]
-"reports without recipients" = [ 5564.0, 88.0,]
+"reports parsed" = [ 763.0, 12.1,]
+"reports without recipients" = [ 5564.0, 87.9,]
 "reports failed" = [ 0.0, 0.0,]
 "reports no sent_to" = [ 1.0, 0.0,]
-"reports pending" = [ 5608.0, 88.7,]
-"reports overdue" = [ 150.0, 2.4,]
-"reports partial" = [ 73.0, 1.2,]
+"reports pending" = [ 5599.0, 88.5,]
+"reports overdue" = [ 159.0, 2.5,]
+"reports partial" = [ 74.0, 1.2,]
 "reports completed" = [ 494.0, 7.8,]
 
 ["requests for response"]
 "no. recipients with requests" = 640
-"no. requests for response" = 1363
-"requests pending" = [ 95.0, 7.0,]
+"no. requests for response" = 1365
+"requests pending" = [ 74.0, 5.4,]
 "requests received" = [ 768.0, 56.3,]
-"requests overdue" = [ 500.0, 36.7,]
+"requests overdue" = [ 523.0, 38.3,]
 "mean no. requests per recipient" = 2.1
 "median no. requests per recipient" = 1.0
 "IQR of requests per recipients" = [ 1.0, 1.25,]
