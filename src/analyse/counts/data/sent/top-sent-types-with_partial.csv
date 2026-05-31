@@ -1,16 +1,16 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,128,28,2,76,22,59
-NHS England,101,16,7,58,20,57
+Department of Health and Social Care,128,29,1,76,22,59
+NHS England,101,21,2,58,20,57
 REDACTED,33,15,1,6,11,18
-Department for Transport,23,4,2,12,5,52
 Home Office,23,6,0,13,4,57
+Department for Transport,23,5,1,12,5,52
 HM Prison and Probation Service,21,5,0,11,5,52
-Care Quality Commission,20,3,3,7,7,35
+Care Quality Commission,20,4,2,7,7,35
 Ministry of Justice,18,9,1,0,8,0
 National Institute for Health and Care Excellence,14,1,0,10,3,71
 Health and Safety Executive,11,1,0,6,4,55
+Medicines and Healthcare Products Regulatory Agency,11,6,1,3,1,27
 College of Policing,11,1,0,6,4,55
-Medicines and Healthcare Products Regulatory Agency,11,5,2,3,1,27
 National Highways,10,0,0,8,2,80
 NHS Greater Manchester Integrated Care Board,9,1,0,8,0,89
 Barts Health NHS Trust,8,3,0,5,0,62
@@ -18,14 +18,14 @@ Barts Health NHS Trust,8,3,0,5,0,62
 Department for Education,8,2,0,2,4,25
 East Midlands Ambulance Service NHS Trust,8,2,0,5,1,62
 University Hospitals Birmingham NHS Foundation Trust,7,0,1,5,1,71
-Royal College of General Practitioners,7,2,1,4,0,57
+Royal College of General Practitioners,7,3,0,4,0,57
+Royal College of Emergency Medicine,6,1,0,4,1,67
 Royal College of Paediatrics and Child Health,6,1,0,5,0,83
 Betsi Cadwaladr University Health Board,6,1,0,5,0,83
+Royal College of Obstetricians and Gynaecologists,6,0,0,6,0,100
 Practice Plus Group,6,3,0,1,2,17
-Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,6,2,0,4,0,67
 "Department for Culture, Media and Sport",6,0,0,6,0,100
 Aneurin Bevan University Health Board,6,1,0,5,0,83
-Royal College of Obstetricians and Gynaecologists,6,0,0,6,0,100
-Royal College of Emergency Medicine,6,1,0,4,1,67
-Driver and Vehicle Standards Agency,5,0,1,1,3,20
-Devon and Cornwall Police,5,0,1,4,0,80
+Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,6,2,0,4,0,67
+Devon and Cornwall Police,5,1,0,4,0,80
+West Suffolk NHS Foundation Trust,5,2,0,3,0,60
