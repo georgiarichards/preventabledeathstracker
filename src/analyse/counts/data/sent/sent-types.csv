@@ -98,7 +98,7 @@ HM Inspectorate of Prisons,3,2,0,1,33
 Devon Partnership NHS Trust,3,1,0,2,67
 Harbour Healthcare Ltd,3,1,0,2,67
 Hampshire and Isle of Wight Healthcare NHS Foundation Trust,3,1,0,2,67
-Birmingham and Solihull Mental Health NHS Foundation Trust,3,0,1,2,67
+Birmingham and Solihull Mental Health NHS Foundation Trust,3,1,0,2,67
 Pennine Care NHS Foundation Trust,3,0,0,3,100
 University College London Hospitals NHS Foundation Trust,3,1,0,2,67
 Frimley Health NHS Foundation Trust,3,1,0,2,67
@@ -165,7 +165,7 @@ Royal Society for the Prevention of Accidents,2,2,0,0,0
 NHS Dorset Integrated Care Board,2,0,0,2,100
 Mitie Group,2,1,0,1,50
 Chelsea and Westminster Hospital NHS Foundation Trust,2,2,0,0,0
-Cheshire Constabulary,2,0,1,1,50
+Cheshire Constabulary,2,1,0,1,50
 Nottingham University Hospitals NHS Trust,2,0,0,2,100
 Nottingham Emergency Medical Service,2,0,0,2,100
 Nottingham and Nottinghamshire Police,2,1,0,1,50
@@ -177,7 +177,7 @@ NHS Hampshire and Isle of Wight Integrated Care Board,2,0,0,2,100
 NHS Suffolk and North East Essex Integrated Care Board,2,2,0,0,0
 North West Anglia NHS Foundation Trust,2,0,0,2,100
 Norfolk and Suffolk NHS Foundation Trust,2,0,0,2,100
-North Cumbria Integrated Care NHS Foundation Trust,2,0,1,1,50
+North Cumbria Integrated Care NHS Foundation Trust,2,1,0,1,50
 Network Rail,2,0,0,2,100
 Community Pharmacy England,2,0,0,2,100
 Lewisham Council,2,2,0,0,0
@@ -354,7 +354,7 @@ Kingston Council,1,1,0,0,0
 Kingkabs Limited,1,0,0,1,100
 Kent Police,1,1,0,0,0
 Kent Central Ambulance Service,1,0,0,1,100
-Kent & Medway NHS Mental Health Trust,1,0,1,0,0
+Kent & Medway NHS Mental Health Trust,1,1,0,0,0
 Kenny & Murphy Limited,1,0,0,1,100
 Just Eats,1,0,0,1,100
 Joint Royal Colleges Ambulance Liaison Committee,1,1,0,0,0
@@ -628,7 +628,7 @@ Russells Hall Hospital,1,1,0,0,0
 British Society for Haematology (BSH),1,1,0,0,0
 British Ports Association,1,0,0,1,100
 British Marine,1,0,0,1,100
-British Health Trades Association,1,0,1,0,0
+British Health Trades Association,1,1,0,0,0
 British Association of Perinatal Medicine,1,0,0,1,100
 British Association for Counselling and Psychotherapy,1,0,0,1,100
 British Airline Pilots’ Association,1,1,0,0,0
@@ -649,7 +649,7 @@ Sedgemoor District Council,1,0,0,1,100
 "Secretary of State for building safety, fire and construction regulations",1,1,0,0,0
 Schindler Ltd,1,0,0,1,100
 Sandwell and West Birmingham Hospitals NHS Trust,1,0,0,1,100
-Sanctuary Housing Association,1,0,1,0,0
+Sanctuary Housing Association,1,1,0,0,0
 Southampton City Council,1,1,0,0,0
 South Western Railway,1,0,0,1,100
 South Tees Hospitals NHS Foundation Trust,1,0,0,1,100
@@ -760,7 +760,7 @@ Tower Hamlets Council,1,1,0,0,0
 Torbay and South Devon NHS Foundation Trust,1,0,0,1,100
 The York Hospital,1,0,0,1,100
 The Yacht Harbour Association,1,0,0,1,100
-The Wheelchair Alliance,1,0,1,0,0
+The Wheelchair Alliance,1,1,0,0,0
 The Unite Group plc,1,0,0,1,100
 [REDACTED] HMP Garth,1,1,0,0,0
 [REDACTED] Chief Executive of Digital Health & Care Wales,1,1,0,0,0
@@ -780,7 +780,7 @@ University Hospitals of Derby and Burton NHS Foundation Trust,1,0,0,1,100
 University Health Board,1,1,0,0,0
 1st Care 4U,1,1,0,0,0
 White Horse Medical Practice,1,1,0,0,0
-Wheelchair Accessible Vehicle Converters Association,1,0,1,0,0
+Wheelchair Accessible Vehicle Converters Association,1,1,0,0,0
 Westwood Hall Nursing Home,1,0,0,1,100
 Westminster City Council,1,1,0,0,0
 Affinity Water,1,0,0,1,100

@@ -103,7 +103,7 @@ Suffolk County Council,0,0,0,0,1,1,1,3,67,2,0,1,0
 General Medical Council,0,0,0,0,0,3,0,3,33,1,2,0,0
 Shrewsbury and Telford Hospital NHS Trust,0,0,0,0,0,2,1,3,100,3,0,0,0
 Kent and Medway NHS and Social Care Partnership Trust,0,0,0,0,0,2,1,3,100,3,0,0,0
-Birmingham and Solihull Mental Health NHS Foundation Trust,0,0,0,0,0,2,1,3,33,1,1,0,1
+Birmingham and Solihull Mental Health NHS Foundation Trust,0,0,0,0,0,2,1,3,33,1,1,1,0
 Northumbria Healthcare NHS Foundation Trust,0,0,0,0,0,3,0,3,100,3,0,0,0
 NHS Birmingham and Solihull Integrated Care Board,0,0,0,0,0,3,0,3,100,3,0,0,0
 Frimley Health NHS Foundation Trust,0,0,0,0,0,2,1,3,67,2,0,1,0
@@ -155,13 +155,13 @@ The Newcastle upon Tyne Hospitals NHS Foundation Trust,0,0,0,0,0,2,0,2,50,1,0,1,
 The Princess Alexandra Hospital NHS Trust,0,0,0,0,0,2,0,2,100,2,0,0,0
 Warwickshire Police,0,0,0,0,0,2,0,2,0,0,0,2,0
 Central London Community Healthcare NHS Trust,0,0,0,0,0,1,1,2,100,2,0,0,0
-Cheshire Constabulary,0,0,0,0,0,1,1,2,50,1,0,0,1
+Cheshire Constabulary,0,0,0,0,0,1,1,2,50,1,0,1,0
 Durham County Council,0,0,0,0,0,1,1,2,50,1,1,0,0
 Faculty of Intensive Care Medicine,0,0,0,0,0,1,1,2,100,2,0,0,0
 Government Legal Department,0,0,0,0,0,1,1,2,0,0,0,2,0
 HM Prison Elmley,0,0,0,0,0,1,1,2,100,2,0,0,0
 HM Prison Woodhill,0,0,0,0,0,1,1,2,0,0,1,1,0
-North Cumbria Integrated Care NHS Foundation Trust,0,0,0,0,0,1,1,2,50,1,0,0,1
+North Cumbria Integrated Care NHS Foundation Trust,0,0,0,0,0,1,1,2,50,1,0,1,0
 Rhondda Cynon Taf County Borough Council,0,0,0,0,0,1,1,2,0,0,1,1,0
 British Society of Gastroenterology,0,0,0,0,1,1,0,2,100,2,0,0,0
 University Hospital Southampton NHS Foundation Trust,0,0,0,0,0,1,1,2,50,1,1,0,0
@@ -693,7 +693,7 @@ White Horse Medical Practice,0,0,0,0,0,1,0,1,0,0,1,0,0
 Westwood Hall Nursing Home,0,0,0,0,0,1,0,1,100,1,0,0,0
 Westminster City Council,0,0,0,0,0,1,0,1,0,0,1,0,0
 Broomwell Health Watch LYD,0,0,0,0,0,0,1,1,100,1,0,0,0
-British Health Trades Association,0,0,0,0,0,0,1,1,0,0,0,0,1
+British Health Trades Association,0,0,0,0,0,0,1,1,0,0,0,1,0
 Basildon Hospital (Mid & South Essex NHS Trust),0,0,0,0,0,0,1,1,0,0,1,0,0
 Bannau Brycheiniog National Park,0,0,0,0,0,0,1,1,0,0,0,1,0
 Bank Close House Residential Care Home,0,0,0,0,0,0,1,1,100,1,0,0,0
@@ -748,7 +748,7 @@ Medicines UK,0,0,0,0,0,0,1,1,100,1,0,0,0
 Luton Community Housing Ltd,0,0,0,0,0,0,1,1,100,1,0,0,0
 Local Government Association,0,0,0,0,0,0,1,1,0,0,0,0,1
 Level Crossing and Public Safety,0,0,0,0,0,0,1,1,0,0,1,0,0
-Kent & Medway NHS Mental Health Trust,0,0,0,0,0,0,1,1,0,0,0,0,1
+Kent & Medway NHS Mental Health Trust,0,0,0,0,0,0,1,1,0,0,0,1,0
 Joint Royal Colleges Ambulance Liaison Committee,0,0,0,0,0,0,1,1,0,0,0,1,0
 Isle of Wight NHS Trust,0,0,0,0,0,0,1,1,100,1,0,0,0
 Ignite Health and Homecare Services,0,0,0,0,0,0,1,1,100,1,0,0,0
@@ -773,7 +773,7 @@ Mulberry Court Care Home,0,0,0,0,0,0,1,1,100,1,0,0,0
 Moss Farm,0,0,0,0,0,0,1,1,100,1,0,0,0
 Mid Yorkshire Teaching NHS Trust,0,0,0,0,0,0,1,1,0,0,0,1,0
 Worcestershire County Council,0,0,0,0,0,0,1,1,100,1,0,0,0
-Wheelchair Accessible Vehicle Converters Association,0,0,0,0,0,0,1,1,0,0,0,0,1
+Wheelchair Accessible Vehicle Converters Association,0,0,0,0,0,0,1,1,0,0,0,1,0
 West Northamptonshire Council,0,0,0,0,0,0,1,1,0,0,0,1,0
 West London NHS Trust,0,0,0,0,0,0,1,1,100,1,0,0,0
 Warwickshire County Council – Children with Disabilities team,0,0,0,0,0,0,1,1,0,0,0,1,0
@@ -783,7 +783,7 @@ Sundon Medical Centre,0,0,0,0,0,0,1,1,100,1,0,0,0
 Society of Motor Manufacturers and Traders,0,0,0,0,0,0,1,1,0,0,1,0,0
 Serco Prison Transport Services,0,0,0,0,0,0,1,1,100,1,0,0,0
 "Secretary of State for building safety, fire and construction regulations",0,0,0,0,0,0,1,1,0,0,0,1,0
-Sanctuary Housing Association,0,0,0,0,0,0,1,1,0,0,0,0,1
+Sanctuary Housing Association,0,0,0,0,0,0,1,1,0,0,0,1,0
 Sai SKN Ltd,0,0,0,0,0,0,1,1,100,1,0,0,0
 Royal Hospital School,0,0,0,0,0,0,1,1,0,0,0,1,0
 Royal College for GP’s,0,0,0,0,0,0,1,1,0,0,1,0,0
@@ -792,7 +792,7 @@ University Hospitals of Leicester NHS Trust,0,0,0,0,0,0,1,1,0,0,0,1,0
 University Health Board,0,0,0,0,0,0,1,1,0,0,0,1,0
 Unity Healthcare,0,0,0,0,0,0,1,1,100,1,0,0,0
 Torbay and South Devon NHS Foundation Trust,0,0,0,0,0,0,1,1,100,1,0,0,0
-The Wheelchair Alliance,0,0,0,0,0,0,1,1,0,0,0,0,1
+The Wheelchair Alliance,0,0,0,0,0,0,1,1,0,0,0,1,0
 The Scouting Association,0,0,0,0,0,0,1,1,0,0,0,1,0
 The Royal College of Emergency Medicine (‘RCEM’),0,0,0,0,0,0,1,1,100,1,0,0,0
 The Practice Plus Group,0,0,0,0,0,0,1,1,0,0,0,1,0
