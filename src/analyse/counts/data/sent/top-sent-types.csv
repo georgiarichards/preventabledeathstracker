@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,127,32,1,94,74
-NHS England,106,14,1,91,86
+Department of Health and Social Care,129,32,1,96,74
+NHS England,107,14,1,92,86
 REDACTED,34,27,1,6,18
 Department for Transport,24,4,0,20,83
 Home Office,24,7,0,17,71
-Ministry of Justice,21,14,0,7,33
 HM Prison and Probation Service,21,9,0,12,57
+Ministry of Justice,21,14,0,7,33
 Care Quality Commission,16,6,0,10,62
 National Institute for Health and Care Excellence,14,1,0,13,93
 Health and Safety Executive,12,6,0,6,50
 College of Policing,11,4,0,7,64
-Medicines and Healthcare Products Regulatory Agency,10,4,1,5,50
 National Highways,10,1,0,9,90
-NHS Greater Manchester Integrated Care Board,9,3,0,6,67
+Medicines and Healthcare Products Regulatory Agency,10,4,1,5,50
 University Hospitals Birmingham NHS Foundation Trust,9,0,1,8,89
+NHS Greater Manchester Integrated Care Board,9,3,0,6,67
 Department for Education,8,3,0,5,62
+Barts Health NHS Trust,8,2,0,6,75
 "Ministry of Housing, Communities and Local Government",8,5,0,3,38
 East Midlands Ambulance Service NHS Trust,8,2,0,6,75
-Barts Health NHS Trust,8,2,0,6,75
-Practice Plus Group,7,2,0,5,71
 Royal College of General Practitioners,7,1,0,6,86
-"Department for Culture, Media and Sport",6,0,0,6,100
-East London NHS Foundation Trust,6,0,0,6,100
+Practice Plus Group,7,2,0,5,71
 Betsi Cadwaladr University Health Board,6,1,0,5,83
-Aneurin Bevan University Health Board,6,1,0,5,83
-Royal College of Paediatrics and Child Health,6,0,0,6,100
+"Department for Culture, Media and Sport",6,0,0,6,100
 Royal College of Obstetricians and Gynaecologists,6,0,0,6,100
-Driver and Vehicle Standards Agency,5,2,0,3,60
-Royal Cornwall Hospitals NHS Trust,5,1,0,4,80
-Metropolitan Police Service,5,3,0,2,40
+Royal College of Paediatrics and Child Health,6,0,0,6,100
+Aneurin Bevan University Health Board,6,1,0,5,83
+Driver and Vehicle Standards Agency,6,2,0,4,67
+East London NHS Foundation Trust,6,0,0,6,100
+Milton Keynes University Hospital NHS Foundation Trust,5,2,0,3,60
+Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,5,2,0,3,60
