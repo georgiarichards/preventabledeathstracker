@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,143,9,1,109,24,76
-NHS England,122,8,2,91,21,75
+Department of Health and Social Care,144,9,1,110,24,76
+NHS England,124,9,2,92,21,74
 REDACTED,37,16,1,9,11,24
 Department for Transport,29,1,0,21,7,72
 Ministry of Justice,25,4,0,10,11,40
@@ -8,24 +8,24 @@ Home Office,25,4,0,16,5,64
 HM Prison and Probation Service,23,1,0,14,8,61
 Care Quality Commission,21,3,0,11,7,52
 National Institute for Health and Care Excellence,17,0,0,12,5,71
-Health and Safety Executive,13,0,0,8,5,62
 College of Policing,13,1,0,7,5,54
+Health and Safety Executive,13,0,0,8,5,62
 National Highways,13,0,0,11,2,85
 Medicines and Healthcare Products Regulatory Agency,11,4,1,5,1,45
-NHS Greater Manchester Integrated Care Board,9,1,0,8,0,89
-"Ministry of Housing, Communities and Local Government",9,1,0,5,3,56
 University Hospitals Birmingham NHS Foundation Trust,9,0,1,8,0,89
-Metropolitan Police Service,8,1,0,4,3,50
-Department for Education,8,2,0,2,4,25
-Barts Health NHS Trust,8,2,0,6,0,75
+"Ministry of Housing, Communities and Local Government",9,1,0,5,3,56
+NHS Greater Manchester Integrated Care Board,9,1,0,8,0,89
 East Midlands Ambulance Service NHS Trust,8,1,0,6,1,75
-Betsi Cadwaladr University Health Board,7,0,0,6,1,86
+Barts Health NHS Trust,8,2,0,6,0,75
+Department for Education,8,2,0,2,4,25
+Metropolitan Police Service,8,1,0,4,3,50
 Royal College of General Practitioners,7,1,0,6,0,86
-Royal College of Paediatrics and Child Health,7,0,0,7,0,100
 Sussex Partnership NHS Foundation Trust,7,0,0,7,0,100
+Betsi Cadwaladr University Health Board,7,0,0,6,1,86
 Aneurin Bevan University Health Board,7,0,0,6,1,86
+Royal College of Paediatrics and Child Health,7,0,0,7,0,100
 "Department for Culture, Media and Sport",7,0,0,7,0,100
 Practice Plus Group,7,1,0,4,2,57
-Driver and Vehicle Standards Agency,6,0,0,3,3,50
-Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,6,2,0,4,0,67
-Cwm Taf Morgannwg University Health Board,6,0,0,4,2,67
+East Suffolk and North Essex NHS Foundation Trust,6,0,0,5,1,83
+Essex Partnership University NHS Foundation Trust,6,0,0,4,2,67
+Royal College of Emergency Medicine,6,1,0,4,1,67

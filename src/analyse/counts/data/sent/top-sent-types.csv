@@ -1,6 +1,6 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,143,36,1,106,74
-NHS England,122,13,1,108,89
+Department of Health and Social Care,144,36,1,107,74
+NHS England,124,14,1,109,88
 REDACTED,37,27,1,9,24
 Department for Transport,29,4,0,25,86
 Ministry of Justice,25,14,0,11,44
@@ -8,24 +8,24 @@ Home Office,25,7,0,18,72
 HM Prison and Probation Service,23,9,0,14,61
 Care Quality Commission,21,7,0,14,67
 National Institute for Health and Care Excellence,17,3,0,14,82
-Health and Safety Executive,13,5,0,8,62
 College of Policing,13,3,0,10,77
+Health and Safety Executive,13,5,0,8,62
 National Highways,13,1,0,12,92
 Medicines and Healthcare Products Regulatory Agency,11,5,1,5,45
-NHS Greater Manchester Integrated Care Board,9,3,0,6,67
-"Ministry of Housing, Communities and Local Government",9,5,0,4,44
 University Hospitals Birmingham NHS Foundation Trust,9,0,1,8,89
-Metropolitan Police Service,8,4,0,4,50
-Department for Education,8,3,0,5,62
-Barts Health NHS Trust,8,2,0,6,75
+"Ministry of Housing, Communities and Local Government",9,5,0,4,44
+NHS Greater Manchester Integrated Care Board,9,3,0,6,67
 East Midlands Ambulance Service NHS Trust,8,2,0,6,75
-Betsi Cadwaladr University Health Board,7,0,0,7,100
+Barts Health NHS Trust,8,2,0,6,75
+Department for Education,8,3,0,5,62
+Metropolitan Police Service,8,4,0,4,50
 Royal College of General Practitioners,7,1,0,6,86
-Royal College of Paediatrics and Child Health,7,0,0,7,100
 Sussex Partnership NHS Foundation Trust,7,0,0,7,100
+Betsi Cadwaladr University Health Board,7,0,0,7,100
 Aneurin Bevan University Health Board,7,1,0,6,86
+Royal College of Paediatrics and Child Health,7,0,0,7,100
 "Department for Culture, Media and Sport",7,0,0,7,100
 Practice Plus Group,7,2,0,5,71
-Driver and Vehicle Standards Agency,6,2,0,4,67
-Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,6,2,0,4,67
-Cwm Taf Morgannwg University Health Board,6,2,0,4,67
+East Suffolk and North Essex NHS Foundation Trust,6,1,0,5,83
+Essex Partnership University NHS Foundation Trust,6,3,0,3,50
+Royal College of Emergency Medicine,6,2,0,4,67
