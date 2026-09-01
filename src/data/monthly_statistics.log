@@ -1,21 +1,21 @@
 this report is sent to
 ====================
-reports parsed: [36.0, 100.0]
+reports parsed: [38.0, 100.0]
 reports without recipients: [0.0, 0.0]
 reports failed: [0.0, 0.0]
 reports pending: [0.0, 0.0]
-reports overdue: [0.0, 0.0]
-reports partial: [4.0, 11.1]
-reports completed: [32.0, 88.9]
+reports overdue: [4.0, 10.5]
+reports partial: [4.0, 10.5]
+reports completed: [30.0, 78.9]
 
 
 requests for response
 ====================
 no. recipients with requests: 34
-no. requests for response: 36
+no. requests for response: 38
 requests pending: [0.0, 0.0]
-requests received: [32.0, 88.9]
-requests overdue: [0.0, 0.0]
+requests received: [30.0, 78.9]
+requests overdue: [4.0, 10.5]
 mean no. requests per recipient: 1.1
 median no. requests per recipient: 1.0
 IQR of requests per recipients: [1.0, 1.0]
