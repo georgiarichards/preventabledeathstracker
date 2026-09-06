@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,completed,partial,% completed
-Department of Health and Social Care,153,9,1,118,25,77
-NHS England,137,10,2,101,24,74
+Department of Health and Social Care,157,11,1,120,25,76
+NHS England,143,13,2,103,25,72
 REDACTED,37,16,1,9,11,24
 Department for Transport,33,1,0,25,7,76
 Ministry of Justice,26,3,0,11,12,42
 Home Office,26,4,0,17,5,65
-HM Prison and Probation Service,24,1,0,15,8,62
-Care Quality Commission,21,3,0,11,7,52
-National Institute for Health and Care Excellence,18,0,0,13,5,72
+HM Prison and Probation Service,25,1,0,16,8,64
+Care Quality Commission,22,3,0,12,7,55
+National Institute for Health and Care Excellence,19,1,0,13,5,68
+National Highways,15,0,0,12,3,80
 College of Policing,15,0,0,10,5,67
-National Highways,14,0,0,12,2,86
 Health and Safety Executive,13,0,0,8,5,62
 Medicines and Healthcare Products Regulatory Agency,13,4,1,7,1,54
-"Ministry of Housing, Communities and Local Government",9,1,0,5,3,56
-Department for Education,9,2,0,3,4,33
 NHS Greater Manchester Integrated Care Board,9,1,0,8,0,89
 University Hospitals Birmingham NHS Foundation Trust,9,0,1,8,0,89
-Sussex Partnership NHS Foundation Trust,8,0,0,8,0,100
-Barts Health NHS Trust,8,2,0,6,0,75
-Metropolitan Police Service,8,1,0,5,2,62
-National Police Chiefs’ Council,8,0,0,7,1,88
-Royal College of General Practitioners,8,1,0,7,0,88
+Department for Education,9,2,0,3,4,33
+"Ministry of Housing, Communities and Local Government",9,1,0,5,3,56
 Essex Partnership University NHS Foundation Trust,8,0,0,6,2,75
+Metropolitan Police Service,8,1,0,5,2,62
+Royal College of General Practitioners,8,1,0,7,0,88
 East Midlands Ambulance Service NHS Trust,8,1,0,6,1,75
-Aneurin Bevan University Health Board,7,0,0,6,1,86
-Royal College of Paediatrics and Child Health,7,0,0,7,0,100
-Betsi Cadwaladr University Health Board,7,0,0,6,1,86
-"Department for Culture, Media and Sport",7,0,0,7,0,100
+Barts Health NHS Trust,8,2,0,6,0,75
+Sussex Partnership NHS Foundation Trust,8,0,0,8,0,100
+National Police Chiefs’ Council,8,0,0,7,1,88
+Aneurin Bevan University Health Board,8,1,0,6,1,75
 Practice Plus Group,7,1,0,4,2,57
-Driver and Vehicle Standards Agency,6,0,0,3,3,50
+East Suffolk and North Essex NHS Foundation Trust,7,0,0,5,2,71
+Betsi Cadwaladr University Health Board,7,0,0,6,1,86
+Royal College of Paediatrics and Child Health,7,0,0,7,0,100
+Royal College of Obstetricians and Gynaecologists,7,1,0,6,0,86
