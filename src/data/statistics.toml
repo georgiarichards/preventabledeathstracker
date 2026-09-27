@@ -1,9 +1,9 @@
 [year]
-"no. reports parsed" = 1010
+"no. reports parsed" = 1011
 "no. years covered" = 1.7
-"mean per year" = 594.1
+"mean per year" = 594.7
 "median per year" = 7.0
-"IQR of years" = [ 1.5, 180.5,]
+"IQR of years" = [ 1.5, 181.0,]
 
 ["death categories"]
 "no. reports parsed" = 863
@@ -14,7 +14,7 @@
 "IQR of categories" = [ 30.0, 79.0,]
 
 ["coroner areas"]
-"no. parsed reports" = 1015
+"no. parsed reports" = 1016
 "no. areas" = 80
 "mean per area" = 12.7
 "median per area" = 10.0
@@ -29,12 +29,12 @@
 "coroners in society unknown" = [ 263.0, 26.5,]
 
 ["coroners in reports"]
-"reports from male coroners" = [ 485.0, 47.8,]
+"reports from male coroners" = [ 486.0, 47.8,]
 "reports from female coroners" = [ 451.0, 44.4,]
 "reports from unknown coroners" = [ 79.0, 7.8,]
-"no. reports parsed" = 1015
+"no. reports parsed" = 1016
 "no. coroner names in reports" = 266
-"reports from top 30 names" = [ 362.0, 35.7,]
+"reports from top 30 names" = [ 362.0, 35.6,]
 "mean per name" = 3.8
 "median per name" = 3.0
 "IQR of names" = [ 1.0, 5.0,]
@@ -42,21 +42,21 @@
 "reports from top 10 names" = [ 916.0, 19.0,]
 
 ["this report is sent to"]
-"reports parsed" = [ 1013.0, 15.7,]
+"reports parsed" = [ 1014.0, 15.7,]
 "reports without recipients" = [ 5454.0, 84.3,]
 "reports failed" = [ 0.0, 0.0,]
 "reports no sent_to" = [ 1.0, 0.0,]
 "reports pending" = [ 5457.0, 84.4,]
-"reports overdue" = [ 93.0, 1.4,]
+"reports overdue" = [ 94.0, 1.5,]
 "reports partial" = [ 115.0, 1.8,]
 "reports completed" = [ 801.0, 12.4,]
 
 ["requests for response"]
 "no. recipients with requests" = 767
-"no. requests for response" = 1785
+"no. requests for response" = 1786
 "requests pending" = [ 12.0, 0.7,]
 "requests received" = [ 1261.0, 70.6,]
-"requests overdue" = [ 512.0, 28.7,]
+"requests overdue" = [ 513.0, 28.7,]
 "mean no. requests per recipient" = 2.3
 "median no. requests per recipient" = 1.0
 "IQR of requests per recipients" = [ 1.0, 2.0,]
